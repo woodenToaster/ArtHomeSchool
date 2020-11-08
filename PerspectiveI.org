@@ -1,0 +1,12 @@
+#+TITLE: Perspective I
+#+AUTHOR: Chris Hogan
+#+DATE: <2020-11-09 Mon> to <2020-12-06 Sun>
+#+STARTUP: nologdone
+
+* Marshall Vandruff's Perspective Lectures
+* Perspective Drawing Handbook - Joseph D'Amelio
+* Log
+** Week 1
+** Week 2
+** Week 3
+** Week 4
