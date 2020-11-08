@@ -1,0 +1,133 @@
+#+TITLE: Art Home School
+#+AUTHOR: Chris Hogan
+#+STARTUP: nologdone
+
+* Elements
+** Learning Concepts
+** Practicing Concepts
+** Self Reflection
+** Discipline and Inspiration
+** Studying Art and art history
+** Remember to taylor units torwards my interests
+** Health
+* Process
+** Daily
+*** Begin
+    - Decide on some exercises that go with the material I'm studying.
+    - Read or watch material, then do exercises. Everything I learn should
+      include an exercise.
+*** End
+    - Photograph/scan all drawings for the day
+** Weekly
+*** Begin
+    - Reasses where I'm at with materials and make any necessary changes for the
+      week.
+*** End
+    - Write a post on Medium showing the drawings for the week, describing what
+      I learned, what I focused on, and what difficulties I had. Also describe
+      any useful exercises I invented.
+** Unit
+*** Begin
+    - Make sure I know which materials I plan to study for the unit.
+    - Create a rough 4 week plan.
+*** End
+    - Blog post summarizing where I started and where I am now with respect to
+      the unit's topic.
+** Term
+*** Begin
+    - Assess the units for this term and make any changes if necessary.
+*** End
+    - Evaluate the way I'm doing things and make adjustments as necessary.
+
+
+* Term 1
+** Figure Drawing I
+*** Video - Proko Figure Drawing Fundamentals
+*** Book - Vilppu Drawing Manual
+*** Backup - Love Life Drawing's Gesture series
+*** Art Parent - John Buscema
+*** Challenge - Daily Croquis Cafe gesture session
+*** Week 1
+    - Croquis cafe gesture session (20 min.)
+    - Proko Figure Drawing Fundamentals
+      - Gesture
+      - Bean
+      - Structure
+    - Conan gestures
+*** Week 2
+    - Croquis cafe gesture session (20 min.)
+    - Proko Figure Drawing Fundamentals
+      - Landmarks
+      - Robo bean
+      - Mannequinization
+    - Conan quicksketch
+*** Week 3
+    - Croquis cafe gesture session (20 min.)
+    - Proko Figure Drawing Fundamentals
+      - Balance
+      - Exaggeration
+      - Proportions
+    - Conan mannequinization
+*** Week 4
+    - Croquis cafe gesture session (20 min.)
+    - Proko Figure Drawing Fundamentals
+      - Measuring
+      - Prerequisites
+      - Shading
+    - Conan shaded
+** Perspective I
+*** Video - Marshall Vandruff's perspective course
+*** Book - Perspective Drawing Handbook by Joseph D'Amelio
+*** Backup - Drawabox lesson 4
+*** Art Parent - Medieval cities?
+*** Challenge - 250 cyllinders
+*** Week 1
+*** Week 2
+*** Week 3
+*** Week 4
+** Composition and Storytelling I
+*** Video -
+*** Book -
+*** Backup -
+*** Art Parent - Gustave Dore
+*** Challenge -
+*** Week 1
+*** Week 2
+*** Week 3
+*** Week 4
+* Term 2
+** Anataomy I - Head
+** Perspective II
+** Anatomy II - Torso
+* Term 3
+** Perspective III
+** Anatomy III - Arms
+** Clothed Figure Drawing
+* Term 4
+** Color and Light I
+** Perspective IV
+** Anatomy IV - Legs
+* Term 5
+** Intro To Animals
+** Perspective V
+** Color and Light II
+* Term 6
+** Character Design
+** Composition and Storytelling II
+** Perspective VI
+* Term 7
+** Anatomy V - Imagination
+** Perspective VII
+** Environment Design I
+* Term 8
+** Environment Design II
+** Inking I
+** Anatomy VI - Caricature/Animal
+* Term 9
+** Painting I
+** Inking II
+** Painting II
+* Term 10
+** Painting III - Matte Painting
+** Personal Project I
+** Personal Project II

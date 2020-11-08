@@ -1,0 +1,1178 @@
+#+TITLE: LISTS
+#+AUTHOR: Chris Hogan
+#+STARTUP: nologdone
+
+* Games
+** Mortal Shell
+** Last of Us 2
+** Ghost of Tsushima
+** Grim Dawn
+** Divinity 2
+** Demon's Souls
+** Baldur's Gate 3
+* Art Supplies
+** Arches 88 silk screen paper (too expensive)
+** Blair low odor spray fix
+** 5.6 mm lead
+** Conte crayon
+** Prismacolor pencil
+** Parallel Glider
+** Stillman and Birn Zeta Series sketchbook
+** Guache or white ink
+** T-square
+** Artist's mannequin
+** Inking triangle
+** French Curve/swoops
+** Artist's Tape
+** Drawing Light
+** Drawing Table
+** Non-photo blue lead
+** Wacom Intuos Pro Med Drawing Tablet
+** Canon Pixma iX6820 13x19 cardstock printer - $189
+** HP OfficeJet Pro 7740 11x17 printer scanner 
+* Art Books
+** General
+*** TODO Drawing Lessons from the Great Masters - Robert Hale
+*** TODO Vilppu Drawing Manual - Glenn Vilppu
+*** Imaginative Realism - James Gurney
+*** The Natural Way to Draw - Kimon Nicolaides (for developing the sensitivity of an artist)
+*** Andrew Loomis
+**** Fun With a Pencil
+**** Successful Drawing
+**** Creative Illustration
+*** How To Draw: Wizard Basic Training
+*** Salgood Sam website
+*** How Pictures Work - Bang
+*** The Practice and Science of Drawing - Speed
+*** DONE Krash Course - Greg Capullo
+*** DONE Wally Wood - 22 panels that always work
+** Figure Drawing
+*** Proko's Best Anatomy Reference
+**** Human Anatomy for Artists - Goldfinger
+**** Artistic Anatomy - Paul Richer
+*** Master Class in Figure Drawing - Robert Hale
+*** Atlas of Human Anatomy for Artists - Stephen Peck
+    - Well balanced. Check out "tips" pages.
+*** The Human Figure - David Rubins
+    - Study in tandem with Bridgman
+*** Drawing People - Barbara Bradley
+*** The Figure - Walt Reed
+*** FORCE: Dynamic Life Drawing
+*** Drawing the Head and Hands - Loomis
+*** Learn to Draw Action Heros - Rob Marzullo
+*** Dynamic Figure Drawing - Burne Hogarth
+*** George Bridgman
+**** TODO Complete Guide to Drawing from Life
+***** How to study
+      1. TODO Draw every picture in the book
+      2. TODO Look at a picture, close, the book, draw from memory (every picture in the book)
+      3. TODO Shade drawings as form
+**** Constructive Anatomy
+**** The Human Machine
+*** Strength Training Anatomy, 3rd edition - Frederic Delavier
+    - Lots of interesting poses and very clear drawings
+*** Anatomy For Sculptors
+*** Struttura Uomo
+    - Architectural style drawings
+*** Struttura Uomo in Movemento
+*** Stan Lee's How to Draw Comics
+*** Classic Human Anatomy
+*** Dynamic Anatomy - Burne Hogarth
+*** Hogarth Hands
+*** Hogarth Faces
+*** The Complete Guide to Figure Drawing for Comics and Graphic Novels - Cooney
+*** The Complete Guide to Anatomy for Artists and Illustrators - Gottfried Bammes (drawing book)
+*** Figure Drawing for Artists: Making every Mark Count - Steve Huston
+*** Drawing Cutting Edge Anatomy - Hart
+*** DONE Figure Drawing: Design and Invention - Michael Hampton
+*** DONE How to Draw Comics the Marvel Way
+*** DONE The DC Guide to Penciling Comics
+*** DONE Force: Drawing Human Anatomy
+*** DONE Figure Drawing for all it's Worth - Loomis
+** Perspective
+*** TODO How to Draw - Scott Robertson
+*** Perpective Drawing Handbook - Joseph D'Amelio
+*** Creative Perspective for Artists and Illustrators - Ernest Watson
+*** Framed Perspective Vol I - Marcos mateu-Mestre
+*** Framed Perspective Vol II - Marcos mateu-Mestre
+*** DONE Perspective Made Easy - Earnest Norling
+** Ink
+*** Rendering in pen and ink - Guptill
+*** Pen and Ink Drawing - Alphonso Dunn (Library)
+*** DONE Pen and Ink Techniques - Frank Lohan
+*** DONE The DC Guide to Inking comics
+*** DONE The Complete Art of Comic Book Inking - Gary Martin
+** Light and Value
+*** Color and Light (geared towrad painting) - James Gurney
+*** Dynamic Light and Shading - Burne Hogarth 
+*** How to Render - Robertson
+*** Light for Visual Artists - Yot
+*** Lessons on Shading - Sparkes
+** Painting
+*** Hawthorne on Painting
+*** Alla Prima
+*** Oil Painting techniques and materials
+*** How I make a Picture - Rockwell
+* Writing
+** TODO Framed Ink: Drawing and Composition for Visual Storytellers
+** Story - Robert McKee
+** Writing for Comics - Alan Moore
+** Making Comics - McCloud
+** Understanding comics - McCloud
+** Reinventing Comics - McCloud
+** Comics and Sequential Art - Eisner
+** DC comics guide to writing comics
+** Stan Lee's How to Write Comics
+** Writing The Natural Way - Rico
+   - Highly recommended by Marshall Vandruff
+* Inspirational Books
+*** TODO The Artist's Way
+*** TODO History of Art - Janson
+*** The Surrender Expiremnet - Alan Singer
+*** As a Man Thinketh - James Allen
+*** The War of Art
+*** Feeling Good (depression)
+*** The Talent Code
+*** Drawing from the Right Side of the Brain - Betty Edwards
+*** Mastery: Greene
+*** Mindworks - Gary van Warmerdam
+*** Gardner's Art Through the Ages
+*** Chasing Love - Ray Bradberry
+*** DONE Art and Fear
+*** DONE The Happiness Trap (depression)
+*** DONE The Art Spirit - Robert Henri (Hoopla)
+*** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
+* Videos
+** Moderndayjames
+** Sinix Design
+** Marshall Vandruff Perspective
+** Watts Atelier
+*** DONE Fundamentals Phase I
+*** TODO Fundamentals Phase II
+*** Figure Phase I
+*** Figure Phase II
+*** Figure Phase III
+*** Figure Phase IV
+*** Figure Phase V
+*** Head Phase I
+*** Head Phase II
+*** Head Phase III
+*** Head Phase IV
+*** Head Phase V
+** TODO David Finch
+*** TODO Gnomon workshop
+**** DONE The Body
+**** TODO Hands
+**** Faces
+*** TODO Effects
+** Alphonso Dunn - Great Ink Videos
+** Proko
+*** DONE Figure Drawing
+*** Portrait Drawing
+*** Anatomy
+** The Drawing Database
+*** TODO Basics
+** Jimmy Reyes
+** The Process
+** Earl Grey - Panellology
+* Comics
+** Berserk
+** Sandman
+** X-Men
+   - TODO Dawn of X
+   - Age of Apocalypse
+   - God loves man kills
+   - X-cutioner's song
+   - lifedeath
+   - Grant Morrison New X-Men
+** Frank Miller
+*** Sin City vol 4
+*** Ronin
+** Alan Moore
+   - From Hell
+   - Watchmen
+   - Saga of the Swamp Thing (hoopla)
+** Batman
+   - Black Mirror
+** Doctor Strange
+** Transmetropolitan
+** Y: Last Man Standing
+** Black Hole - Charles Burns (Urbana Library)
+** 100 Bullets
+** Maus
+** Happy
+** The Deadman Collection - Niel Adams
+** Pride of Badhdad
+** Silver Surfer Parable
+** 4 Kids walk into a bank
+** Daytripper
+** Blankets
+** Marvels (hoopla)
+** This One Summer
+* Art to Study
+** Niel Adams - Deadman Collection
+** Hal Foster - Prince Valliant (trees)
+** Steven Platt
+   - Prophet
+** Travis Charest
+    - Spacegirl (on his website)
+** Medieval
+   - Northlanders
+   - Demon Knights
+   - Marvel 1602
+   - Medieval Spawn
+** Voltar - Alfredo Alcala
+** Viktor Bogdanovic
+** Batman: Sword of Azrael
+** Carlos Pacheco - Bishop
+** Moebius
+    - Blueberry
+    - Arzach
+    - Silver Surfer
+** Savage Sword of Conan
+** Director's cut editions
+*** Absolute Carnage
+*** Batman Year Zero
+*** Return of Wolverine
+** Simon Bisley
+    - Slaine (first few books)
+** Dark Souls Concept art
+** Kevin Nowlan
+   - Superman and Aliens (for lighting)
+** Jorge Zaffino
+    - Punisher: Assassin's Guild
+** Jorge Jimenez
+** Ryan Ottley
+** Al Williamson
+** Wally Wood
+** Kelly Jones - Deadman
+** Sam Keith - Marvel Presents Wolverine
+** Arthur Adams - Sampler and Sketchbooks
+** John Buscema - Sketchbook
+** Adam Hughes - Sketchbook
+** Greg Capullo
+   - Court of Owls Unwrapped
+   - Dark Nights: Metal 1-6
+   - Dark Nights: Heavy Metal 1-7
+** Franklin Booth (Wrightson's influence)
+** Gustave Dore - (Franklin Booth's influence)
+** Mike Mignola
+   - Bram Stoker's Dracula
+   - Hellboy
+   - Batman Issues
+** Marc Silvestri
+   - Wolverine
+   - Uncanny X-Men
+   - King Conan
+** Fechin
+* Exercises
+** Connect the dots
+    - Draw two dots on the paper, then try to connect them with one smooth
+      stroke, as straight as possible, stopping exactly on the second dot.
+** Watts Drawing Fundamentals Phase I
+*** Abstract Warmup
+    - Long lines, ovals, and abstract curvy lines one on top of the other (10 or 15 minutes)
+*** Value Scales
+    - Values from 0 (black) to 10 (paper)
+*** Basic Shapes
+    - Draw shaded cubes, cyllinders, spheres, cones.
+** Watts Drawing Fundamentals Phase II
+*** Negative Space
+    - Draw a still life while focusing on drawing negative space.
+*** Value Scale
+    - Draw a still life using only 2 values: dark and light.
+** Proko Figure Drawing
+*** Mannequinization
+* Long Exercises
+** TODO Jim Lee style sketches: 1) Gesture. 2) Micron 08 outline. 3) Brush.
+** TODO Copy a whole page
+** TODO Draw the same panel every day for a week
+** TODO Draw a whole script to an existing comic
+** TODO Illustrate an existing story (Poe, Dostoevsky)
+** TODO Practice each piece of anatomy for a week straight
+*** TODO Head
+*** TODO Arms
+*** TODO Hands
+*** TODO Torso
+*** TODO Pelvis
+*** TODO Legs
+*** TODO Feet
+** TODO Bring director's cut pencil into clip studio and ink it.
+* Scanner Entries
+** TODO Multi art form work
+** TODO Retirement Plan
+** TODO Gesture from imagination with Finch mannequins
+** TODO Half learning, half drawing for fun
+** TODO Gesture a whole book
+** TODO Draw from reference from memory from walk
+* Drawing Regimen
+** June 2020
+*** <2020-06-15 Mon>
+**** DONE Copy comic art (30 min.)
+**** DONE Gesture (5 minutes, 5 drawings)
+**** DONE Inking practice (Robertson Book) (15 minutes)
+**** DONE Review previous day's book notes and critique drawings
+**** DONE Go through Hampton book
+**** DONE Read DC Inking book
+*** <2020-06-16 Tue>
+**** DONE Copy comic art as gesture (30 min.)
+**** DONE Inking practice (Robertson Book) (15 minutes)
+**** DONE Barrel ink sketch (Lohan book)
+**** DONE Review previous day's book notes and critique drawings
+**** DONE Go through Hampton book
+**** DONE Read DC Inking book
+*** <2020-06-17 Wed>
+**** DONE Review How to Draw Comics the Marvel Way
+**** DONE Gesture (Finch video)
+**** DONE Inking practice (Robertson Book) (15 minutes)
+**** DONE Review previous day's book notes and critique drawings
+**** DONE Go through Hampton book
+**** DONE Read DC Inking book
+*** <2020-06-18 Thu>
+**** DONE Copy comic art (20 min)
+**** DONE Gesture (5 two-minute drawings)
+**** DONE Inking practice (Robertson Book) (15 minutes)
+**** DONE Review previous day's book notes and critique drawings
+**** DONE Go through Hampton book
+**** DONE Read DC Inking book
+*** <2020-06-19 Fri>
+**** DONE Copy comic art (30 min)
+**** DONE Gesture (5, 1-3 minute drawings)
+**** DONE Inking practice (1 hour, Guptill book)
+**** DONE Review previous day's book notes and critique drawings
+*** <2020-06-20 Sat>
+**** DONE Complete ink sketch (4.5 hours)
+**** DONE Review previous day's book notes and critique drawings
+**** DONE Hampton book
+**** DONE Gesture
+**** DONE Inking practice (Guptill book)
+**** DONE DC comics guide to inking
+*** <2020-06-21 Sun>
+**** DONE Gesture
+**** DONE Review previous day's book notes and critique drawings
+**** DONE Finish Hampton Book
+**** DONE Robertson Book
+**** DONE Loomis book
+*** <2020-06-22 Mon>
+**** DONE Copy comic art (30 min)
+**** DONE Gesture
+**** DONE Review
+**** DONE Loomis book
+**** DONE Ink (Guptill)
+*** <2020-06-23 Tue>
+**** DONE Copy comic art (30 min)
+**** DONE Gesture
+**** DONE Review
+**** DONE Loomis book
+**** DONE Ink (Guptill)
+*** <2020-06-24 Wed>
+**** DONE Copy comic art (30 min)
+**** DONE Gesture
+**** DONE Review
+**** DONE Loomis book
+**** DONE Richard Friend - How to draw superheros
+*** <2020-06-25 Thu>
+**** DONE Copy comic art (30 min)
+**** DONE Gesture
+**** DONE Review
+**** DONE TDD: Basics - Sphere, Cube, Cyllinder
+**** DONE Basic forms with ink
+**** DONE Read DC Comics guide to penciling
+*** <2020-06-26 Fri>
+**** DONE Copy comic art (30 min)
+**** DONE Review
+**** DONE Gesture
+**** DONE TDD: Basics - Sphere, Cube, Cyllinder
+**** DONE Read DC Comics guide to penciling
+*** <2020-06-27 Sat>
+**** DONE Full ink drawing
+**** DONE TDD: The Ellipse
+**** DONE Review
+**** DONE David Finch Perspective
+**** DONE Martin - Complete art of comic book inking
+*** <2020-06-28 Sun>
+**** DONE Review
+**** DONE TDD: Contour
+**** DONE Full ink drawing
+**** DONE Loomis Book
+**** DONE Martin - Complete art of comic book inking
+*** <2020-06-29 Mon>
+**** DONE Copy comic art (30 min)
+**** DONE Ink textures from Martin book
+*** <2020-06-30 Tue>
+**** DONE Gesture
+**** DONE Review
+**** DONE TDD: Foreshortening
+**** DONE Loomis book
+**** DONE Brush
+**** DONE Read Martin book
+** July 2020
+*** <2020-07-01 Wed>
+**** DONE 10-15 minute Jesstures
+**** DONE Dynamic Figure Drawing - Hogarth
+*** <2020-07-02 Thu>
+**** DONE 20 minute Jess
+**** DONE Heads - Rob Marzullo
+**** DONE Conan
+**** DONE Dynamic Figure Drawing - Hogarth
+*** <2020-07-03 Fri>
+**** DONE 20 minute figures
+**** DONE Conan Ink
+*** <2020-07-04 Sat>
+**** DONE Loomis
+**** DONE Marzullo book
+**** DONE Ink
+*** <2020-07-05 Sun>
+**** DONE Gestures
+**** DONE Review
+**** DONE Marzullo hands video
+**** DONE Marzullo book
+**** DONE Ink gestures
+*** <2020-07-06 Mon>
+**** DONE Gestures
+**** DONE Copy comic art
+**** DONE Marzullo book
+**** DONE Loomis book
+**** DONE Ink practice
+*** <2020-07-07 Tue>
+**** DONE Original sketch
+**** DONE Gesture - 4, 90 s. poses and 5 90 sec. faces
+**** DONE Prep panel
+**** DONE 6 min gesture and shadow study
+*** <2020-07-08 Wed>
+**** DONE Gestures
+**** DONE David Finch legs
+*** <2020-07-09 Thu>
+**** DONE Copy comic art (30 min)
+**** DONE Gestures
+**** DONE Review
+**** DONE Loomis book
+**** DONE Head from imagination
+*** <2020-07-10 Fri>
+**** DONE Copy comic art (30 min)
+**** DONE Review
+**** DONE Gesture
+**** DONE Marzullo book
+*** <2020-07-11 Sat>
+**** DONE Review
+**** DONE Gesture
+**** DONE Trace and Ink
+**** DONE Loomis book
+**** DONE Ink portrait
+*** <2020-07-12 Sun>
+**** DONE Review
+**** DONE Gesture
+**** DONE Loomis Book
+**** DONE Proko anatomy video
+**** DONE Force book
+*** <2020-07-13 Mon>
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+*** <2020-07-14 Tue>
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+**** DONE Ink
+*** <2020-07-15 Wed>
+**** DONE Review
+**** DONE Gesture
+**** DONE Finch head video
+**** DONE Force book
+**** DONE Continue Captain America
+*** <2020-07-16 Thu>
+**** DONE Finish Captain America
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+**** DONE Scanner Daybook
+*** <2020-07-17 Fri>
+**** DONE Copy comics
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+*** <2020-07-18 Sat>
+**** DONE Scanner daybook
+**** DONE Review
+**** DONE Gesture
+**** DONE Trace captain america onto a bristol board
+**** DONE Ink
+**** DONE Force book
+**** DONE Pen and ink practice
+**** DONE Marzullo book
+*** <2020-07-19 Sun>
+**** DONE Scanner daybook
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+**** DONE Marzullo book
+**** DONE Panel layout
+*** <2020-07-20 Mon>
+**** DONE Copy comics (ink)
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+**** DONE Scanner Daybook
+*** <2020-07-21 Tue>
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+**** DONE Realistic eye tutorial
+*** <2020-07-22 Wed>
+**** DONE Copy comics (ink)
+**** DONE Copy comics (ink)
+**** DONE Review
+**** DONE Gesture
+*** <2020-07-23 Thu>
+**** DONE Copy comics (multiple figures)
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+**** DONE Copy comics (Bishop)
+**** DONE Ink practice
+*** <2020-07-24 Fri>
+**** DONE Copy comics
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+**** DONE Scanner Daybook (backwards flowchart)
+**** DONE Copy comics (Savage Sword of Conan, ink)
+*** <2020-07-25 Sat>
+**** DONE Review
+**** DONE Gesture
+**** DONE Finish Conan drawing
+**** DONE Work on a full comic page
+***** DONE Write a single-page story
+****** DONE What is the setting?
+****** DONE Who are the characters?
+****** DONE What happens? Think in terms of beginning, middle, end.
+***** DONE Lay out some thumbnails
+***** DONE Sketch panel outlines on 11 x 17 bristol
+***** DONE Pencil and ink each panel
+**** DONE Inking practice (render like Wrightson)
+**** DONE Framed Ink
+*** <2020-07-26 Sun>
+**** DONE Review
+**** DONE Gesture (comics)
+**** DONE Background for Conan
+**** DONE Do some penciling on the single-page story
+*** <2020-07-27 Mon>
+**** DONE Review
+**** DONE Gesture (Bishop #1)
+**** DONE Practice run on a couple panels from one-page-story
+**** DONE Force book
+*** <2020-07-28 Tue>
+**** DONE Copy comics (Bishop)
+**** DONE Review
+**** DONE Gesture (Azrael)
+**** DONE Practice tight penciling with Director's cut
+**** DONE Krash Course
+**** DONE Force book
+**** DONE Ink one-page-story
+**** DONE Scanner Daybook
+*** <2020-07-29 Wed>
+**** DONE Review
+**** DONE Gesture
+**** DONE Force book
+**** DONE Krash Course
+**** DONE Finch textures video
+**** DONE Make some progress on comic page
+**** DONE Pencil some inking practice
+**** DONE Ink it!
+*** <2020-07-30 Thu>
+**** DONE Review
+**** DONE Gesture
+**** DONE Krash course
+**** DONE Make progress on single-page-story
+**** DONE Pencil shapes and brush ink them
+**** DONE David Finch Dynamic Figure Drawing the Body01
+*** <2020-07-31 Fri>
+**** DONE Review
+**** DONE Gesture
+**** DONE Krash Course
+**** DONE Progress on single-page-story
+**** DONE David Finch Dynamic Figure Drawing the Body01
+** August 2020
+*** <2020-08-01 Sat>
+**** DONE Review
+**** DONE Gesture
+**** DONE Krash Course
+**** DONE David Finch dynamic Figure Drawing the Body02
+**** DONE Progress on single-page-story
+**** DONE Scanner daybook
+**** DONE Render like Wrightson
+**** DONE Robertson book
+**** DONE Finch style mannequins of Bishop
+**** DONE Start Bridgman
+*** <2020-08-02 Sun>
+**** DONE Bridgman
+**** DONE Review
+**** DONE Gesture
+**** DONE Krash Course
+**** DONE Progress on single-page-story
+**** DONE David Finch dynamic Figure Drawing the Body05
+**** DONE Render like Wrightson
+**** DONE Scanner daybook - Draw Finch gesture mannequins based on comics
+*** <2020-08-03 Mon>
+**** DONE Bridgman
+**** DONE Review
+**** DONE Gesture
+**** DONE Krash Course
+**** DONE Single page story
+**** DONE Scanner daybook
+*** <2020-08-04 Tue>
+**** DONE Bridgman
+**** DONE Review
+**** DONE Mannequin study (08032020)
+**** DONE David Finch dynamic Figure Drawing the Body08 7:00
+**** DONE Inking practice (brush and quill)
+**** DONE Scanner Daybook
+*** <2020-08-05 Wed>
+**** DONE Bridgman
+**** DONE Review
+**** DONE Mannequin study (08032020)
+**** DONE David Finch dynamic Figure Drawing the Body09 12:00
+**** DONE Scanner Daybook
+*** <2020-08-06 Thu>
+**** DONE Review
+**** DONE Gesture (conan)
+**** DONE Finch dynamic figure drawing Body09 20:00
+**** DONE Ink (Dracula)
+*** <2020-08-07 Fri>
+**** DONE Review
+**** DONE Gesture (conan)
+**** DONE Finch dynamic figure drawing Body09 30:00
+**** DONE Ink (Dracula)
+*** <2020-08-08 Sat>
+**** DONE Review
+**** DONE Gesture
+**** DONE How to Render
+**** DONE How to Draw
+**** DONE Finch dynamic figure drawing the body09 42:00
+**** DONE Guptill book
+**** DONE Drawabox: Lesson 1
+*** <2020-08-09 Sun>
+**** DONE Review
+**** DONE Drawabox
+**** DONE Gesture (conan)
+**** DONE Finish single-page-story
+**** DONE Drawabox Lesson 1 ellipses
+**** DONE David Finch Dynamic figure drawing the body
+**** DONE Drawabox Lesson 1 boxes
+**** DONE Ink (Conan folds)
+*** <2020-08-10 Mon>
+**** DONE Review
+**** DONE Drawabox
+**** DONE Gesture
+**** DONE Finch draw along
+**** DONE Ink (Dracula)
+*** <2020-08-11 Tue>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture (Conan)
+**** DONE Ink (Dracula)
+**** DONE Scanner daybook
+*** <2020-08-12 Wed>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Ink (Dracula)
+*** <2020-08-13 Thu>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE David Finch Dynamic Figure drawing TheBody10 8:30
+**** DONE Ink (Dracula)
+*** <2020-08-14 Fri>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Ink (Dracula)
+*** <2020-08-15 Sat>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Scanner Daybook - Describe next comic page
+**** DONE Do some layouts of the next page
+**** DONE David Finch The Body
+**** DONE Robertson book
+*** <2020-08-16 Sun>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture (Hands)
+**** DONE David Finch Superhero Heads 1-4
+*** <2020-08-17 Mon>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Ink (Dracula)
+*** <2020-08-18 Tue>
+**** DONE Drawabox
+**** DONE Gesture
+**** DONE Finch skillshare 5
+*** <2020-08-19 Wed>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture (Wolverine)
+**** DONE Finch skillshare 6-8
+**** DONE Ink (Dracula)
+**** DONE Mood journal
+*** <2020-08-20 Thu>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Finch skillshare 9-10
+**** DONE Ink (Dracula)
+**** DONE Scanner Daybook
+*** <2020-08-21 Fri>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+*** <2020-08-22 Sat>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Transfer memo book to an org file
+**** DONE Finch skillshare 11-13
+**** DONE Ink (Dracula)
+**** DONE Ink (Sin City)
+*** <2020-08-23 Sun>
+**** DONE Review
+**** DONE Drawabox Boxes
+**** DONE Drawabox Texture
+**** DONE Gesture
+**** DONE Finch skillshare 14-15
+**** DONE Single page progress
+*** <2020-08-24 Mon>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Ink (Dracula)
+**** DONE Transfer kernels
+*** <2020-08-25 Tue>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE David Finch skillshare
+*** <2020-08-26 Wed>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE David Finch skillshare
+*** <2020-08-27 Thu>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Finch heads
+*** <2020-08-28 Fri>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE David Finch Gnomon hands
+*** <2020-08-29 Sat>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Finch hair
+**** DONE Capture kernels
+**** DONE Thumbnail some other pages
+**** DONE Finch clown
+*** <2020-08-30 Sun>
+**** DONE Review
+**** DONE Gesture
+**** DONE Finch clown
+**** DONE Ink (dracula)
+**** DONE Armor
+*** <2020-08-31 Mon>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Medieval village
+** September 2020
+*** <2020-09-01 Tue>
+**** DONE Review
+**** DONE Gesture
+**** DONE Marzullo shading skillshare
+**** DONE Drawing
+*** <2020-09-02 Wed>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+**** DONE Finch hands 2
+**** DONE Drawing
+*** <2020-09-03 Thu>
+**** DONE Review
+**** DONE geometric mannequins
+**** DONE Drawing
+*** <2020-09-04 Fri>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Mannequins
+*** <2020-09-05 Sat>
+**** DONE Review
+**** DONE Gesture
+**** DONE Finch hands 3, 17:00
+**** DONE Kim Jung Gi class
+*** <2020-09-06 Sun>
+**** DONE Review
+**** DONE Mannequins
+**** DONE Kim Jung Gi class
+**** DONE Page progress
+*** <2020-09-07 Mon>
+**** DONE Drawabox
+**** DONE Page progress
+**** DONE Review
+**** DONE Mannequins
+*** <2020-09-08 Tue>
+**** DONE Review
+**** DONE Mannequins
+**** DONE Anatomy for sculptors
+**** DONE Page progress
+*** <2020-09-09 Wed>
+**** DONE Review
+**** DONE Mannequins
+**** DONE Transfer kernels
+**** DONE Page progress
+*** <2020-09-10 Thu>
+**** DONE Review
+**** DONE Mannequins
+**** DONE Finch Arms
+**** DONE Anatomy for sculptors
+*** <2020-09-11 Fri>
+**** DONE Review
+**** DONE Mannequins
+**** DONE Finch arms
+**** DONE Alphonso Dunn: master the mannequin
+*** <2020-09-12 Sat>
+**** DONE Review
+**** DONE Alphonso Dunn: master the mannequin
+**** DONE Mannequins
+**** DONE Finch arms
+**** DONE Alphonso Dunn: 7 lines
+**** DONE Finish page 2
+**** DONE Page 3 layouts
+*** <2020-09-13 Sun>
+**** DONE Review
+**** DONE Alphonso Dunn: Crosshatching
+**** DONE Alphonso Dunn: Crosshatching mistakes
+**** DONE Finch hands 4
+**** DONE Mannequins
+**** DONE Finch wolverine
+*** <2020-09-14 Mon>
+**** DONE Review
+**** DONE Mannequins
+**** DONE Ink (dracula)
+*** <2020-09-15 Tue>
+**** DONE Review
+**** DONE Mannequins
+**** DONE Drawabox
+**** DONE Finch hands 5, 7:00
+**** DONE Page 3 progress
+*** <2020-09-16 Wed>
+**** DONE Review
+**** DONE Mannequins/Gesture
+**** DONE Finch hands
+**** DONE Page 3 progress
+*** <2020-09-17 Thu>
+**** DONE Review
+**** DONE Gesture
+**** DONE Page 3 progress
+*** <2020-09-18 Fri>
+**** DONE Drawabox
+**** DONE Review
+**** DONE Gesture
+*** <2020-09-19 Sat>
+**** DONE Review
+**** DONE Drawabox
+**** DONE Gesture
+**** DONE Wizards 
+**** DONE Bridgman
+*** <2020-09-20 Sun>
+**** DONE Review
+**** DONE Drawabox
+**** DONE Gesture
+**** DONE Wizards
+**** DONE Bridgman
+**** DONE Capture kernels
+**** DONE Finch hands 6
+*** <2020-09-21 Mon>
+**** DONE Review
+**** DONE Drawabox
+**** DONE Gesture
+**** DONE Bridgman
+**** DONE Buscema sketchbook
+*** <2020-09-22 Tue>
+**** DONE Review
+**** DONE Drawabox
+**** DONE Bridgman
+**** DONE 1 page of connecting dots, drawing from shoulder, line weights
+**** DONE 1 page of boxes based on surroundings
+**** DONE Gesture
+**** DONE Mannequins from comic art, focusing on accurate proportions.
+*** <2020-09-23 Wed>
+**** DONE Bridgman
+**** DONE Review
+**** DONE Drawabox
+**** DONE 1 page of connecting dots, drawing from shoulder, line weights
+**** DONE Gesture
+**** DONE 30 second beans
+**** DONE Finch femal torsos: 5:00
+*** <2020-09-24 Thu>
+**** DONE Bridgman
+**** DONE Review
+**** DONE Drawabox
+*** <2020-09-25 Fri>
+**** DONE Bridgman
+**** DONE Review
+**** DONE Drawabox
+**** DONE Natural Way to Draw
+*** <2020-09-26 Sat>
+**** DONE Review
+**** DONE Warmup: Connect the dots
+**** DONE 30 sec. Gesture - 10 min
+**** DONE 2 minute quicksketch - 10 min
+**** DONE 30 second bean - 5 min
+**** DONE Structure - Animals (5)
+**** DONE Landmarks
+**** DONE Drawabox
+*** <2020-09-27 Sun>
+**** DONE Review
+**** DONE Connect the dots
+**** DONE 30 sec. gesture (10)
+**** DONE 2 min quicksketch (5)
+**** DONE 30 second bean (10)
+**** DONE Structure - Animals (6)
+**** DONE Landmarks (1)
+**** DONE Robo bean (6)
+**** DONE Mannequinization (1)
+**** DONE Drawabox
+*** <2020-09-28 Mon>
+**** DONE Review
+**** DONE Connect the dots
+**** DONE 30 sec. gesture (10)
+**** DONE 2 min quicksketch (5)
+**** DONE 30 second bean (5)
+**** DONE Structure - Animals (4)
+**** DONE Robo bean (6)
+**** DONE Drawabox
+*** <2020-09-29 Tue>
+**** DONE Review
+**** DONE Automatic drawing (1 page)
+**** DONE 30 sec. gesture (10)
+**** DONE 2 min quicksketch (5)
+**** DONE 30 second bean (5)
+**** DONE Structure - Animals (4)
+**** DONE Robo bean (2)
+**** DONE Drawabox
+*** <2020-09-30 Wed>
+**** DONE Review
+**** DONE 30 sec. gesture (20)
+     - Getting a few gestures that I like.
+**** DONE Structure - Animals (3)
+     - Very difficult
+**** DONE Finch female torsos (11:40)
+     - Frustration. Very hard to go for longer than 5 minutes (video time).
+**** DONE Drawabox
+** October 2020
+*** <2020-10-01 Thu>
+**** DONE Review
+**** DONE 30 second gesture (8)
+**** DONE Finch female torsos
+**** DONE Drawabox
+*** <2020-10-02 Fri>
+**** DONE Bridgman
+**** DONE Abstract warmup (30 minutes)
+**** DONE Drawabox
+*** <2020-10-03 Sat>
+**** DONE Abstract warmup (30 minutes)
+**** DONE Value scales
+*** <2020-10-03 Sat>
+**** DONE Review
+**** DONE Abstract Warmup (20 min.)
+**** DONE Value scales
+**** DONE Basic shapes
+**** DONE Drawabox
+**** DONE Copy Conan
+*** <2020-10-04 Sun>
+**** DONE Review
+**** DONE Abstract warmup (10 min)
+**** DONE Watts negative space exercise.
+**** DONE Value scale Buddah statue (only light and dark)
+*** <2020-10-05 Mon>
+**** DONE Watts still life.
+*** <2020-10-06 Tue>
+**** DONE Watts still life.
+*** <2020-10-07 Wed>
+**** DONE Review
+**** DONE Drawabox
+**** DONE Bridgman
+**** DONE Fundamentals Phase II
+*** <2020-10-08 Thu>
+**** DONE Review
+**** DONE Drawabox
+*** <2020-10-09 Fri>
+**** DONE Review
+**** DONE Drawabox
+*** <2020-10-10 Sat>
+**** DONE Curriculum planning
+**** DONE Drawabox
+*** <2020-10-11-Sat>
+**** DONE Plan first unit materials and exercises
+**** DONE drawabox plants
+* Curriculum
+** Figure Drawing I
+*** Week 1
+**** <2020-10-12 Mon>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko how to draw gesture video
+***** DONE Practice gesture using ideas from the video
+***** DONE Vilppu drawing manual Intro and chapter 1
+***** DONE Practice ideas from Vilppu drawing manual
+**** <2020-10-13 Tue>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko 30 second gestures
+***** DONE Proko how to draw gesture - step by step
+***** DONE Vilppu drawing manual chapter 1
+**** <2020-10-14 Wed>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko 2 minute gestures
+***** DONE Proko bean video
+***** DONE 30 seconds beans
+**** <2020-10-15 Thu>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko bean examples videos
+***** DONE 30 seconds beans
+***** DONE Vilppu Drawing Manual
+**** <2020-10-16 Fri>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko structure basics
+***** DONE Draw cyllinders and boxes
+***** DONE Vilppu Drawing Manual chapter 1
+**** <2020-10-17 Sat>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko structure practice
+***** DONE Proko landmarks
+***** DONE Proko landmarks practice
+***** DONE Vilppu
+**** <2020-10-18 Sun>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko landmarks 3 and 4
+***** DONE Blog post
+*** Week 2
+**** <2020-10-19 Mon>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko landmarks exercise
+***** DONE Proko robo bean video
+***** DONE Vilppu
+**** <2020-10-20 Tue>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko robo bean exercise. Try, watch try again.
+**** <2020-10-21 Wed>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko robo bean exercise. Try, watch try again.
+***** DONE Vilppu
+**** <2020-10-22 Thu>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko robo bean exercise. Try, watch try again.
+***** DONE Proko Mannequinization video
+**** <2020-10-23 Fri>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko robo bean exercise. Try, watch try again.
+**** <2020-10-24 Sat>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko robo bean practice
+***** DONE Proko mannequinization practice. Try, watch video, try again.
+***** DONE Proko critiques lesson
+**** <2020-10-25 Sun>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko robo bean practice
+***** DONE Proko mannequinization exercises
+***** DONE Blog post
+*** Week 3
+**** <2020-10-26 Mon>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko mannequinization
+***** DONE Vilppu Chapter 3
+***** DONE Boxes
+**** <2020-10-27 Tue>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko mannequinization
+***** DONE Proko exaggerated poses lesson
+**** <2020-10-28 Wed>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko mannequinization
+***** DONE Proko proportions Richer
+***** DONE Proko proportions Hale
+**** <2020-10-29 Thu>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko mannequinization
+***** DONE Proko proportions Loomis
+***** DONE Proko measuring techniques
+***** DONE Proko how to check your measuring
+**** <2020-10-30 Fri>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko mannequinization (3 before and after)
+***** DONE Proko measuring practice
+**** <2020-10-31 Sat>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko mannequinization (3 before and after)
+***** DONE Proko linear layin basic shapes video
+***** DONE Prerequisites lessons
+**** <2020-11-01 Sun>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko measuring correctness exercise
+***** DONE Blog post
+*** Week 4
+**** <2020-11-02 Mon>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko measuring correctness exercise
+***** DONE Proko linear layin
+**** <2020-11-03 Tue>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko measuring correctness exercise
+**** <2020-11-04 Wed>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko linear layin
+**** <2020-11-05 Thu>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko linear layin
+**** <2020-11-06 Fri>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko finished drawing
+**** <2020-11-06 Sat>
+***** DONE Croquis cafe gesture session
+***** DONE Conan gesture session
+***** DONE Proko figure shading
+***** DONE Unit I retrospective
+***** DONE Plan Perspective I
+**** <2020-11-06 Sun>
+***** TODO Croquis cafe gesture session
+***** TODO Conan gesture session
+***** TODO Proko finish shading
+***** TODO Blog post
+
