@@ -33,7 +33,7 @@
 * Art Books
 ** General
 *** TODO Drawing Lessons from the Great Masters - Robert Hale
-*** TODO Vilppu Drawing Manual - Glenn Vilppu
+*** Vilppu Drawing Manual - Glenn Vilppu
 *** Imaginative Realism - James Gurney
 *** The Natural Way to Draw - Kimon Nicolaides (for developing the sensitivity of an artist)
 *** Andrew Loomis
@@ -90,8 +90,8 @@
 *** DONE Force: Drawing Human Anatomy
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
-*** TODO How to Draw - Scott Robertson
-*** Perpective Drawing Handbook - Joseph D'Amelio
+*** TODO Perpective Drawing Handbook - Joseph D'Amelio
+*** How to Draw - Scott Robertson
 *** Creative Perspective for Artists and Illustrators - Ernest Watson
 *** Framed Perspective Vol I - Marcos mateu-Mestre
 *** Framed Perspective Vol II - Marcos mateu-Mestre
@@ -114,7 +114,6 @@
 *** Oil Painting techniques and materials
 *** How I make a Picture - Rockwell
 * Writing
-** TODO Framed Ink: Drawing and Composition for Visual Storytellers
 ** Story - Robert McKee
 ** Writing for Comics - Alan Moore
 ** Making Comics - McCloud
@@ -125,6 +124,7 @@
 ** Stan Lee's How to Write Comics
 ** Writing The Natural Way - Rico
    - Highly recommended by Marshall Vandruff
+** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
 *** TODO The Artist's Way
 *** TODO History of Art - Janson
@@ -143,12 +143,10 @@
 *** DONE The Art Spirit - Robert Henri (Hoopla)
 *** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
 * Videos
+** TODO Marshall Vandruff Perspective
 ** Moderndayjames
 ** Sinix Design
-** Marshall Vandruff Perspective
 ** Watts Atelier
-*** DONE Fundamentals Phase I
-*** TODO Fundamentals Phase II
 *** Figure Phase I
 *** Figure Phase II
 *** Figure Phase III
@@ -159,6 +157,8 @@
 *** Head Phase III
 *** Head Phase IV
 *** Head Phase V
+*** DONE Fundamentals Phase I
+*** DONE Fundamentals Phase II
 ** TODO David Finch
 *** TODO Gnomon workshop
 **** DONE The Body
@@ -167,11 +167,11 @@
 *** TODO Effects
 ** Alphonso Dunn - Great Ink Videos
 ** Proko
-*** DONE Figure Drawing
 *** Portrait Drawing
 *** Anatomy
+*** DONE Figure Drawing
 ** The Drawing Database
-*** TODO Basics
+*** Basics
 ** Jimmy Reyes
 ** The Process
 ** Earl Grey - Panellology
@@ -210,65 +210,65 @@
 ** Marvels (hoopla)
 ** This One Summer
 * Art to Study
-** Niel Adams - Deadman Collection
-** Hal Foster - Prince Valliant (trees)
-** Steven Platt
-   - Prophet
-** Travis Charest
-    - Spacegirl (on his website)
-** Medieval
-   - Northlanders
-   - Demon Knights
-   - Marvel 1602
-   - Medieval Spawn
-** Voltar - Alfredo Alcala
-** Viktor Bogdanovic
-** Batman: Sword of Azrael
-** Carlos Pacheco - Bishop
-** Moebius
-    - Blueberry
-    - Arzach
-    - Silver Surfer
-** Savage Sword of Conan
-** Director's cut editions
-*** Absolute Carnage
-*** Batman Year Zero
-*** Return of Wolverine
-** Simon Bisley
-    - Slaine (first few books)
-** Dark Souls Concept art
-** Kevin Nowlan
-   - Superman and Aliens (for lighting)
-** Jorge Zaffino
-    - Punisher: Assassin's Guild
-** Jorge Jimenez
-** Ryan Ottley
-** Al Williamson
-** Wally Wood
-** Kelly Jones - Deadman
-** Sam Keith - Marvel Presents Wolverine
-** Arthur Adams - Sampler and Sketchbooks
-** John Buscema - Sketchbook
-** Adam Hughes - Sketchbook
-** Greg Capullo
-   - Court of Owls Unwrapped
-   - Dark Nights: Metal 1-6
-   - Dark Nights: Heavy Metal 1-7
-** Franklin Booth (Wrightson's influence)
-** Gustave Dore - (Franklin Booth's influence)
-** Mike Mignola
-   - Bram Stoker's Dracula
-   - Hellboy
-   - Batman Issues
-** Marc Silvestri
-   - Wolverine
-   - Uncanny X-Men
-   - King Conan
-** Fechin
+** Comics
+*** Niel Adams - Deadman Collection
+*** Hal Foster - Prince Valliant (trees)
+*** Steven Platt
+    - Prophet
+*** Travis Charest
+     - Spacegirl (on his website)
+*** Medieval
+    - Northlanders
+    - Demon Knights
+    - Marvel 1602
+    - Medieval Spawn
+*** Voltar - Alfredo Alcala
+*** Viktor Bogdanovic
+*** Batman: Sword of Azrael
+*** Carlos Pacheco - Bishop
+*** Moebius
+     - Blueberry
+     - Arzach
+     - Silver Surfer
+*** Savage Sword of Conan
+*** Director's cut editions
+**** Absolute Carnage
+**** Batman Year Zero
+**** Return of Wolverine
+*** Simon Bisley
+     - Slaine (first few books)
+*** Dark Souls Concept art
+*** Kevin Nowlan
+    - Superman and Aliens (for lighting)
+*** Jorge Zaffino
+     - Punisher: Assassin's Guild
+*** Jorge Jimenez
+*** Ryan Ottley
+*** Al Williamson
+*** Wally Wood
+*** Kelly Jones - Deadman
+*** Sam Keith - Marvel Presents Wolverine
+*** Arthur Adams - Sampler and Sketchbooks
+*** John Buscema - Sketchbook
+*** Adam Hughes - Sketchbook
+*** Greg Capullo
+    - Court of Owls Unwrapped
+    - Dark Nights: Metal 1-6
+    - Dark Nights: Heavy Metal 1-7
+*** Franklin Booth (Wrightson's influence)
+*** Gustave Dore - (Franklin Booth's influence)
+*** Mike Mignola
+    - Bram Stoker's Dracula
+    - Hellboy
+    - Batman Issues
+*** Marc Silvestri
+    - Wolverine
+    - Uncanny X-Men
+    - King Conan
+** Fine Art
+*** Fechin
+*** Albrecht Altdorfer
 * Exercises
-** Connect the dots
-    - Draw two dots on the paper, then try to connect them with one smooth
-      stroke, as straight as possible, stopping exactly on the second dot.
 ** Watts Drawing Fundamentals Phase I
 *** Abstract Warmup
     - Long lines, ovals, and abstract curvy lines one on top of the other (10 or 15 minutes)
@@ -281,8 +281,6 @@
     - Draw a still life while focusing on drawing negative space.
 *** Value Scale
     - Draw a still life using only 2 values: dark and light.
-** Proko Figure Drawing
-*** Mannequinization
 * Long Exercises
 ** TODO Jim Lee style sketches: 1) Gesture. 2) Micron 08 outline. 3) Brush.
 ** TODO Copy a whole page
@@ -1018,161 +1016,4 @@
 *** <2020-10-11-Sat>
 **** DONE Plan first unit materials and exercises
 **** DONE drawabox plants
-* Curriculum
-** Figure Drawing I
-*** Week 1
-**** <2020-10-12 Mon>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko how to draw gesture video
-***** DONE Practice gesture using ideas from the video
-***** DONE Vilppu drawing manual Intro and chapter 1
-***** DONE Practice ideas from Vilppu drawing manual
-**** <2020-10-13 Tue>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko 30 second gestures
-***** DONE Proko how to draw gesture - step by step
-***** DONE Vilppu drawing manual chapter 1
-**** <2020-10-14 Wed>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko 2 minute gestures
-***** DONE Proko bean video
-***** DONE 30 seconds beans
-**** <2020-10-15 Thu>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko bean examples videos
-***** DONE 30 seconds beans
-***** DONE Vilppu Drawing Manual
-**** <2020-10-16 Fri>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko structure basics
-***** DONE Draw cyllinders and boxes
-***** DONE Vilppu Drawing Manual chapter 1
-**** <2020-10-17 Sat>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko structure practice
-***** DONE Proko landmarks
-***** DONE Proko landmarks practice
-***** DONE Vilppu
-**** <2020-10-18 Sun>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko landmarks 3 and 4
-***** DONE Blog post
-*** Week 2
-**** <2020-10-19 Mon>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko landmarks exercise
-***** DONE Proko robo bean video
-***** DONE Vilppu
-**** <2020-10-20 Tue>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko robo bean exercise. Try, watch try again.
-**** <2020-10-21 Wed>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko robo bean exercise. Try, watch try again.
-***** DONE Vilppu
-**** <2020-10-22 Thu>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko robo bean exercise. Try, watch try again.
-***** DONE Proko Mannequinization video
-**** <2020-10-23 Fri>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko robo bean exercise. Try, watch try again.
-**** <2020-10-24 Sat>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko robo bean practice
-***** DONE Proko mannequinization practice. Try, watch video, try again.
-***** DONE Proko critiques lesson
-**** <2020-10-25 Sun>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko robo bean practice
-***** DONE Proko mannequinization exercises
-***** DONE Blog post
-*** Week 3
-**** <2020-10-26 Mon>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko mannequinization
-***** DONE Vilppu Chapter 3
-***** DONE Boxes
-**** <2020-10-27 Tue>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko mannequinization
-***** DONE Proko exaggerated poses lesson
-**** <2020-10-28 Wed>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko mannequinization
-***** DONE Proko proportions Richer
-***** DONE Proko proportions Hale
-**** <2020-10-29 Thu>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko mannequinization
-***** DONE Proko proportions Loomis
-***** DONE Proko measuring techniques
-***** DONE Proko how to check your measuring
-**** <2020-10-30 Fri>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko mannequinization (3 before and after)
-***** DONE Proko measuring practice
-**** <2020-10-31 Sat>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko mannequinization (3 before and after)
-***** DONE Proko linear layin basic shapes video
-***** DONE Prerequisites lessons
-**** <2020-11-01 Sun>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko measuring correctness exercise
-***** DONE Blog post
-*** Week 4
-**** <2020-11-02 Mon>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko measuring correctness exercise
-***** DONE Proko linear layin
-**** <2020-11-03 Tue>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko measuring correctness exercise
-**** <2020-11-04 Wed>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko linear layin
-**** <2020-11-05 Thu>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko linear layin
-**** <2020-11-06 Fri>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko finished drawing
-**** <2020-11-06 Sat>
-***** DONE Croquis cafe gesture session
-***** DONE Conan gesture session
-***** DONE Proko figure shading
-***** DONE Unit I retrospective
-***** DONE Plan Perspective I
-**** <2020-11-06 Sun>
-***** TODO Croquis cafe gesture session
-***** TODO Conan gesture session
-***** TODO Proko finish shading
-***** TODO Blog post
 
