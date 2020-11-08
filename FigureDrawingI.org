@@ -1,0 +1,401 @@
+#+TITLE: Figure Drawing I
+#+AUTHOR: Chris Hogan
+#+DATE: <2020-10-12 Mon> to <2020-11-08 Sun>
+#+STARTUP: nologdone
+
+* Proko Figure Drawing Fundamentals
+** How to Draw Gesture
+   - Find longest axis of each form to find the fluid motion. Start with longest
+     line of action.
+   - Use only C curve, S curve, and straight line (CSI)
+   - Simplify as much as possible, but no more.
+   - Identify "story" of the pose
+   - Identify gesture of larger form, then layer smaller volumes on top
+** How to Draw Gesture - Step by Step
+*** TODO 30 second gesture
+    - Just capture the movement of the pose.
+    - Start with head, then get curve of neck, then follow down the spine and to
+      a foot.
+    - Find the angle of the shoulders and hips, contain the torso, rhythm lines
+      for legs and arms.
+    - Disregard mass.
+    - Draw what you feel, not what you see.
+*** TODO 2 minute quicksketch
+    - Analyze for 10 seconds.
+    - Start with head and add neck rhythm by following sterno celido mastoid.
+    - Add angle of shoulders and rhytm of torso (using the center line).
+    - C or S curves for legs.
+    - Find arm rhythms
+    - Stay true to the thickness of the form, and any tapering.
+    - Look for stretch vs. pinch.
+    - Only separate hand from arm if it's essential for the gesture.
+    - Exaggerate.
+** The Bean
+   - Torso and hips connected with skin.
+   - Tilt: one side stretched and one side compressed.
+   - Lean: pinch and compress is now front/back.
+   - Twist: sides overlap, center line is S.
+   - Foreshortening: ovals shorten closer to circles, and there is more overlap.
+*** TODO 30 second bean
+    - Draw the rib cage and hips pose, taken to the extreme (exaggerate).
+    - Find tilt, lean, twist, foreshortening.
+    - Find angle of ribcage, angle of hips, and angle from top of ribcage to bottom of hips.
+    - Add center line.
+    - Add cross countour to indicate lean.
+    - Compress ovals to circles to show foreshortening.
+** Structure Basics
+   - Basic building blocks: spheres, cyllinders, cubes.
+   - Use ring on pencil to find cross contour of tilted form above or below eye level.
+   - Forms in flat perspective should be tilted or twisted slightly.
+*** TODO Draw cyllinders and boxes of the things around you
+*** TODO Draw cyllinders and boxes from imagination
+*** TODO Simplify animals with balls, cyllinders, and boxes
+** Landmarks of the Human Body
+   - Center line of the front: manubrium down the sternum, through belly button
+     to pubic bone.
+   - Center line of the back: length of spine from top of neck to tailbone. Each
+     portion of the spine has different bending and twisting limitations.
+   - Lateral landmarks of the front: Achromium process shows angle of shoulders.
+     Connected by clavicles. Tenth rib shows angle of ribcage (or bottom of
+     pecks). ASIS shows angle of pelvis (anterior superior illiac spine). Look
+     at armpits for distance to top of shoulders, and width of arms compared to
+     width of torso.
+   - Lateral Landmarks of the Back: Spine of scapula. 7th cervical vertebra.
+     Saccrum connects to dimples of PSIS to tailbone.
+   - Limbs: Joints of arms and legs. Sides of elbow, wrist. Knee has 7 bumps: 2
+     for condials of femur and 2 for condials of tibia, head of fibula on the
+     side, one for patella and one below it. Ankle forms a wrench shape hugging
+     the foot, angled down towards the outside. Glutes wrap around the great
+     trochanter.
+** Robo Bean
+   - Top box is rib cage and portion of shoulders (up to clavicle). Ignore the
+     trapesius.
+   - Bottom corners of rib cage up to clavicle is front plane.
+   - Bottom box is pelvis and butt.
+   - ASIS are top corners.
+   - Back plane of bottom is PSIS down the mass of the glutes.
+   - Boxes are same width on a male, but bottom is wider than top on female.
+   - Corners show tilt, top and bottom planes show lean, side planes show twist.
+   - Overlaps are parallel with center line of the side of the body you see
+     completely.
+*** TODO Robo Bean exercise
+    - Draw bean first, getting pose, proportions, and center line.
+    - Draw box shapes.
+    - Draw connection between boxes.
+    - Emphasize bony landmarks.
+** Mannequinization
+   - Simplify an organic form to a (combination of) basic form(s).
+*** TODO Mannequinize a Figure
+    - Start with gesture, checking angles, proportions, and movements.
+    - Next add the 3D forms
+    - Rounded box for hips
+    - Egg for rib cage
+    - Cyllinder for waist
+    - Box for shoulders
+    - Cyllinder for neck
+    - Ball for cranium and wedge for jaw,
+    - Cyllinder for upper and lower leg, box for knee
+    - Cyllinder for upper arm and box for elbow and wrist
+    - Cyllinder for upper portion of lower arm.
+    - Connect ankle to foot with wrist
+    - Observe body type and pose and simplify with the best shape
+** Balanced Poses
+   - Line dropped from center of torso/pelvis mass is center of gravity
+   - Primary support leg pushes up pelvis, and rib cage tips the other way
+*** TODO Convert balanced posed to unbalanced for dynamic action
+** Exaggerated Poses
+*** TODO Draw exaggerated poses from reference
+    - First, draw it the way you see it.
+    - Put tracing paper over the drawing and mannequinize the pose
+    - Put down another pice of tracing paper and exaggerate the forms
+      - Lightly draw gesture
+      - Draw exaggerated mannequin, rotating or repositioning forms as needed to
+        fit the new gesture.
+    - Put down piece of tracing paper and draw details, contours and anatomy
+** Proportions - Richer
+   - See Human Anatomy for Artists by Richer
+   - Head height is 1 unit
+   - Average person is 7.5 heads tall
+   - Head + torso = 4 units
+   - Top of femur to ground = 4 units
+   - Top and bottom overlap by 0.5 units
+   - Stretched out arms from fingertips to fingertips ~= 7.5 units
+   - Nipples are 1 unit down from chin
+   - Navel is 1 unit down from nipples (top of the glutes from the back)
+   - 1 unit down from navel is pubic bone or bottom of glutes
+   - Achromium process to ASIS = 2 units
+   - Shoulder width (with deltoid) = 2 units
+   - Femur = 2 units
+   - Achromium to epicondials = epicondials to knuckles
+   - Arm is 3 units
+** Proportions - Hale
+   - Size of cranium is the unit
+   - 1 unit down is pit of neck
+   - Rib cage is 2 units high and 2 wide
+   - Each clavicle is 1 unit
+   - Scapula is 1 x 1 unit
+   - 1 unit between bottom of 2 scapulae
+   - 1 down from rib cage is asis
+   - 1 down from asis is just past the bottom of the pelvis
+   - Half unit down from rib cage is top of pelvis
+   - Half way down from asis is top of pubic bone and top of great trochanter
+   - Femur is 3 units
+   - 3 down from bottom of femur is foot
+   - Humerous is 2
+   - lower arm is to knuckles is 2
+   - Hand is a bit longer than 1
+** Proportions - Loomis
+   - Same as Richer for top half
+   - Shoulders are 2 1/3 units wide
+   - 2 units down from crotch is bottom of knees
+   - 2 more heads to heels
+   - Torso cut in half at nipples
+   - Legs cut in half at bottom of knees
+   - Body cut in half at crotch
+   - Elbow aligns with navel
+   - Wrist aligns with crotch
+   - Nipples and navel are slightly lower on female
+** Measuring Techniques
+   - Measure with pencil
+     - Arm fully extended
+     - Head close to shoulder
+     - Close one eye
+     - Tip of pencil to thumb is the unit
+   - Find centerpoint and outer bounds (perimeter or envelope)
+   - Use plumb lines and horizontal lines to check proportions
+   - Get basic gesture lines in, focusing on correctness with as much gesture as
+     possible
+   - Use negative shapes to check correctness
+   - Triangulation :: relate a new point to at least 2 existing points
+** How to Check Your Measuring
+   - Need a feedback loop
+*** TODO practice correctness
+   - Digital
+     - photograph drawing
+     - Bring into photoshop
+     - Add drawing as layer over photo
+     - Make them the same size
+   - Traditional
+     - Put tracing paper over photo
+     - Mark top and bottom
+     - Draw figure
+     - Check proportions
+** How to Hold and Control your Pencil
+*** TODO Warm up by connecting dots, ellipses, curves, circles, line weight
+*** TODO Fill in a 6 x 6 square with a clean tone
+** The Basic Elements
+*** Shape
+    - Contour
+    - Simplify shapes in early stages
+*** Color
+**** Hue
+     - Rainbow color (color wheel). Warm colors share orange, cool colors share
+       blue.
+**** Chroma
+     - How pure or how gray the color is. High chroma is rainbow version, low
+       chroma is gray.
+     - To lower chroma (neutralize it) you can add grey, or add its complement
+       (the color opposite it on the color wheel).
+**** Value
+     - How light or dark a color is, usually on the 0 to 10 value scale.
+*** Edge
+    - Transition between 2 shapes.
+    - Sharp. Sudden transition between 2 shapes.
+    - Firm. Almost hard, but with small gradation.
+    - Soft. Very smooth transition. Long gradation.
+    - Lost. So soft you can't see it.
+*** TODO Analyze art and identify all the basic elements.
+** Shading Light and Form
+   - Terminator is the edge where light meets shadow. Tangent between light
+     source and form. Just before the plane starts to face away from the light.
+   - Form shadow is caused by planes turning away from light source.
+   - Cast shadow is one form blocking light from hitting another.
+   - Core shadow. Darker plane defining edge of shadow along terminator.
+   - Occlusion shadow is darker area of cast shadow where light has trouble
+     reaching.
+   - Halftone is after terminator. Planes that are partially hit by direct light.
+   - Center light is point where light points directly at form (not the
+     highlight). It's the plane facing the light source.
+   - Highlight is reflection of the light source. This moves depending on
+     observer's position. Light bouncing off surface of form and directly into
+     viewer's eye.
+
+* Vilppu Drawing Manual
+** Introduction
+   - To accomplish anything complex you need 1) a plan, 2) knowledge to put the
+     plan into effect, and 3) the spirit to carry it through to completion.
+   - Be emotional about your intellect and intellectual about your emotions.
+   - There are no rules, just tools.
+** Gesture
+*** TODO Practice looking at your subject, then drawing from memory
+*** TODO Practice drawing in your head
+*** TODO Gesture procedure
+    - Oval for head, imagine a central axis, dot on top, ellipse for eyes.
+    - Capture motion of neck, into upper body, down to the hips. This doesn't
+      represent an actual line on the figure, but the motion.
+    - Continue in the same way drawing the legs. One line must lead to the next
+      for a sense of movement and continuity.
+    - Add arms in same manner as legs.
+    - Never copy the model, but analyze it.
+** Spherical Forms
+*** TODO Draw spheres
+*** TODO Draw spheres connected to each other, and make them come alive.
+** Boxes
+*** TODO Draw boxes that are alive.
+* Log
+** Week 1
+*** <2020-10-12 Mon>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko how to draw gesture video
+**** DONE Practice gesture using ideas from the video
+**** DONE Vilppu drawing manual Intro and chapter 1
+**** DONE Practice ideas from Vilppu drawing manual
+*** <2020-10-13 Tue>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko 30 second gestures
+**** DONE Proko how to draw gesture - step by step
+**** DONE Vilppu drawing manual chapter 1
+*** <2020-10-14 Wed>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko 2 minute gestures
+**** DONE Proko bean video
+**** DONE 30 seconds beans
+*** <2020-10-15 Thu>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko bean examples videos
+**** DONE 30 seconds beans
+**** DONE Vilppu Drawing Manual
+*** <2020-10-16 Fri>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko structure basics
+**** DONE Draw cyllinders and boxes
+**** DONE Vilppu Drawing Manual chapter 1
+*** <2020-10-17 Sat>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko structure practice
+**** DONE Proko landmarks
+**** DONE Proko landmarks practice
+**** DONE Vilppu
+*** <2020-10-18 Sun>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko landmarks 3 and 4
+**** DONE Blog post
+** Week 2
+*** <2020-10-19 Mon>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko landmarks exercise
+**** DONE Proko robo bean video
+**** DONE Vilppu
+*** <2020-10-20 Tue>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko robo bean exercise. Try, watch try again.
+*** <2020-10-21 Wed>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko robo bean exercise. Try, watch try again.
+**** DONE Vilppu
+*** <2020-10-22 Thu>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko robo bean exercise. Try, watch try again.
+**** DONE Proko Mannequinization video
+*** <2020-10-23 Fri>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko robo bean exercise. Try, watch try again.
+*** <2020-10-24 Sat>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko robo bean practice
+**** DONE Proko mannequinization practice. Try, watch video, try again.
+**** DONE Proko critiques lesson
+*** <2020-10-25 Sun>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko robo bean practice
+**** DONE Proko mannequinization exercises
+**** DONE Blog post
+** Week 3
+*** <2020-10-26 Mon>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko mannequinization
+**** DONE Vilppu Chapter 3
+**** DONE Boxes
+*** <2020-10-27 Tue>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko mannequinization
+**** DONE Proko exaggerated poses lesson
+*** <2020-10-28 Wed>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko mannequinization
+**** DONE Proko proportions Richer
+**** DONE Proko proportions Hale
+*** <2020-10-29 Thu>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko mannequinization
+**** DONE Proko proportions Loomis
+**** DONE Proko measuring techniques
+**** DONE Proko how to check your measuring
+*** <2020-10-30 Fri>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko mannequinization (3 before and after)
+**** DONE Proko measuring practice
+*** <2020-10-31 Sat>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko mannequinization (3 before and after)
+**** DONE Proko linear layin basic shapes video
+**** DONE Prerequisites lessons
+*** <2020-11-01 Sun>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko measuring correctness exercise
+**** DONE Blog post
+** Week 4
+*** <2020-11-02 Mon>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko measuring correctness exercise
+**** DONE Proko linear layin
+*** <2020-11-03 Tue>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko measuring correctness exercise
+*** <2020-11-04 Wed>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko linear layin
+*** <2020-11-05 Thu>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko linear layin
+*** <2020-11-06 Fri>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko finished drawing
+*** <2020-11-07 Sat>
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko figure shading
+**** DONE Unit I retrospective
+**** DONE Plan Perspective I
+*** <2020-11-08 Sun>
+**** TODO Croquis cafe gesture session
+**** TODO Conan gesture session
+**** TODO Proko finish shading
+**** TODO Blog post
+     
