@@ -31,15 +31,26 @@
     - Make sure I know which materials I plan to study for the unit.
     - Create a rough 4 week plan.
 *** End
-    - Blog post summarizing where I started and where I am now with respect to
-      the unit's topic.
+    - Retrospective blog post summarizing where I started and where I am now
+      with respect to the unit's topic.
 ** Term
 *** Begin
     - Assess the units for this term and make any changes if necessary.
 *** End
     - Evaluate the way I'm doing things and make adjustments as necessary.
 
-
+      
+* Unit Template
+*** Video -
+*** Book -
+*** Backup -
+*** Art Parent -
+*** Challenge -
+*** Inspiration -
+*** Week 1
+*** Week 2
+*** Week 3
+*** Week 4
 * Term 1
 ** Figure Drawing I
 *** Video - Proko Figure Drawing Fundamentals
@@ -77,14 +88,35 @@
     - Conan shaded
 ** Perspective I
 *** Video - Marshall Vandruff's perspective course
+*** Video - drawabox.com lesson 4
 *** Book - Perspective Drawing Handbook by Joseph D'Amelio
-*** Backup - Drawabox lesson 4
-*** Art Parent - Medieval cities?
-*** Challenge - 250 cyllinders
+*** Art Parent - John Buscema for medieval cities and castles
+*** Challenge - drawabox.com 250 cylinders
+*** Inspiration - The Artist's Way
 *** Week 1
+    - cylinders (20 min. per day)
+    - Marshall Vandruff perspective lectures 1-3
+    - drawabox (1 hour per day)
+    - D'Amelio book (1 hour per day)
+    - Original drawing on Saturday
 *** Week 2
+    - cylinders (20 min.)
+    - Marshall Vandruff perspective lectures 4-6
+    - drawabox (1 hour)
+    - D'Amelio book (1 hour per day)
+    - Original drawing on Saturday
 *** Week 3
+    - cylinders (20 min.)
+    - Marshall Vandruff perspective lectures 7-9
+    - drawabox (1 hour)
+    - D'Amelio book (1 hour per day)
+    - Original drawing on Saturday
 *** Week 4
+    - cylinders (20 min.)
+    - Marshall Vandruff perspective lectures 10-12
+    - drawabox (1 hour)
+    - D'Amelio book (1 hour per day)
+    - Original drawing on Saturday
 ** Composition and Storytelling I
 *** Video -
 *** Book -
