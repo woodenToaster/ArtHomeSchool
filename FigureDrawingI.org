@@ -394,8 +394,8 @@
 **** DONE Unit I retrospective
 **** DONE Plan Perspective I
 *** <2020-11-08 Sun>
-**** TODO Croquis cafe gesture session
-**** TODO Conan gesture session
-**** TODO Proko finish shading
-**** TODO Blog post
+**** DONE Croquis cafe gesture session
+**** DONE Conan gesture session
+**** DONE Proko finish shading
+**** DONE Blog post
      

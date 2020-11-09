@@ -7,6 +7,10 @@
 * Perspective Drawing Handbook - Joseph D'Amelio
 * Log
 ** Week 1
+*** TODO 9 cylinders
+*** TODO drawabox lesson 4
+*** TODO Marshall's perspective lecture 1
+*** TODO D'Amelio book
 ** Week 2
 ** Week 3
 ** Week 4
