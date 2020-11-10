@@ -4,13 +4,81 @@
 #+STARTUP: nologdone
 
 * Marshall Vandruff's Perspective Lectures
+** 01 - Intro
+   - Oblique lines are lines that are neither right angles nor parallel.
+     - Obtuse angle is > 90 degrees
+     - Acute angle is < 90 degrees
+   - 5 Ways to Create the Illusion of depth
+     - Diminution
+     - Foreshortening
+     - Convergence of parallel lines
+     - Aerial or Atmospheric perspective
+     - Overlapping
+   - Three dimensions
+     - x is left and right
+     - y is up and down
+     - z is front and back
+     - In a front or back view, z is completely foreshortened
+     - In a top or bottom view, y is completely foreshortened
+     - In a side view, x is completely foreshortened
+     - Oblique view is another term for 3/4 view
+*** TODO Draw cubes at every angle
+      - Start with cubes
+      - Next, move to everyday objects reduced to boxes
+      - Build up the complex forms in the box, relating every line to the box
+      - Compare draft views (top, side, and front) with oblique view
+      - Simplify complexity by using simple forms
+
 * Perspective Drawing Handbook - Joseph D'Amelio
+** Chapter 1 - Fundamentals
+   - Diminution - Objects appear smaller as their distance from the viewer
+     increases
+   - Foreshortening - Lines or surfaces parallel to the observer's face show
+     their maximum size. As they are revolved away from the observer, they
+     appear increasingly shorter.
+   - Convergence - Lines which are parallel in reality appear to converge as
+     they recede from the observer. Diminution plus foreshortening.
+   - Overlapping - closer objects overlap more distant objects.
+   - Shade and Shadows - the way light falls on a 3d object gives it its form
+   - Color and value perspective - color and values become grayer, weaker and
+     more neutral as their distance from the observer increases.
+   - Detail and Pattern Perspective - details and textures become fuzzier when
+     far away.
+   - Focus Effect - If they eye is focused on a distant object, the foreground
+     becomes blurred, and vice versa. This technique is rarely used.
+
 * Log
 ** Week 1
-*** TODO 9 cylinders
-*** TODO drawabox lesson 4
-*** TODO Marshall's perspective lecture 1
-*** TODO D'Amelio book
+*** <2020-11-09 Mon>
+#+BEGIN: clocktable :scope file :maxlevel 2
+#+CAPTION: Clock summary at [2020-11-09 Mon 21:36]
+| Headline     | Time   |      |
+|--------------+--------+------|
+| *Total time* | *2:41* |      |
+|--------------+--------+------|
+| Log          | 2:41   |      |
+| \_  Week 1   |        | 2:41 |
+#+END:
+**** DONE cylinders 20 min
+     :LOGBOOK:
+     CLOCK: [2020-11-09 Mon 7:45]--[2020-11-09 Mon 8:05] =>  0:20
+     :END:
+**** DONE drawabox lesson 4 overview
+     :LOGBOOK:
+     CLOCK: [2020-11-09 Mon 18:37]--[2020-11-09 Mon 19:35] =>  0:58
+     :END:
+**** DONE Marshall's perspective lecture 1
+     :LOGBOOK:
+     CLOCK: [2020-11-09 Mon 19:45]--[2020-11-09 Mon 20:21] =>  0:36
+     :END:
+**** DONE D'Amelio book chapter 1
+     :LOGBOOK:
+     CLOCK: [2020-11-09 Mon 20:44]--[2020-11-09 Mon 21:11] =>  0:27
+     :END:
+**** DONE draw boxes
+     :LOGBOOK:
+     CLOCK: [2020-11-09 Mon 21:11]--[2020-11-09 Mon 21:31] =>  0:20
+     :END:
 ** Week 2
 ** Week 3
 ** Week 4
