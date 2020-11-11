@@ -28,6 +28,11 @@
       - Build up the complex forms in the box, relating every line to the box
       - Compare draft views (top, side, and front) with oblique view
       - Simplify complexity by using simple forms
+* Marshall Vandruff's Perspective Assignments
+** TODO Form Analysis 1 - Box it Up
+   - Simplify a 3d form in a 3/4 view and reduce it only to boxes.
+** Form Analysis 2 - Draft and Oblique
+** Form Analysis 3 - New Position from Imagination
 
 * Perspective Drawing Handbook - Joseph D'Amelio
 ** Chapter 1 - Fundamentals
@@ -46,18 +51,38 @@
      far away.
    - Focus Effect - If they eye is focused on a distant object, the foreground
      becomes blurred, and vice versa. This technique is rarely used.
+** Chapter 3 - How We See for Perspective Drawing
+   - Central visual ray is center and focus of cone of vision, which is 45-60
+     degrees.
+   - Picture plane is between viewer and subject and is perpendicular to central
+     visual ray.
+   - Canvas or piece of paper is the picture plane.
+** Chapter 4 - Why Appearance Differs from Reality
+   - Diminution happens because of the way lines of sight hit the picture plane.
+   - Convergance happens because lines of sight of the far ends appear closer
+     together on the picture plane the the near ends.
+   - Foreshortening happens because lines of sight get closer together on the
+     picture plane as an object points toward or away from the viewer.
+   - Overlapping objects prevent lines of sight from hitting the picture plane.
 
 * Log
 ** Week 1
-*** <2020-11-09 Mon>
-#+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-09 Mon 21:36]
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2020-11-10 Tue 21:08]
 | Headline     | Time   |      |
 |--------------+--------+------|
-| *Total time* | *2:41* |      |
+| *Total time* | *5:37* |      |
 |--------------+--------+------|
-| Log          | 2:41   |      |
-| \_  Week 1   |        | 2:41 |
+| \_  Week 1   |        | 5:37 |
+#+END:
+
+*** <2020-11-09 Mon>
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2020-11-10 Tue 18:04]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *2:41* |
+|--------------+--------|
 #+END:
 **** DONE cylinders 20 min
      :LOGBOOK:
@@ -78,6 +103,31 @@
 **** DONE draw boxes
      :LOGBOOK:
      CLOCK: [2020-11-09 Mon 21:11]--[2020-11-09 Mon 21:31] =>  0:20
+     :END:
+*** <2020-11-10 Tue>
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2020-11-10 Tue 21:07]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *2:56* |
+|--------------+--------|
+#+END:
+**** DONE cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-10 Tue 07:45]--[2020-11-10 Tue 08:04] =>  0:19
+     :END:
+**** DONE drawabox lesson 4
+     :LOGBOOK:
+     CLOCK: [2020-11-10 Tue 18:11]--[2020-11-10 Tue 19:11] =>  1:00
+     :END:
+**** DONE Marshall perspective q&a
+     :LOGBOOK:
+     CLOCK: [2020-11-10 Tue 20:44]--[2020-11-10 Tue 21:07] =>  0:23
+     CLOCK: [2020-11-10 Tue 19:18]--[2020-11-10 Tue 20:04] =>  0:46
+     :END:
+**** DONE D'Amelio book chapters 2-4
+     :LOGBOOK:
+     CLOCK: [2020-11-10 Tue 20:15]--[2020-11-10 Tue 20:43] =>  0:28
      :END:
 ** Week 2
 ** Week 3
