@@ -44,6 +44,7 @@
 *** Salgood Sam website
 *** How Pictures Work - Bang
 *** The Practice and Science of Drawing - Speed
+*** Drawing Course - Charles Bargue
 *** DONE Krash Course - Greg Capullo
 *** DONE Wally Wood - 22 panels that always work
 ** Figure Drawing
@@ -127,7 +128,7 @@
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
 *** TODO The Artist's Way
-*** TODO History of Art - Janson
+*** Fishing for Elephants
 *** The Surrender Expiremnet - Alan Singer
 *** As a Man Thinketh - James Allen
 *** The War of Art
@@ -136,8 +137,9 @@
 *** Drawing from the Right Side of the Brain - Betty Edwards
 *** Mastery: Greene
 *** Mindworks - Gary van Warmerdam
-*** Gardner's Art Through the Ages
 *** Chasing Love - Ray Bradberry
+*** DONE Gardner's Art Through the Ages
+*** DONE History of Art - Janson
 *** DONE Art and Fear
 *** DONE The Happiness Trap (depression)
 *** DONE The Art Spirit - Robert Henri (Hoopla)

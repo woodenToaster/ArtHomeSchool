@@ -28,6 +28,12 @@
       - Build up the complex forms in the box, relating every line to the box
       - Compare draft views (top, side, and front) with oblique view
       - Simplify complexity by using simple forms
+** 02 - Right Angles
+   - First step of any view (window of the viewing plane) is to determine the
+     POV height, or horizon line.
+   - Horizon line is same as eye level.
+   - Higher eye level means looking down on things, and vice versa
+   - Station point is eye position on the horizontal axis
 * Marshall Vandruff's Perspective Assignments
 ** TODO Form Analysis 1 - Box it Up
    - Simplify a 3d form in a 3/4 view and reduce it only to boxes.
@@ -64,16 +70,25 @@
    - Foreshortening happens because lines of sight get closer together on the
      picture plane as an object points toward or away from the viewer.
    - Overlapping objects prevent lines of sight from hitting the picture plane.
+** Chapter 5 - Vanishing Points and Eye Level
+   - Receding parallel lines will appear to meet at a vanishing point
+   - Each set of parallel lines has its own vanishing point
+   - All horizontal lines (parallel to the ground in reality) converge to a
+     single horizontal vanishing line at eye level.
+   - Observer's eye level dictates the location of the horizon line.
+   - The vanishing point for any set of parallel lines is the point at which the
+     sight line parallel to the set intersects the picture plane.
+   - High eye level is looking down, low eye level is looking up
 
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-10 Tue 21:08]
+#+CAPTION: Clock summary at [2020-11-11 Wed 21:11]
 | Headline     | Time   |      |
 |--------------+--------+------|
-| *Total time* | *5:37* |      |
+| *Total time* | *8:15* |      |
 |--------------+--------+------|
-| \_  Week 1   |        | 5:37 |
+| \_  Week 1   |        | 8:15 |
 #+END:
 
 *** <2020-11-09 Mon>
@@ -128,6 +143,35 @@
 **** DONE D'Amelio book chapters 2-4
      :LOGBOOK:
      CLOCK: [2020-11-10 Tue 20:15]--[2020-11-10 Tue 20:43] =>  0:28
+     :END:
+*** <2020-11-11 Wed>
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2020-11-11 Wed 21:25]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *2:49* |
+|--------------+--------|
+#+END:
+
+**** DONE cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-11 Wed 07:48]--[2020-11-11 Wed 08:10] =>  0:22
+     :END:
+**** DONE drawabox louse demo, 1 page of organic forms
+     :LOGBOOK:
+     CLOCK: [2020-11-11 Wed 18:11]--[2020-11-11 Wed 19:11] =>  1:00
+     :END:
+**** DONE Marshall perspective lecture 2
+     :LOGBOOK:
+     CLOCK: [2020-11-11 Wed 19:15]--[2020-11-11 Wed 19:51] =>  0:36
+     :END:
+**** DONE D'Amelio book
+     :LOGBOOK:
+     CLOCK: [2020-11-11 Wed 20:30]--[2020-11-11 Wed 21:10] =>  0:40
+     :END:
+**** DONE drawabox black widow
+     :LOGBOOK:
+     CLOCK: [2020-11-11 Wed 21:14]--[2020-11-11 Wed 21:25] =>  0:11
      :END:
 ** Week 2
 ** Week 3
