@@ -79,16 +79,19 @@
    - The vanishing point for any set of parallel lines is the point at which the
      sight line parallel to the set intersects the picture plane.
    - High eye level is looking down, low eye level is looking up
+** Chapter 6 - Drawing the Cube
+   - Cubes oriented in many directions result in many sets of converging lines
+     and vanishing points on the horizon line.
 
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-11 Wed 21:11]
-| Headline     | Time   |      |
-|--------------+--------+------|
-| *Total time* | *8:15* |      |
-|--------------+--------+------|
-| \_  Week 1   |        | 8:15 |
+#+CAPTION: Clock summary at [2020-11-12 Thu 21:10]
+| Headline     | Time    |       |
+|--------------+---------+-------|
+| *Total time* | *10:31* |       |
+|--------------+---------+-------|
+| \_  Week 1   |         | 10:31 |
 #+END:
 
 *** <2020-11-09 Mon>
@@ -173,6 +176,28 @@
      :LOGBOOK:
      CLOCK: [2020-11-11 Wed 21:14]--[2020-11-11 Wed 21:25] =>  0:11
      :END:
+*** <2020-11-12 Thu>
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2020-11-12 Thu 21:10]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *2:05* |
+|--------------+--------|
+#+END:
+
+**** DONE cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-12 Thu 07:49]--[2020-11-12 Thu 08:08] =>  0:19
+     :END:
+**** DONE drawabox fly, scorpion and short demos
+     :LOGBOOK:
+     CLOCK: [2020-11-12 Thu 19:05]--[2020-11-12 Thu 20:23] =>  1:18
+     :END:
+**** DONE D'Amelio book chapter 6
+     :LOGBOOK:
+     CLOCK: [2020-11-12 Thu 20:33]--[2020-11-12 Thu 21:01] =>  0:28
+     :END:
+*** 
 ** Week 2
 ** Week 3
 ** Week 4
