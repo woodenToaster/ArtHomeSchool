@@ -28,12 +28,17 @@
       - Build up the complex forms in the box, relating every line to the box
       - Compare draft views (top, side, and front) with oblique view
       - Simplify complexity by using simple forms
-** 02 - Right Angles
+** 02 - Right Angles 1
    - First step of any view (window of the viewing plane) is to determine the
      POV height, or horizon line.
    - Horizon line is same as eye level.
    - Higher eye level means looking down on things, and vice versa
    - Station point is eye position on the horizontal axis
+** 03 - Right Angles 2
+   - Proximity is how close the observer is to an object
+   - Shorter focal length means more acute viewing cone
+   - The vanishing points get closer together as the observer gets closer to the
+     object.
 * Marshall Vandruff's Perspective Assignments
 ** TODO Form Analysis 1 - Box it Up
    - Simplify a 3d form in a 3/4 view and reduce it only to boxes.
@@ -82,16 +87,21 @@
 ** Chapter 6 - Drawing the Cube
    - Cubes oriented in many directions result in many sets of converging lines
      and vanishing points on the horizon line.
+** Chapter 7 - When and Why 1 and 2 Point Perspective
+** Chapter 8 - More on Looking Up, Down and Straight Ahead
+   - Things usually seen from below or above should be drawn with converging
+     verticals.
+** Chapter 9 - Perspective Distortion
 
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-12 Thu 21:10]
+#+CAPTION: Clock summary at [2020-11-13 Fri 21:18]
 | Headline     | Time    |       |
 |--------------+---------+-------|
-| *Total time* | *10:31* |       |
+| *Total time* | *12:45* |       |
 |--------------+---------+-------|
-| \_  Week 1   |         | 10:31 |
+| \_  Week 1   |         | 12:45 |
 #+END:
 
 *** <2020-11-09 Mon>
@@ -196,6 +206,31 @@
 **** DONE D'Amelio book chapter 6
      :LOGBOOK:
      CLOCK: [2020-11-12 Thu 20:33]--[2020-11-12 Thu 21:01] =>  0:28
+     :END:
+*** <2020-11-13 Fri>
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2020-11-13 Fri 21:18]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *2:14* |
+|--------------+--------|
+#+END:
+
+**** DONE cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-13 Fri 07:47]--[2020-11-13 Fri 08:07] =>  0:20
+     :END:
+**** DONE drawabox
+     :LOGBOOK:
+     CLOCK: [2020-11-13 Fri 18:52]--[2020-11-13 Fri 19:52] =>  1:00
+     :END:
+**** DONE Marshall Lecture
+     :LOGBOOK:
+     CLOCK: [2020-11-13 Fri 20:05]--[2020-11-13 Fri 20:37] =>  0:32
+     :END:
+**** DONE D'Amelio
+     :LOGBOOK:
+     CLOCK: [2020-11-13 Fri 20:56]--[2020-11-13 Fri 21:18] =>  0:22
      :END:
 *** 
 ** Week 2
