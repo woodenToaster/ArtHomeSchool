@@ -6,19 +6,22 @@
 ** Mortal Shell
 ** Last of Us 2
 ** Ghost of Tsushima
+** Spider Man: Miles Morales
 ** Grim Dawn
 ** Divinity 2
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
-** Arches 88 silk screen paper (too expensive)
+** Ink sketchbook
+** Strathmore smooth newsprint
+** Conte 1710 B
 ** Blair low odor spray fix
 ** 5.6 mm lead
 ** Conte crayon
 ** Prismacolor pencil
 ** Parallel Glider
 ** Stillman and Birn Zeta Series sketchbook
-** Guache or white ink
+** white ink
 ** T-square
 ** Artist's mannequin
 ** Inking triangle
@@ -30,6 +33,7 @@
 ** Wacom Intuos Pro Med Drawing Tablet
 ** Canon Pixma iX6820 13x19 cardstock printer - $189
 ** HP OfficeJet Pro 7740 11x17 printer scanner 
+** Arches 88 silk screen paper (too expensive)
 * Art Books
 ** General
 *** TODO Drawing Lessons from the Great Masters - Robert Hale
@@ -128,6 +132,7 @@
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
 *** TODO The Artist's Way
+*** Eternal Truths for Every Artist
 *** Fishing for Elephants
 *** The Surrender Expiremnet - Alan Singer
 *** As a Man Thinketh - James Allen
@@ -176,14 +181,17 @@
 *** Basics
 ** Jimmy Reyes
 ** The Process
+** Dorian Iton - Light on Form
+** Ron Lemen - Color wheel exercises
 ** Earl Grey - Panellology
 * Comics
+** TODO Blankets
 ** Berserk
 ** Sandman
 ** X-Men
    - TODO Dawn of X
+   - TODO God loves man kills
    - Age of Apocalypse
-   - God loves man kills
    - X-cutioner's song
    - lifedeath
    - Grant Morrison New X-Men
@@ -208,8 +216,6 @@
 ** Silver Surfer Parable
 ** 4 Kids walk into a bank
 ** Daytripper
-** Blankets
-** Marvels (hoopla)
 ** This One Summer
 * Art to Study
 ** Comics

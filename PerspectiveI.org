@@ -92,16 +92,22 @@
    - Things usually seen from below or above should be drawn with converging
      verticals.
 ** Chapter 9 - Perspective Distortion
+   - Distortion occurs when an object is outside the cone of vision
+   - Distortion can be fixed by placing vanishing points farther apart
+     - Emulates stepping back from the picture plane, which provides a wider
+       cone of vision.
+** Chapter 10 - Determining Heights and Widths
+** Chapter 11 - Determining Depths
 
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-13 Fri 21:18]
+#+CAPTION: Clock summary at [2020-11-14 Sat 20:32]
 | Headline     | Time    |       |
 |--------------+---------+-------|
-| *Total time* | *12:45* |       |
+| *Total time* | *16:26* |       |
 |--------------+---------+-------|
-| \_  Week 1   |         | 12:45 |
+| \_  Week 1   |         | 16:26 |
 #+END:
 
 *** <2020-11-09 Mon>
@@ -231,6 +237,31 @@
 **** DONE D'Amelio
      :LOGBOOK:
      CLOCK: [2020-11-13 Fri 20:56]--[2020-11-13 Fri 21:18] =>  0:22
+     :END:
+*** <2020-11-14 Sat>
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2020-11-14 Sat 20:32]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *3:41* |
+|--------------+--------|
+#+END:
+
+**** DONE Conan castle
+     :LOGBOOK:
+     CLOCK: [2020-11-14 Sat 09:50]--[2020-11-14 Sat 11:45] =>  1:55
+     :END:
+**** DONE Cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-14 Sat 14:15]--[2020-11-14 Sat 15:11] =>  0:56
+     :END:
+**** DONE drawabox insects
+     :LOGBOOK:
+     CLOCK: [2020-11-14 Sat 18:38]--[2020-11-14 Sat 18:57] =>  0:19
+     :END:
+**** DONE D'Amelio chapter 9
+     :LOGBOOK:
+     CLOCK: [2020-11-14 Sat 19:27]--[2020-11-14 Sat 19:58] =>  0:31
      :END:
 *** 
 ** Week 2

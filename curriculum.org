@@ -39,6 +39,12 @@
 *** End
     - Evaluate the way I'm doing things and make adjustments as necessary.
 
+* How to study
+** Copying
+** Book learning
+** Reference material
+** Master studies
+** Committing concepts to memory (repitition)
       
 * Unit Template
 *** Video -
