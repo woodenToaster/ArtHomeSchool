@@ -39,11 +39,28 @@
    - Shorter focal length means more acute viewing cone
    - The vanishing points get closer together as the observer gets closer to the
      object.
+** 04 - Right Angles 3
+   - Interior corners recess into space. Exterior corners come towards the
+     observer.
+   - Structural approach means seeing hidden lines to be able to draw through
+     the forms to solve problems.
+   - Don't use spatial integrity to the detriment of compositional integrity.
+     Start with comp study where you don't think about perspective.
+   - Don't let perspective rules turn your figures into robots. Start with
+     gesture to keep the flow.
+** 05 - Circles and Ellipses 1
 * Marshall Vandruff's Perspective Assignments
 ** TODO Form Analysis 1 - Box it Up
    - Simplify a 3d form in a 3/4 view and reduce it only to boxes.
-** Form Analysis 2 - Draft and Oblique
-** Form Analysis 3 - New Position from Imagination
+** TODO Form Analysis 2 - Draft and Oblique
+   - Choose another object. Draw 3 draft views (one directly looking at x, 1 at
+     y, and 1 at z), making sure points align on each view, then eyeball and
+     draw a 3/4 view.
+** TODO Form Analysis 3 - New Position from Imagination
+   - Redraw the object from assignment 1 but imagining it in a new position.
+** TODO Cube Contraption
+   - Keep cutting away at a large cube to form a cube contraption
+** TODO Collect Inspirations
 
 * Perspective Drawing Handbook - Joseph D'Amelio
 ** Chapter 1 - Fundamentals
@@ -98,26 +115,64 @@
        cone of vision.
 ** Chapter 10 - Determining Heights and Widths
 ** Chapter 11 - Determining Depths
+   - Use diagonals to locate the midpoint of any rectangle or square in
+     perspective
+   - When dividing into non power of 2 spaces, horizontal division can be on any
+     scale. A line from the last point through the far corner of the object to
+     the horizon line gives the special vanishing point.
+   - Horizontal line with special vanishing point also works for uneven divisions
+   - Any design or pattern can be reproduced in perspective by using a grid that
+     locates its important points.
 
 * Log
 ** Week 1
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-14 Sat 20:32]
-| Headline     | Time    |       |
-|--------------+---------+-------|
-| *Total time* | *16:26* |       |
-|--------------+---------+-------|
-| \_  Week 1   |         | 16:26 |
+#+BEGIN: clocktable :scope subtree :maxlevel 4
+#+CAPTION: Clock summary at [2020-11-15 Sun 18:46]
+| Headline                                       | Time    |       |      |      |
+|------------------------------------------------+---------+-------+------+------|
+| *Total time*                                   | *19:08* |       |      |      |
+|------------------------------------------------+---------+-------+------+------|
+| \_  Week 1                                     |         | 19:08 |      |      |
+| \_    <2020-11-09 Mon>                         |         |       | 2:41 |      |
+| \_      cylinders 20 min                       |         |       |      | 0:20 |
+| \_      drawabox lesson 4 overview             |         |       |      | 0:58 |
+| \_      Marshall's perspective lecture 1       |         |       |      | 0:36 |
+| \_      D'Amelio book chapter 1                |         |       |      | 0:27 |
+| \_      draw boxes                             |         |       |      | 0:20 |
+| \_    <2020-11-10 Tue>                         |         |       | 2:56 |      |
+| \_      cylinders                              |         |       |      | 0:19 |
+| \_      drawabox lesson 4                      |         |       |      | 1:00 |
+| \_      Marshall perspective q&a               |         |       |      | 1:09 |
+| \_      D'Amelio book chapters 2-4             |         |       |      | 0:28 |
+| \_    <2020-11-11 Wed>                         |         |       | 2:49 |      |
+| \_      cylinders                              |         |       |      | 0:22 |
+| \_      drawabox louse demo, 1 page of...      |         |       |      | 1:00 |
+| \_      Marshall perspective lecture 2         |         |       |      | 0:36 |
+| \_      D'Amelio book                          |         |       |      | 0:40 |
+| \_      drawabox black widow                   |         |       |      | 0:11 |
+| \_    <2020-11-12 Thu>                         |         |       | 2:05 |      |
+| \_      cylinders                              |         |       |      | 0:19 |
+| \_      drawabox fly, scorpion and short demos |         |       |      | 1:18 |
+| \_      D'Amelio book chapter 6                |         |       |      | 0:28 |
+| \_    <2020-11-13 Fri>                         |         |       | 2:14 |      |
+| \_      cylinders                              |         |       |      | 0:20 |
+| \_      drawabox                               |         |       |      | 1:00 |
+| \_      Marshall Lecture                       |         |       |      | 0:32 |
+| \_      D'Amelio                               |         |       |      | 0:22 |
+| \_    <2020-11-14 Sat>                         |         |       | 3:41 |      |
+| \_      Conan castle                           |         |       |      | 1:55 |
+| \_      Cylinders                              |         |       |      | 0:56 |
+| \_      drawabox insects                       |         |       |      | 0:19 |
+| \_      D'Amelio chapter 9                     |         |       |      | 0:31 |
+| \_    <2020-11-15 Sun>                         |         |       | 2:42 |      |
+| \_      Croquis Cafe                           |         |       |      | 0:20 |
+| \_      Cylinders                              |         |       |      | 0:27 |
+| \_      drawabox insects                       |         |       |      | 0:26 |
+| \_      D'Amelio book                          |         |       |      | 0:50 |
+| \_      Marshall lecture 4                     |         |       |      | 0:39 |
 #+END:
 
 *** <2020-11-09 Mon>
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-10 Tue 18:04]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *2:41* |
-|--------------+--------|
-#+END:
 **** DONE cylinders 20 min
      :LOGBOOK:
      CLOCK: [2020-11-09 Mon 7:45]--[2020-11-09 Mon 8:05] =>  0:20
@@ -139,13 +194,6 @@
      CLOCK: [2020-11-09 Mon 21:11]--[2020-11-09 Mon 21:31] =>  0:20
      :END:
 *** <2020-11-10 Tue>
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-10 Tue 21:07]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *2:56* |
-|--------------+--------|
-#+END:
 **** DONE cylinders
      :LOGBOOK:
      CLOCK: [2020-11-10 Tue 07:45]--[2020-11-10 Tue 08:04] =>  0:19
@@ -164,14 +212,6 @@
      CLOCK: [2020-11-10 Tue 20:15]--[2020-11-10 Tue 20:43] =>  0:28
      :END:
 *** <2020-11-11 Wed>
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-11 Wed 21:25]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *2:49* |
-|--------------+--------|
-#+END:
-
 **** DONE cylinders
      :LOGBOOK:
      CLOCK: [2020-11-11 Wed 07:48]--[2020-11-11 Wed 08:10] =>  0:22
@@ -193,14 +233,6 @@
      CLOCK: [2020-11-11 Wed 21:14]--[2020-11-11 Wed 21:25] =>  0:11
      :END:
 *** <2020-11-12 Thu>
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-12 Thu 21:10]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *2:05* |
-|--------------+--------|
-#+END:
-
 **** DONE cylinders
      :LOGBOOK:
      CLOCK: [2020-11-12 Thu 07:49]--[2020-11-12 Thu 08:08] =>  0:19
@@ -214,14 +246,6 @@
      CLOCK: [2020-11-12 Thu 20:33]--[2020-11-12 Thu 21:01] =>  0:28
      :END:
 *** <2020-11-13 Fri>
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-13 Fri 21:18]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *2:14* |
-|--------------+--------|
-#+END:
-
 **** DONE cylinders
      :LOGBOOK:
      CLOCK: [2020-11-13 Fri 07:47]--[2020-11-13 Fri 08:07] =>  0:20
@@ -239,14 +263,6 @@
      CLOCK: [2020-11-13 Fri 20:56]--[2020-11-13 Fri 21:18] =>  0:22
      :END:
 *** <2020-11-14 Sat>
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2020-11-14 Sat 20:32]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *3:41* |
-|--------------+--------|
-#+END:
-
 **** DONE Conan castle
      :LOGBOOK:
      CLOCK: [2020-11-14 Sat 09:50]--[2020-11-14 Sat 11:45] =>  1:55
@@ -263,7 +279,34 @@
      :LOGBOOK:
      CLOCK: [2020-11-14 Sat 19:27]--[2020-11-14 Sat 19:58] =>  0:31
      :END:
-*** 
+*** <2020-11-15 Sun>
+**** DONE Croquis Cafe
+     :LOGBOOK:
+     CLOCK: [2020-11-15 Sun 09:40]--[2020-11-15 Sun 10:00] =>  0:20
+     :END:
+**** DONE Cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-15 Sun 10:12]--[2020-11-15 Sun 10:39] =>  0:27
+     :END:
+**** DONE drawabox insects
+     :LOGBOOK:
+     CLOCK: [2020-11-15 Sun 10:41]--[2020-11-15 Sun 11:07] =>  0:26
+     :END:
+**** DONE D'Amelio book
+     :LOGBOOK:
+     CLOCK: [2020-11-15 Sun 11:09]--[2020-11-15 Sun 11:59] =>  0:50
+     :END:
+**** DONE Marshall lecture 4
+     :LOGBOOK:
+     CLOCK: [2020-11-15 Sun 13:01]--[2020-11-15 Sun 13:40] =>  0:39
+     :END:
+**** DONE blog
 ** Week 2
-** Week 3
-** Week 4
+#+BEGIN: clocktable :scope subtree :maxlevel 4
+#+CAPTION: Clock summary at [2020-11-15 Sun 18:48]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:00* |
+#+END:
+
+*** 
