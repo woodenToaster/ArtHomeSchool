@@ -49,6 +49,9 @@
    - Don't let perspective rules turn your figures into robots. Start with
      gesture to keep the flow.
 ** 05 - Circles and Ellipses 1
+   - Degree of an ellipse is how far back (or forward) in view a circle is
+     tilted. From 0 (horizontal) to 90 (vertical).
+   - Minor axis of ellipse is the shorter line.
 * Marshall Vandruff's Perspective Assignments
 ** TODO Form Analysis 1 - Box it Up
    - Simplify a 3d form in a 3/4 view and reduce it only to boxes.
@@ -123,6 +126,19 @@
    - Horizontal line with special vanishing point also works for uneven divisions
    - Any design or pattern can be reproduced in perspective by using a grid that
      locates its important points.
+** Chapter 12 - Inclined Planes Introduction
+   - Vertical planes use a vertical vanishing line to contain vanishing point
+     just as horizontal planes use the horizon line. They also converge to a
+     point directly above where the horizontal vanishing point would be.
+** Chapter 13 - Circles, Cylinders and Cones
+   - Circles foreshorten and appear as ellipses when not parallel to observer
+   - The center of a circle in perspective does not lie on ellipse's major axis,
+     but farther away.
+   - Tangent points are at diameter lines, not minor axis
+   - Center line of a cylinder is an extension of the ellipses' minor axes and
+     at right angles to their major axes.
+   - Opposite points of tangency terminate diameter lines through circle's
+     center
 
 * Log
 ** Week 1
@@ -303,10 +319,45 @@
 **** DONE blog
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 4
-#+CAPTION: Clock summary at [2020-11-15 Sun 18:48]
-| Headline     | Time   |
-|--------------+--------|
-| *Total time* | *0:00* |
+#+CAPTION: Clock summary at [2020-11-16 Mon 21:36]
+| Headline                    | Time   |      |      |      |
+|-----------------------------+--------+------+------+------|
+| *Total time*                | *3:08* |      |      |      |
+|-----------------------------+--------+------+------+------|
+| \_  Week 2                  |        | 3:08 |      |      |
+| \_    <2020-11-16 Mon>      |        |      | 3:08 |      |
+| \_      Cylinders           |        |      |      | 0:51 |
+| \_      Marshall lecture 5  |        |      |      | 0:29 |
+| \_      D'Amelio chapter 12 |        |      |      | 0:51 |
+| \_      Drawabox insects    |        |      |      | 0:21 |
+| \_      Boxify an object    |        |      |      | 0:08 |
+| \_      Watts perspective   |        |      |      | 0:28 |
 #+END:
 
+*** <2020-11-16 Mon>
+**** DONE Cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-16 Mon 18:30]--[2020-11-16 Mon 19:03] =>  0:33
+     CLOCK: [2020-11-16 Mon 07:50]--[2020-11-16 Mon 08:08] =>  0:18
+     :END:
+**** DONE Marshall lecture 5
+     :LOGBOOK:
+     CLOCK: [2020-11-16 Mon 19:10]--[2020-11-16 Mon 19:39] =>  0:29
+     :END:
+**** DONE D'Amelio chapter 12
+     :LOGBOOK:
+     CLOCK: [2020-11-16 Mon 19:42]--[2020-11-16 Mon 20:33] =>  0:51
+     :END:
+**** DONE Drawabox insects
+     :LOGBOOK:
+     CLOCK: [2020-11-16 Mon 20:36]--[2020-11-16 Mon 20:57] =>  0:21
+     :END:
+**** DONE Boxify an object
+     :LOGBOOK:
+     CLOCK: [2020-11-16 Mon 20:59]--[2020-11-16 Mon 21:07] =>  0:08
+     :END:
+**** DONE Watts perspective
+     :LOGBOOK:
+     CLOCK: [2020-11-16 Mon 21:07]--[2020-11-16 Mon 21:35] =>  0:28
+     :END:
 *** 
