@@ -53,8 +53,17 @@
      tilted. From 0 (horizontal) to 90 (vertical).
    - Minor axis of ellipse is the shorter line.
 ** 06 - Circles and Ellipses 2
-   - Center of ellipse vs center of circle.
+   - Center of ellipse is a bit in front of center of circle.
    - Major axis of a cylinder is the minor axis of the ellipse cap
+** 07 - Circles and Ellipses 3
+   - Divide up a circle in perspective by treating ellipse as top of cube in 1
+     point perspective. Divide up a perfect circle on the front face of the
+     cube, then follow parallel lines to vanishing point.
+   - Also works in 2 point if you "open" one side of the box and make it
+     parallel to the observer.
+   - To divide cylinders up in perspective flatten the ellipse into a circle,
+     divide it up, then run vertical lines down to the form.
+   - Works on a sphere too.
 * Marshall Vandruff's Perspective Assignments
 ** TODO Form Analysis 1 - Box it Up
    - Simplify a 3d form in a 3/4 view and reduce it only to boxes.
@@ -328,12 +337,12 @@
 **** DONE blog
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 4
-#+CAPTION: Clock summary at [2020-11-17 Tue 21:07]
+#+CAPTION: Clock summary at [2020-11-18 Wed 21:37]
 | Headline                    | Time   |      |      |      |
 |-----------------------------+--------+------+------+------|
-| *Total time*                | *6:06* |      |      |      |
+| *Total time*                | *9:26* |      |      |      |
 |-----------------------------+--------+------+------+------|
-| \_  Week 2                  |        | 6:06 |      |      |
+| \_  Week 2                  |        | 9:26 |      |      |
 | \_    <2020-11-16 Mon>      |        |      | 3:08 |      |
 | \_      Cylinders           |        |      |      | 0:51 |
 | \_      Marshall lecture 5  |        |      |      | 0:29 |
@@ -347,6 +356,12 @@
 | \_      D'Amelio book       |        |      |      | 0:35 |
 | \_      Drawabox insects    |        |      |      | 0:18 |
 | \_      Ellipses in boxes   |        |      |      | 0:20 |
+| \_    <2020-11-18 Wed>      |        |      | 3:20 |      |
+| \_      Cylinders           |        |      |      | 0:50 |
+| \_      Marshall lecture    |        |      |      | 0:40 |
+| \_      Drawabox insects    |        |      |      | 0:20 |
+| \_      Box it up           |        |      |      | 1:03 |
+| \_      drawabox animals    |        |      |      | 0:27 |
 #+END:
 
 *** <2020-11-16 Mon>
@@ -397,8 +412,26 @@
      :LOGBOOK:
      CLOCK: [2020-11-17 Tue 20:46]--[2020-11-17 Tue 21:06] =>  0:20
      :END:
+*** <2020-11-18 Wed>
+**** DONE Cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-18 Wed 18:00]--[2020-11-18 Wed 18:30] =>  0:30
+     CLOCK: [2020-11-18 Wed 07:46]--[2020-11-18 Wed 08:06] =>  0:20
+     :END:
+**** DONE Marshall lecture
+     :LOGBOOK:
+     CLOCK: [2020-11-18 Wed 18:30]--[2020-11-18 Wed 19:10] =>  0:40
+     :END:
+**** DONE Drawabox insects
+     :LOGBOOK:
+     CLOCK: [2020-11-18 Wed 19:29]--[2020-11-18 Wed 19:49] =>  0:20
+     :END:
+**** DONE Box it up
+     :LOGBOOK:
+     CLOCK: [2020-11-18 Wed 19:59]--[2020-11-18 Wed 21:02] =>  1:03
+     :END:
+**** DONE drawabox animals
+     :LOGBOOK:
+     CLOCK: [2020-11-18 Wed 21:10]--[2020-11-18 Wed 21:37] =>  0:27
+     :END:
 *** 
-**** TODO Cylinders
-**** TODO Marshall lecture
-**** TODO Drawabox insects
-**** TODO Marshall exercises
