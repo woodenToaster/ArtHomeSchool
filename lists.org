@@ -12,7 +12,6 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
-** Ink sketchbook
 ** Strathmore smooth newsprint
 ** Conte 1710 B
 ** Blair low odor spray fix
@@ -153,6 +152,7 @@
 ** TODO Marshall Vandruff Perspective
 ** Moderndayjames
 ** Sinix Design
+** Russian Academic Drawing (New Masters Academy)
 ** Watts Atelier
 *** Figure Phase I
 *** Figure Phase II
@@ -171,7 +171,6 @@
 **** DONE The Body
 **** TODO Hands
 **** Faces
-*** TODO Effects
 ** Alphonso Dunn - Great Ink Videos
 ** Proko
 *** Portrait Drawing
@@ -183,7 +182,6 @@
 ** The Process
 ** Dorian Iton - Light on Form
 ** Ron Lemen - Color wheel exercises
-** Earl Grey - Panellology
 * Comics
 ** TODO Blankets
 ** Berserk
@@ -265,6 +263,8 @@
     - Dark Nights: Heavy Metal 1-7
 *** Franklin Booth (Wrightson's influence)
 *** Gustave Dore - (Franklin Booth's influence)
+*** Charles Dana Gibson
+*** Joseph Clemont Coll
 *** Mike Mignola
     - Bram Stoker's Dracula
     - Hellboy

@@ -64,6 +64,11 @@
    - To divide cylinders up in perspective flatten the ellipse into a circle,
      divide it up, then run vertical lines down to the form.
    - Works on a sphere too.
+** 08 - Right Angles and Circles Combined
+   - Combination happens on hinges (doors, box lids, etc.)
+   - Treat hinge as ellipse to find its rotation arc
+   - First need to find perfect square to place ellipse in.
+   - Vanishing trace is at right angles to vanishing line
 * Marshall Vandruff's Perspective Assignments
 ** TODO Form Analysis 1 - Box it Up
    - Simplify a 3d form in a 3/4 view and reduce it only to boxes.
@@ -337,31 +342,36 @@
 **** DONE blog
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 4
-#+CAPTION: Clock summary at [2020-11-18 Wed 21:37]
-| Headline                    | Time   |      |      |      |
-|-----------------------------+--------+------+------+------|
-| *Total time*                | *9:26* |      |      |      |
-|-----------------------------+--------+------+------+------|
-| \_  Week 2                  |        | 9:26 |      |      |
-| \_    <2020-11-16 Mon>      |        |      | 3:08 |      |
-| \_      Cylinders           |        |      |      | 0:51 |
-| \_      Marshall lecture 5  |        |      |      | 0:29 |
-| \_      D'Amelio chapter 12 |        |      |      | 0:51 |
-| \_      Drawabox insects    |        |      |      | 0:21 |
-| \_      Boxify an object    |        |      |      | 0:08 |
-| \_      Watts perspective   |        |      |      | 0:28 |
-| \_    <2020-11-17 Tue>      |        |      | 2:58 |      |
-| \_      Cylinders           |        |      |      | 0:55 |
-| \_      Marshall lecture    |        |      |      | 0:50 |
-| \_      D'Amelio book       |        |      |      | 0:35 |
-| \_      Drawabox insects    |        |      |      | 0:18 |
-| \_      Ellipses in boxes   |        |      |      | 0:20 |
-| \_    <2020-11-18 Wed>      |        |      | 3:20 |      |
-| \_      Cylinders           |        |      |      | 0:50 |
-| \_      Marshall lecture    |        |      |      | 0:40 |
-| \_      Drawabox insects    |        |      |      | 0:20 |
-| \_      Box it up           |        |      |      | 1:03 |
-| \_      drawabox animals    |        |      |      | 0:27 |
+#+CAPTION: Clock summary at [2020-11-19 Thu 20:30]
+| Headline                    | Time    |       |      |      |
+|-----------------------------+---------+-------+------+------|
+| *Total time*                | *12:35* |       |      |      |
+|-----------------------------+---------+-------+------+------|
+| \_  Week 2                  |         | 12:35 |      |      |
+| \_    <2020-11-16 Mon>      |         |       | 3:08 |      |
+| \_      Cylinders           |         |       |      | 0:51 |
+| \_      Marshall lecture 5  |         |       |      | 0:29 |
+| \_      D'Amelio chapter 12 |         |       |      | 0:51 |
+| \_      Drawabox insects    |         |       |      | 0:21 |
+| \_      Boxify an object    |         |       |      | 0:08 |
+| \_      Watts perspective   |         |       |      | 0:28 |
+| \_    <2020-11-17 Tue>      |         |       | 2:58 |      |
+| \_      Cylinders           |         |       |      | 0:55 |
+| \_      Marshall lecture    |         |       |      | 0:50 |
+| \_      D'Amelio book       |         |       |      | 0:35 |
+| \_      Drawabox insects    |         |       |      | 0:18 |
+| \_      Ellipses in boxes   |         |       |      | 0:20 |
+| \_    <2020-11-18 Wed>      |         |       | 3:20 |      |
+| \_      Cylinders           |         |       |      | 0:50 |
+| \_      Marshall lecture    |         |       |      | 0:40 |
+| \_      Drawabox insects    |         |       |      | 0:20 |
+| \_      Box it up           |         |       |      | 1:03 |
+| \_      drawabox animals    |         |       |      | 0:27 |
+| \_    <2020-11-19 Thu>      |         |       | 3:09 |      |
+| \_      Cylinders           |         |       |      | 0:48 |
+| \_      drawabox insects    |         |       |      | 1:13 |
+| \_      Marshall lecture 8  |         |       |      | 0:32 |
+| \_      drawabox animals    |         |       |      | 0:36 |
 #+END:
 
 *** <2020-11-16 Mon>
@@ -434,4 +444,24 @@
      :LOGBOOK:
      CLOCK: [2020-11-18 Wed 21:10]--[2020-11-18 Wed 21:37] =>  0:27
      :END:
-*** 
+*** <2020-11-19 Thu>
+**** DONE Cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-19 Thu 17:06]--[2020-11-19 Thu 17:34] =>  0:28
+     CLOCK: [2020-11-19 Thu 07:47]--[2020-11-19 Thu 08:07] =>  0:20
+     :END:
+**** DONE drawabox insects
+     :LOGBOOK:
+     CLOCK: [2020-11-19 Thu 19:15]--[2020-11-19 Thu 20:09] =>  0:54
+     CLOCK: [2020-11-19 Thu 17:38]--[2020-11-19 Thu 17:57] =>  0:19
+     :END:
+**** DONE Marshall lecture 8
+     :LOGBOOK:
+     CLOCK: [2020-11-19 Thu 18:44]--[2020-11-19 Thu 18:49] =>  0:05
+     CLOCK: [2020-11-19 Thu 17:58]--[2020-11-19 Thu 18:25] =>  0:27
+     :END:
+**** DONE drawabox animals
+     :LOGBOOK:
+     CLOCK: [2020-11-19 Thu 20:13]--[2020-11-19 Thu 20:29] =>  0:16
+     CLOCK: [2020-11-19 Thu 18:54]--[2020-11-19 Thu 19:14] =>  0:20
+     :END:
