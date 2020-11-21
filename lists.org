@@ -94,11 +94,11 @@
 *** DONE Force: Drawing Human Anatomy
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
-*** TODO Perpective Drawing Handbook - Joseph D'Amelio
-*** How to Draw - Scott Robertson
 *** Creative Perspective for Artists and Illustrators - Ernest Watson
+*** How to Draw - Scott Robertson
 *** Framed Perspective Vol I - Marcos mateu-Mestre
 *** Framed Perspective Vol II - Marcos mateu-Mestre
+*** DONE Perpective Drawing Handbook - Joseph D'Amelio
 *** DONE Perspective Made Easy - Earnest Norling
 ** Ink
 *** Rendering in pen and ink - Guptill
@@ -133,7 +133,7 @@
 *** TODO The Artist's Way
 *** Eternal Truths for Every Artist
 *** Fishing for Elephants
-*** The Surrender Expiremnet - Alan Singer
+*** The Surrender Experiment - Alan Singer
 *** As a Man Thinketh - James Allen
 *** The War of Art
 *** Feeling Good (depression)
@@ -150,10 +150,25 @@
 *** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
 * Videos
 ** TODO Marshall Vandruff Perspective
+** TODO drawabox
+*** DONE Lesson 1
+*** DONE Lesson 2
+*** DONE Lesson 3
+*** DONE Lesson 4
+*** TODO Lesson 5
+*** TODO Lesson 6
+*** TODO Lesson 7
+*** DONE 250 boxes
+*** TODO 250 cylinders
+*** TODO 25 wheels
+*** TODO 100 treasure chests
 ** Moderndayjames
 ** Sinix Design
 ** Russian Academic Drawing (New Masters Academy)
 ** Watts Atelier
+*** Head Fundamentals
+*** Figure Fundamentals
+*** Quicksketch Fundamentals
 *** Figure Phase I
 *** Figure Phase II
 *** Figure Phase III

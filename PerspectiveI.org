@@ -69,6 +69,17 @@
    - Treat hinge as ellipse to find its rotation arc
    - First need to find perfect square to place ellipse in.
    - Vanishing trace is at right angles to vanishing line
+** 09 - Inclined Planes and the Vanishing Trace
+   - As a level cube spins, the vanishing points crawl along the horizon.
+   - Vanishing trace is a vertical line perpendicular to the horizon line that
+     goes through a vanishing point and can be used as a new "horizon" line for
+     vanishing points of tilted planes.
+   - Where is it going? Where would its vanishing point be if it were level?
+     Create vertical trace on vanishing point and find the new vanishing point
+     on the vertical trace.
+** 10 -
+** 11 -
+** 12 -
 * Marshall Vandruff's Perspective Assignments
 ** TODO Form Analysis 1 - Box it Up
    - Simplify a 3d form in a 3/4 view and reduce it only to boxes.
@@ -342,36 +353,40 @@
 **** DONE blog
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 4
-#+CAPTION: Clock summary at [2020-11-19 Thu 20:30]
-| Headline                    | Time    |       |      |      |
-|-----------------------------+---------+-------+------+------|
-| *Total time*                | *12:35* |       |      |      |
-|-----------------------------+---------+-------+------+------|
-| \_  Week 2                  |         | 12:35 |      |      |
-| \_    <2020-11-16 Mon>      |         |       | 3:08 |      |
-| \_      Cylinders           |         |       |      | 0:51 |
-| \_      Marshall lecture 5  |         |       |      | 0:29 |
-| \_      D'Amelio chapter 12 |         |       |      | 0:51 |
-| \_      Drawabox insects    |         |       |      | 0:21 |
-| \_      Boxify an object    |         |       |      | 0:08 |
-| \_      Watts perspective   |         |       |      | 0:28 |
-| \_    <2020-11-17 Tue>      |         |       | 2:58 |      |
-| \_      Cylinders           |         |       |      | 0:55 |
-| \_      Marshall lecture    |         |       |      | 0:50 |
-| \_      D'Amelio book       |         |       |      | 0:35 |
-| \_      Drawabox insects    |         |       |      | 0:18 |
-| \_      Ellipses in boxes   |         |       |      | 0:20 |
-| \_    <2020-11-18 Wed>      |         |       | 3:20 |      |
-| \_      Cylinders           |         |       |      | 0:50 |
-| \_      Marshall lecture    |         |       |      | 0:40 |
-| \_      Drawabox insects    |         |       |      | 0:20 |
-| \_      Box it up           |         |       |      | 1:03 |
-| \_      drawabox animals    |         |       |      | 0:27 |
-| \_    <2020-11-19 Thu>      |         |       | 3:09 |      |
-| \_      Cylinders           |         |       |      | 0:48 |
-| \_      drawabox insects    |         |       |      | 1:13 |
-| \_      Marshall lecture 8  |         |       |      | 0:32 |
-| \_      drawabox animals    |         |       |      | 0:36 |
+#+CAPTION: Clock summary at [2020-11-20 Fri 20:17]
+| Headline                           | Time    |       |      |      |
+|------------------------------------+---------+-------+------+------|
+| *Total time*                       | *15:16* |       |      |      |
+|------------------------------------+---------+-------+------+------|
+| \_  Week 2                         |         | 15:16 |      |      |
+| \_    <2020-11-16 Mon>             |         |       | 3:08 |      |
+| \_      Cylinders                  |         |       |      | 0:51 |
+| \_      Marshall lecture 5         |         |       |      | 0:29 |
+| \_      D'Amelio chapter 12        |         |       |      | 0:51 |
+| \_      Drawabox insects           |         |       |      | 0:21 |
+| \_      Boxify an object           |         |       |      | 0:08 |
+| \_      Watts perspective          |         |       |      | 0:28 |
+| \_    <2020-11-17 Tue>             |         |       | 2:58 |      |
+| \_      Cylinders                  |         |       |      | 0:55 |
+| \_      Marshall lecture           |         |       |      | 0:50 |
+| \_      D'Amelio book              |         |       |      | 0:35 |
+| \_      Drawabox insects           |         |       |      | 0:18 |
+| \_      Ellipses in boxes          |         |       |      | 0:20 |
+| \_    <2020-11-18 Wed>             |         |       | 3:20 |      |
+| \_      Cylinders                  |         |       |      | 0:50 |
+| \_      Marshall lecture           |         |       |      | 0:40 |
+| \_      Drawabox insects           |         |       |      | 0:20 |
+| \_      Box it up                  |         |       |      | 1:03 |
+| \_      drawabox animals           |         |       |      | 0:27 |
+| \_    <2020-11-19 Thu>             |         |       | 3:09 |      |
+| \_      Cylinders                  |         |       |      | 0:48 |
+| \_      drawabox insects           |         |       |      | 1:13 |
+| \_      Marshall lecture 8         |         |       |      | 0:32 |
+| \_      drawabox animals           |         |       |      | 0:36 |
+| \_    <2020-11-20 Fri>             |         |       | 2:41 |      |
+| \_      Cylinders                  |         |       |      | 0:48 |
+| \_      Marshall lecture 9         |         |       |      | 0:45 |
+| \_      Drawabox animals wolf demo |         |       |      | 1:08 |
 #+END:
 
 *** <2020-11-16 Mon>
@@ -464,4 +479,18 @@
      :LOGBOOK:
      CLOCK: [2020-11-19 Thu 20:13]--[2020-11-19 Thu 20:29] =>  0:16
      CLOCK: [2020-11-19 Thu 18:54]--[2020-11-19 Thu 19:14] =>  0:20
+     :END:
+*** <2020-11-20 Fri>
+**** DONE Cylinders
+     :LOGBOOK:
+     CLOCK: [2020-11-20 Fri 07:46]--[2020-11-20 Fri 08:09] =>  0:23
+     CLOCK: [2020-11-20 Fri 13:00]--[2020-11-20 Fri 13:25] =>  0:25
+     :END:
+**** DONE Marshall lecture 9
+     :LOGBOOK:
+     CLOCK: [2020-11-20 Fri 18:09]--[2020-11-20 Fri 18:54] =>  0:45
+     :END:
+**** DONE Drawabox animals wolf demo
+     :LOGBOOK:
+     CLOCK: [2020-11-20 Fri 19:12]--[2020-11-20 Fri 20:20] =>  1:08
      :END:
