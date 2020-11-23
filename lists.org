@@ -3,8 +3,8 @@
 #+STARTUP: nologdone
 
 * Games
+** TODO Last of Us 2
 ** Mortal Shell
-** Last of Us 2
 ** Ghost of Tsushima
 ** Spider Man: Miles Morales
 ** Grim Dawn
@@ -12,21 +12,40 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
+** TODO T-square
+** TODO Enamel butcher palette
+** TODO Crescent board #100, 110 or 114
+** Gouache paints
+*** TODO Ivory black
+*** TODO Permanent white
+*** Yellow ochre
+*** Cadmium red light
+** Robert Simmons sythetic sable brushes
+*** Round
+**** 0
+**** TODO 1
+**** 2
+**** TODO 3
+**** 6
+**** 8
+*** Flat
+**** 2
+**** TODO 4
+**** 6
+**** TODO 10
+** TODO 90/45/45 triangle
 ** Strathmore smooth newsprint
 ** Conte 1710 B
 ** Blair low odor spray fix
 ** 5.6 mm lead
 ** Conte crayon
 ** Prismacolor pencil
-** Parallel Glider
 ** Stillman and Birn Zeta Series sketchbook
+** Shop towels
 ** white ink
-** T-square
 ** Artist's mannequin
 ** Inking triangle
 ** French Curve/swoops
-** Artist's Tape
-** Drawing Light
 ** Drawing Table
 ** Non-photo blue lead
 ** Wacom Intuos Pro Med Drawing Tablet
@@ -36,6 +55,7 @@
 * Art Books
 ** General
 *** TODO Drawing Lessons from the Great Masters - Robert Hale
+*** TODO The Practice and Science of Drawing - Speed
 *** Vilppu Drawing Manual - Glenn Vilppu
 *** Imaginative Realism - James Gurney
 *** The Natural Way to Draw - Kimon Nicolaides (for developing the sensitivity of an artist)
@@ -46,7 +66,6 @@
 *** How To Draw: Wizard Basic Training
 *** Salgood Sam website
 *** How Pictures Work - Bang
-*** The Practice and Science of Drawing - Speed
 *** Drawing Course - Charles Bargue
 *** DONE Krash Course - Greg Capullo
 *** DONE Wally Wood - 22 panels that always work
@@ -115,8 +134,10 @@
 ** Painting
 *** Hawthorne on Painting
 *** Alla Prima
-*** Oil Painting techniques and materials
+*** Oil Painting techniques and materials - Harold Speed
 *** How I make a Picture - Rockwell
+*** Oil Painting Techniques - Patrick Jones
+    - Focuses on fantasy art
 * Writing
 ** Story - Robert McKee
 ** Writing for Comics - Alan Moore
@@ -149,7 +170,6 @@
 *** DONE The Art Spirit - Robert Henri (Hoopla)
 *** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
 * Videos
-** TODO Marshall Vandruff Perspective
 ** TODO drawabox
 *** DONE Lesson 1
 *** DONE Lesson 2
@@ -159,9 +179,10 @@
 *** TODO Lesson 6
 *** TODO Lesson 7
 *** DONE 250 boxes
-*** TODO 250 cylinders
+*** DONE 250 cylinders
 *** TODO 25 wheels
 *** TODO 100 treasure chests
+** Ctrl+paint
 ** Moderndayjames
 ** Sinix Design
 ** Russian Academic Drawing (New Masters Academy)
@@ -197,6 +218,7 @@
 ** The Process
 ** Dorian Iton - Light on Form
 ** Ron Lemen - Color wheel exercises
+** DONE Marshall Vandruff Perspective
 * Comics
 ** TODO Blankets
 ** Berserk
