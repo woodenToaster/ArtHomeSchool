@@ -109,7 +109,6 @@
 ** TODO Cube Contraption
    - Keep cutting away at a large cube to form a cube contraption
 ** TODO Collect Inspirations
-
 * Perspective Drawing Handbook - Joseph D'Amelio
 ** Chapter 1 - Fundamentals
    - Diminution - Objects appear smaller as their distance from the viewer
@@ -191,6 +190,7 @@
    - A shade line is a boundary between shade and light.
    - Parallel rays come from the sun, and radial rays come from a point light
 
+* Creative Perspective For Artists and Illustrators - Ernest Watson
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 4
@@ -559,4 +559,31 @@
      :END:
 **** DONE Blog
 ** Week 3
-** Week 4
+#+BEGIN: clocktable :scope subtree :maxlevel 4
+#+CAPTION: Clock summary at [2020-11-23 Mon 20:28]
+| Headline                         | Time   |      |      |      |
+|----------------------------------+--------+------+------+------|
+| *Total time*                     | *3:26* |      |      |      |
+|----------------------------------+--------+------+------+------|
+| \_  Week 3                       |        | 3:26 |      |      |
+| \_    <2020-11-23 Mon>           |        |      | 3:26 |      |
+| \_      Drawabox animals         |        |      |      | 1:54 |
+| \_      Cubes                    |        |      |      | 0:42 |
+| \_      Master study - Wrightson |        |      |      | 0:50 |
+#+END:
+
+*** <2020-11-23 Mon>
+**** DONE Drawabox animals
+     :LOGBOOK:
+     CLOCK: [2020-11-23 Mon 18:15]--[2020-11-23 Mon 18:47] =>  0:32
+     CLOCK: [2020-11-23 Mon 10:25]--[2020-11-23 Mon 11:47] =>  1:22
+     :END:
+**** DONE Cubes
+     :LOGBOOK:
+     CLOCK: [2020-11-23 Mon 18:54]--[2020-11-23 Mon 19:36] =>  0:42
+     :END:
+**** DONE Master study - Wrightson
+     :LOGBOOK:
+     CLOCK: [2020-11-23 Mon 19:40]--[2020-11-23 Mon 20:30] =>  0:50
+     :END:
+
