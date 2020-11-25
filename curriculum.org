@@ -93,23 +93,38 @@
       - Shading
     - Conan shaded
 ** Perspective I
-*** Video - Marshall Vandruff's perspective course
-*** Video - drawabox.com lesson 4
-*** Book - Perspective Drawing Handbook by Joseph D'Amelio
+*** Video
+**** DONE Marshall Vandruff's perspective course
+**** DONE drawabox.com lesson 4
+**** DONE drawabox.com lesson 5
+**** TODO drawabox.com lesson 6
+**** TODO drawabox.com lesson 7
+*** Books
+**** DONE Perspective Drawing Handbook by Joseph D'Amelio
+**** TODO Creative Perspective for Artists and Illustrators
 *** Art Parent - John Buscema for medieval cities and castles
 *** Challenge - drawabox.com 250 cylinders
-*** Inspiration - The Artist's Way
+*** Inspiration - The Science and Practice of Drawing by Harold Speed
 *** Week 1
     - cylinders (20 min. per day)
     - Marshall Vandruff perspective lectures 1-3 (45 min. per day)
-    - drawabox (1 hour per day)
+    - drawabox lesson 4 (1 hour per day)
     - D'Amelio book (45 min. per day)
     - Original drawing on Saturday
 *** Week 2
     - cylinders (12 per day)
     - Marshall Vandruff perspective lectures 5-12
-    - drawabox (1 page of insects per day)
+    - drawabox lesson 4 and 5 (1 hour per day)
     - Original drawing on Saturday
+*** Week 3
+    - Drawabox lesson 6
+    - Watson book (45 min. per day)
+    - Watts perspective 1-5
+*** Week 4
+    - 20 minutes of cubes
+    - Drawabox lesson 7
+    - Watson book (45 min. per day)
+    - Watts perspective 6-10
 ** Composition and Storytelling I
 *** Video -
 *** Book -
