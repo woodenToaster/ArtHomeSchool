@@ -560,12 +560,12 @@
 **** DONE Blog
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 4
-#+CAPTION: Clock summary at [2020-11-25 Wed 20:01]
+#+CAPTION: Clock summary at [2020-11-26 Thu 17:11]
 | Headline                                      | Time    |       |      |      |
 |-----------------------------------------------+---------+-------+------+------|
-| *Total time*                                  | *12:34* |       |      |      |
+| *Total time*                                  | *16:18* |       |      |      |
 |-----------------------------------------------+---------+-------+------+------|
-| \_  Week 3                                    |         | 12:34 |      |      |
+| \_  Week 3                                    |         | 16:18 |      |      |
 | \_    <2020-11-23 Mon>                        |         |       | 3:42 |      |
 | \_      Drawabox animals                      |         |       |      | 1:54 |
 | \_      Cubes                                 |         |       |      | 0:42 |
@@ -580,6 +580,9 @@
 | \_      Drawabox subdivide boxes              |         |       |      | 0:13 |
 | \_      Watts perspective draw a perfect cube |         |       |      | 0:22 |
 | \_      Watts perspective - Circles and...    |         |       |      | 0:36 |
+| \_    <2020-11-26 Thu>                        |         |       | 3:44 |      |
+| \_      Drawabox lesson 6                     |         |       |      | 1:48 |
+| \_      Watts perspective                     |         |       |      | 1:56 |
 #+END:
 
 *** <2020-11-23 Mon>
@@ -634,9 +637,16 @@
      :LOGBOOK:
      CLOCK: [2020-11-25 Wed 18:14]--[2020-11-25 Wed 18:50] =>  0:36
      :END:
-*** 
-**** TODO Drawabox lesson 6
-**** TODO Ellipses in one point perspective
-**** TODO Watson book
+*** <2020-11-26 Thu>
+**** DONE Drawabox lesson 6
+     :LOGBOOK:
+     CLOCK: [2020-11-26 Thu 13:30]--[2020-11-26 Thu 13:50] =>  0:20
+     CLOCK: [2020-11-26 Thu 10:47]--[2020-11-26 Thu 11:30] =>  0:43
+     CLOCK: [2020-11-26 Thu 09:15]--[2020-11-26 Thu 10:00] =>  0:45
+     :END:
+**** DONE Watts perspective
+     :LOGBOOK:
+     CLOCK: [2020-11-26 Thu 14:05]--[2020-11-26 Thu 16:01] =>  1:56
+     :END:
 ** Week 4
 

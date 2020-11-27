@@ -215,6 +215,7 @@
 ** The Process
 ** Dorian Iton - Light on Form
 ** Ron Lemen - Color wheel exercises
+** FZD Design Cinema
 ** DONE Marshall Vandruff Perspective
 * Comics
 ** TODO Blankets
