@@ -12,38 +12,25 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
-** TODO T-square
-** TODO Enamel butcher palette
-** TODO Crescent board #100, 110 or 114
 ** Gouache paints
-*** TODO Ivory black
-*** TODO Permanent white
 *** Yellow ochre
 *** Cadmium red light
 ** Robert Simmons sythetic sable brushes
 *** Round
 **** 0
-**** TODO 1
 **** 2
-**** TODO 3
-**** TODO 6
 **** 8
 *** Flat
 **** 2
-**** TODO 4
 **** 6
-**** TODO 10
-** TODO 90/45/45 triangle
 ** Strathmore smooth newsprint
 ** Strathmore 14 x 17 glue bound 300 series sketch pad
 ** Conte 1710 B
 ** Blair low odor spray fix
 ** Stillman and Birn Zeta Series sketchbook
-** Shop towels
 ** white ink
 ** French Curve/swoops
 ** Drafting Table
-** Klopfenstein Art Horse
 ** Non-photo blue lead
 ** Wacom Intuos Pro Med Drawing Tablet - $330
 ** Canon Pixma iX6820 13x19 cardstock printer - $189
@@ -110,7 +97,7 @@
 *** DONE Force: Drawing Human Anatomy
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
-*** Creative Perspective for Artists and Illustrators - Ernest Watson
+*** TODO Creative Perspective for Artists and Illustrators - Ernest Watson
 *** How to Draw - Scott Robertson
 *** Framed Perspective Vol I - Marcos mateu-Mestre
 *** Framed Perspective Vol II - Marcos mateu-Mestre
@@ -130,7 +117,7 @@
 *** Lessons on Shading - Sparkes
 ** Painting
 *** Hawthorne on Painting
-*** Alla Prima
+*** Alla Prima - Richard Schmid
 *** Oil Painting techniques and materials - Harold Speed
 *** How I make a Picture - Rockwell
 *** Oil Painting Techniques - Patrick Jones
@@ -148,7 +135,7 @@
    - Highly recommended by Marshall Vandruff
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
-*** TODO The Artist's Way
+*** The Artist's Way
 *** Eternal Truths for Every Artist
 *** Fishing for Elephants
 *** The Surrender Experiment - Alan Singer
@@ -172,7 +159,7 @@
 *** DONE Lesson 2
 *** DONE Lesson 3
 *** DONE Lesson 4
-*** TODO Lesson 5
+*** DONE Lesson 5
 *** TODO Lesson 6
 *** TODO Lesson 7
 *** DONE 250 boxes
@@ -218,12 +205,9 @@
 ** FZD Design Cinema
 ** DONE Marshall Vandruff Perspective
 * Comics
-** TODO Blankets
 ** Berserk
 ** Sandman
 ** X-Men
-   - TODO Dawn of X
-   - TODO God loves man kills
    - Age of Apocalypse
    - X-cutioner's song
    - lifedeath
@@ -237,7 +221,6 @@
    - Saga of the Swamp Thing (hoopla)
 ** Batman
    - Black Mirror
-** Doctor Strange
 ** Transmetropolitan
 ** Y: Last Man Standing
 ** Black Hole - Charles Burns (Urbana Library)
@@ -339,6 +322,10 @@
 *** TODO Legs
 *** TODO Feet
 ** TODO Bring director's cut pencil into clip studio and ink it.
+** TODO Concept design
+   - Start with some thumbnails from reference
+   - Take the best ones and turn them into a new idea by combining other reference
+   - Turn into a finished drawing
 * Scanner Entries
 ** TODO Multi art form work
 ** TODO Retirement Plan

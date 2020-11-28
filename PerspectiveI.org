@@ -560,12 +560,12 @@
 **** DONE Blog
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 4
-#+CAPTION: Clock summary at [2020-11-26 Thu 17:11]
+#+CAPTION: Clock summary at [2020-11-27 Fri 20:14]
 | Headline                                      | Time    |       |      |      |
 |-----------------------------------------------+---------+-------+------+------|
-| *Total time*                                  | *16:18* |       |      |      |
+| *Total time*                                  | *21:33* |       |      |      |
 |-----------------------------------------------+---------+-------+------+------|
-| \_  Week 3                                    |         | 16:18 |      |      |
+| \_  Week 3                                    |         | 21:33 |      |      |
 | \_    <2020-11-23 Mon>                        |         |       | 3:42 |      |
 | \_      Drawabox animals                      |         |       |      | 1:54 |
 | \_      Cubes                                 |         |       |      | 0:42 |
@@ -583,6 +583,11 @@
 | \_    <2020-11-26 Thu>                        |         |       | 3:44 |      |
 | \_      Drawabox lesson 6                     |         |       |      | 1:48 |
 | \_      Watts perspective                     |         |       |      | 1:56 |
+| \_    <2020-11-27 Fri>                        |         |       | 5:15 |      |
+| \_      Drawabox lesson 6                     |         |       |      | 1:35 |
+| \_      Watts perspective 6                   |         |       |      | 0:37 |
+| \_      Castle studies                        |         |       |      | 2:25 |
+| \_      Watson book                           |         |       |      | 0:38 |
 #+END:
 
 *** <2020-11-23 Mon>
@@ -648,5 +653,28 @@
      :LOGBOOK:
      CLOCK: [2020-11-26 Thu 14:05]--[2020-11-26 Thu 16:01] =>  1:56
      :END:
+*** <2020-11-27 Fri> 
+**** DONE Drawabox lesson 6
+     :LOGBOOK:
+     CLOCK: [2020-11-27 Fri 09:15]--[2020-11-27 Fri 10:50] =>  1:35
+     :END:
+**** DONE Watts perspective 6
+     :LOGBOOK:
+     CLOCK: [2020-11-27 Fri 13:15]--[2020-11-27 Fri 13:52] =>  0:37
+     :END:
+**** DONE Castle studies
+     :LOGBOOK:
+     CLOCK: [2020-11-27 Fri 18:28]--[2020-11-27 Fri 19:02] =>  0:34
+     CLOCK: [2020-11-27 Fri 14:25]--[2020-11-27 Fri 16:16] =>  1:51
+     :END:
+**** DONE Watson book
+     :LOGBOOK:
+     CLOCK: [2020-11-27 Fri 19:36]--[2020-11-27 Fri 20:14] =>  0:38
+     :END:
+*** 
+**** TODO Drawabox lesson 6
+**** TODO Watts perspective
+**** TODO Draw a page of cubes from life and verify with acrylic
+**** TODO Copy comics
 ** Week 4
 
