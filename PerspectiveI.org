@@ -560,34 +560,37 @@
 **** DONE Blog
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 4
-#+CAPTION: Clock summary at [2020-11-27 Fri 20:14]
-| Headline                                      | Time    |       |      |      |
-|-----------------------------------------------+---------+-------+------+------|
-| *Total time*                                  | *21:33* |       |      |      |
-|-----------------------------------------------+---------+-------+------+------|
-| \_  Week 3                                    |         | 21:33 |      |      |
-| \_    <2020-11-23 Mon>                        |         |       | 3:42 |      |
-| \_      Drawabox animals                      |         |       |      | 1:54 |
-| \_      Cubes                                 |         |       |      | 0:42 |
-| \_      Master study - Wrightson              |         |       |      | 0:50 |
-| \_      Watts perspective                     |         |       |      | 0:16 |
-| \_    <2020-11-24 Tue>                        |         |       | 4:03 |      |
-| \_      Drawabox animals                      |         |       |      | 1:38 |
-| \_      Watts perspective                     |         |       |      | 1:57 |
-| \_      Drawbox lesson 6                      |         |       |      | 0:28 |
-| \_    <2020-11-25 Wed>                        |         |       | 4:49 |      |
-| \_      Drawabox lesson 6                     |         |       |      | 3:38 |
-| \_      Drawabox subdivide boxes              |         |       |      | 0:13 |
-| \_      Watts perspective draw a perfect cube |         |       |      | 0:22 |
-| \_      Watts perspective - Circles and...    |         |       |      | 0:36 |
-| \_    <2020-11-26 Thu>                        |         |       | 3:44 |      |
-| \_      Drawabox lesson 6                     |         |       |      | 1:48 |
-| \_      Watts perspective                     |         |       |      | 1:56 |
-| \_    <2020-11-27 Fri>                        |         |       | 5:15 |      |
-| \_      Drawabox lesson 6                     |         |       |      | 1:35 |
-| \_      Watts perspective 6                   |         |       |      | 0:37 |
-| \_      Castle studies                        |         |       |      | 2:25 |
-| \_      Watson book                           |         |       |      | 0:38 |
+#+CAPTION: Clock summary at [2020-11-28 Sat 19:46]
+| Headline                                      | Time      |         |      |      |
+|-----------------------------------------------+-----------+---------+------+------|
+| *Total time*                                  | *1d 2:35* |         |      |      |
+|-----------------------------------------------+-----------+---------+------+------|
+| \_  Week 3                                    |           | 1d 2:35 |      |      |
+| \_    <2020-11-23 Mon>                        |           |         | 3:42 |      |
+| \_      Drawabox animals                      |           |         |      | 1:54 |
+| \_      Cubes                                 |           |         |      | 0:42 |
+| \_      Master study - Wrightson              |           |         |      | 0:50 |
+| \_      Watts perspective                     |           |         |      | 0:16 |
+| \_    <2020-11-24 Tue>                        |           |         | 4:03 |      |
+| \_      Drawabox animals                      |           |         |      | 1:38 |
+| \_      Watts perspective                     |           |         |      | 1:57 |
+| \_      Drawbox lesson 6                      |           |         |      | 0:28 |
+| \_    <2020-11-25 Wed>                        |           |         | 4:49 |      |
+| \_      Drawabox lesson 6                     |           |         |      | 3:38 |
+| \_      Drawabox subdivide boxes              |           |         |      | 0:13 |
+| \_      Watts perspective draw a perfect cube |           |         |      | 0:22 |
+| \_      Watts perspective - Circles and...    |           |         |      | 0:36 |
+| \_    <2020-11-26 Thu>                        |           |         | 3:44 |      |
+| \_      Drawabox lesson 6                     |           |         |      | 1:48 |
+| \_      Watts perspective                     |           |         |      | 1:56 |
+| \_    <2020-11-27 Fri>                        |           |         | 5:15 |      |
+| \_      Drawabox lesson 6                     |           |         |      | 1:35 |
+| \_      Watts perspective 6                   |           |         |      | 0:37 |
+| \_      Castle studies                        |           |         |      | 2:25 |
+| \_      Watson book                           |           |         |      | 0:38 |
+| \_    <2020-11-28 Sat>                        |           |         | 5:02 |      |
+| \_      Drawabox lesson 6                     |           |         |      | 2:25 |
+| \_      Watts perspective 7                   |           |         |      | 2:37 |
 #+END:
 
 *** <2020-11-23 Mon>
@@ -671,10 +674,16 @@
      :LOGBOOK:
      CLOCK: [2020-11-27 Fri 19:36]--[2020-11-27 Fri 20:14] =>  0:38
      :END:
-*** 
-**** TODO Drawabox lesson 6
-**** TODO Watts perspective
-**** TODO Draw a page of cubes from life and verify with acrylic
-**** TODO Copy comics
+*** <2020-11-28 Sat>
+**** DONE Drawabox lesson 6
+     :LOGBOOK:
+     CLOCK: [2020-11-28 Sat 14:29]--[2020-11-28 Sat 14:58] =>  0:29
+     CLOCK: [2020-11-28 Sat 08:50]--[2020-11-28 Sat 10:46] =>  1:56
+     :END:
+**** DONE Watts perspective 7
+     :LOGBOOK:
+     CLOCK: [2020-11-28 Sat 18:12]--[2020-11-28 Sat 19:46] =>  1:34
+     CLOCK: [2020-11-28 Sat 15:00]--[2020-11-28 Sat 16:03] =>  1:03
+     :END:
 ** Week 4
 
