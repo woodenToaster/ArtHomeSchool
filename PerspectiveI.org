@@ -560,12 +560,12 @@
 **** DONE Blog
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 4
-#+CAPTION: Clock summary at [2020-11-28 Sat 19:46]
+#+CAPTION: Clock summary at [2020-11-29 Sun 18:54]
 | Headline                                      | Time      |         |      |      |
 |-----------------------------------------------+-----------+---------+------+------|
-| *Total time*                                  | *1d 2:35* |         |      |      |
+| *Total time*                                  | *1d 5:15* |         |      |      |
 |-----------------------------------------------+-----------+---------+------+------|
-| \_  Week 3                                    |           | 1d 2:35 |      |      |
+| \_  Week 3                                    |           | 1d 5:15 |      |      |
 | \_    <2020-11-23 Mon>                        |           |         | 3:42 |      |
 | \_      Drawabox animals                      |           |         |      | 1:54 |
 | \_      Cubes                                 |           |         |      | 0:42 |
@@ -591,6 +591,9 @@
 | \_    <2020-11-28 Sat>                        |           |         | 5:02 |      |
 | \_      Drawabox lesson 6                     |           |         |      | 2:25 |
 | \_      Watts perspective 7                   |           |         |      | 2:37 |
+| \_    <2020-11-29 Sun>                        |           |         | 2:40 |      |
+| \_      Drawabox lesson 6                     |           |         |      | 1:38 |
+| \_      Watts perspective 8                   |           |         |      | 1:02 |
 #+END:
 
 *** <2020-11-23 Mon>
@@ -656,7 +659,7 @@
      :LOGBOOK:
      CLOCK: [2020-11-26 Thu 14:05]--[2020-11-26 Thu 16:01] =>  1:56
      :END:
-*** <2020-11-27 Fri> 
+*** <2020-11-27 Fri>
 **** DONE Drawabox lesson 6
      :LOGBOOK:
      CLOCK: [2020-11-27 Fri 09:15]--[2020-11-27 Fri 10:50] =>  1:35
@@ -685,5 +688,21 @@
      CLOCK: [2020-11-28 Sat 18:12]--[2020-11-28 Sat 19:46] =>  1:34
      CLOCK: [2020-11-28 Sat 15:00]--[2020-11-28 Sat 16:03] =>  1:03
      :END:
+*** <2020-11-29 Sun>
+**** DONE Drawabox lesson 6
+     :LOGBOOK:
+     CLOCK: [2020-11-29 Sun 08:30]--[2020-11-29 Sun 10:08] =>  1:38
+     :END:
+**** DONE Watts perspective 8
+     :LOGBOOK:
+     CLOCK: [2020-11-29 Sun 17:56]--[2020-11-29 Sun 18:25] =>  0:29
+     CLOCK: [2020-11-29 Sun 14:17]--[2020-11-29 Sun 14:50] =>  0:33
+     :END:
+**** DONE Blog
 ** Week 4
+*** <2020-11-30 Mon>
+**** TODO Draw for fun 45 min
+**** TODO Drawabox lesson 7 1 hour
+**** TODO Watts perspective 9 1 hour
+**** TODO Watson book 45 min
 
