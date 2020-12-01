@@ -700,9 +700,25 @@
      :END:
 **** DONE Blog
 ** Week 4
-*** <2020-11-30 Mon>
-**** TODO Draw for fun 45 min
-**** TODO Drawabox lesson 7 1 hour
-**** TODO Watts perspective 9 1 hour
-**** TODO Watson book 45 min
+#+BEGIN: clocktable :scope subtree :maxlevel 4
+#+CAPTION: Clock summary at [2020-11-30 Mon 21:24]
+| Headline                         | Time   |      |      |      |
+|----------------------------------+--------+------+------+------|
+| *Total time*                     | *3:12* |      |      |      |
+|----------------------------------+--------+------+------+------|
+| \_  Week 4                       |        | 3:12 |      |      |
+| \_    <2020-11-30 Mon>           |        |      | 3:12 |      |
+| \_      Draw for fun 45 min      |        |      |      | 0:40 |
+| \_      Drawabox lesson 7 1 hour |        |      |      | 2:32 |
+#+END:
 
+*** <2020-11-30 Mon>
+**** DONE Draw for fun 45 min
+     :LOGBOOK:
+     CLOCK: [2020-11-30 Mon 07:00]--[2020-11-30 Mon 07:40] =>  0:40
+     :END:
+**** DONE Drawabox lesson 7 1 hour
+     :LOGBOOK:
+     CLOCK: [2020-11-30 Mon 18:53]--[2020-11-30 Mon 21:25] =>  2:32
+     :END:
+     

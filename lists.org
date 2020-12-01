@@ -12,12 +12,12 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
-** Copic grey toned markers
+** Copic (or prismacolor) grey toned markers
 ** Toned sketchbook
 ** Ballpoint pens
 ** Gouache paints
 *** Yellow ochre
-*** Cadmium red light
+*** Cadmium red light (cadmium free scarlet)
 ** Robert Simmons sythetic sable brushes
 *** Round
 **** 0
@@ -37,7 +37,8 @@
 ** Non-photo blue lead
 ** Wacom Intuos Pro Med Drawing Tablet - $330
 ** Canon Pixma iX6820 13x19 cardstock printer - $189
-** HP OfficeJet Pro 7740 11x17 printer scanner - $279
+** HP OfficeJet Pro 7740 11x17 printer scanner - $279 (doesn't scan 11x17)
+** Epson WF-7840 - $250 (can't print grayscale without color ink cartridges)
 ** Arches 88 silk screen paper (too expensive)
 * Art Books
 ** General
@@ -163,7 +164,7 @@
 *** DONE Lesson 3
 *** DONE Lesson 4
 *** DONE Lesson 5
-*** TODO Lesson 6
+*** DONE Lesson 6
 *** TODO Lesson 7
 *** DONE 250 boxes
 *** DONE 250 cylinders
@@ -174,6 +175,7 @@
 ** Sinix Design
 ** Russian Academic Drawing (New Masters Academy)
 ** Watts Atelier
+*** TODO Perspective Fundamentals
 *** Head Fundamentals
 *** Figure Fundamentals
 *** Quicksketch Fundamentals
