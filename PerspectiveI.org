@@ -701,15 +701,20 @@
 **** DONE Blog
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 4
-#+CAPTION: Clock summary at [2020-11-30 Mon 21:24]
+#+CAPTION: Clock summary at [2020-12-01 Tue 21:38]
 | Headline                         | Time   |      |      |      |
 |----------------------------------+--------+------+------+------|
-| *Total time*                     | *3:12* |      |      |      |
+| *Total time*                     | *6:41* |      |      |      |
 |----------------------------------+--------+------+------+------|
-| \_  Week 4                       |        | 3:12 |      |      |
+| \_  Week 4                       |        | 6:41 |      |      |
 | \_    <2020-11-30 Mon>           |        |      | 3:12 |      |
 | \_      Draw for fun 45 min      |        |      |      | 0:40 |
 | \_      Drawabox lesson 7 1 hour |        |      |      | 2:32 |
+| \_    <2020-12-01 Tue>           |        |      | 3:29 |      |
+| \_      Draw for fun             |        |      |      | 0:47 |
+| \_      Drawabox lesson 7        |        |      |      | 1:22 |
+| \_      Watts perspective 9      |        |      |      | 0:59 |
+| \_      Watson book              |        |      |      | 0:21 |
 #+END:
 
 *** <2020-11-30 Mon>
@@ -722,3 +727,20 @@
      CLOCK: [2020-11-30 Mon 18:53]--[2020-11-30 Mon 21:25] =>  2:32
      :END:
      
+*** <2020-12-01 Tue>
+**** DONE Draw for fun
+     :LOGBOOK:
+     CLOCK: [2020-12-01 Tue 06:55]--[2020-12-01 Tue 07:42] =>  0:47
+     :END:
+**** DONE Drawabox lesson 7
+     :LOGBOOK:
+     CLOCK: [2020-12-01 Tue 18:43]--[2020-12-01 Tue 20:05] =>  1:22
+     :END:
+**** DONE Watts perspective 9
+     :LOGBOOK:
+     CLOCK: [2020-12-01 Tue 20:06]--[2020-12-01 Tue 21:05] =>  0:59
+     :END:
+**** DONE Watson book
+     :LOGBOOK:
+     CLOCK: [2020-12-01 Tue 21:17]--[2020-12-01 Tue 21:38] =>  0:21
+     :END:
