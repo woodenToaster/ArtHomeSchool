@@ -157,6 +157,8 @@
 *** DONE The Happiness Trap (depression)
 *** DONE The Art Spirit - Robert Henri (Hoopla)
 *** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
+* Fiction
+** Neuromancer
 * Videos
 ** TODO drawabox
 *** DONE Lesson 1
