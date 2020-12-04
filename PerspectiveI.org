@@ -701,25 +701,29 @@
 **** DONE Blog
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 4 :tags t
-#+CAPTION: Clock summary at [2020-12-02 Wed 21:14]
-| Tags    | Headline                         | Time   |      |      |      |
-|---------+----------------------------------+--------+------+------+------|
-|         | *Total time*                     | *9:49* |      |      |      |
-|---------+----------------------------------+--------+------+------+------|
-|         | \_  Week 4                       |        | 9:49 |      |      |
-|         | \_    <2020-11-30 Mon>           |        |      | 3:12 |      |
-| drawing | \_      Draw for fun - catapult  |        |      |      | 0:40 |
-|         | \_      Drawabox lesson 7 1 hour |        |      |      | 2:32 |
-|         | \_    <2020-12-01 Tue>           |        |      | 3:29 |      |
-| drawing | \_      Draw for fun - catapult  |        |      |      | 0:47 |
-|         | \_      Drawabox lesson 7        |        |      |      | 1:22 |
-|         | \_      Watts perspective 9      |        |      |      | 0:59 |
-| study   | \_      Watson book              |        |      |      | 0:21 |
-|         | \_    <2020-12-02 Wed>           |        |      | 3:08 |      |
-| drawing | \_      Draw for fun - catapult  |        |      |      | 0:46 |
-| study   | \_      Drawabox lesson 7        |        |      |      | 0:49 |
-| drawing | \_      Drawabox lesson 7        |        |      |      | 1:07 |
-| study   | \_      Watts Perspective        |        |      |      | 0:26 |
+#+CAPTION: Clock summary at [2020-12-03 Thu 21:22]
+| Tags    | Headline                         | Time    |       |      |      |
+|---------+----------------------------------+---------+-------+------+------|
+|         | *Total time*                     | *12:52* |       |      |      |
+|---------+----------------------------------+---------+-------+------+------|
+|         | \_  Week 4                       |         | 12:52 |      |      |
+|         | \_    <2020-11-30 Mon>           |         |       | 3:12 |      |
+| drawing | \_      Draw for fun - catapult  |         |       |      | 0:40 |
+|         | \_      Drawabox lesson 7 1 hour |         |       |      | 2:32 |
+|         | \_    <2020-12-01 Tue>           |         |       | 3:29 |      |
+| drawing | \_      Draw for fun - catapult  |         |       |      | 0:47 |
+|         | \_      Drawabox lesson 7        |         |       |      | 1:22 |
+|         | \_      Watts perspective 9      |         |       |      | 0:59 |
+| study   | \_      Watson book              |         |       |      | 0:21 |
+|         | \_    <2020-12-02 Wed>           |         |       | 3:08 |      |
+| drawing | \_      Draw for fun - catapult  |         |       |      | 0:46 |
+| study   | \_      Drawabox lesson 7        |         |       |      | 0:49 |
+| drawing | \_      Drawabox lesson 7        |         |       |      | 1:07 |
+| study   | \_      Watts Perspective        |         |       |      | 0:26 |
+|         | \_    <2020-12-03 Thu>           |         |       | 3:03 |      |
+| drawing | \_      Draw for fun - crown     |         |       |      | 0:43 |
+| study   | \_      Drawabox lesson 7        |         |       |      | 1:12 |
+| drawing | \_      Drawabox lesson 7        |         |       |      | 1:08 |
 #+END:
 
 *** <2020-11-30 Mon>
@@ -765,5 +769,19 @@
 **** DONE Watts Perspective                                           :study:
      :LOGBOOK:
      CLOCK: [2020-12-02 Wed 20:18]--[2020-12-02 Wed 20:44] =>  0:26
+     :END:
+*** <2020-12-03 Thu>
+**** DONE Draw for fun - crown                                      :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-03 Thu 06:59]--[2020-12-03 Thu 07:42] =>  0:43
+     :END:
+**** DONE Drawabox lesson 7                                           :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-03 Thu 18:28]--[2020-12-03 Thu 19:40] =>  1:12
+     :END:
+**** DONE Drawabox lesson 7                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-03 Thu 21:14]--[2020-12-03 Thu 21:22] =>  0:08
+     CLOCK: [2020-12-03 Thu 19:58]--[2020-12-03 Thu 20:58] =>  1:00
      :END:
 
