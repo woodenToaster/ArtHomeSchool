@@ -701,12 +701,12 @@
 **** DONE Blog
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 4 :tags t
-#+CAPTION: Clock summary at [2020-12-03 Thu 21:22]
+#+CAPTION: Clock summary at [2020-12-04 Fri 20:30]
 | Tags    | Headline                         | Time    |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | *Total time*                     | *12:52* |       |      |      |
+|         | *Total time*                     | *15:56* |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | \_  Week 4                       |         | 12:52 |      |      |
+|         | \_  Week 4                       |         | 15:56 |      |      |
 |         | \_    <2020-11-30 Mon>           |         |       | 3:12 |      |
 | drawing | \_      Draw for fun - catapult  |         |       |      | 0:40 |
 |         | \_      Drawabox lesson 7 1 hour |         |       |      | 2:32 |
@@ -724,6 +724,10 @@
 | drawing | \_      Draw for fun - crown     |         |       |      | 0:43 |
 | study   | \_      Drawabox lesson 7        |         |       |      | 1:12 |
 | drawing | \_      Drawabox lesson 7        |         |       |      | 1:08 |
+|         | \_    <2020-12-04 Fri>           |         |       | 3:04 |      |
+| drawing | \_      Draw for fun - crown     |         |       |      | 0:45 |
+| drawing | \_      Drawabox lesson 7        |         |       |      | 1:52 |
+| study   | \_      Drawabox lesson 7        |         |       |      | 0:27 |
 #+END:
 
 *** <2020-11-30 Mon>
@@ -783,5 +787,19 @@
      :LOGBOOK:
      CLOCK: [2020-12-03 Thu 21:14]--[2020-12-03 Thu 21:22] =>  0:08
      CLOCK: [2020-12-03 Thu 19:58]--[2020-12-03 Thu 20:58] =>  1:00
+     :END:
+*** <2020-12-04 Fri>
+**** DONE Draw for fun - crown                                      :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-04 Fri 06:57]--[2020-12-04 Fri 07:42] =>  0:45
+     :END:
+**** DONE Drawabox lesson 7                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-04 Fri 19:48]--[2020-12-04 Fri 20:30] =>  0:42
+     CLOCK: [2020-12-04 Fri 18:09]--[2020-12-04 Fri 19:19] =>  1:10
+     :END:
+**** DONE Drawabox lesson 7                                           :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-04 Fri 19:20]--[2020-12-04 Fri 19:47] =>  0:27
      :END:
 
