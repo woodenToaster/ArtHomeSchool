@@ -274,6 +274,7 @@
 *** Jorge Zaffino
      - Punisher: Assassin's Guild
 *** Jorge Jimenez
+*** Juan Jimenez
 *** Ryan Ottley
 *** Al Williamson
 *** Wally Wood
@@ -286,10 +287,6 @@
     - Court of Owls Unwrapped
     - Dark Nights: Metal 1-6
     - Dark Nights: Heavy Metal 1-7
-*** Franklin Booth (Wrightson's influence)
-*** Gustave Dore - (Franklin Booth's influence)
-*** Charles Dana Gibson
-*** Joseph Clemont Coll
 *** Mike Mignola
     - Bram Stoker's Dracula
     - Hellboy
@@ -298,7 +295,11 @@
     - Wolverine
     - Uncanny X-Men
     - King Conan
-** Fine Art
+** Fine Art and Illustration
+*** Charles Dana Gibson
+*** Joseph Clemont Coll
+*** Franklin Booth
+*** Gustave Dore
 *** Fechin
 *** Albrecht Altdorfer
 * Exercises

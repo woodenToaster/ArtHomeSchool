@@ -700,34 +700,49 @@
      :END:
 **** DONE Blog
 ** Week 4
-#+BEGIN: clocktable :scope subtree :maxlevel 4 :tags t
-#+CAPTION: Clock summary at [2020-12-04 Fri 20:30]
-| Tags    | Headline                         | Time    |       |      |      |
-|---------+----------------------------------+---------+-------+------+------|
-|         | *Total time*                     | *15:56* |       |      |      |
-|---------+----------------------------------+---------+-------+------+------|
-|         | \_  Week 4                       |         | 15:56 |      |      |
-|         | \_    <2020-11-30 Mon>           |         |       | 3:12 |      |
-| drawing | \_      Draw for fun - catapult  |         |       |      | 0:40 |
-|         | \_      Drawabox lesson 7 1 hour |         |       |      | 2:32 |
-|         | \_    <2020-12-01 Tue>           |         |       | 3:29 |      |
-| drawing | \_      Draw for fun - catapult  |         |       |      | 0:47 |
-|         | \_      Drawabox lesson 7        |         |       |      | 1:22 |
-|         | \_      Watts perspective 9      |         |       |      | 0:59 |
-| study   | \_      Watson book              |         |       |      | 0:21 |
-|         | \_    <2020-12-02 Wed>           |         |       | 3:08 |      |
-| drawing | \_      Draw for fun - catapult  |         |       |      | 0:46 |
-| study   | \_      Drawabox lesson 7        |         |       |      | 0:49 |
-| drawing | \_      Drawabox lesson 7        |         |       |      | 1:07 |
-| study   | \_      Watts Perspective        |         |       |      | 0:26 |
-|         | \_    <2020-12-03 Thu>           |         |       | 3:03 |      |
-| drawing | \_      Draw for fun - crown     |         |       |      | 0:43 |
-| study   | \_      Drawabox lesson 7        |         |       |      | 1:12 |
-| drawing | \_      Drawabox lesson 7        |         |       |      | 1:08 |
-|         | \_    <2020-12-04 Fri>           |         |       | 3:04 |      |
-| drawing | \_      Draw for fun - crown     |         |       |      | 0:45 |
-| drawing | \_      Drawabox lesson 7        |         |       |      | 1:52 |
-| study   | \_      Drawabox lesson 7        |         |       |      | 0:27 |
+#+BEGIN: clocktable :scope subtree :maxlevel 5
+#+CAPTION: Clock summary at [2020-12-06 Sun 19:47]
+| Headline                                  | Time    |       |      |      |
+|-------------------------------------------+---------+-------+------+------|
+| *Total time*                              | *24:19* |       |      |      |
+|-------------------------------------------+---------+-------+------+------|
+| \_  Week 4                                |         | 24:19 |      |      |
+| \_    <2020-11-30 Mon>                    |         |       | 3:12 |      |
+| \_      Draw for fun - catapult           |         |       |      | 0:40 |
+| \_      Drawabox lesson 7 1 hour          |         |       |      | 2:32 |
+| \_    <2020-12-01 Tue>                    |         |       | 3:29 |      |
+| \_      Draw for fun - catapult           |         |       |      | 0:47 |
+| \_      Drawabox lesson 7                 |         |       |      | 1:22 |
+| \_      Watts perspective 9               |         |       |      | 0:59 |
+| \_      Watson book                       |         |       |      | 0:21 |
+| \_    <2020-12-02 Wed>                    |         |       | 3:08 |      |
+| \_      Draw for fun - catapult           |         |       |      | 0:46 |
+| \_      Drawabox lesson 7                 |         |       |      | 1:07 |
+| \_      Drawabox lesson 7                 |         |       |      | 0:49 |
+| \_      Watts Perspective                 |         |       |      | 0:26 |
+| \_    <2020-12-03 Thu>                    |         |       | 3:03 |      |
+| \_      Draw for fun - crown              |         |       |      | 0:43 |
+| \_      Drawabox lesson 7                 |         |       |      | 1:12 |
+| \_      Drawabox lesson 7                 |         |       |      | 1:08 |
+| \_    <2020-12-04 Fri>                    |         |       | 3:04 |      |
+| \_      Draw for fun - crown              |         |       |      | 0:45 |
+| \_      Drawabox lesson 7                 |         |       |      | 1:52 |
+| \_      Drawabox lesson 7                 |         |       |      | 0:27 |
+| \_    <2020-12-05 Sat>                    |         |       | 5:52 |      |
+| \_      Drawabox lesson 7                 |         |       |      | 4:52 |
+| \_      Drawing for fun - Kasteel de Haar |         |       |      | 1:00 |
+| \_    <2020-12-06 Sun>                    |         |       | 2:31 |      |
+| \_      Drawabox lesson 7                 |         |       |      | 2:31 |
+#+END:
+#+BEGIN: clocktable-by-tag :scope file :maxlevel 5 :match "drawing"
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *16.18*  |
+#+END:
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 5 :match "study"
+| Tag   | Headline   | Time (h) |
+|-------+------------+----------|
+| study | *Tag time* | *3.25*   |
 #+END:
 
 *** <2020-11-30 Mon>
@@ -761,14 +776,14 @@
      :LOGBOOK:
      CLOCK: [2020-12-02 Wed 06:57]--[2020-12-02 Wed 07:43] =>  0:46
      :END:
+**** DONE Drawabox lesson 7                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-02 Wed 18:44]--[2020-12-02 Wed 19:51] =>  1:07
+     :END:
 **** DONE Drawabox lesson 7                                           :study:
      :LOGBOOK:
      CLOCK: [2020-12-02 Wed 20:52]--[2020-12-02 Wed 21:13] =>  0:21
      CLOCK: [2020-12-02 Wed 18:16]--[2020-12-02 Wed 18:44] =>  0:28
-     :END:
-**** DONE Drawabox lesson 7                                         :drawing:
-     :LOGBOOK:
-     CLOCK: [2020-12-02 Wed 18:44]--[2020-12-02 Wed 19:51] =>  1:07
      :END:
 **** DONE Watts Perspective                                           :study:
      :LOGBOOK:
@@ -802,4 +817,26 @@
      :LOGBOOK:
      CLOCK: [2020-12-04 Fri 19:20]--[2020-12-04 Fri 19:47] =>  0:27
      :END:
+*** <2020-12-05 Sat>
+**** DONE Plan next unit
+**** DONE Drawabox lesson 7                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-05 Sat 13:27]--[2020-12-05 Sat 15:19] =>  1:52
+     CLOCK: [2020-12-05 Sat 09:03]--[2020-12-05 Sat 12:03] =>  3:00
+     :END:
+**** DONE Drawing for fun - Kasteel de Haar                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-05 Sat 19:09]--[2020-12-05 Sat 20:09] =>  1:00
+     :END:
+*** <2020-12-06 Sun>
+**** DONE Drawabox lesson 7                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-06 Sun 18:17]--[2020-12-06 Sun 19:24] =>  1:07
+     CLOCK: [2020-12-06 Sun 10:36]--[2020-12-06 Sun 12:00] =>  1:24
+     :END:
+**** DONE Blog gen program
+**** DONE blog_gen should generate a skeleton for each post (unit plan and weekly summary)
+**** DONE Sum tasks by tags
+**** DONE Weekly blog post
+**** DONE Unit plan blog post
 

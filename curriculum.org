@@ -95,15 +95,16 @@
 ** Perspective I
 *** Video
 **** DONE Marshall Vandruff's perspective course
+**** DONE Watts Perspective
 **** DONE drawabox.com lesson 4
 **** DONE drawabox.com lesson 5
-**** TODO drawabox.com lesson 6
-**** TODO drawabox.com lesson 7
+**** DONE drawabox.com lesson 6
+**** TODO drawabox.com lesson 7 - 12 vehicle drawings (2 of 12 done)
 *** Books
 **** DONE Perspective Drawing Handbook by Joseph D'Amelio
-**** TODO Creative Perspective for Artists and Illustrators
+**** TODO Creative Perspective for Artists and Illustrators - Chapter 7 - The circle
 *** Art Parent - John Buscema for medieval cities and castles
-*** Challenge - drawabox.com 250 cylinders
+*** DONE Challenge - drawabox.com 250 cylinders
 *** Inspiration - The Science and Practice of Drawing by Harold Speed
 *** Week 1
     - cylinders (20 min. per day)
@@ -125,16 +126,33 @@
     - Drawabox lesson 7
     - Watson book (45 min. per day)
     - Watts perspective 6-10
-** Anatomy I - Head
-*** Video - Watts Head Drawing I
-*** Book - Loomis
-*** Backup -
-*** Art Parent - 
-*** Challenge - 100 heads
+** Head Drawing I
+*** Videos
+**** TODO Proko Loomis method
+**** TODO Proko figure drawing course
+**** TODO Watts Head Drawing I
+**** TODO Constructive Head Drawing with Steve Huston (NMA)
+**** TODO The Frank Reilly Drawing Method (NMA)
+*** Books
+**** TODO Drawing the Head and the Hands - Loomis
+*** Art Parent - None
+*** Challenge - Ahmed Aldoori's 100 head challenge (25 a week, 3-4 per day)
 *** Week 1
+    - 25 heads
+    - Watts Head Drawing I: 1 - 4
+    - Lommis book part I
 *** Week 2
+    - 25 heads
+    - Watts Head Drawing I: 5 - 8
+    - Lommis book part I
 *** Week 3
+    - 25 heads
+    - Watts Head Drawing I: 9 - 12
+    - Lommis book part II
 *** Week 4
+    - 25 heads
+    - Watts Head Drawing I: 13 - 15
+    - Lommis book part II
 * Term 2
 ** Anatomy I - Head
 ** Perspective II

@@ -1,0 +1,10 @@
+#+TITLE: Head Drawing I
+#+AUTHOR: Chris Hogan
+#+DATE: <2020-12-07 Mon> to <2021-01-03 Sun>
+#+STARTUP: nologdone
+
+* Log
+** Week 1
+** Week 2
+** Week 3
+** Week 4
