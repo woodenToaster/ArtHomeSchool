@@ -16,18 +16,21 @@
    - Pull center line of face plane
    - Bring face plane down in a taper to chin from each side of the ball
    - Jaw angles back up to ellipse major axis
-   - TODO Hairline to brow is 1/3. Repeat that length twice on a frontal view. 
+   - TODO Hairline to brow is 1/3. Repeat that length twice on a frontal view.
+   - Arc from the bottom corner of side plane through center and over forehead
+     can find the hairline
+   - TODO 3/4 heads using the rule of thirds
 * Drawing the Head and the Hands - Loomis
 
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 5 :tags t
-#+CAPTION: Clock summary at [2020-12-07 Mon 21:28]
+#+CAPTION: Clock summary at [2020-12-08 Tue 21:12]
 | Tags    | Headline                                     | Time   |      |      |      |
 |---------+----------------------------------------------+--------+------+------+------|
-|         | *Total time*                                 | *3:52* |      |      |      |
+|         | *Total time*                                 | *7:14* |      |      |      |
 |---------+----------------------------------------------+--------+------+------+------|
-|         | \_  Week 1                                   |        | 3:52 |      |      |
+|         | \_  Week 1                                   |        | 7:14 |      |      |
 |         | \_    <2020-12-07 Mon>                       |        |      | 3:52 |      |
 | drawing | \_      Drawing for fun - heads              |        |      |      | 0:43 |
 | drawing | \_      Warmup - automatic drawing           |        |      |      | 0:23 |
@@ -35,18 +38,23 @@
 | drawing | \_      Watts Head Phase I - head lay-ins    |        |      |      | 1:01 |
 | drawing | \_      100 head challenge                   |        |      |      | 0:51 |
 | study   | \_      Loomis book - Introduction           |        |      |      | 0:23 |
+|         | \_    <2020-12-08 Tue>                       |        |      | 3:22 |      |
+| drawing | \_      Drawing for fun - heads              |        |      |      | 0:44 |
+| drawing | \_      Watts Head Phase I - head lay-ins    |        |      |      | 1:13 |
+| study   | \_      Watts Head Phase I - head lay-ins    |        |      |      | 0:35 |
+| drawing | \_      100 head challenge                   |        |      |      | 0:50 |
 #+END:
 
-#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 5 :match "drawing" :tags t
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *2.97*   |
+| drawing | *Tag time* | *3h 42m* |
 
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 5 :match "study" :tags t
 | Tag   | Headline   | Time (h) |
 |-------+------------+----------|
-| study | *Tag time* | *0.90*   |
+| study | *Tag time* | *0h 54m* |
 
 #+END:
 
@@ -75,6 +83,26 @@
 **** DONE Loomis book - Introduction                                  :study:
      :LOGBOOK:
      CLOCK: [2020-12-07 Mon 21:05]--[2020-12-07 Mon 21:28] =>  0:23
+     :END:
+*** <2020-12-08 Tue>
+**** DONE Drawing for fun - heads                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-08 Tue 06:58]--[2020-12-08 Tue 07:42] =>  0:44
+     :END:
+**** DONE Watts Head Phase I - head lay-ins                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-08 Tue 20:02]--[2020-12-08 Tue 20:22] =>  0:18
+     CLOCK: [2020-12-08 Tue 19:06]--[2020-12-08 Tue 19:37] =>  0:31
+     CLOCK: [2020-12-08 Tue 18:33]--[2020-12-08 Tue 18:55] =>  0:22
+     :END:
+**** DONE Watts Head Phase I - head lay-ins                           :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-08 Tue 19:38]--[2020-12-08 Tue 20:02] =>  0:24
+     CLOCK: [2020-12-08 Tue 18:55]--[2020-12-08 Tue 19:06] =>  0:11
+     :END:
+**** DONE 100 head challenge                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-08 Tue 20:22]--[2020-12-08 Tue 21:12] =>  0:50
      :END:
 ** Week 2
 ** Week 3
