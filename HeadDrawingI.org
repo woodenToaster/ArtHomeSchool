@@ -20,41 +20,51 @@
    - Arc from the bottom corner of side plane through center and over forehead
      can find the hairline
    - TODO 3/4 heads using the rule of thirds
+** Skull profile
+   - Start with horizontal oval (or egg on its side)
+   - Remember to vary line weight
+   - TODO Draw profile, straight on, and 3/4 views of skull
 * Drawing the Head and the Hands - Loomis
 
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 5 :tags t
-#+CAPTION: Clock summary at [2020-12-08 Tue 21:12]
-| Tags    | Headline                                     | Time   |      |      |      |
-|---------+----------------------------------------------+--------+------+------+------|
-|         | *Total time*                                 | *7:14* |      |      |      |
-|---------+----------------------------------------------+--------+------+------+------|
-|         | \_  Week 1                                   |        | 7:14 |      |      |
-|         | \_    <2020-12-07 Mon>                       |        |      | 3:52 |      |
-| drawing | \_      Drawing for fun - heads              |        |      |      | 0:43 |
-| drawing | \_      Warmup - automatic drawing           |        |      |      | 0:23 |
-| study   | \_      Watts Head Phase I - head lay-ins... |        |      |      | 0:31 |
-| drawing | \_      Watts Head Phase I - head lay-ins    |        |      |      | 1:01 |
-| drawing | \_      100 head challenge                   |        |      |      | 0:51 |
-| study   | \_      Loomis book - Introduction           |        |      |      | 0:23 |
-|         | \_    <2020-12-08 Tue>                       |        |      | 3:22 |      |
-| drawing | \_      Drawing for fun - heads              |        |      |      | 0:44 |
-| drawing | \_      Watts Head Phase I - head lay-ins    |        |      |      | 1:13 |
-| study   | \_      Watts Head Phase I - head lay-ins    |        |      |      | 0:35 |
-| drawing | \_      100 head challenge                   |        |      |      | 0:50 |
+#+CAPTION: Clock summary at [2020-12-09 Wed 21:25]
+| Tags    | Headline                                     | Time    |       |      |      |
+|---------+----------------------------------------------+---------+-------+------+------|
+|         | *Total time*                                 | *11:21* |       |      |      |
+|---------+----------------------------------------------+---------+-------+------+------|
+|         | \_  Week 1                                   |         | 11:21 |      |      |
+|         | \_    <2020-12-07 Mon>                       |         |       | 3:52 |      |
+| drawing | \_      Drawing for fun - heads              |         |       |      | 0:43 |
+| drawing | \_      Warmup - automatic drawing           |         |       |      | 0:23 |
+| study   | \_      Watts Head Phase I - head lay-ins... |         |       |      | 0:31 |
+| drawing | \_      Watts Head Phase I - head lay-ins    |         |       |      | 1:01 |
+| drawing | \_      100 head challenge                   |         |       |      | 0:51 |
+| study   | \_      Loomis book - Introduction           |         |       |      | 0:23 |
+|         | \_    <2020-12-08 Tue>                       |         |       | 3:22 |      |
+| drawing | \_      Drawing for fun - heads              |         |       |      | 0:44 |
+| drawing | \_      Watts Head Phase I - head lay-ins    |         |       |      | 1:13 |
+| study   | \_      Watts Head Phase I - head lay-ins    |         |       |      | 0:35 |
+| drawing | \_      100 head challenge                   |         |       |      | 0:50 |
+|         | \_    <2020-12-09 Wed>                       |         |       | 4:07 |      |
+| drawing | \_      Drawing for fun - heads              |         |       |      | 0:44 |
+| drawing | \_      Watts Head Phase I - head lay-ins    |         |       |      | 1:00 |
+| study   | \_      Watts Head Phase I - skull profile   |         |       |      | 0:40 |
+| drawing | \_      Watts Head Phase I - skull profile   |         |       |      | 0:56 |
+| drawing | \_      100 head challenge                   |         |       |      | 0:47 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *3h 42m* |
+| drawing | *Tag time* | *9h 12m* |
 
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 5 :match "study" :tags t
 | Tag   | Headline   | Time (h) |
 |-------+------------+----------|
-| study | *Tag time* | *0h 54m* |
+| study | *Tag time* | *2h 9m*  |
 
 #+END:
 
@@ -103,6 +113,27 @@
 **** DONE 100 head challenge                                        :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-08 Tue 20:22]--[2020-12-08 Tue 21:12] =>  0:50
+     :END:
+*** <2020-12-09 Wed>
+**** DONE Drawing for fun - heads                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-09 Wed 06:57]--[2020-12-09 Wed 07:41] =>  0:44
+     :END:
+**** DONE Watts Head Phase I - head lay-ins                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-09 Wed 17:57]--[2020-12-09 Wed 18:57] =>  1:00
+     :END:
+**** DONE Watts Head Phase I - skull profile                          :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-09 Wed 19:00]--[2020-12-09 Wed 19:40] =>  0:40
+     :END:
+**** DONE Watts Head Phase I - skull profile                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-09 Wed 19:41]--[2020-12-09 Wed 20:37] =>  0:56
+     :END:
+**** DONE 100 head challenge                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-09 Wed 20:37]--[2020-12-09 Wed 21:24] =>  0:47
      :END:
 ** Week 2
 ** Week 3
