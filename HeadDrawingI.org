@@ -29,42 +29,47 @@
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 5 :tags t
-#+CAPTION: Clock summary at [2020-12-09 Wed 21:25]
-| Tags    | Headline                                     | Time    |       |      |      |
-|---------+----------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                 | *11:21* |       |      |      |
-|---------+----------------------------------------------+---------+-------+------+------|
-|         | \_  Week 1                                   |         | 11:21 |      |      |
-|         | \_    <2020-12-07 Mon>                       |         |       | 3:52 |      |
-| drawing | \_      Drawing for fun - heads              |         |       |      | 0:43 |
-| drawing | \_      Warmup - automatic drawing           |         |       |      | 0:23 |
-| study   | \_      Watts Head Phase I - head lay-ins... |         |       |      | 0:31 |
-| drawing | \_      Watts Head Phase I - head lay-ins    |         |       |      | 1:01 |
-| drawing | \_      100 head challenge                   |         |       |      | 0:51 |
-| study   | \_      Loomis book - Introduction           |         |       |      | 0:23 |
-|         | \_    <2020-12-08 Tue>                       |         |       | 3:22 |      |
-| drawing | \_      Drawing for fun - heads              |         |       |      | 0:44 |
-| drawing | \_      Watts Head Phase I - head lay-ins    |         |       |      | 1:13 |
-| study   | \_      Watts Head Phase I - head lay-ins    |         |       |      | 0:35 |
-| drawing | \_      100 head challenge                   |         |       |      | 0:50 |
-|         | \_    <2020-12-09 Wed>                       |         |       | 4:07 |      |
-| drawing | \_      Drawing for fun - heads              |         |       |      | 0:44 |
-| drawing | \_      Watts Head Phase I - head lay-ins    |         |       |      | 1:00 |
-| study   | \_      Watts Head Phase I - skull profile   |         |       |      | 0:40 |
-| drawing | \_      Watts Head Phase I - skull profile   |         |       |      | 0:56 |
-| drawing | \_      100 head challenge                   |         |       |      | 0:47 |
+#+CAPTION: Clock summary at [2020-12-10 Thu 21:08]
+| Tags    | Headline                                         | Time    |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | *Total time*                                     | *14:54* |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | \_  Week 1                                       |         | 14:54 |      |      |
+|         | \_    <2020-12-07 Mon>                           |         |       | 3:52 |      |
+| drawing | \_      Drawing for fun - heads                  |         |       |      | 0:43 |
+| drawing | \_      Warmup - automatic drawing               |         |       |      | 0:23 |
+| study   | \_      Watts Head Phase I - head lay-ins...     |         |       |      | 0:31 |
+| drawing | \_      Watts Head Phase I - head lay-ins        |         |       |      | 1:01 |
+| drawing | \_      100 head challenge                       |         |       |      | 0:51 |
+| study   | \_      Loomis book - Introduction               |         |       |      | 0:23 |
+|         | \_    <2020-12-08 Tue>                           |         |       | 3:22 |      |
+| drawing | \_      Drawing for fun - heads                  |         |       |      | 0:44 |
+| drawing | \_      Watts Head Phase I - head lay-ins        |         |       |      | 1:13 |
+| study   | \_      Watts Head Phase I - head lay-ins        |         |       |      | 0:35 |
+| drawing | \_      100 head challenge                       |         |       |      | 0:50 |
+|         | \_    <2020-12-09 Wed>                           |         |       | 4:07 |      |
+| drawing | \_      Drawing for fun - heads                  |         |       |      | 0:44 |
+| drawing | \_      Watts Head Phase I - head lay-ins        |         |       |      | 1:00 |
+| study   | \_      Watts Head Phase I - skull profile       |         |       |      | 0:40 |
+| drawing | \_      Watts Head Phase I - skull profile       |         |       |      | 0:56 |
+| drawing | \_      100 head challenge                       |         |       |      | 0:47 |
+|         | \_    <2020-12-10 Thu>                           |         |       | 3:33 |      |
+| drawing | \_      Drawing for fun - heads                  |         |       |      | 0:40 |
+| drawing | \_      Watts Head Phase I - head lay-ins and... |         |       |      | 1:50 |
+| drawing | \_      100 head challenge                       |         |       |      | 0:45 |
+| study   | \_      Loomis book                              |         |       |      | 0:18 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *9h 12m* |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *12h 27m* |
 
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 5 :match "study" :tags t
 | Tag   | Headline   | Time (h) |
 |-------+------------+----------|
-| study | *Tag time* | *2h 9m*  |
+| study | *Tag time* | *2h 27m* |
 
 #+END:
 
@@ -134,6 +139,24 @@
 **** DONE 100 head challenge                                        :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-09 Wed 20:37]--[2020-12-09 Wed 21:24] =>  0:47
+     :END:
+*** <2020-12-10 Thu>
+**** DONE Drawing for fun - heads                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-10 Thu 07:02]--[2020-12-10 Thu 07:42] =>  0:40
+     :END:
+**** DONE Watts Head Phase I - head lay-ins and skull               :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-10 Thu 19:04]--[2020-12-10 Thu 20:04] =>  1:00
+     CLOCK: [2020-12-10 Thu 17:08]--[2020-12-10 Thu 17:58] =>  0:50
+     :END:
+**** DONE 100 head challenge                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-10 Thu 20:04]--[2020-12-10 Thu 20:49] =>  0:45
+     :END:
+**** DONE Loomis book                                                 :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-10 Thu 20:50]--[2020-12-10 Thu 21:08] =>  0:18
      :END:
 ** Week 2
 ** Week 3
