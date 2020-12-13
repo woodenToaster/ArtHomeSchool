@@ -24,17 +24,23 @@
    - Start with horizontal oval (or egg on its side)
    - Remember to vary line weight
    - TODO Draw profile, straight on, and 3/4 views of skull
+** Simple Asaro Head - Profile
+   - Start with Loomis head
+   - Add ear shapes between eye line and bottom of nose
+   - Add eye socket shapes
+   - Add keystone and bridge of nose
+   - Mark measuring lines on each side to keep symmetry
 * Drawing the Head and the Hands - Loomis
 
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 5 :tags t
-#+CAPTION: Clock summary at [2020-12-11 Fri 21:15]
+#+CAPTION: Clock summary at [2020-12-12 Sat 20:47]
 | Tags    | Headline                                         | Time    |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                     | *18:24* |       |      |      |
+|         | *Total time*                                     | *25:52* |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 1                                       |         | 18:24 |      |      |
+|         | \_  Week 1                                       |         | 25:52 |      |      |
 |         | \_    <2020-12-07 Mon>                           |         |       | 3:52 |      |
 | drawing | \_      Drawing for fun - heads                  |         |       |      | 0:43 |
 | drawing | \_      Warmup - automatic drawing               |         |       |      | 0:23 |
@@ -64,18 +70,25 @@
 | study   | \_      Watts Head phase I - skull               |         |       |      | 0:12 |
 | drawing | \_      100 heads challenge                      |         |       |      | 1:00 |
 | drawing | \_      Loomis book                              |         |       |      | 0:32 |
+|         | \_    <2020-12-12 Sat>                           |         |       | 7:28 |      |
+| drawing | \_      Drawing for fun - heads                  |         |       |      | 1:20 |
+| drawing | \_      Watts Head phase I - skull               |         |       |      | 0:59 |
+| study   | \_      Watts Head phase I - Simple Asaro        |         |       |      | 0:44 |
+| drawing | \_      Watts Head phase I - Simple Asaro        |         |       |      | 2:46 |
+| drawing | \_      100 head challenge                       |         |       |      | 0:54 |
+| drawing | \_      Loomis book                              |         |       |      | 0:45 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *15h 45m* |
+| drawing | *Tag time* | *22h 29m* |
 
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "study" :tags t
 | Tag   | Headline   | Time (h) |
 |-------+------------+----------|
-| study | *Tag time* | *2h 39m* |
+| study | *Tag time* | *3h 23m* |
 
 #+END:
 
@@ -184,6 +197,33 @@
 **** DONE Loomis book                                               :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-11 Fri 20:42]--[2020-12-11 Fri 21:14] =>  0:32
+     :END:
+*** <2020-12-12 Sat>
+**** DONE Drawing for fun - heads                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-12 Sat 09:09]--[2020-12-12 Sat 10:29] =>  1:20
+     :END:
+**** DONE Watts Head phase I - skull                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-12 Sat 10:46]--[2020-12-12 Sat 11:45] =>  0:59
+     :END:
+**** DONE Watts Head phase I - Simple Asaro                           :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-12 Sat 15:48]--[2020-12-12 Sat 16:02] =>  0:14
+     CLOCK: [2020-12-12 Sat 13:30]--[2020-12-12 Sat 14:00] =>  0:30
+     :END:
+**** DONE Watts Head phase I - Simple Asaro                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-12 Sat 17:52]--[2020-12-12 Sat 19:07] =>  1:15
+     CLOCK: [2020-12-12 Sat 14:15]--[2020-12-12 Sat 15:46] =>  1:31
+     :END:
+**** DONE 100 head challenge                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-12 Sat 19:08]--[2020-12-12 Sat 20:02] =>  0:54
+     :END:
+**** DONE Loomis book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-12 Sat 20:02]--[2020-12-12 Sat 20:47] =>  0:45
      :END:
 ** Week 2
 ** Week 3
