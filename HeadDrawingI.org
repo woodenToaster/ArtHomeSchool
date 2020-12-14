@@ -35,12 +35,12 @@
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 5 :tags t
-#+CAPTION: Clock summary at [2020-12-12 Sat 20:47]
+#+CAPTION: Clock summary at [2020-12-13 Sun 21:00]
 | Tags    | Headline                                         | Time    |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                     | *25:52* |       |      |      |
+|         | *Total time*                                     | *32:29* |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 1                                       |         | 25:52 |      |      |
+|         | \_  Week 1                                       |         | 32:29 |      |      |
 |         | \_    <2020-12-07 Mon>                           |         |       | 3:52 |      |
 | drawing | \_      Drawing for fun - heads                  |         |       |      | 0:43 |
 | drawing | \_      Warmup - automatic drawing               |         |       |      | 0:23 |
@@ -77,18 +77,25 @@
 | drawing | \_      Watts Head phase I - Simple Asaro        |         |       |      | 2:46 |
 | drawing | \_      100 head challenge                       |         |       |      | 0:54 |
 | drawing | \_      Loomis book                              |         |       |      | 0:45 |
+|         | \_    <2020-12-13 Sun>                           |         |       | 6:37 |      |
+| drawing | \_      Drawing for fun - heads                  |         |       |      | 1:40 |
+| drawing | \_      Watts Head phase I - Simple Asaro        |         |       |      | 0:31 |
+| study   | \_      Watts Head phase I - The Abstraction     |         |       |      | 0:30 |
+| drawing | \_      Watts Head phase I - The Abstraction     |         |       |      | 2:19 |
+| drawing | \_      100 head challenge                       |         |       |      | 0:31 |
+| study   | \_      Blog post                                |         |       |      | 1:06 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *22h 29m* |
+| drawing | *Tag time* | *27h 30m* |
 
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "study" :tags t
 | Tag   | Headline   | Time (h) |
 |-------+------------+----------|
-| study | *Tag time* | *3h 23m* |
+| study | *Tag time* | *4h 59m* |
 
 #+END:
 
@@ -224,6 +231,32 @@
 **** DONE Loomis book                                               :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-12 Sat 20:02]--[2020-12-12 Sat 20:47] =>  0:45
+     :END:
+*** <2020-12-13 Sun>
+**** DONE Drawing for fun - heads                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-13 Sun 09:04]--[2020-12-13 Sun 10:44] =>  1:40
+     :END:
+**** DONE Watts Head phase I - Simple Asaro                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-13 Sun 10:59]--[2020-12-13 Sun 11:30] =>  0:31
+     :END:
+**** DONE Watts Head phase I - The Abstraction                        :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-13 Sun 11:30]--[2020-12-13 Sun 12:00] =>  0:30
+     :END:
+**** DONE Watts Head phase I - The Abstraction                      :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-13 Sun 18:23]--[2020-12-13 Sun 19:22] =>  0:59
+     CLOCK: [2020-12-13 Sun 13:40]--[2020-12-13 Sun 15:00] =>  1:20
+     :END:
+**** DONE 100 head challenge                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-13 Sun 19:23]--[2020-12-13 Sun 19:54] =>  0:31
+     :END:
+**** DONE Blog post                                                   :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-13 Sun 19:54]--[2020-12-13 Sun 21:00] =>  1:06
      :END:
 ** Week 2
 ** Week 3
