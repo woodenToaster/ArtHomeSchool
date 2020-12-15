@@ -259,5 +259,53 @@
      CLOCK: [2020-12-13 Sun 19:54]--[2020-12-13 Sun 21:00] =>  1:06
      :END:
 ** Week 2
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
+#+CAPTION: Clock summary at [2020-12-14 Mon 21:22]
+| Tags    | Headline                                        | Time   |      |      |      |
+|---------+-------------------------------------------------+--------+------+------+------|
+|         | *Total time*                                    | *3:47* |      |      |      |
+|---------+-------------------------------------------------+--------+------+------+------|
+|         | \_  Week 2                                      |        | 3:47 |      |      |
+|         | \_    <2020-12-14 Mon>                          |        |      | 3:47 |      |
+| drawing | \_      Drawing for fun - heads                 |        |      |      | 0:45 |
+| drawing | \_      Watts Head phase I - abstraction        |        |      |      | 1:43 |
+| study   | \_      Watts Head phase I - classic asaro 9:00 |        |      |      | 0:13 |
+| drawing | \_      100 head challenge                      |        |      |      | 0:47 |
+| drawing | \_      Loomis book                             |        |      |      | 0:19 |
+#+END:
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *31h 4m* |
+
+#+END:
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "study" :tags t
+| Tag   | Headline   | Time (h) |
+|-------+------------+----------|
+| study | *Tag time* | *5h 12m* |
+
+#+END:
+
+*** <2020-12-14 Mon>
+**** DONE Drawing for fun - heads                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-14 Mon 06:56]--[2020-12-14 Mon 07:41] =>  0:45
+     :END:
+**** DONE Watts Head phase I - abstraction                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-14 Mon 18:18]--[2020-12-14 Mon 20:01] =>  1:43
+     :END:
+**** DONE Watts Head phase I - classic asaro 9:00                     :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-14 Mon 20:01]--[2020-12-14 Mon 20:14] =>  0:13
+     :END:
+**** DONE 100 head challenge                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-14 Mon 20:15]--[2020-12-14 Mon 21:02] =>  0:47
+     :END:
+**** DONE Loomis book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-14 Mon 21:02]--[2020-12-14 Mon 21:21] =>  0:19
+     :END:
 ** Week 3
 ** Week 4
