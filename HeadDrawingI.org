@@ -260,18 +260,24 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-14 Mon 21:22]
+#+CAPTION: Clock summary at [2020-12-15 Tue 21:19]
 | Tags    | Headline                                        | Time   |      |      |      |
 |---------+-------------------------------------------------+--------+------+------+------|
-|         | *Total time*                                    | *3:47* |      |      |      |
+|         | *Total time*                                    | *7:16* |      |      |      |
 |---------+-------------------------------------------------+--------+------+------+------|
-|         | \_  Week 2                                      |        | 3:47 |      |      |
+|         | \_  Week 2                                      |        | 7:16 |      |      |
 |         | \_    <2020-12-14 Mon>                          |        |      | 3:47 |      |
 | drawing | \_      Drawing for fun - heads                 |        |      |      | 0:45 |
 | drawing | \_      Watts Head phase I - abstraction        |        |      |      | 1:43 |
 | study   | \_      Watts Head phase I - classic asaro 9:00 |        |      |      | 0:13 |
 | drawing | \_      100 head challenge                      |        |      |      | 0:47 |
 | drawing | \_      Loomis book                             |        |      |      | 0:19 |
+|         | \_    <2020-12-15 Tue>                          |        |      | 3:29 |      |
+| drawing | \_      Drawing for fun - heads                 |        |      |      | 0:43 |
+| drawing | \_      Watts Head phase I - abstraction        |        |      |      | 0:43 |
+| study   | \_      Watts Head phase I - Classic Asaro      |        |      |      | 0:17 |
+| drawing | \_      Watts Head phase I - Classic Asaro      |        |      |      | 1:22 |
+| drawing | \_      Loomis book                             |        |      |      | 0:24 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
 | Tag     | Headline   | Time (h) |
@@ -306,6 +312,28 @@
 **** DONE Loomis book                                               :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-14 Mon 21:02]--[2020-12-14 Mon 21:21] =>  0:19
+     :END:
+*** <2020-12-15 Tue>
+**** DONE Drawing for fun - heads                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-15 Tue 06:59]--[2020-12-15 Tue 07:42] =>  0:43
+     :END:
+**** DONE Watts Head phase I - abstraction                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-15 Tue 18:05]--[2020-12-15 Tue 18:48] =>  0:43
+     :END:
+**** DONE Watts Head phase I - Classic Asaro                          :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-15 Tue 18:48]--[2020-12-15 Tue 19:05] =>  0:17
+     :END:
+**** DONE Watts Head phase I - Classic Asaro                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-15 Tue 20:20]--[2020-12-15 Tue 20:55] =>  0:35
+     CLOCK: [2020-12-15 Tue 19:08]--[2020-12-15 Tue 19:55] =>  0:47
+     :END:
+**** DONE Loomis book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-15 Tue 20:55]--[2020-12-15 Tue 21:19] =>  0:24
      :END:
 ** Week 3
 ** Week 4
