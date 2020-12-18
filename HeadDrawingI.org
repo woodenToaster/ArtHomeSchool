@@ -260,12 +260,12 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-16 Wed 21:28]
+#+CAPTION: Clock summary at [2020-12-17 Thu 21:14]
 | Tags    | Headline                                        | Time    |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                    | *10:18* |       |      |      |
+|         | *Total time*                                    | *13:20* |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 2                                      |         | 10:18 |      |      |
+|         | \_  Week 2                                      |         | 13:20 |      |      |
 |         | \_    <2020-12-14 Mon>                          |         |       | 3:47 |      |
 | drawing | \_      Drawing for fun - heads                 |         |       |      | 0:45 |
 | drawing | \_      Watts Head phase I - abstraction        |         |       |      | 1:43 |
@@ -282,17 +282,21 @@
 | drawing | \_      Drawing for fun - heads                 |         |       |      | 0:16 |
 | drawing | \_      Watts Head phase I - Abstraction        |         |       |      | 1:46 |
 | drawing | \_      Loomis Book                             |         |       |      | 1:00 |
+|         | \_    <2020-12-17 Thu>                          |         |       | 3:02 |      |
+| drawing | \_      Drawing for fun - heads                 |         |       |      | 0:45 |
+| drawing | \_      Watts Head phase I - Classic Asaro      |         |       |      | 1:16 |
+| drawing | \_      Loomis book                             |         |       |      | 1:01 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *31h 4m* |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *40h 20m* |
 
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "study" :tags t
 | Tag   | Headline   | Time (h) |
 |-------+------------+----------|
-| study | *Tag time* | *5h 12m* |
+| study | *Tag time* | *5h 29m* |
 
 #+END:
 
@@ -351,6 +355,19 @@
 **** DONE Loomis Book                                               :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-16 Wed 20:28]--[2020-12-16 Wed 21:28] =>  1:00
+     :END:
+*** <2020-12-17 Thu>
+**** DONE Drawing for fun - heads                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-17 Thu 06:57]--[2020-12-17 Thu 07:42] =>  0:45
+     :END:
+**** DONE Watts Head phase I - Classic Asaro                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-17 Thu 18:52]--[2020-12-17 Thu 20:08] =>  1:16
+     :END:
+**** DONE Loomis book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-17 Thu 20:13]--[2020-12-17 Thu 21:14] =>  1:01
      :END:
 ** Week 3
 ** Week 4
