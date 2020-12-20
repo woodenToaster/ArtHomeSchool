@@ -12,12 +12,15 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
-** Ritmo pencil
-** Conte 1710 B
-** Prismacolor black and white wax pencils
+** TODO Ritmo pencil
+** TODO Conte 1710 B
+** TODO Prismacolor black and white wax pencils
 ** Copic (or prismacolor) grey toned markers
-** Toned sketchbook
-** Ballpoint pens
+** TODO Toned sketchbook
+** TODO Strathmore 300 series 9x12 sketchbook
+** TODO Ballpoint pens
+** Strathmore smooth newsprint
+** Strathmore 14 x 17 glue bound 300 series sketch pad
 ** Gouache paints
 *** Yellow ochre
 *** Cadmium red light (cadmium free scarlet)
@@ -29,8 +32,6 @@
 *** Flat
 **** 2
 **** 6
-** Strathmore smooth newsprint
-** Strathmore 14 x 17 glue bound 300 series sketch pad
 ** Blair low odor spray fix
 ** Stillman and Birn Zeta Series sketchbook
 ** white ink
@@ -59,6 +60,7 @@
 *** DONE Krash Course - Greg Capullo
 *** DONE Wally Wood - 22 panels that always work
 ** Figure Drawing
+*** TODO Drawing the Head and Hands - Loomis
 *** Proko's Best Anatomy Reference
 **** Human Anatomy for Artists - Goldfinger
 **** Artistic Anatomy - Paul Richer
@@ -70,7 +72,6 @@
 *** Drawing People - Barbara Bradley
 *** The Figure - Walt Reed
 *** FORCE: Dynamic Life Drawing
-*** Drawing the Head and Hands - Loomis
 *** Learn to Draw Action Heros - Rob Marzullo
 *** Dynamic Figure Drawing - Burne Hogarth
 *** George Bridgman
@@ -102,7 +103,7 @@
 *** DONE Force: Drawing Human Anatomy
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
-*** TODO Creative Perspective for Artists and Illustrators - Ernest Watson
+*** Creative Perspective for Artists and Illustrators - Ernest Watson
 *** How to Draw - Scott Robertson
 *** Framed Perspective Vol I - Marcos mateu-Mestre
 *** Framed Perspective Vol II - Marcos mateu-Mestre
@@ -140,6 +141,9 @@
    - Highly recommended by Marshall Vandruff
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
+*** TODO The Talent Code
+*** Antifragile
+*** The Mind Map Book
 *** The Artist's Way
 *** Eternal Truths for Every Artist
 *** Fishing for Elephants
@@ -147,7 +151,6 @@
 *** As a Man Thinketh - James Allen
 *** The War of Art
 *** Feeling Good (depression)
-*** The Talent Code
 *** Drawing from the Right Side of the Brain - Betty Edwards
 *** Mastery: Greene
 *** Mindworks - Gary van Warmerdam
@@ -316,6 +319,7 @@
     - Draw a still life while focusing on drawing negative space.
 *** Value Scale
     - Draw a still life using only 2 values: dark and light.
+** Create a collage of your artistic inspirational roots
 * Long Exercises
 ** TODO Jim Lee style sketches: 1) Gesture. 2) Micron 08 outline. 3) Brush.
 ** TODO Copy a whole page

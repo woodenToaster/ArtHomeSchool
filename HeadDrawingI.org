@@ -31,6 +31,17 @@
    - Add keystone and bridge of nose
    - Mark measuring lines on each side to keep symmetry
 * Drawing the Head and the Hands - Loomis
+* Watts Head Fundamentals
+** The Skull
+   - TODO Draw basic head shapes in 3/4, profile, and stright on
+   - TODO Draw skulls in 3/4, profile, and straight on
+   - Draw basic head shape, then break into thirds at hairline, brow, base of
+     nose and chin
+   - Find where side planes begin
+   - Find keystone
+   - Find rhythm of top of eye sockets
+   - Bottom of eye socket is half way between brow and bottom of nose
+   - Nose opening sits a bit higher than the base of the nose cartelage
 
 * Log
 ** Week 1
@@ -86,16 +97,12 @@
 | study   | \_      Blog post                                |         |       |      | 1:06 |
 #+END:
 
-#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 7 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
 | drawing | *Tag time* | *27h 30m* |
-
-#+END:
-#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "study" :tags t
-| Tag   | Headline   | Time (h) |
-|-------+------------+----------|
-| study | *Tag time* | *4h 59m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *4h 59m*  |
 
 #+END:
 
@@ -260,12 +267,12 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-17 Thu 21:14]
+#+CAPTION: Clock summary at [2020-12-19 Sat 20:06]
 | Tags    | Headline                                        | Time    |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                    | *13:20* |       |      |      |
+|         | *Total time*                                    | *20:40* |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 2                                      |         | 13:20 |      |      |
+|         | \_  Week 2                                      |         | 20:40 |      |      |
 |         | \_    <2020-12-14 Mon>                          |         |       | 3:47 |      |
 | drawing | \_      Drawing for fun - heads                 |         |       |      | 0:45 |
 | drawing | \_      Watts Head phase I - abstraction        |         |       |      | 1:43 |
@@ -286,17 +293,22 @@
 | drawing | \_      Drawing for fun - heads                 |         |       |      | 0:45 |
 | drawing | \_      Watts Head phase I - Classic Asaro      |         |       |      | 1:16 |
 | drawing | \_      Loomis book                             |         |       |      | 1:01 |
+|         | \_    <2020-12-18 Fri>                          |         |       | 2:58 |      |
+| drawing | \_      Drawing for fun - heads                 |         |       |      | 0:44 |
+| drawing | \_      Watts Head phase I - Classic Asaro      |         |       |      | 1:09 |
+| drawing | \_      Loomis book                             |         |       |      | 1:05 |
+|         | \_    <2020-12-19 Sat>                          |         |       | 4:22 |      |
+| drawing | \_      Watts Heads phase I - Classic Asaro     |         |       |      | 2:35 |
+| drawing | \_      Loomis book                             |         |       |      | 0:39 |
+| study   | \_      Watts Head Fundamentals - Skulls        |         |       |      | 0:32 |
+| drawing | \_      Watts Head Fundamentals - Skulls        |         |       |      | 0:36 |
 #+END:
-#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "drawing" :tags t
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *40h 20m* |
-
-#+END:
-#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match "study" :tags t
-| Tag   | Headline   | Time (h) |
-|-------+------------+----------|
-| study | *Tag time* | *5h 29m* |
+| drawing | *Tag time* | *19h 38m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *1h 2m*   |
 
 #+END:
 
@@ -368,6 +380,38 @@
 **** DONE Loomis book                                               :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-17 Thu 20:13]--[2020-12-17 Thu 21:14] =>  1:01
+     :END:
+*** <2020-12-18 Fri>
+**** DONE Drawing for fun - heads                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-18 Fri 06:58]--[2020-12-18 Fri 07:42] =>  0:44
+     :END:
+**** DONE Watts Head phase I - Classic Asaro                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-18 Fri 18:30]--[2020-12-18 Fri 19:39] =>  1:09
+     :END:
+**** DONE Loomis book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-18 Fri 19:59]--[2020-12-18 Fri 21:04] =>  1:05
+     :END:
+*** <2020-12-19 Sat>
+**** DONE Watts Heads phase I - Classic Asaro                       :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-19 Sat 15:06]--[2020-12-19 Sat 16:26] =>  1:20
+     CLOCK: [2020-12-19 Sat 10:35]--[2020-12-19 Sat 11:50] =>  1:15
+     :END:
+**** DONE Loomis book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-19 Sat 18:14]--[2020-12-19 Sat 18:53] =>  0:39
+     :END:
+**** DONE Watts Head Fundamentals - Skulls                            :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-19 Sat 19:46]--[2020-12-19 Sat 20:06] =>  0:20
+     CLOCK: [2020-12-19 Sat 18:58]--[2020-12-19 Sat 19:10] =>  0:12
+     :END:
+**** DONE Watts Head Fundamentals - Skulls                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-19 Sat 19:10]--[2020-12-19 Sat 19:46] =>  0:36
      :END:
 ** Week 3
 ** Week 4
