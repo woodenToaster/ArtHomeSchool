@@ -267,12 +267,12 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-19 Sat 20:06]
+#+CAPTION: Clock summary at [2020-12-20 Sun 20:46]
 | Tags    | Headline                                        | Time    |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                    | *20:40* |       |      |      |
+|         | *Total time*                                    | *26:06* |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 2                                      |         | 20:40 |      |      |
+|         | \_  Week 2                                      |         | 26:06 |      |      |
 |         | \_    <2020-12-14 Mon>                          |         |       | 3:47 |      |
 | drawing | \_      Drawing for fun - heads                 |         |       |      | 0:45 |
 | drawing | \_      Watts Head phase I - abstraction        |         |       |      | 1:43 |
@@ -302,13 +302,16 @@
 | drawing | \_      Loomis book                             |         |       |      | 0:39 |
 | study   | \_      Watts Head Fundamentals - Skulls        |         |       |      | 0:32 |
 | drawing | \_      Watts Head Fundamentals - Skulls        |         |       |      | 0:36 |
+|         | \_    <2020-12-20 Sun>                          |         |       | 5:26 |      |
+| drawing | \_      Watts Heads phase I - Classic Asaro     |         |       |      | 4:24 |
+| study   | \_      Blog                                    |         |       |      | 1:02 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
-| Tag     | Headline   | Time (h)  |
-|---------+------------+-----------|
-| drawing | *Tag time* | *19h 38m* |
-|---------+------------+-----------|
-| study   | *Tag time* | *1h 2m*   |
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *24h 2m* |
+|---------+------------+----------|
+| study   | *Tag time* | *2h 4m*  |
 
 #+END:
 
@@ -412,6 +415,17 @@
 **** DONE Watts Head Fundamentals - Skulls                          :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-19 Sat 19:10]--[2020-12-19 Sat 19:46] =>  0:36
+     :END:
+*** <2020-12-20 Sun>
+**** DONE Watts Heads phase I - Classic Asaro                       :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-20 Sun 18:20]--[2020-12-20 Sun 19:43] =>  1:23
+     CLOCK: [2020-12-20 Sun 14:32]--[2020-12-20 Sun 16:02] =>  1:30
+     CLOCK: [2020-12-20 Sun 10:16]--[2020-12-20 Sun 11:47] =>  1:31
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-20 Sun 19:44]--[2020-12-20 Sun 20:46] =>  1:02
      :END:
 ** Week 3
 ** Week 4
