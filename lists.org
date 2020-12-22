@@ -181,7 +181,7 @@
 ** Sinix Design
 ** Russian Academic Drawing (New Masters Academy)
 ** Watts Atelier
-*** TODO Perspective Fundamentals
+*** TODO Head Phase I
 *** Head Fundamentals
 *** Figure Fundamentals
 *** Quicksketch Fundamentals
@@ -190,11 +190,11 @@
 *** Figure Phase III
 *** Figure Phase IV
 *** Figure Phase V
-*** Head Phase I
 *** Head Phase II
 *** Head Phase III
 *** Head Phase IV
 *** Head Phase V
+*** DONE Perspective Fundamentals
 *** DONE Fundamentals Phase I
 *** DONE Fundamentals Phase II
 ** TODO David Finch
