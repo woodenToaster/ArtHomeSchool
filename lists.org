@@ -163,6 +163,7 @@
 *** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
 * Fiction
 ** Neuromancer
+** Robert E. Howard
 * Videos
 ** TODO drawabox
 *** DONE Lesson 1
@@ -181,8 +182,7 @@
 ** Sinix Design
 ** Russian Academic Drawing (New Masters Academy)
 ** Watts Atelier
-*** TODO Head Phase I
-*** Head Fundamentals
+*** TODO Head Fundamentals
 *** Figure Fundamentals
 *** Quicksketch Fundamentals
 *** Figure Phase I
@@ -194,6 +194,7 @@
 *** Head Phase III
 *** Head Phase IV
 *** Head Phase V
+*** DONE Head Phase I
 *** DONE Perspective Fundamentals
 *** DONE Fundamentals Phase I
 *** DONE Fundamentals Phase II

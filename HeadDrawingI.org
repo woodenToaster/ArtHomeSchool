@@ -429,20 +429,23 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-21 Mon 20:25]
+#+CAPTION: Clock summary at [2020-12-22 Tue 21:06]
 | Tags    | Headline                                    | Time   |      |      |      |
 |---------+---------------------------------------------+--------+------+------+------|
-|         | *Total time*                                | *3:23* |      |      |      |
+|         | *Total time*                                | *7:28* |      |      |      |
 |---------+---------------------------------------------+--------+------+------+------|
-|         | \_  Week 3                                  |        | 3:23 |      |      |
+|         | \_  Week 3                                  |        | 7:28 |      |      |
 |         | \_    <2020-12-21 Mon>                      |        |      | 3:23 |      |
 | drawing | \_      Watts Heads phase I - Classic Asaro |        |      |      | 1:27 |
 | drawing | \_      Watts Head Fundamentals - The Skull |        |      |      | 1:56 |
+|         | \_    <2020-12-22 Tue>                      |        |      | 4:05 |      |
+| drawing | \_      Watts Head Fundamentals - The Skull |        |      |      | 0:38 |
+| drawing | \_      Watts Head Fundamentals - Reilly... |        |      |      | 3:27 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *3h 23m* |
+| drawing | *Tag time* | *7h 28m* |
 |---------+------------+----------|
 | study   | *Tag time* | *0h 0m*  |
 
@@ -457,5 +460,16 @@
      :LOGBOOK:
      CLOCK: [2020-12-21 Mon 19:38]--[2020-12-21 Mon 20:25] =>  0:47
      CLOCK: [2020-12-21 Mon 18:05]--[2020-12-21 Mon 19:14] =>  1:09
+     :END:
+*** <2020-12-22 Tue>
+**** DONE Watts Head Fundamentals - The Skull                       :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-22 Tue 10:24]--[2020-12-22 Tue 11:02] =>  0:38
+     :END:
+**** DONE Watts Head Fundamentals - Reilly Abstraction              :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-22 Tue 19:12]--[2020-12-22 Tue 21:06] =>  1:54
+     CLOCK: [2020-12-22 Tue 13:58]--[2020-12-22 Tue 15:00] =>  1:02
+     CLOCK: [2020-12-22 Tue 11:09]--[2020-12-22 Tue 11:40] =>  0:31
      :END:
 ** Week 4
