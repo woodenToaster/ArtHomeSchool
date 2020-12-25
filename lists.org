@@ -12,15 +12,8 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
-** TODO Ritmo pencil
-** TODO Conte 1710 B
-** TODO Prismacolor black and white wax pencils
 ** Copic (or prismacolor) grey toned markers
-** TODO Toned sketchbook
-** TODO Strathmore 300 series 9x12 sketchbook
-** TODO Ballpoint pens
 ** Strathmore smooth newsprint
-** Strathmore 14 x 17 glue bound 300 series sketch pad
 ** Gouache paints
 *** Yellow ochre
 *** Cadmium red light (cadmium free scarlet)

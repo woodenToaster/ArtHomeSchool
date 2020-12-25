@@ -429,25 +429,31 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-22 Tue 21:06]
-| Tags    | Headline                                    | Time   |      |      |      |
-|---------+---------------------------------------------+--------+------+------+------|
-|         | *Total time*                                | *7:28* |      |      |      |
-|---------+---------------------------------------------+--------+------+------+------|
-|         | \_  Week 3                                  |        | 7:28 |      |      |
-|         | \_    <2020-12-21 Mon>                      |        |      | 3:23 |      |
-| drawing | \_      Watts Heads phase I - Classic Asaro |        |      |      | 1:27 |
-| drawing | \_      Watts Head Fundamentals - The Skull |        |      |      | 1:56 |
-|         | \_    <2020-12-22 Tue>                      |        |      | 4:05 |      |
-| drawing | \_      Watts Head Fundamentals - The Skull |        |      |      | 0:38 |
-| drawing | \_      Watts Head Fundamentals - Reilly... |        |      |      | 3:27 |
+#+CAPTION: Clock summary at [2020-12-24 Thu 19:59]
+| Tags    | Headline                                    | Time    |       |      |      |
+|---------+---------------------------------------------+---------+-------+------+------|
+|         | *Total time*                                | *17:16* |       |      |      |
+|---------+---------------------------------------------+---------+-------+------+------|
+|         | \_  Week 3                                  |         | 17:16 |      |      |
+|         | \_    <2020-12-21 Mon>                      |         |       | 3:23 |      |
+| drawing | \_      Watts Heads phase I - Classic Asaro |         |       |      | 1:27 |
+| drawing | \_      Watts Head Fundamentals - The Skull |         |       |      | 1:56 |
+|         | \_    <2020-12-22 Tue>                      |         |       | 4:05 |      |
+| drawing | \_      Watts Head Fundamentals - The Skull |         |       |      | 0:38 |
+| drawing | \_      Watts Head Fundamentals - Reilly... |         |       |      | 3:27 |
+|         | \_    <2020-12-23 Wed>                      |         |       | 5:01 |      |
+| drawing | \_      Watts Head Fundamentals - Reilly... |         |       |      | 3:04 |
+| drawing | \_      Watts Head Fundamentals - Features  |         |       |      | 1:57 |
+|         | \_    <2020-12-24 Thu>                      |         |       | 4:47 |      |
+| drawing | \_      Watts Head Fundamentals - Features  |         |       |      | 3:37 |
+| drawing | \_      Loomis Book                         |         |       |      | 1:10 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *7h 28m* |
-|---------+------------+----------|
-| study   | *Tag time* | *0h 0m*  |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *17h 16m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *0h 0m*   |
 
 #+END:
 
@@ -471,5 +477,26 @@
      CLOCK: [2020-12-22 Tue 19:12]--[2020-12-22 Tue 21:06] =>  1:54
      CLOCK: [2020-12-22 Tue 13:58]--[2020-12-22 Tue 15:00] =>  1:02
      CLOCK: [2020-12-22 Tue 11:09]--[2020-12-22 Tue 11:40] =>  0:31
+     :END:
+*** <2020-12-23 Wed>
+**** DONE Watts Head Fundamentals - Reilly Abstraction              :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-23 Wed 14:51]--[2020-12-23 Wed 16:19] =>  1:28
+     CLOCK: [2020-12-23 Wed 10:06]--[2020-12-23 Wed 11:42] =>  1:36
+     :END:
+**** DONE Watts Head Fundamentals - Features                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-23 Wed 18:21]--[2020-12-23 Wed 20:18] =>  1:57
+     :END:
+*** <2020-12-24 Thu>
+**** DONE Watts Head Fundamentals - Features                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-24 Thu 17:43]--[2020-12-24 Thu 18:49] =>  1:06
+     CLOCK: [2020-12-24 Thu 15:17]--[2020-12-24 Thu 16:18] =>  1:01
+     CLOCK: [2020-12-24 Thu 10:08]--[2020-12-24 Thu 11:38] =>  1:30
+     :END:
+**** DONE Loomis Book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-24 Thu 18:49]--[2020-12-24 Thu 19:59] =>  1:10
      :END:
 ** Week 4
