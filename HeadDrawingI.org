@@ -429,29 +429,32 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-24 Thu 19:59]
-| Tags    | Headline                                    | Time    |       |      |      |
-|---------+---------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                | *17:16* |       |      |      |
-|---------+---------------------------------------------+---------+-------+------+------|
-|         | \_  Week 3                                  |         | 17:16 |      |      |
-|         | \_    <2020-12-21 Mon>                      |         |       | 3:23 |      |
-| drawing | \_      Watts Heads phase I - Classic Asaro |         |       |      | 1:27 |
-| drawing | \_      Watts Head Fundamentals - The Skull |         |       |      | 1:56 |
-|         | \_    <2020-12-22 Tue>                      |         |       | 4:05 |      |
-| drawing | \_      Watts Head Fundamentals - The Skull |         |       |      | 0:38 |
-| drawing | \_      Watts Head Fundamentals - Reilly... |         |       |      | 3:27 |
-|         | \_    <2020-12-23 Wed>                      |         |       | 5:01 |      |
-| drawing | \_      Watts Head Fundamentals - Reilly... |         |       |      | 3:04 |
-| drawing | \_      Watts Head Fundamentals - Features  |         |       |      | 1:57 |
-|         | \_    <2020-12-24 Thu>                      |         |       | 4:47 |      |
-| drawing | \_      Watts Head Fundamentals - Features  |         |       |      | 3:37 |
-| drawing | \_      Loomis Book                         |         |       |      | 1:10 |
+#+CAPTION: Clock summary at [2020-12-25 Fri 14:21]
+| Tags    | Headline                                         | Time    |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | *Total time*                                     | *19:59* |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | \_  Week 3                                       |         | 19:59 |      |      |
+|         | \_    <2020-12-21 Mon>                           |         |       | 3:23 |      |
+| drawing | \_      Watts Heads phase I - Classic Asaro      |         |       |      | 1:27 |
+| drawing | \_      Watts Head Fundamentals - The Skull      |         |       |      | 1:56 |
+|         | \_    <2020-12-22 Tue>                           |         |       | 4:05 |      |
+| drawing | \_      Watts Head Fundamentals - The Skull      |         |       |      | 0:38 |
+| drawing | \_      Watts Head Fundamentals - Reilly...      |         |       |      | 3:27 |
+|         | \_    <2020-12-23 Wed>                           |         |       | 5:01 |      |
+| drawing | \_      Watts Head Fundamentals - Reilly...      |         |       |      | 3:04 |
+| drawing | \_      Watts Head Fundamentals - Features       |         |       |      | 1:57 |
+|         | \_    <2020-12-24 Thu>                           |         |       | 4:47 |      |
+| drawing | \_      Watts Head Fundamentals - Features       |         |       |      | 3:37 |
+| drawing | \_      Loomis Book                              |         |       |      | 1:10 |
+|         | \_    <2020-12-25 Fri>                           |         |       | 2:43 |      |
+| drawing | \_      Watts Head Fundamentals - Value study    |         |       |      | 1:07 |
+| drawing | \_      Watts Head Fundamentals - Two-Value head |         |       |      | 1:36 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *17h 16m* |
+| drawing | *Tag time* | *19h 59m* |
 |---------+------------+-----------|
 | study   | *Tag time* | *0h 0m*   |
 
@@ -499,4 +502,14 @@
      :LOGBOOK:
      CLOCK: [2020-12-24 Thu 18:49]--[2020-12-24 Thu 19:59] =>  1:10
      :END:
+*** <2020-12-25 Fri>
+**** DONE Watts Head Fundamentals - Value study                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-25 Fri 09:03]--[2020-12-25 Fri 10:10] =>  1:07
+     :END:
+**** DONE Watts Head Fundamentals - Two-Value head                  :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-25 Fri 12:45]--[2020-12-25 Fri 14:21] =>  1:36
+     :END:
 ** Week 4
+   

@@ -16,7 +16,7 @@
 ** Strathmore smooth newsprint
 ** Gouache paints
 *** Yellow ochre
-*** Cadmium red light (cadmium free scarlet)
+*** Cadmium red light (or cadmium free scarlet or flame red)
 ** Robert Simmons sythetic sable brushes
 *** Round
 **** 0
@@ -208,6 +208,8 @@
 ** Dorian Iton - Light on Form
 ** Ron Lemen - Color wheel exercises
 ** FZD Design Cinema
+** New Master's Academy
+*** Linear Perspective (121 hours)
 ** DONE Marshall Vandruff Perspective
 * Comics
 ** Berserk
