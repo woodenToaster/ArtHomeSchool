@@ -429,12 +429,12 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-25 Fri 14:21]
+#+CAPTION: Clock summary at [2020-12-26 Sat 21:13]
 | Tags    | Headline                                         | Time    |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                     | *19:59* |       |      |      |
+|         | *Total time*                                     | *24:58* |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 3                                       |         | 19:59 |      |      |
+|         | \_  Week 3                                       |         | 24:58 |      |      |
 |         | \_    <2020-12-21 Mon>                           |         |       | 3:23 |      |
 | drawing | \_      Watts Heads phase I - Classic Asaro      |         |       |      | 1:27 |
 | drawing | \_      Watts Head Fundamentals - The Skull      |         |       |      | 1:56 |
@@ -450,11 +450,15 @@
 |         | \_    <2020-12-25 Fri>                           |         |       | 2:43 |      |
 | drawing | \_      Watts Head Fundamentals - Value study    |         |       |      | 1:07 |
 | drawing | \_      Watts Head Fundamentals - Two-Value head |         |       |      | 1:36 |
+|         | \_    <2020-12-26 Sat>                           |         |       | 4:59 |      |
+| drawing | \_      Watts Head Fundamentals - Two-Value head |         |       |      | 2:00 |
+| drawing | \_      Guoache value scale                      |         |       |      | 0:47 |
+| drawing | \_      Watts Head Fundamentals - Two-Value head |         |       |      | 2:12 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *19h 59m* |
+| drawing | *Tag time* | *24h 58m* |
 |---------+------------+-----------|
 | study   | *Tag time* | *0h 0m*   |
 
@@ -511,5 +515,20 @@
      :LOGBOOK:
      CLOCK: [2020-12-25 Fri 12:45]--[2020-12-25 Fri 14:21] =>  1:36
      :END:
+*** <2020-12-26 Sat>
+**** DONE Watts Head Fundamentals - Two-Value head                  :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-26 Sat 13:15]--[2020-12-26 Sat 14:15] =>  1:00
+     CLOCK: [2020-12-26 Sat 11:01]--[2020-12-26 Sat 12:01] =>  1:00
+     :END:
+**** DONE Guoache value scale                                       :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-26 Sat 14:25]--[2020-12-26 Sat 15:12] =>  0:47
+     :END:
+**** DONE Watts Head Fundamentals - Two-Value head                  :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-26 Sat 19:00]--[2020-12-26 Sat 21:12] =>  2:12
+     :END:
+
 ** Week 4
    
