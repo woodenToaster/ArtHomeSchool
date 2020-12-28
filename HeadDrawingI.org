@@ -429,12 +429,12 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-26 Sat 21:13]
+#+CAPTION: Clock summary at [2020-12-27 Sun 20:57]
 | Tags    | Headline                                         | Time    |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                     | *24:58* |       |      |      |
+|         | *Total time*                                     | *29:21* |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 3                                       |         | 24:58 |      |      |
+|         | \_  Week 3                                       |         | 29:21 |      |      |
 |         | \_    <2020-12-21 Mon>                           |         |       | 3:23 |      |
 | drawing | \_      Watts Heads phase I - Classic Asaro      |         |       |      | 1:27 |
 | drawing | \_      Watts Head Fundamentals - The Skull      |         |       |      | 1:56 |
@@ -454,13 +454,17 @@
 | drawing | \_      Watts Head Fundamentals - Two-Value head |         |       |      | 2:00 |
 | drawing | \_      Guoache value scale                      |         |       |      | 0:47 |
 | drawing | \_      Watts Head Fundamentals - Two-Value head |         |       |      | 2:12 |
+|         | \_    <2020-12-27 Sun>                           |         |       | 4:23 |      |
+| drawing | \_      Watts Fundamentals - Full value study    |         |       |      | 1:44 |
+| drawing | \_      Watts Fundamentals - Two value study     |         |       |      | 1:42 |
+| study   | \_      Blog post                                |         |       |      | 0:57 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *24h 58m* |
+| drawing | *Tag time* | *28h 24m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *0h 0m*   |
+| study   | *Tag time* | *0h 57m*  |
 
 #+END:
 
@@ -528,6 +532,20 @@
 **** DONE Watts Head Fundamentals - Two-Value head                  :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-26 Sat 19:00]--[2020-12-26 Sat 21:12] =>  2:12
+     :END:
+*** <2020-12-27 Sun>
+**** DONE Watts Fundamentals - Full value study                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-27 Sun 14:01]--[2020-12-27 Sun 14:54] =>  0:53
+     CLOCK: [2020-12-27 Sun 11:06]--[2020-12-27 Sun 11:57] =>  0:51
+     :END:
+**** DONE Watts Fundamentals - Two value study                      :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-27 Sun 18:29]--[2020-12-27 Sun 20:11] =>  1:42
+     :END:
+**** DONE Blog post                                                   :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-27 Sun 20:00]--[2020-12-27 Sun 20:57] =>  0:57
      :END:
 
 ** Week 4

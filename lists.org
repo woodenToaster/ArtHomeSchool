@@ -174,23 +174,47 @@
 ** Moderndayjames
 ** Sinix Design
 ** Russian Academic Drawing (New Masters Academy)
-** Watts Atelier
-*** TODO Head Fundamentals
-*** Figure Fundamentals
+** Watts Atelier Illustrator and Concept Artist Learning PathDrawing Fundamentals Phase 1
+*** DONE Drawing Fundamentals Phase 1
+*** DONE Drawing Fundamentals Phase 2
+*** TODO Head Drawing Fundamentals
+*** Figure Drawing Fundamentals
 *** Quicksketch Fundamentals
-*** Figure Phase I
-*** Figure Phase II
-*** Figure Phase III
-*** Figure Phase IV
-*** Figure Phase V
-*** Head Phase II
-*** Head Phase III
-*** Head Phase IV
-*** Head Phase V
-*** DONE Head Phase I
-*** DONE Perspective Fundamentals
-*** DONE Fundamentals Phase I
-*** DONE Fundamentals Phase II
+*** DONE Head Drawing Phase 1
+*** Figure Drawing Phase 1
+*** Head Drawing Phase 2
+*** Figure Drawing Phase 2
+*** Head Drawing Phase 3
+*** Figure Drawing Phase 3
+*** Gouache Phase 1
+*** Gouache Phase 2
+*** Head Drawing Phase 4
+*** Figure Drawing Phase 4
+*** Anatomy Intensives: Arms & Legs
+*** Inking Phase 1
+*** Head Drawing Phase 5
+*** Inking Phase 2
+*** Figure Drawing Phase 5
+*** Gouache Phase 3
+*** Portrait Painting Phase 1
+*** Figure Painting Phase 1
+*** Portrait Painting Phase 2
+*** Figure Painting Phase 2
+*** Portrait Painting Phase 3
+*** DONE Perspective Essentials
+*** Still Life Phase 1
+*** Landscape Phase 1
+*** Still Life Phase 2
+*** Landscape Phase 2
+*** Essentials of Tech
+*** Composition and Staging 
+*** Drapery
+*** Fundamentals of Character Design
+*** Still Life Phase 3
+*** Landscape Phase 3
+*** Painting Mood and Atmosphere in Gouache
+*** Dragon Design
+*** Illustration – Painted Comic Cover
 ** TODO David Finch
 *** TODO Gnomon workshop
 **** DONE The Body
@@ -210,6 +234,7 @@
 ** FZD Design Cinema
 ** New Master's Academy
 *** Linear Perspective (121 hours)
+*** Color Theory
 ** DONE Marshall Vandruff Perspective
 * Comics
 ** Berserk
