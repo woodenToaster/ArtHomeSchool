@@ -549,4 +549,54 @@
      :END:
 
 ** Week 4
-   
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
+#+CAPTION: Clock summary at [2020-12-29 Tue 20:09]
+| Tags    | Headline                                        | Time    |       |      |      |
+|---------+-------------------------------------------------+---------+-------+------+------|
+|         | *Total time*                                    | *10:28* |       |      |      |
+|---------+-------------------------------------------------+---------+-------+------+------|
+|         | \_  Week 4                                      |         | 10:28 |      |      |
+|         | \_    <2020-12-28 Mon>                          |         |       | 3:57 |      |
+| drawing | \_      Watts Head Fundamentals - 2-value...    |         |       |      | 2:39 |
+| study   | \_      Watts Head Fundamentals - 2-value...    |         |       |      | 0:34 |
+| drawing | \_      Draw from Imagination - heads           |         |       |      | 0:44 |
+|         | \_    <2020-12-29 Tue>                          |         |       | 6:31 |      |
+| drawing | \_      Watts Head Fundamentals - Full value... |         |       |      | 4:35 |
+| drawing | \_      Gouache painting - skull                |         |       |      | 1:56 |
+#+END:
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *9h 54m* |
+|---------+------------+----------|
+| study   | *Tag time* | *0h 34m* |
+
+#+END:
+
+*** <2020-12-28 Mon>
+**** DONE Watts Head Fundamentals - 2-value portrait                :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-28 Mon 19:05]--[2020-12-28 Mon 20:04] =>  0:59
+     CLOCK: [2020-12-28 Mon 14:22]--[2020-12-28 Mon 14:32] =>  0:10
+     CLOCK: [2020-12-28 Mon 10:24]--[2020-12-28 Mon 11:25] =>  1:01
+     CLOCK: [2020-12-28 Mon 09:33]--[2020-12-28 Mon 10:02] =>  0:29
+     :END:
+**** DONE Watts Head Fundamentals - 2-value portrait                  :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-28 Mon 14:32]--[2020-12-28 Mon 15:06] =>  0:34
+     :END:
+**** DONE Draw from Imagination - heads                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-28 Mon 20:08]--[2020-12-28 Mon 20:52] =>  0:44
+     :END:
+*** <2020-12-29 Tue>
+**** DONE Watts Head Fundamentals - Full value portrait             :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-29 Tue 18:27]--[2020-12-29 Tue 19:43] =>  1:16
+     CLOCK: [2020-12-29 Tue 10:25]--[2020-12-29 Tue 11:38] =>  1:13
+     CLOCK: [2020-12-29 Tue 08:01]--[2020-12-29 Tue 10:07] =>  2:06
+     :END:
+**** DONE Gouache painting - skull                                  :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-29 Tue 13:40]--[2020-12-29 Tue 15:36] =>  1:56
+     :END:

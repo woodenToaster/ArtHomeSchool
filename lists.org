@@ -12,8 +12,9 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
+** Watercolor sketchbook
 ** Copic (or prismacolor) grey toned markers
-** Strathmore smooth newsprint
+** 18x24 Strathmore smooth newsprint
 ** Gouache paints
 *** Yellow ochre
 *** Cadmium red light (or cadmium free scarlet or flame red)
@@ -25,6 +26,7 @@
 *** Flat
 **** 2
 **** 6
+*** 2 inch brush
 ** Blair low odor spray fix
 ** Stillman and Birn Zeta Series sketchbook
 ** white ink
@@ -90,6 +92,9 @@
 *** The Complete Guide to Anatomy for Artists and Illustrators - Gottfried Bammes (drawing book)
 *** Figure Drawing for Artists: Making every Mark Count - Steve Huston
 *** Drawing Cutting Edge Anatomy - Hart
+*** The Frank Reilly School of Art - Doug Higgens
+*** Mastering Drawing the Human Figure - Jack Faragasso
+    - Reilly method
 *** DONE Figure Drawing: Design and Invention - Michael Hampton
 *** DONE How to Draw Comics the Marvel Way
 *** DONE The DC Guide to Penciling Comics
@@ -121,6 +126,7 @@
 *** How I make a Picture - Rockwell
 *** Oil Painting Techniques - Patrick Jones
     - Focuses on fantasy art
+*** Mastering the Craft of Painting - Grado
 * Writing
 ** Story - Robert McKee
 ** Writing for Comics - Alan Moore
@@ -177,7 +183,7 @@
 ** Watts Atelier Illustrator and Concept Artist Learning PathDrawing Fundamentals Phase 1
 *** DONE Drawing Fundamentals Phase 1
 *** DONE Drawing Fundamentals Phase 2
-*** TODO Head Drawing Fundamentals
+*** DONE Head Drawing Fundamentals
 *** Figure Drawing Fundamentals
 *** Quicksketch Fundamentals
 *** DONE Head Drawing Phase 1
@@ -201,6 +207,7 @@
 *** Portrait Painting Phase 2
 *** Figure Painting Phase 2
 *** Portrait Painting Phase 3
+*** Figure Painting Phase 3
 *** DONE Perspective Essentials
 *** Still Life Phase 1
 *** Landscape Phase 1
@@ -215,10 +222,10 @@
 *** Painting Mood and Atmosphere in Gouache
 *** Dragon Design
 *** Illustration – Painted Comic Cover
-** TODO David Finch
-*** TODO Gnomon workshop
+** David Finch
+*** Gnomon workshop
 **** DONE The Body
-**** TODO Hands
+**** Hands
 **** Faces
 ** Alphonso Dunn - Great Ink Videos
 ** Proko
