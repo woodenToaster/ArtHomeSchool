@@ -550,12 +550,12 @@
 
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-29 Tue 20:09]
+#+CAPTION: Clock summary at [2020-12-30 Wed 11:37]
 | Tags    | Headline                                        | Time    |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                    | *10:28* |       |      |      |
+|         | *Total time*                                    | *13:20* |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                                      |         | 10:28 |      |      |
+|         | \_  Week 4                                      |         | 13:20 |      |      |
 |         | \_    <2020-12-28 Mon>                          |         |       | 3:57 |      |
 | drawing | \_      Watts Head Fundamentals - 2-value...    |         |       |      | 2:39 |
 | study   | \_      Watts Head Fundamentals - 2-value...    |         |       |      | 0:34 |
@@ -563,13 +563,15 @@
 |         | \_    <2020-12-29 Tue>                          |         |       | 6:31 |      |
 | drawing | \_      Watts Head Fundamentals - Full value... |         |       |      | 4:35 |
 | drawing | \_      Gouache painting - skull                |         |       |      | 1:56 |
+|         | \_    <2020-12-30 Wed>                          |         |       | 2:52 |      |
+| drawing | \_      Watts Head Drawing Phase II - Lips      |         |       |      | 2:52 |
 #+END:
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *9h 54m* |
-|---------+------------+----------|
-| study   | *Tag time* | *0h 34m* |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *12h 46m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *0h 34m*  |
 
 #+END:
 
@@ -599,4 +601,10 @@
 **** DONE Gouache painting - skull                                  :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-29 Tue 13:40]--[2020-12-29 Tue 15:36] =>  1:56
+     :END:
+*** <2020-12-30 Wed> 
+**** DONE Watts Head Drawing Phase II - Lips                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-30 Wed 10:15]--[2020-12-30 Wed 11:38] =>  1:23
+     CLOCK: [2020-12-30 Wed 08:29]--[2020-12-30 Wed 09:58] =>  1:29
      :END:

@@ -3,7 +3,6 @@
 #+STARTUP: nologdone
 
 * Games
-** TODO Last of Us 2
 ** Mortal Shell
 ** Ghost of Tsushima
 ** Spider Man: Miles Morales
@@ -12,9 +11,12 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
-** Watercolor sketchbook
+** TODO 18x24 Strathmore smooth newsprint
+** TODO Watercolor paper/sketchbook
+** Woodless graphite pencil
+** Electric pencil sharpener
+** Zentangle paper
 ** Copic (or prismacolor) grey toned markers
-** 18x24 Strathmore smooth newsprint
 ** Gouache paints
 *** Yellow ochre
 *** Cadmium red light (or cadmium free scarlet or flame red)
@@ -31,6 +33,8 @@
 ** Stillman and Birn Zeta Series sketchbook
 ** white ink
 ** French Curve/swoops
+** Point divider
+** Alvin parallel glider
 ** Drafting Table
 ** Non-photo blue lead
 ** Canon Pixma iX6820 13x19 cardstock printer - $189
@@ -38,9 +42,15 @@
 ** Epson WF-7840 - $250 (can't print grayscale without color ink cartridges)
 ** Arches 88 silk screen paper (too expensive)
 * Art Books
+** Physical Books
+*** The Art Spirit - Robert Henri
+*** Alla Prima
+*** Bridgman
+*** Loomis
+*** Anything Dover
 ** General
-*** TODO Drawing Lessons from the Great Masters - Robert Hale
-*** TODO The Practice and Science of Drawing - Speed
+*** Drawing Lessons from the Great Masters - Robert Hale
+*** The Practice and Science of Drawing - Speed
 *** Vilppu Drawing Manual - Glenn Vilppu
 *** Imaginative Realism - James Gurney
 *** The Natural Way to Draw - Kimon Nicolaides (for developing the sensitivity of an artist)
@@ -52,6 +62,7 @@
 *** Salgood Sam website
 *** How Pictures Work - Bang
 *** Drawing Course - Charles Bargue
+*** Zentangle
 *** DONE Krash Course - Greg Capullo
 *** DONE Wally Wood - 22 panels that always work
 ** Figure Drawing
@@ -95,6 +106,7 @@
 *** The Frank Reilly School of Art - Doug Higgens
 *** Mastering Drawing the Human Figure - Jack Faragasso
     - Reilly method
+*** The Human Figure - John Vanderpoel
 *** DONE Figure Drawing: Design and Invention - Michael Hampton
 *** DONE How to Draw Comics the Marvel Way
 *** DONE The DC Guide to Penciling Comics
@@ -141,6 +153,9 @@
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
 *** TODO The Talent Code
+*** Osprey Medieval reference books
+*** The Skilled Huntsman
+*** Concept Art Books
 *** Antifragile
 *** The Mind Map Book
 *** The Artist's Way
@@ -179,7 +194,6 @@
 ** Ctrl+paint
 ** Moderndayjames
 ** Sinix Design
-** Russian Academic Drawing (New Masters Academy)
 ** Watts Atelier Illustrator and Concept Artist Learning PathDrawing Fundamentals Phase 1
 *** DONE Drawing Fundamentals Phase 1
 *** DONE Drawing Fundamentals Phase 2
@@ -188,7 +202,7 @@
 *** Quicksketch Fundamentals
 *** DONE Head Drawing Phase 1
 *** Figure Drawing Phase 1
-*** Head Drawing Phase 2
+*** TODO Head Drawing Phase 2
 *** Figure Drawing Phase 2
 *** Head Drawing Phase 3
 *** Figure Drawing Phase 3
@@ -197,6 +211,7 @@
 *** Head Drawing Phase 4
 *** Figure Drawing Phase 4
 *** Anatomy Intensives: Arms & Legs
+*** Bridgman Anatomy
 *** Inking Phase 1
 *** Head Drawing Phase 5
 *** Inking Phase 2
@@ -242,6 +257,8 @@
 ** New Master's Academy
 *** Linear Perspective (121 hours)
 *** Color Theory
+*** Reilly Drawing Method
+*** Russian Academic Drawing
 ** DONE Marshall Vandruff Perspective
 * Comics
 ** Berserk
