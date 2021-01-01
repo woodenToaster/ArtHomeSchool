@@ -42,6 +42,12 @@
    - Find rhythm of top of eye sockets
    - Bottom of eye socket is half way between brow and bottom of nose
    - Nose opening sits a bit higher than the base of the nose cartelage
+* Watts Head Phase II
+** Eyes
+   - Lid wraps around the eyeball.
+   - Widest taper of lower lid is toward the outer diagonal.
+   - Widest taper of upper lid is toward the inner diagonal.
+   - In profile, making the iris a tilted ellipse instead of flat can look better.
 
 * Log
 ** Week 1
@@ -550,12 +556,12 @@
 
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-30 Wed 11:37]
+#+CAPTION: Clock summary at [2020-12-31 Thu 20:32]
 | Tags    | Headline                                        | Time    |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                    | *13:20* |       |      |      |
+|         | *Total time*                                    | *19:40* |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                                      |         | 13:20 |      |      |
+|         | \_  Week 4                                      |         | 19:40 |      |      |
 |         | \_    <2020-12-28 Mon>                          |         |       | 3:57 |      |
 | drawing | \_      Watts Head Fundamentals - 2-value...    |         |       |      | 2:39 |
 | study   | \_      Watts Head Fundamentals - 2-value...    |         |       |      | 0:34 |
@@ -565,13 +571,19 @@
 | drawing | \_      Gouache painting - skull                |         |       |      | 1:56 |
 |         | \_    <2020-12-30 Wed>                          |         |       | 2:52 |      |
 | drawing | \_      Watts Head Drawing Phase II - Lips      |         |       |      | 2:52 |
+|         | \_    <2020-12-31 Thu>                          |         |       | 6:20 |      |
+| drawing | \_      Watts Head Drawing Phase II - Lips      |         |       |      | 1:08 |
+| study   | \_      Watts Head Drawing Phase II - Eyes      |         |       |      | 0:53 |
+| drawing | \_      Watts Head Drawing Phase II - Eyes      |         |       |      | 3:35 |
+| study   | \_      FZD Design Cinema - 91                  |         |       |      | 0:30 |
+| study   | \_      FZD Design Cinema - 92                  |         |       |      | 0:14 |
 #+END:
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *12h 46m* |
+| drawing | *Tag time* | *17h 29m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *0h 34m*  |
+| study   | *Tag time* | *2h 11m*  |
 
 #+END:
 
@@ -602,9 +614,36 @@
      :LOGBOOK:
      CLOCK: [2020-12-29 Tue 13:40]--[2020-12-29 Tue 15:36] =>  1:56
      :END:
-*** <2020-12-30 Wed> 
+*** <2020-12-30 Wed>
 **** DONE Watts Head Drawing Phase II - Lips                        :drawing:
      :LOGBOOK:
      CLOCK: [2020-12-30 Wed 10:15]--[2020-12-30 Wed 11:38] =>  1:23
      CLOCK: [2020-12-30 Wed 08:29]--[2020-12-30 Wed 09:58] =>  1:29
+     :END:
+*** <2020-12-31 Thu>
+**** DONE Watts Head Drawing Phase II - Lips                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-31 Thu 08:04]--[2020-12-31 Thu 09:12] =>  1:08
+     :END:
+**** DONE Watts Head Drawing Phase II - Eyes                          :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-31 Thu 14:14]--[2020-12-31 Thu 14:30] =>  0:16
+     CLOCK: [2020-12-31 Thu 10:10]--[2020-12-31 Thu 10:29] =>  0:19
+     CLOCK: [2020-12-31 Thu 09:13]--[2020-12-31 Thu 09:31] =>  0:18
+     :END:
+**** DONE Watts Head Drawing Phase II - Eyes                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2020-12-31 Thu 19:28]--[2020-12-31 Thu 20:32] =>  1:04
+     CLOCK: [2020-12-31 Thu 14:54]--[2020-12-31 Thu 15:32] =>  0:38
+     CLOCK: [2020-12-31 Thu 13:24]--[2020-12-31 Thu 14:14] =>  0:50
+     CLOCK: [2020-12-31 Thu 10:29]--[2020-12-31 Thu 11:11] =>  0:42
+     CLOCK: [2020-12-31 Thu 09:32]--[2020-12-31 Thu 09:53] =>  0:21
+     :END:
+**** DONE FZD Design Cinema - 91                                      :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-31 Thu 11:12]--[2020-12-31 Thu 11:42] =>  0:30
+     :END:
+**** DONE FZD Design Cinema - 92                                      :study:
+     :LOGBOOK:
+     CLOCK: [2020-12-31 Thu 13:10]--[2020-12-31 Thu 13:24] =>  0:14
      :END:

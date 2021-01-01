@@ -254,6 +254,7 @@
 ** Dorian Iton - Light on Form
 ** Ron Lemen - Color wheel exercises
 ** FZD Design Cinema
+** drawmixpaint.com
 ** New Master's Academy
 *** Linear Perspective (121 hours)
 *** Color Theory
