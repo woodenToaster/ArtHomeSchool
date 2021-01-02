@@ -48,6 +48,8 @@
    - Widest taper of lower lid is toward the outer diagonal.
    - Widest taper of upper lid is toward the inner diagonal.
    - In profile, making the iris a tilted ellipse instead of flat can look better.
+** Nose
+   - Filling in a nostril with a value 0 black seldom looks good
 
 * Log
 ** Week 1
@@ -556,12 +558,12 @@
 
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2020-12-31 Thu 20:32]
+#+CAPTION: Clock summary at [2021-01-01 Fri 20:48]
 | Tags    | Headline                                        | Time    |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                    | *19:40* |       |      |      |
+|         | *Total time*                                    | *25:34* |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                                      |         | 19:40 |      |      |
+|         | \_  Week 4                                      |         | 25:34 |      |      |
 |         | \_    <2020-12-28 Mon>                          |         |       | 3:57 |      |
 | drawing | \_      Watts Head Fundamentals - 2-value...    |         |       |      | 2:39 |
 | study   | \_      Watts Head Fundamentals - 2-value...    |         |       |      | 0:34 |
@@ -577,13 +579,19 @@
 | drawing | \_      Watts Head Drawing Phase II - Eyes      |         |       |      | 3:35 |
 | study   | \_      FZD Design Cinema - 91                  |         |       |      | 0:30 |
 | study   | \_      FZD Design Cinema - 92                  |         |       |      | 0:14 |
+|         | \_    <2021-01-01 Fri>                          |         |       | 5:54 |      |
+| study   | \_      Watts Head Drawing Phase II - Nose      |         |       |      | 0:20 |
+| drawing | \_      Watts Head Drawing Phase II - Nose      |         |       |      | 2:52 |
+| study   | \_      Watts Head Drawing Phase II - Ears      |         |       |      | 0:57 |
+| drawing | \_      Watts Head Drawing Phase II - Ears      |         |       |      | 0:56 |
+| study   | \_      Watts Drawing Fundamentals II -...      |         |       |      | 0:49 |
 #+END:
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *17h 29m* |
+| drawing | *Tag time* | *21h 17m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *2h 11m*  |
+| study   | *Tag time* | *4h 17m*  |
 
 #+END:
 
@@ -646,4 +654,29 @@
 **** DONE FZD Design Cinema - 92                                      :study:
      :LOGBOOK:
      CLOCK: [2020-12-31 Thu 13:10]--[2020-12-31 Thu 13:24] =>  0:14
+     :END:
+*** <2021-01-01 Fri>
+**** DONE Watts Head Drawing Phase II - Nose                          :study: 
+     :LOGBOOK:
+     CLOCK: [2021-01-01 Fri 09:01]--[2021-01-01 Fri 09:21] =>  0:20
+     :END:
+**** DONE Watts Head Drawing Phase II - Nose                        :drawing: 
+     :LOGBOOK:
+     CLOCK: [2021-01-01 Fri 19:16]--[2021-01-01 Fri 19:57] =>  0:41
+     CLOCK: [2021-01-01 Fri 13:03]--[2021-01-01 Fri 13:26] =>  0:23
+     CLOCK: [2021-01-01 Fri 10:12]--[2021-01-01 Fri 11:27] =>  1:15
+     CLOCK: [2021-01-01 Fri 09:21]--[2021-01-01 Fri 09:54] =>  0:33
+     :END:
+**** DONE Watts Head Drawing Phase II - Ears                          :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-01 Fri 16:13]--[2021-01-01 Fri 16:30] =>  0:17
+     CLOCK: [2021-01-01 Fri 13:26]--[2021-01-01 Fri 14:06] =>  0:40
+     :END:
+**** DONE Watts Head Drawing Phase II - Ears                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-01 Fri 18:20]--[2021-01-01 Fri 19:16] =>  0:56
+     :END:
+**** DONE Watts Drawing Fundamentals II - Countour lines              :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-01 Fri 19:59]--[2021-01-01 Fri 20:48] =>  0:49
      :END:
