@@ -129,8 +129,10 @@
 ** Head Drawing I
 *** Videos
 **** TODO Proko Loomis method
-**** TODO Proko figure drawing course
-**** TODO Watts Head Drawing I
+**** TODO Proko portrait drawing course
+**** DONE Watts Head Fundamentals
+**** DONE Watts Head Drawing I
+**** TODO Watts Head Drawing II (finished up to Male cast drawing)
 **** TODO Constructive Head Drawing with Steve Huston (NMA)
 **** TODO The Frank Reilly Drawing Method (NMA)
 *** Books
@@ -154,11 +156,31 @@
     - Watts Head Drawing I: 13 - 15
     - Lommis book part II
 * Term 2
-** Anatomy I - Head
 ** Perspective II
-** Anatomy II - Torso
+*** Video
+**** TODO Moderndayjames Perspective 1-6
+**** TODO drawabox lesson 7 (10 vehicles drawings)
+*** Book
+**** TODO How to Draw - Scott Robertson
+*** Backup
+**** TODO New Master's Academy - Linear Perspective
+*** Art Parent -
+*** Challenge -
+*** Inspiration - Osprey Books
+*** Week 1
+    - 45 minutes drawing castles from imagination
+    - 1 drawabox vehicle
+    - Still life with geometric forms
+    - Robertson book
+    - Master study on the weekend
+    - Draw from Osprey books
+*** Week 2
+*** Week 3
+*** Week 4
+** Figure Drawing II
+** Head Drawing II
 * Term 3
-** Perspective III
+** Figure Drawing III
 ** Anatomy III - Arms
 ** Clothed Figure Drawing
 * Term 4

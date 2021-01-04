@@ -1,0 +1,13 @@
+#+TITLE: Perspective II
+#+AUTHOR: Chris Hogan
+#+DATE: <2021-01-04 Mon> to <2021-01-31 Sun>
+#+STARTUP: nologdone
+
+* How to Draw - Scott Robertson
+* Moderndayjames Perspective
+* Log
+** Week 1
+*** 
+** Week 2
+** Week 3
+** Week 4

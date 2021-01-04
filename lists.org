@@ -13,7 +13,11 @@
 * Art Supplies
 ** TODO 18x24 Strathmore smooth newsprint
 ** TODO Watercolor paper/sketchbook
-** Harder charcoal pencils in different brands
+** Various charcoal pencils
+   - HB Ritmo
+   - 6B Wolff's
+   - 4B Wolff's
+   - HB Conte
 ** Woodless graphite pencil
 ** Electric pencil sharpener
 ** Zentangle paper
@@ -154,6 +158,7 @@
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
 *** TODO The Talent Code
+*** Practicing: A Musician's Return to Music - Glenn Kurtz (library)
 *** Osprey Medieval reference books
 *** The Skilled Huntsman
 *** Concept Art Books
@@ -165,7 +170,7 @@
 *** The Surrender Experiment - Alan Singer
 *** As a Man Thinketh - James Allen
 *** The War of Art
-*** Feeling Good (depression)
+*** Feeling Good (depression) (hoopla)
 *** Drawing from the Right Side of the Brain - Betty Edwards
 *** Mastery: Greene
 *** Mindworks - Gary van Warmerdam
