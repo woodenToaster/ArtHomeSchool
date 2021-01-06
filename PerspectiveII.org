@@ -6,9 +6,27 @@
 * How to Draw - Scott Robertson
 ** Chapter 01
    - Golden proportion: 1 to 1.618
+   - TODO Draw freehand straight lines, short and long
+   - TODO Draw two dots and connect them with a freehand straight line
+   - TODO Draw several dots and connect them with a smooth curve
+   - TODO Draw freehand ellipses, along an axis, and within bounds
+   - TODO Draw freehand boxes in perspective (1 and 2 point)
+** Chapter 02
+   - Station point :: location and height of the eye (no direction)
+   - Line of sight :: direction of view emanating from the station point
+   - When the line of sight is parallel with the ground plane, we have 1 or 2
+     point perspective
+   - 50 mm lens translates into a 60 degree cone of vision
+   - Use 50 degree cone of vision for 1 point perspective and 60 for 2 and 3
+   - Visual Ray Method :: Shows top view and picture plane in a single diagram
+   - Tilting the head with respect to the ground plane moves the horizon line in
+     the opposite direction
+   - TODO Multiply and divide rectangles in perspetive
+   - TODO Mirror curves in perspective
+   - TODO Multiply and divide boxes in 2 point perspective 
 * Moderndayjames Perspective
 ** DONE 1
-** TODO 2
+** DONE 2
 ** TODO 3
 ** TODO 4
 ** TODO 5
@@ -16,25 +34,30 @@
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-01-04 Mon 21:18]
+#+CAPTION: Clock summary at [2021-01-05 Tue 21:20]
 | Tags    | Headline                                   | Time   |      |      |      |
 |---------+--------------------------------------------+--------+------+------+------|
-|         | *Total time*                               | *4:28* |      |      |      |
+|         | *Total time*                               | *8:45* |      |      |      |
 |---------+--------------------------------------------+--------+------+------+------|
-|         | \_  Week 1                                 |        | 4:28 |      |      |
+|         | \_  Week 1                                 |        | 8:45 |      |      |
 |         | \_    <2021-01-04 Mon>                     |        |      | 4:28 |      |
 | drawing | \_      Drawing from Imagination - Castles |        |      |      | 0:46 |
 | study   | \_      Robertson book                     |        |      |      | 1:12 |
 | drawing | \_      Robertson book                     |        |      |      | 2:20 |
 | study   | \_      Moderndayjames Perspective 2       |        |      |      | 0:10 |
+|         | \_    <2021-01-05 Tue>                     |        |      | 4:17 |      |
+| drawing | \_      Drawing from Imagination           |        |      |      | 0:47 |
+| drawing | \_      Robertson book                     |        |      |      | 1:36 |
+| study   | \_      Robertson book                     |        |      |      | 1:44 |
+| study   | \_      Moderndayjames Perspective 3       |        |      |      | 0:10 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *3h 6m*  |
+| drawing | *Tag time* | *5h 29m* |
 |---------+------------+----------|
-| study   | *Tag time* | *1h 22m* |
+| study   | *Tag time* | *3h 16m* |
 
 #+END:
 
@@ -56,4 +79,22 @@
 **** DONE Moderndayjames Perspective 2 :study:
      :LOGBOOK:
      CLOCK: [2021-01-04 Mon 21:18]--[2021-01-04 Mon 21:28] =>  0:10
+     :END:
+*** <2021-01-05 Tue>
+**** DONE Drawing from Imagination                                  :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-05 Tue 06:43]--[2021-01-05 Tue 07:30] =>  0:47
+     :END:
+**** DONE Robertson book                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-05 Tue 20:11]--[2021-01-05 Tue 21:20] =>  1:09
+     CLOCK: [2021-01-05 Tue 17:58]--[2021-01-05 Tue 18:25] =>  0:27
+     :END:
+**** DONE Robertson book                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-05 Tue 18:27]--[2021-01-05 Tue 20:11] =>  1:44
+     :END:
+**** DONE Moderndayjames Perspective 3                                :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-05 Tue 22:00]--[2021-01-05 Tue 22:10] =>  0:10
      :END:

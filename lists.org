@@ -138,6 +138,7 @@
 *** Light for Visual Artists - Yot
 *** Lessons on Shading - Sparkes
 ** Painting
+*** Composition of Outdoor Painting - Edgar Payne
 *** Hawthorne on Painting
 *** Alla Prima - Richard Schmid
 *** Oil Painting techniques and materials - Harold Speed
@@ -158,7 +159,7 @@
    - Highly recommended by Marshall Vandruff
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
-*** TODO The Talent Code
+*** TODO The Creative Habit - Twyla Tharp
 *** Practicing: A Musician's Return to Music - Glenn Kurtz (library)
 *** Osprey Medieval reference books
 *** The Skilled Huntsman
@@ -176,6 +177,7 @@
 *** Mastery: Greene
 *** Mindworks - Gary van Warmerdam
 *** Chasing Love - Ray Bradberry
+*** DONE The Talent Code
 *** DONE Gardner's Art Through the Ages
 *** DONE History of Art - Janson
 *** DONE Art and Fear
