@@ -57,8 +57,8 @@
 *** Week 2
 *** Week 3
 *** Week 4
-* Term 1
-** Figure Drawing I
+* DONE Term 1
+** DONE Figure Drawing I
 *** Video - Proko Figure Drawing Fundamentals
 *** Book - Vilppu Drawing Manual
 *** Backup - Love Life Drawing's Gesture series
@@ -92,7 +92,7 @@
       - Prerequisites
       - Shading
     - Conan shaded
-** Perspective I
+** DONE Perspective I
 *** Video
 **** DONE Marshall Vandruff's perspective course
 **** DONE Watts Perspective
@@ -126,7 +126,7 @@
     - Drawabox lesson 7
     - Watson book (45 min. per day)
     - Watts perspective 6-10
-** Head Drawing I
+** DONE Head Drawing I
 *** Videos
 **** TODO Proko Loomis method
 **** TODO Proko portrait drawing course
@@ -155,10 +155,10 @@
     - 25 heads
     - Watts Head Drawing I: 13 - 15
     - Lommis book part II
-* Term 2
-** Perspective II
+* TODO Term 2
+** TODO Perspective II
 *** Video
-**** TODO Moderndayjames Perspective 1-6
+**** DONE Moderndayjames Perspective 1-6
 **** TODO drawabox lesson 7 (10 vehicles drawings)
 *** Book
 **** TODO How to Draw - Scott Robertson
@@ -175,39 +175,66 @@
     - Master study on the weekend
     - Draw from Osprey books
 *** Week 2
+    - 45 minutes drawing castles from imagination (M-F)
+    - 3 drawabox vehicles
+    - Robertson book
+    - Draw objects from life
+    - Draw from Osprey books
 *** Week 3
 *** Week 4
-** Figure Drawing II
-** Head Drawing II
-* Term 3
-** Figure Drawing III
-** Anatomy III - Arms
-** Clothed Figure Drawing
-* Term 4
-** Color and Light I
-** Perspective IV
-** Anatomy IV - Legs
-* Term 5
-** Intro To Animals
-** Perspective V
-** Color and Light II
-* Term 6
-** Character Design
-** Composition and Storytelling II
-** Perspective VI
-* Term 7
-** Anatomy V - Imagination
-** Perspective VII
-** Environment Design I
-* Term 8
-** Environment Design II
-** Inking I
-** Anatomy VI - Caricature/Animal
-* Term 9
-** Painting I
-** Inking II
-** Painting II
-* Term 10
-** Painting III - Matte Painting
-** Personal Project I
-** Personal Project II
+** TODO Figure Drawing II
+*** Video - Watts Figure Drawing Phase I
+*** Book -
+*** Backup -
+*** Art Parent -
+*** Challenge -
+*** Inspiration -
+*** Week 1
+*** Week 2
+*** Week 3
+*** Week 4
+** TODO Head Drawing II
+*** Video
+**** Watts Head Drawing Phase II
+**** Watts Head Drawing Phase III
+*** Book -
+*** Backup -
+*** Art Parent -
+*** Challenge -
+*** Inspiration -
+*** Week 1
+*** Week 2
+*** Week 3
+*** Week 4
+* TODO Term 3
+** TODO Figure Drawing III
+** TODO Anatomy III - Arms
+** TODO Clothed Figure Drawing
+* TODO Term 4
+** TODO Color and Light I
+** TODO Perspective IV
+** TODO Anatomy IV - Legs
+* TODO Term 5
+** TODO Intro To Animals
+** TODO Perspective V
+** TODO Color and Light II
+* TODO Term 6
+** TODO Character Design
+** TODO Composition and Storytelling II
+** TODO Perspective VI
+* TODO Term 7
+** TODO Anatomy V - Imagination
+** TODO Perspective VII
+** TODO Environment Design I
+* TODO Term 8
+** TODO Environment Design II
+** TODO Inking I
+** TODO Anatomy VI - Caricature/Animal
+* TODO Term 9
+** TODO Painting I
+** TODO Inking II
+** TODO Painting II
+* TODO Term 10
+** TODO Painting III - Matte Painting
+** TODO Personal Project I
+** TODO Personal Project II
