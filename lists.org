@@ -186,6 +186,8 @@
 * Fiction
 ** Neuromancer
 ** Robert E. Howard
+** Pillars of the Earth - Ken Follett
+   - Traces the entire lives of people in the 12th century building a cathedral
 * Videos
 ** TODO drawabox
 *** DONE Lesson 1

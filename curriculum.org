@@ -8,7 +8,7 @@
 ** Self Reflection
 ** Discipline and Inspiration
 ** Studying Art and art history
-** Remember to taylor units torwards my interests
+** Units taylored torwards my interests
 ** Health
 * Process
 ** Daily
@@ -45,7 +45,6 @@
 ** Reference material
 ** Master studies
 ** Committing concepts to memory (repitition)
-      
 * Unit Template
 *** Video -
 *** Book -
