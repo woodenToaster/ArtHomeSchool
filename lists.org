@@ -65,11 +65,9 @@
 **** Creative Illustration
 *** How To Draw: Wizard Basic Training
 *** Salgood Sam website
-*** How Pictures Work - Bang
 *** Drawing Course - Charles Bargue
 *** Zentangle
 *** DONE Krash Course - Greg Capullo
-*** DONE Wally Wood - 22 panels that always work
 ** Figure Drawing
 *** TODO Drawing the Head and Hands - Loomis
 *** Proko's Best Anatomy Reference
@@ -137,7 +135,6 @@
 *** Light for Visual Artists - Yot
 *** Lessons on Shading - Sparkes
 ** Painting
-*** Composition of Outdoor Painting - Edgar Payne
 *** Hawthorne on Painting
 *** Alla Prima - Richard Schmid
 *** Oil Painting techniques and materials - Harold Speed
@@ -145,6 +142,13 @@
 *** Oil Painting Techniques - Patrick Jones
     - Focuses on fantasy art
 *** Mastering the Craft of Painting - Grado
+** Composition
+*** Composition of Outdoor Painting - Edgar Payne
+*** Framed Ink
+*** How Pictures Work - Bang
+*** Vision and Art - Margaret Livingstone
+*** Pictorial Composition - Poore
+*** DONE Wally Wood - 22 panels that always work
 * Writing
 ** Story - Robert McKee
 ** Writing for Comics - Alan Moore
@@ -158,7 +162,6 @@
    - Highly recommended by Marshall Vandruff
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
-*** TODO The Creative Habit - Twyla Tharp
 *** Practicing: A Musician's Return to Music - Glenn Kurtz (library)
 *** Osprey Medieval reference books
 *** The Skilled Huntsman
@@ -176,6 +179,7 @@
 *** Mastery: Greene
 *** Mindworks - Gary van Warmerdam
 *** Chasing Love - Ray Bradberry
+*** DONE The Creative Habit - Twyla Tharp
 *** DONE The Talent Code
 *** DONE Gardner's Art Through the Ages
 *** DONE History of Art - Janson
