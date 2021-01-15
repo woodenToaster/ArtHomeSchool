@@ -35,6 +35,11 @@
 *** Thumbnail Sketching
     - Draw the horizon line and vanishing point
     - Add several radiating guidelines
+** Chapter 09
+*** Building a visual library
+    - Observed :: Observe and gather reference
+    - Remembered :: Ingrain the shapes into your visual library by drawing collected material
+    - Applied :: Use remembered details in your own invented designs
 * Moderndayjames Perspective
 ** DONE 1
 ** DONE 2
@@ -264,12 +269,12 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-01-13 Wed 21:43]
+#+CAPTION: Clock summary at [2021-01-14 Thu 21:08]
 | Tags    | Headline                         | Time    |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | *Total time*                     | *11:10* |       |      |      |
+|         | *Total time*                     | *14:41* |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | \_  Week 2                       |         | 11:10 |      |      |
+|         | \_  Week 2                       |         | 14:41 |      |      |
 |         | \_    <2021-01-11 Mon>           |         |       | 3:50 |      |
 | drawing | \_      Drawing from Imagination |         |       |      | 0:49 |
 | drawing | \_      Drawabox vehicles        |         |       |      | 0:27 |
@@ -283,14 +288,18 @@
 | drawing | \_      Medieval Castles         |         |       |      | 0:50 |
 | drawing | \_      Robertson book           |         |       |      | 2:32 |
 | study   | \_      FZD Design Cinema Ep. 97 |         |       |      | 0:33 |
+|         | \_    <2021-01-14 Thu>           |         |       | 3:31 |      |
+| drawing | \_      Medieval Castles         |         |       |      | 0:49 |
+| study   | \_      Robertson book           |         |       |      | 2:00 |
+| drawing | \_      Robertson book           |         |       |      | 0:42 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *7h 8m*  |
+| drawing | *Tag time* | *8h 39m* |
 |---------+------------+----------|
-| study   | *Tag time* | *4h 2m*  |
+| study   | *Tag time* | *6h 2m*  |
 
 #+END:
 *** <2021-01-11 Mon>
@@ -336,6 +345,20 @@
 **** DONE FZD Design Cinema Ep. 97                                    :study:
      :LOGBOOK:
      CLOCK: [2021-01-13 Wed 21:10]--[2021-01-13 Wed 21:43] =>  0:33
+     :END:
+*** <2021-01-14 Thu>
+**** DONE Medieval Castles                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-14 Thu 06:41]--[2021-01-14 Thu 07:30] =>  0:49
+     :END:
+**** DONE Robertson book                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-14 Thu 18:13]--[2021-01-14 Thu 18:55] =>  0:42
+     CLOCK: [2021-01-14 Thu 19:52]--[2021-01-14 Thu 21:10] =>  1:18
+     :END:
+**** DONE Robertson book                                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-14 Thu 18:56]--[2021-01-14 Thu 19:38] =>  0:42
      :END:
 
 ** Week 3
