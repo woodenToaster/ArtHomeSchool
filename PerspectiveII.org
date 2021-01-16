@@ -269,12 +269,12 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-01-14 Thu 21:08]
+#+CAPTION: Clock summary at [2021-01-15 Fri 22:13]
 | Tags    | Headline                         | Time    |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | *Total time*                     | *14:41* |       |      |      |
+|         | *Total time*                     | *16:55* |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | \_  Week 2                       |         | 14:41 |      |      |
+|         | \_  Week 2                       |         | 16:55 |      |      |
 |         | \_    <2021-01-11 Mon>           |         |       | 3:50 |      |
 | drawing | \_      Drawing from Imagination |         |       |      | 0:49 |
 | drawing | \_      Drawabox vehicles        |         |       |      | 0:27 |
@@ -292,14 +292,18 @@
 | drawing | \_      Medieval Castles         |         |       |      | 0:49 |
 | study   | \_      Robertson book           |         |       |      | 2:00 |
 | drawing | \_      Robertson book           |         |       |      | 0:42 |
+|         | \_    <2021-01-15 Fri>           |         |       | 2:14 |      |
+| drawing | \_      Medieval Castles         |         |       |      | 0:47 |
+| study   | \_      Robertson book           |         |       |      | 0:37 |
+| drawing | \_      Robertson book           |         |       |      | 0:50 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *8h 39m* |
-|---------+------------+----------|
-| study   | *Tag time* | *6h 2m*  |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *10h 16m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *6h 39m*  |
 
 #+END:
 *** <2021-01-11 Mon>
@@ -359,6 +363,20 @@
 **** DONE Robertson book                                              :drawing:
      :LOGBOOK:
      CLOCK: [2021-01-14 Thu 18:56]--[2021-01-14 Thu 19:38] =>  0:42
+     :END:
+*** <2021-01-15 Fri>
+**** DONE Medieval Castles                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-15 Fri 06:41]--[2021-01-15 Fri 07:28] =>  0:47
+     :END:
+**** DONE Robertson book                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-15 Fri 18:37]--[2021-01-15 Fri 19:14] =>  0:37
+     :END:
+**** DONE Robertson book                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-15 Fri 21:25]--[2021-01-15 Fri 21:32] =>  0:07
+     CLOCK: [2021-01-15 Fri 19:15]--[2021-01-15 Fri 19:58] =>  0:43
      :END:
 
 ** Week 3
