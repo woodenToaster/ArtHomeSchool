@@ -155,12 +155,12 @@
     - Watts Head Drawing I: 13 - 15
     - Lommis book part II
 * TODO Term 2
-** TODO Perspective II
+** DONE Perspective II
 *** Video
 **** DONE Moderndayjames Perspective 1-6
 **** TODO drawabox lesson 7 (10 vehicles drawings)
 *** Book
-**** TODO How to Draw - Scott Robertson
+**** DONE How to Draw - Scott Robertson
 *** Backup
 **** TODO New Master's Academy - Linear Perspective
 *** Art Parent -
@@ -179,19 +179,37 @@
     - Robertson book
     - Draw objects from life
     - Draw from Osprey books
-*** Week 3
-*** Week 4
 ** TODO Figure Drawing II
 *** Video - Watts Figure Drawing Phase I
-*** Book -
-*** Backup -
-*** Art Parent -
-*** Challenge -
-*** Inspiration -
+*** Book - Figure Drawing for all its Worth - Loomis
+*** Backup - Watts Figure Drawing Phase II
+*** Art Parent - Frank Frazetta
+*** Challenge - 30 days of Croquis Cafe
+*** Inspiration - Practicing by Glenn Kurtz
 *** Week 1
+    - Copy from Icon book (45 minutes every morning)
+    - Croquis Cafe (20 minute warmup every evening)
+    - Watts Figure Drawing Phase I 2-3 lessons
+    - Apply Watts concepts to copying comic art
+    - Master study on the weekends
 *** Week 2
+    - Copy from Icon book (45 minutes every morning)
+    - Croquis Cafe (20 minute warmup every evening)
+    - Watts Figure Drawing Phase I 2-3 lessons
+    - Apply Watts concepts to copying comic art
+    - Master study on the weekends
 *** Week 3
+    - Copy from Icon book (45 minutes every morning)
+    - Croquis Cafe (20 minute warmup every evening)
+    - Watts Figure Drawing Phase I 2-3 lessons
+    - Apply Watts concepts to copying comic art
+    - Master study on the weekends
 *** Week 4
+    - Copy from Icon book (45 minutes every morning)
+    - Croquis Cafe (20 minute warmup every evening)
+    - Watts Figure Drawing Phase I 2-3 lessons
+    - Apply Watts concepts to copying comic art
+    - Master study on the weekends
 ** TODO Head Drawing II
 *** Video
 **** Watts Head Drawing Phase II

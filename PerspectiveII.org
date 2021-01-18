@@ -47,55 +47,6 @@
 ** DONE 4
 ** DONE 5
 ** DONE 6
-* FZD Design Cinema Ep. 95 - Form Follows Function
-** Design from the inside out (form follows function):
-    - Provides a starting point
-    - Give a strong visual hook (probably more details)
-    - Can help get over creative blocks
-    - Tangible and believable
-    - Adaptable and timeless
-    - Easier
-** Design Ideas
-*** Design around natural causes of the Earth
-     - Protection from the elements
-     - Interesting locations
-*** Design around man-made causes
-    - overpopulation
-    - pollution
-*** Swap timelines
-    - Combine multiple time periods
-*** Show interesting real-world designs
-    - Science
-    - Culture
-    - History
-*** Real world period pieces
-    - At least 50 years in the past
-*** Remove functions
-    - City without cars
-*** Look to the past for visions of the future
-    - Predictions of the future from the 1930s
-*** Combine functions
-    - Wind mills to power things other than grinding grain
-    - Ancient cities in a modern style
-*** Design solution = real world culture + time period + function
-*** Design tips
-    - Get and use good reference
-    - Write down notes
-    - Use sketches to sort out ideas
-    - Use photo bashing to visualize the scene
-    - Don't commit too early. Try multiple solutions
-    - Keep it simple
-    - 1) Collect reference, 2) take notes, 3) sketch
-* FZD Design Cinema Ep. 96
-  1. Culture + time period + function = design
-  2. Gather Reference
-  3. List scenes that will best convey the design
-  4. List key words to set the mood/tone.
-  5. Draw rough comps of each scene.
-  6. Add value/lighting to each scene.
-  7. Do photobash painting for color comp
-  8. Build in 3D
-  9. Final painting
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
@@ -269,12 +220,12 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-01-16 Sat 21:44]
+#+CAPTION: Clock summary at [2021-01-17 Sun 19:43]
 | Tags    | Headline                         | Time    |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | *Total time*                     | *22:32* |       |      |      |
+|         | *Total time*                     | *26:41* |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | \_  Week 2                       |         | 22:32 |      |      |
+|         | \_  Week 2                       |         | 26:41 |      |      |
 |         | \_    <2021-01-11 Mon>           |         |       | 3:50 |      |
 | drawing | \_      Drawing from Imagination |         |       |      | 0:49 |
 | drawing | \_      Drawabox vehicles        |         |       |      | 0:27 |
@@ -300,14 +251,19 @@
 | drawing | \_      Robertson book           |         |       |      | 2:49 |
 | study   | \_      Robertson book           |         |       |      | 0:48 |
 | drawing | \_      Drawabox vehicles        |         |       |      | 2:00 |
+|         | \_    <2021-01-17 Sun>           |         |       | 4:09 |      |
+| drawing | \_      Robertson book           |         |       |      | 0:43 |
+| study   | \_      Robertson book           |         |       |      | 1:43 |
+| drawing | \_      Drawabox vehicles        |         |       |      | 0:49 |
+| study   | \_      Blog                     |         |       |      | 0:54 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *15h 5m* |
-|---------+------------+----------|
-| study   | *Tag time* | *7h 27m* |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *16h 37m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *10h 4m*  |
 
 #+END:
 *** <2021-01-11 Mon>
@@ -399,7 +355,22 @@
      CLOCK: [2021-01-16 Sat 18:26]--[2021-01-16 Sat 19:08] =>  0:42
      CLOCK: [2021-01-16 Sat 13:00]--[2021-01-16 Sat 14:18] =>  1:18
      :END:
+*** <2021-01-17 Sun>
+**** DONE Robertson book                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-17 Sun 09:06]--[2021-01-17 Sun 09:49] =>  0:43
+     :END:
+**** DONE Robertson book                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-17 Sun 09:49]--[2021-01-17 Sun 11:32] =>  1:43
+     :END:
+**** DONE Drawabox vehicles                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-17 Sun 17:59]--[2021-01-17 Sun 18:48] =>  0:49
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-17 Sun 18:49]--[2021-01-17 Sun 19:43] =>  0:54
+     :END:
 
-** Week 3
-** Week 4
 
