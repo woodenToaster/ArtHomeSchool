@@ -17,13 +17,13 @@
 
 * Log
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-01-21 Thu 21:22]
+#+CAPTION: Clock summary at [2021-01-22 Fri 21:07]
 | Tags    | Headline                                        | Time    |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                    | *18:07* |       |      |      |
+|         | *Total time*                                    | *21:42* |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | Log                                             | 18:07   |       |      |      |
-|         | \_  Week 1                                      |         | 18:07 |      |      |
+|         | Log                                             | 21:42   |       |      |      |
+|         | \_  Week 1                                      |         | 21:42 |      |      |
 |         | \_    <2021-01-18 Mon>                          |         |       | 6:19 |      |
 | drawing | \_      Copy from Frazetta's Icon               |         |       |      | 0:46 |
 | drawing | \_      Croquis cafe #372                       |         |       |      | 0:35 |
@@ -48,11 +48,17 @@
 | drawing | \_      Watts Figure Drawing Phase I -...       |         |       |      | 1:00 |
 | study   | \_      Watts Figure Drawing Phase I - Block... |         |       |      | 0:17 |
 | drawing | \_      Watts Figure Drawing Phase I - Block... |         |       |      | 1:15 |
+|         | \_    <2021-01-22 Fri>                          |         |       | 3:35 |      |
+| drawing | \_      Copy from Frazetta's Icon               |         |       |      | 0:48 |
+| drawing | \_      Warmup - CSI curves                     |         |       |      | 0:19 |
+| drawing | \_      Croquis Cafe #368                       |         |       |      | 0:24 |
+| drawing | \_      Watts Figure Drawing Phase I -...       |         |       |      | 0:41 |
+| drawing | \_      Watts Figure Drawing Phase I - Block... |         |       |      | 1:23 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *16h 51m* |
+| drawing | *Tag time* | *20h 26m* |
 |---------+------------+-----------|
 | study   | *Tag time* | *1h 16m*  |
 
@@ -145,6 +151,27 @@
 **** DONE Watts Figure Drawing Phase I - Block Form Mannequin       :drawing:
      :LOGBOOK:
      CLOCK: [2021-01-21 Thu 20:07]--[2021-01-21 Thu 21:22] =>  1:15
+     :END:
+*** <2021-01-22 Fri>
+**** DONE Copy from Frazetta's Icon                                 :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-22 Fri 06:38]--[2021-01-22 Fri 07:26] =>  0:48
+     :END:
+**** DONE Warmup - CSI curves                                       :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-22 Fri 18:15]--[2021-01-22 Fri 18:34] =>  0:19
+     :END:
+**** DONE Croquis Cafe #368                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-22 Fri 18:39]--[2021-01-22 Fri 19:03] =>  0:24
+     :END:
+**** DONE Watts Figure Drawing Phase I - Skeleton from photos       :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-22 Fri 19:03]--[2021-01-22 Fri 19:44] =>  0:41
+     :END:
+**** DONE Watts Figure Drawing Phase I - Block form mannequin       :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-22 Fri 19:44]--[2021-01-22 Fri 21:07] =>  1:23
      :END:
 ** Week 2
 ** Week 3
