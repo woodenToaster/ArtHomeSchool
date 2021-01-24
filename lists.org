@@ -143,6 +143,8 @@
     - Focuses on fantasy art
 *** Mastering the Craft of Painting - Grado
 ** Composition
+*** Universal Principles of Design - Lidwell, Holden, Butler
+*** Drawing and Designing with Confidence - Lin
 *** Composition of Outdoor Painting - Edgar Payne
 *** Framed Ink
 *** How Pictures Work - Bang
@@ -162,6 +164,11 @@
    - Highly recommended by Marshall Vandruff
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
+*** Deep Work - Cal Newport
+*** Digital Minimalism - Cal Newport
+*** Real Artists Don't Starve - Jeff Goins
+*** Linchpin - Seth Goden
+    - Art and business mix
 *** Practicing: A Musician's Return to Music - Glenn Kurtz (library)
 *** Osprey Medieval reference books
 *** The Skilled Huntsman
