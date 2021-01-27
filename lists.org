@@ -117,9 +117,9 @@
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
 *** Creative Perspective for Artists and Illustrators - Ernest Watson
-*** How to Draw - Scott Robertson
 *** Framed Perspective Vol I - Marcos mateu-Mestre
 *** Framed Perspective Vol II - Marcos mateu-Mestre
+*** DONE How to Draw - Scott Robertson
 *** DONE Perpective Drawing Handbook - Joseph D'Amelio
 *** DONE Perspective Made Easy - Earnest Norling
 ** Ink

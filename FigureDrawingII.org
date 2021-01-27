@@ -14,8 +14,10 @@
    - TODO Copy comic poses using skeletal mannequin
 ** Block Form Mannequin
    - TODO Trace over photo with block forms, then draw freehand from tracing
+** Ovoid Mannequin
+   - TODO Trace over photo with ovoid forms, then draw freehand from tracing
 
-
+* Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
   #+CAPTION: Clock summary at [2021-01-24 Sun 20:50]
@@ -238,25 +240,31 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-01-25 Mon 21:17]
+#+CAPTION: Clock summary at [2021-01-26 Tue 21:17]
 | Tags    | Headline                                        | Time   |      |      |      |
 |---------+-------------------------------------------------+--------+------+------+------|
-|         | *Total time*                                    | *4:02* |      |      |      |
+|         | *Total time*                                    | *8:28* |      |      |      |
 |---------+-------------------------------------------------+--------+------+------+------|
-|         | \_  Week 2                                      |        | 4:02 |      |      |
+|         | \_  Week 2                                      |        | 8:28 |      |      |
 |         | \_    <2021-01-25 Mon>                          |        |      | 4:02 |      |
 | drawing | \_      Copy Frazetta                           |        |      |      | 0:43 |
 | drawing | \_      Warmup - geometric forms                |        |      |      | 0:16 |
 | drawing | \_      Croquis  cafe #365                      |        |      |      | 0:26 |
 | drawing | \_      Watts Figure Drawing Phase I - Block... |        |      |      | 0:30 |
 | drawing | \_      Watts Figure Drawing Phase I - Ovoid... |        |      |      | 2:07 |
+|         | \_    <2021-01-26 Tue>                          |        |      | 4:26 |      |
+| drawing | \_      Copy Frazetta                           |        |      |      | 0:52 |
+| drawing | \_      Warmup - CSI curves                     |        |      |      | 0:12 |
+| drawing | \_      Croquis  cafe #364                      |        |      |      | 0:23 |
+| drawing | \_      Watts Figure Drawing Phase I - Ovoid... |        |      |      | 2:39 |
+| study   | \_      Watts Figure Drawing Phase I -...       |        |      |      | 0:20 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *4h 2m*  |
+| drawing | *Tag time* | *8h 8m*  |
 |---------+------------+----------|
-| study   | *Tag time* | *0h 0m*  |
+| study   | *Tag time* | *0h 20m* |
 
 #+END:
 
@@ -280,6 +288,28 @@
 **** DONE Watts Figure Drawing Phase I - Ovoid mannequin            :drawing:
      :LOGBOOK:
      CLOCK: [2021-01-25 Mon 19:10]--[2021-01-25 Mon 21:17] =>  2:07
+     :END:
+*** <2021-01-26 Tue>
+**** DONE Copy Frazetta                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-26 Tue 06:38]--[2021-01-26 Tue 07:30] =>  0:52
+     :END:
+**** DONE Warmup - CSI curves                                       :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-26 Tue 17:37]--[2021-01-26 Tue 17:49] =>  0:12
+     :END:
+**** DONE Croquis  cafe #364                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-26 Tue 17:49]--[2021-01-26 Tue 18:12] =>  0:23
+     :END:
+**** DONE Watts Figure Drawing Phase I - Ovoid mannequin            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-26 Tue 20:38]--[2021-01-26 Tue 20:51] =>  0:13
+     CLOCK: [2021-01-26 Tue 18:12]--[2021-01-26 Tue 20:38] =>  2:26
+     :END:
+**** DONE Watts Figure Drawing Phase I - Spiderman mannequin          :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-26 Tue 20:56]--[2021-01-26 Tue 21:16] =>  0:20
      :END:
 ** Week 3
 ** Week 4
