@@ -240,43 +240,55 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-01-28 Thu 21:18]
-| Tags    | Headline                                        | Time    |       |      |      |
-|---------+-------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                    | *16:30* |       |      |      |
-|---------+-------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 2                                      |         | 16:30 |      |      |
-|         | \_    <2021-01-25 Mon>                          |         |       | 4:02 |      |
-| drawing | \_      Copy Frazetta                           |         |       |      | 0:43 |
-| drawing | \_      Warmup - geometric forms                |         |       |      | 0:16 |
-| drawing | \_      Croquis  cafe #365                      |         |       |      | 0:26 |
-| drawing | \_      Watts Figure Drawing Phase I - Block... |         |       |      | 0:30 |
-| drawing | \_      Watts Figure Drawing Phase I - Ovoid... |         |       |      | 2:07 |
-|         | \_    <2021-01-26 Tue>                          |         |       | 4:26 |      |
-| drawing | \_      Copy Frazetta                           |         |       |      | 0:52 |
-| drawing | \_      Warmup - CSI curves                     |         |       |      | 0:12 |
-| drawing | \_      Croquis  cafe #364                      |         |       |      | 0:23 |
-| drawing | \_      Watts Figure Drawing Phase I - Ovoid... |         |       |      | 2:39 |
-| study   | \_      Watts Figure Drawing Phase I -...       |         |       |      | 0:20 |
-|         | \_    <2021-01-27 Wed>                          |         |       | 4:00 |      |
-| drawing | \_      Copy Frazetta                           |         |       |      | 0:47 |
-| drawing | \_      Warmup                                  |         |       |      | 0:14 |
-| drawing | \_      Croquis  cafe #363                      |         |       |      | 0:26 |
-| drawing | \_      Watts Figure Drawing Phase I -...       |         |       |      | 2:22 |
-| study   | \_      Watts Figure Drawing Phase I - Basic... |         |       |      | 0:11 |
-|         | \_    <2021-01-28 Thu>                          |         |       | 4:02 |      |
-| drawing | \_      Copy Frazetta                           |         |       |      | 0:47 |
-| drawing | \_      Warmup                                  |         |       |      | 0:24 |
-| drawing | \_      Croquis  cafe #361                      |         |       |      | 0:36 |
-| drawing | \_      Watts Figure Drawing Phase I -...       |         |       |      | 2:02 |
-| study   | \_      Watts Figure Drawing Phase I - Basic... |         |       |      | 0:13 |
+#+CAPTION: Clock summary at [2021-01-30 Sat 20:55]
+| Tags    | Headline                                         | Time    |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | *Total time*                                     | *27:24* |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | \_  Week 2                                       |         | 27:24 |      |      |
+|         | \_    <2021-01-25 Mon>                           |         |       | 4:02 |      |
+| drawing | \_      Copy Frazetta                            |         |       |      | 0:43 |
+| drawing | \_      Warmup - geometric forms                 |         |       |      | 0:16 |
+| drawing | \_      Croquis  cafe #365                       |         |       |      | 0:26 |
+| drawing | \_      Watts Figure Drawing Phase I - Block...  |         |       |      | 0:30 |
+| drawing | \_      Watts Figure Drawing Phase I - Ovoid...  |         |       |      | 2:07 |
+|         | \_    <2021-01-26 Tue>                           |         |       | 4:26 |      |
+| drawing | \_      Copy Frazetta                            |         |       |      | 0:52 |
+| drawing | \_      Warmup - CSI curves                      |         |       |      | 0:12 |
+| drawing | \_      Croquis  cafe #364                       |         |       |      | 0:23 |
+| drawing | \_      Watts Figure Drawing Phase I - Ovoid...  |         |       |      | 2:39 |
+| study   | \_      Watts Figure Drawing Phase I -...        |         |       |      | 0:20 |
+|         | \_    <2021-01-27 Wed>                           |         |       | 4:00 |      |
+| drawing | \_      Copy Frazetta                            |         |       |      | 0:47 |
+| drawing | \_      Warmup                                   |         |       |      | 0:14 |
+| drawing | \_      Croquis  cafe #363                       |         |       |      | 0:26 |
+| drawing | \_      Watts Figure Drawing Phase I -...        |         |       |      | 2:22 |
+| study   | \_      Watts Figure Drawing Phase I - Basic...  |         |       |      | 0:11 |
+|         | \_    <2021-01-28 Thu>                           |         |       | 4:02 |      |
+| drawing | \_      Copy Frazetta                            |         |       |      | 0:47 |
+| drawing | \_      Warmup                                   |         |       |      | 0:24 |
+| drawing | \_      Croquis  cafe #361                       |         |       |      | 0:36 |
+| drawing | \_      Watts Figure Drawing Phase I -...        |         |       |      | 2:02 |
+| study   | \_      Watts Figure Drawing Phase I - Basic...  |         |       |      | 0:13 |
+|         | \_    <2021-01-29 Fri>                           |         |       | 3:00 |      |
+| drawing | \_      Copy Frazetta                            |         |       |      | 0:48 |
+| drawing | \_      Warmup                                   |         |       |      | 0:14 |
+| drawing | \_      Croquis  cafe #360                       |         |       |      | 0:25 |
+| drawing | \_      Watts Figure Drawing Phase I -...        |         |       |      | 0:58 |
+| study   | \_      Watts Figure Drawing Phase I - Figure... |         |       |      | 0:35 |
+|         | \_    <2021-01-30 Sat>                           |         |       | 7:54 |      |
+| drawing | \_      Warmup                                   |         |       |      | 0:18 |
+| drawing | \_      Croquis cafe #359                        |         |       |      | 0:30 |
+| drawing | \_      Watts Figure Drawing Phase I -...        |         |       |      | 2:27 |
+| drawing | \_      Watts Figure Drawing Phase I - Planes    |         |       |      | 3:28 |
+| study   | \_      Watts Figure Drawing Phase I -...        |         |       |      | 1:11 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *15h 46m* |
+| drawing | *Tag time* | *24h 54m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *0h 44m*  |
+| study   | *Tag time* | *2h 30m*  |
 
 #+END:
 
@@ -365,5 +377,56 @@
      :LOGBOOK:
      CLOCK: [2021-01-28 Thu 21:05]--[2021-01-28 Thu 21:18] =>  0:13
      :END:
+*** <2021-01-29 Fri>
+**** DONE Copy Frazetta                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-29 Fri 06:40]--[2021-01-29 Fri 07:28] =>  0:48
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-29 Fri 19:38]--[2021-01-29 Fri 19:52] =>  0:14
+     :END:
+**** DONE Croquis  cafe #360                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-29 Fri 19:52]--[2021-01-29 Fri 20:17] =>  0:25
+     :END:
+**** DONE Watts Figure Drawing Phase I - Spiderman mannequin        :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-29 Fri 20:17]--[2021-01-29 Fri 21:15] =>  0:58
+     :END:
+**** DONE Watts Figure Drawing Phase I - Figure Abstraction           :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-29 Fri 22:00]--[2021-01-29 Fri 22:35] =>  0:35
+     :END:
+*** <2021-01-30 Sat>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-30 Sat 09:11]--[2021-01-30 Sat 09:29] =>  0:18
+     :END:
+**** DONE Croquis cafe #359                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-30 Sat 09:29]--[2021-01-30 Sat 09:59] =>  0:30
+     :END:
+**** DONE Watts Figure Drawing Phase I - Spiderman mannequin        :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-30 Sat 19:42]--[2021-01-30 Sat 20:55] =>  1:13
+     CLOCK: [2021-01-30 Sat 09:59]--[2021-01-30 Sat 11:13] =>  1:14
+     :END:
+**** DONE Watts Figure Drawing Phase I - Planes                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-01-30 Sat 18:05]--[2021-01-30 Sat 18:27] =>  0:22
+     CLOCK: [2021-01-30 Sat 13:28]--[2021-01-30 Sat 16:02] =>  2:34
+     CLOCK: [2021-01-30 Sat 11:13]--[2021-01-30 Sat 11:45] =>  0:32
+     :END:
+**** DONE Watts Figure Drawing Phase I - Freehand Drawing             :study:
+     :LOGBOOK:
+     CLOCK: [2021-01-30 Sat 18:31]--[2021-01-30 Sat 19:42] =>  1:11
+     :END:
+*** <2021-01-31 Sun>
+**** TODO Warmup :drawing:
+**** TODO Croquis cafe #358 :drawing:
+**** TODO Watts Figure Drawing Phase I - Spiderman mannequin        :drawing:
+**** TODO Watts Figure Drawing Phase I - Planes                     :drawing:
+**** TODO Blog
 ** Week 3
 ** Week 4
