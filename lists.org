@@ -48,12 +48,6 @@
 ** Epson WF-7840 - $250 (can't print grayscale without color ink cartridges)
 ** Arches 88 silk screen paper (too expensive)
 * Art Books
-** Physical Books
-*** The Art Spirit - Robert Henri
-*** Alla Prima
-*** Bridgman
-*** Loomis
-*** Anything Dover
 ** General
 *** Drawing Lessons from the Great Masters - Robert Hale
 *** The Practice and Science of Drawing - Speed
@@ -70,10 +64,9 @@
 *** Zentangle
 *** DONE Krash Course - Greg Capullo
 ** Figure Drawing
-*** TODO Drawing the Head and Hands - Loomis
-*** Proko's Best Anatomy Reference
-**** Human Anatomy for Artists - Goldfinger
-**** Artistic Anatomy - Paul Richer
+*** Drawing the Head and Hands - Loomis
+*** Human Anatomy for Artists - Goldfinger
+*** Artistic Anatomy - Paul Richer
 *** Master Class in Figure Drawing - Robert Hale
 *** Atlas of Human Anatomy for Artists - Stephen Peck
     - Well balanced. Check out "tips" pages.
@@ -107,6 +100,8 @@
 *** The Complete Guide to Anatomy for Artists and Illustrators - Gottfried Bammes (drawing book)
 *** Figure Drawing for Artists: Making every Mark Count - Steve Huston
 *** Drawing Cutting Edge Anatomy - Hart
+*** The Nude Figure: A Visual Reference for the Artist - Mark Smith
+*** The Nude Female Figure: A Visual Reference for the Artist - Mark Smith
 *** The Frank Reilly School of Art - Doug Higgens
 *** Mastering Drawing the Human Figure - Jack Faragasso
     - Reilly method
