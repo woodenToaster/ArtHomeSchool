@@ -16,6 +16,16 @@
    - TODO Trace over photo with block forms, then draw freehand from tracing
 ** Ovoid Mannequin
    - TODO Trace over photo with ovoid forms, then draw freehand from tracing
+** Reilly Figure Abstraction
+   - TODO Trace a photo with the Reilly abstraction, then draw it free hand
+
+
+* Watts Figure Drawing Fundamentals
+** Basic Figure Shapes
+   - TODO draw ovals
+   - TODO draw boxes and cylinders
+   - TODO draw geometric forms blending into one another
+   - TODO draw oval for rib cage and box for pelvis
 
 * Log
 ** Week 1
@@ -457,4 +467,80 @@
      CLOCK: [2021-01-31 Sun 19:31]--[2021-01-31 Sun 20:29] =>  0:58
      :END:
 ** Week 3
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
+#+CAPTION: Clock summary at [2021-02-02 Tue 21:18]
+| Tags    | Headline                                        | Time   |      |      |      |
+|---------+-------------------------------------------------+--------+------+------+------|
+|         | *Total time*                                    | *7:35* |      |      |      |
+|---------+-------------------------------------------------+--------+------+------+------|
+|         | \_  Week 3                                      |        | 7:35 |      |      |
+|         | \_    <2021-02-01 Mon>                          |        |      | 4:02 |      |
+| drawing | \_      Copy Frazetta                           |        |      |      | 0:45 |
+| drawing | \_      Warmup                                  |        |      |      | 0:14 |
+| drawing | \_      Croquis cafe #357                       |        |      |      | 0:24 |
+| drawing | \_      Watts Figure Drawing Phase I: Female... |        |      |      | 2:22 |
+| drawing | \_      Watts Figure Drawing Phase I: Reilly... |        |      |      | 0:17 |
+|         | \_    <2021-02-02 Tue>                          |        |      | 3:33 |      |
+| drawing | \_      Copy Frazetta                           |        |      |      | 0:49 |
+| drawing | \_      Warmup                                  |        |      |      | 0:21 |
+| drawing | \_      Croquis cafe #356                       |        |      |      | 0:27 |
+| study   | \_      Watts Figure Drawing Phase I:...        |        |      |      | 0:21 |
+| drawing | \_      Watts Figure Drawing Phase I:...        |        |      |      | 1:07 |
+| drawing | \_      Watts Figure Drawing Fundamentals:...   |        |      |      | 0:28 |
+#+END:
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *7h 14m* |
+|---------+------------+----------|
+| study   | *Tag time* | *0h 21m* |
+
+#+END:
+
+*** <2021-02-01 Mon>
+**** DONE Copy Frazetta                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-01 Mon 06:41]--[2021-02-01 Mon 07:26] =>  0:45
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-01 Mon 18:04]--[2021-02-01 Mon 18:18] =>  0:14
+     :END:
+**** DONE Croquis cafe #357                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-01 Mon 18:18]--[2021-02-01 Mon 18:42] =>  0:24
+     :END:
+**** DONE Watts Figure Drawing Phase I: Female planes               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-01 Mon 18:42]--[2021-02-01 Mon 21:04] =>  2:22
+     :END:
+**** DONE Watts Figure Drawing Phase I: Reilly tracings             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-01 Mon 21:05]--[2021-02-01 Mon 21:22] =>  0:17
+     :END:
+*** <2021-02-02 Tue>
+**** DONE Copy Frazetta                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-02 Tue 06:44]--[2021-02-02 Tue 07:33] =>  0:49
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-02 Tue 18:03]--[2021-02-02 Tue 18:24] =>  0:21
+     :END:
+**** DONE Croquis cafe #356                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-02 Tue 18:25]--[2021-02-02 Tue 18:52] =>  0:27
+     :END:
+**** DONE Watts Figure Drawing Phase I: Navigational terms            :study:
+     :LOGBOOK:
+     CLOCK: [2021-02-02 Tue 18:53]--[2021-02-02 Tue 19:14] =>  0:21
+     :END:
+**** DONE Watts Figure Drawing Phase I: Freehand drawing            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-02 Tue 19:34]--[2021-02-02 Tue 20:41] =>  1:07
+     :END:
+**** DONE Watts Figure Drawing Fundamentals: Basic figure shpaes    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-02 Tue 20:50]--[2021-02-02 Tue 21:18] =>  0:28
+     :END:
 ** Week 4

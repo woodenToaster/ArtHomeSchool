@@ -47,6 +47,11 @@
 ** HP OfficeJet Pro 7740 11x17 printer scanner - $279 (doesn't scan 11x17)
 ** Epson WF-7840 - $250 (can't print grayscale without color ink cartridges)
 ** Arches 88 silk screen paper (too expensive)
+** TODO Build
+*** Easel
+*** Divider
+*** Color checker
+*** Brush holder
 * Art Books
 ** General
 *** Drawing Lessons from the Great Masters - Robert Hale
@@ -315,6 +320,7 @@
     - Prophet
 *** Travis Charest
      - Spacegirl (on his website)
+     - Wildcats X-men Golden Age
 *** Medieval
     - Northlanders
     - Demon Knights
