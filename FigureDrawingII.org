@@ -468,12 +468,12 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-02-03 Wed 21:23]
+#+CAPTION: Clock summary at [2021-02-04 Thu 21:10]
 | Tags    | Headline                                        | Time    |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                    | *11:40* |       |      |      |
+|         | *Total time*                                    | *15:23* |       |      |      |
 |---------+-------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 3                                      |         | 11:40 |      |      |
+|         | \_  Week 3                                      |         | 15:23 |      |      |
 |         | \_    <2021-02-01 Mon>                          |         |       | 4:02 |      |
 | drawing | \_      Copy Frazetta                           |         |       |      | 0:45 |
 | drawing | \_      Warmup                                  |         |       |      | 0:14 |
@@ -493,13 +493,18 @@
 | drawing | \_      Croquis cafe #355                       |         |       |      | 0:27 |
 | drawing | \_      Watts Figure Drawing Phase I: Figure... |         |       |      | 0:37 |
 | drawing | \_      Watts Figure Drawing Fundamentals -...  |         |       |      | 1:58 |
+|         | \_    <2021-02-04 Thu>                          |         |       | 3:43 |      |
+| drawing | \_      Copy Frazetta                           |         |       |      | 0:44 |
+| drawing | \_      Warmup                                  |         |       |      | 0:23 |
+| drawing | \_      Croquis cafe #353                       |         |       |      | 0:25 |
+| drawing | \_      Watts Figure Drawing Fundamentals -...  |         |       |      | 2:11 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
-| Tag     | Headline   | Time (h)  |
-|---------+------------+-----------|
-| drawing | *Tag time* | *11h 19m* |
-|---------+------------+-----------|
-| study   | *Tag time* | *0h 21m*  |
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *15h 2m* |
+|---------+------------+----------|
+| study   | *Tag time* | *0h 21m* |
 
 #+END:
 
@@ -570,4 +575,23 @@
      :LOGBOOK:
      CLOCK: [2021-02-03 Wed 19:24]--[2021-02-03 Wed 21:22] =>  1:58
      :END:
+*** <2021-02-04 Thu>
+**** DONE Copy Frazetta                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-04 Thu 06:42]--[2021-02-04 Thu 07:26] =>  0:44
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-04 Thu 18:11]--[2021-02-04 Thu 18:34] =>  0:23
+     :END:
+**** DONE Croquis cafe #353                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-04 Thu 18:34]--[2021-02-04 Thu 18:59] =>  0:25
+     :END:
+**** DONE Watts Figure Drawing Fundamentals - Reilly method         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-04 Thu 18:59]--[2021-02-04 Thu 21:10] =>  2:11
+     :END:
+*** <2021-02-05 Fri>
+**** TODO Copy Frazetta                                             :drawing:
 ** Week 4
