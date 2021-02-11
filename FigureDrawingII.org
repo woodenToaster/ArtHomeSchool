@@ -663,26 +663,37 @@
      :END:
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-02-08 Mon 21:20]
-| Tags    | Headline                                       | Time   |      |      |      |
-|---------+------------------------------------------------+--------+------+------+------|
-|         | *Total time*                                   | *4:00* |      |      |      |
-|---------+------------------------------------------------+--------+------+------+------|
-|         | \_  Week 4                                     |        | 4:00 |      |      |
-|         | \_    <2021-02-08 Mon>                         |        |      | 4:00 |      |
-| drawing | \_      Copy Frazetta                          |        |      |      | 0:45 |
-| drawing | \_      Warmup                                 |        |      |      | 0:26 |
-| drawing | \_      Croquis cafe #348                      |        |      |      | 0:28 |
-| drawing | \_      Watts Figure Fundamentals - Gesture    |        |      |      | 1:16 |
-| drawing | \_      Watts Figure Fundamentals - Gesture... |        |      |      | 0:20 |
-| drawing | \_      Watts Figure Fundamentals - Structure  |        |      |      | 0:45 |
+#+CAPTION: Clock summary at [2021-02-10 Wed 21:35]
+| Tags    | Headline                                       | Time    |       |      |      |
+|---------+------------------------------------------------+---------+-------+------+------|
+|         | *Total time*                                   | *12:13* |       |      |      |
+|---------+------------------------------------------------+---------+-------+------+------|
+|         | \_  Week 4                                     |         | 12:13 |      |      |
+|         | \_    <2021-02-08 Mon>                         |         |       | 4:00 |      |
+| drawing | \_      Copy Frazetta                          |         |       |      | 0:45 |
+| drawing | \_      Warmup                                 |         |       |      | 0:26 |
+| drawing | \_      Croquis cafe #348                      |         |       |      | 0:28 |
+| drawing | \_      Watts Figure Fundamentals - Gesture    |         |       |      | 1:16 |
+| drawing | \_      Watts Figure Fundamentals - Gesture... |         |       |      | 0:20 |
+| drawing | \_      Watts Figure Fundamentals - Structure  |         |       |      | 0:45 |
+|         | \_    <2021-02-09 Tue>                         |         |       | 4:10 |      |
+| drawing | \_      Copy Frazetta                          |         |       |      | 0:48 |
+| drawing | \_      Warmup                                 |         |       |      | 0:20 |
+| drawing | \_      Croquis cafe #346                      |         |       |      | 0:36 |
+| drawing | \_      Watts Figure Fundamentals - Structure  |         |       |      | 2:26 |
+|         | \_    <2021-02-10 Wed>                         |         |       | 4:03 |      |
+| drawing | \_      Copy Frazetta                          |         |       |      | 0:45 |
+| drawing | \_      Warmup                                 |         |       |      | 0:40 |
+| drawing | \_      Croquis cafe #345                      |         |       |      | 0:27 |
+| drawing | \_      Gesture from imagination               |         |       |      | 0:37 |
+| drawing | \_      Watts Figure Fundamentals - Structure  |         |       |      | 1:34 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope file :maxlevel 6 :match ("drawing" "study")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *4h 0m*  |
-|---------+------------+----------|
-| study   | *Tag time* | *0h 0m*  |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *12h 13m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *0h 0m*   |
 
 #+END:
 *** <2021-02-08 Mon>
@@ -710,4 +721,41 @@
      :LOGBOOK:
      CLOCK: [2021-02-08 Mon 20:35]--[2021-02-08 Mon 21:20] =>  0:45
      :END:
-
+*** <2021-02-09 Tue>
+**** DONE Copy Frazetta                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-09 Tue 06:42]--[2021-02-09 Tue 07:30] =>  0:48
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-09 Tue 18:01]--[2021-02-09 Tue 18:21] =>  0:20
+     :END:
+**** DONE Croquis cafe #346                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-09 Tue 18:21]--[2021-02-09 Tue 18:57] =>  0:36
+     :END:
+**** DONE Watts Figure Fundamentals - Structure                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-09 Tue 18:57]--[2021-02-09 Tue 21:23] =>  2:26
+     :END:
+*** <2021-02-10 Wed>
+**** DONE Copy Frazetta                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-10 Wed 06:41]--[2021-02-10 Wed 07:26] =>  0:45
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-10 Wed 18:16]--[2021-02-10 Wed 18:56] =>  0:40
+     :END:
+**** DONE Croquis cafe #345                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-10 Wed 18:56]--[2021-02-10 Wed 19:23] =>  0:27
+     :END:
+**** DONE Gesture from imagination                                  :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-10 Wed 19:24]--[2021-02-10 Wed 20:01] =>  0:37
+     :END:
+**** DONE Watts Figure Fundamentals - Structure                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-10 Wed 20:01]--[2021-02-10 Wed 21:35] =>  1:34
+     :END:
