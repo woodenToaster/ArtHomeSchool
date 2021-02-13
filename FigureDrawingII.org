@@ -663,12 +663,12 @@
      :END:
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-02-10 Wed 21:35]
+#+CAPTION: Clock summary at [2021-02-12 Fri 20:39]
 | Tags    | Headline                                       | Time    |       |      |      |
 |---------+------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                   | *12:13* |       |      |      |
+|         | *Total time*                                   | *19:43* |       |      |      |
 |---------+------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                                     |         | 12:13 |      |      |
+|         | \_  Week 4                                     |         | 19:43 |      |      |
 |         | \_    <2021-02-08 Mon>                         |         |       | 4:00 |      |
 | drawing | \_      Copy Frazetta                          |         |       |      | 0:45 |
 | drawing | \_      Warmup                                 |         |       |      | 0:26 |
@@ -687,11 +687,21 @@
 | drawing | \_      Croquis cafe #345                      |         |       |      | 0:27 |
 | drawing | \_      Gesture from imagination               |         |       |      | 0:37 |
 | drawing | \_      Watts Figure Fundamentals - Structure  |         |       |      | 1:34 |
+|         | \_    <2021-02-11 Thu>                         |         |       | 3:43 |      |
+| drawing | \_      Copy Frazetta                          |         |       |      | 0:41 |
+| drawing | \_      Warmup                                 |         |       |      | 0:30 |
+| drawing | \_      Croquis cafe #344                      |         |       |      | 0:25 |
+| drawing | \_      Watts Figure Fundamentals - Structure  |         |       |      | 2:07 |
+|         | \_    <2021-02-12 Fri>                         |         |       | 3:47 |      |
+| drawing | \_      Copy Frazetta                          |         |       |      | 0:45 |
+| drawing | \_      Warmup                                 |         |       |      | 0:24 |
+| drawing | \_      Croquis cafe #343                      |         |       |      | 0:31 |
+| drawing | \_      Watts Figure Fundamentals - Structure  |         |       |      | 2:07 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope file :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *12h 13m* |
+| drawing | *Tag time* | *19h 43m* |
 |---------+------------+-----------|
 | study   | *Tag time* | *0h 0m*   |
 
@@ -758,4 +768,38 @@
 **** DONE Watts Figure Fundamentals - Structure                     :drawing:
      :LOGBOOK:
      CLOCK: [2021-02-10 Wed 20:01]--[2021-02-10 Wed 21:35] =>  1:34
+     :END:
+*** <2021-02-11 Thu>
+**** DONE Copy Frazetta                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-11 Thu 06:43]--[2021-02-11 Thu 07:24] =>  0:41
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-11 Thu 18:10]--[2021-02-11 Thu 18:40] =>  0:30
+     :END:
+**** DONE Croquis cafe #344                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-11 Thu 18:40]--[2021-02-11 Thu 19:05] =>  0:25
+     :END:
+**** DONE Watts Figure Fundamentals - Structure                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-11 Thu 19:05]--[2021-02-11 Thu 21:12] =>  2:07
+     :END:
+*** <2021-02-12 Fri>
+**** DONE Copy Frazetta                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-12 Fri 06:41]--[2021-02-12 Fri 07:26] =>  0:45
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-12 Fri 17:37]--[2021-02-12 Fri 18:01] =>  0:24
+     :END:
+**** DONE Croquis cafe #343                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-12 Fri 18:01]--[2021-02-12 Fri 18:32] =>  0:31
+     :END:
+**** DONE Watts Figure Fundamentals - Structure                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-12 Fri 18:32]--[2021-02-12 Fri 20:39] =>  2:07
      :END:
