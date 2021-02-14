@@ -830,4 +830,15 @@
 **** DONE Watts Figure Fundamentals - Mass                            :study:
      :LOGBOOK:
      CLOCK: [2021-02-13 Sat 16:02]--[2021-02-13 Sat 16:36] =>  0:34
+*** <2021-02-14 Sun>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-14 Sun 09:03]--[2021-02-14 Sun 09:32] =>  0:29
      :END:
+**** DONE Croquis cafe #339                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-14 Sun 09:34]--[2021-02-14 Sun 10:02] =>  0:28
+     :END:
+**** DONE Watts Figure Fundamentals - Structure                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-14 Sun 10:03]--[2021-02-14 Sun 11:50] =>  1:47
