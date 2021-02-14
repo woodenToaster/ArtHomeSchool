@@ -3,6 +3,7 @@
 #+STARTUP: nologdone
 
 * Games
+** Elden Ring
 ** Mortal Shell
 ** Ghost of Tsushima
 ** Spider Man: Miles Morales
@@ -12,7 +13,6 @@
 ** Baldur's Gate 3
 * Art Supplies
 ** 18x24 Strathmore smooth newsprint
-** Watercolor paper/sketchbook
 ** Various charcoal pencils
    - HB Ritmo
    - 6B Wolff's
@@ -39,9 +39,9 @@
 ** Blair low odor spray fix
 ** Stillman and Birn Zeta Series sketchbook
 ** white ink
-** French Curve/swoops
 ** Point divider
 ** Alvin parallel glider
+** Watercolor paper/sketchbook
 ** Drafting Table
 ** Canon Pixma iX6820 13x19 cardstock printer - $189
 ** HP OfficeJet Pro 7740 11x17 printer scanner - $279 (doesn't scan 11x17)
@@ -391,6 +391,8 @@
 *** Gustave Dore
 *** Fechin
 *** Albrecht Altdorfer
+** Fantasy Illustration
+*** Spectrum books (library)
 * Exercises
 ** Watts Drawing Fundamentals Phase I
 *** Abstract Warmup
