@@ -19,7 +19,6 @@
 ** Reilly Figure Abstraction
    - TODO Trace a photo with the Reilly abstraction, then draw it free hand
 
-
 * Watts Figure Drawing Fundamentals
 ** Basic Figure Shapes
    - TODO draw ovals
@@ -663,12 +662,12 @@
      :END:
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-02-13 Sat 20:16]
+#+CAPTION: Clock summary at [2021-02-14 Sun 19:59]
 | Tags    | Headline                                       | Time    |       |      |      |
 |---------+------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                   | *27:30* |       |      |      |
+|         | *Total time*                                   | *34:11* |       |      |      |
 |---------+------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                                     |         | 27:30 |      |      |
+|         | \_  Week 4                                     |         | 34:11 |      |      |
 |         | \_    <2021-02-08 Mon>                         |         |       | 4:00 |      |
 | drawing | \_      Copy Frazetta                          |         |       |      | 0:45 |
 | drawing | \_      Warmup                                 |         |       |      | 0:26 |
@@ -703,13 +702,19 @@
 | drawing | \_      Croquis cafe #343                      |         |       |      | 0:29 |
 | drawing | \_      Watts Figure Fundamentals - Structure  |         |       |      | 4:18 |
 | study   | \_      Watts Figure Fundamentals - Mass       |         |       |      | 0:34 |
+|         | \_    <2021-02-14 Sun>                         |         |       | 6:41 |      |
+| drawing | \_      Warmup                                 |         |       |      | 0:29 |
+| drawing | \_      Croquis cafe #339                      |         |       |      | 0:28 |
+| drawing | \_      Watts Figure Fundamentals - Structure  |         |       |      | 3:31 |
+| study   | \_      Next unit plan                         |         |       |      | 1:41 |
+| study   | \_      Blog post                              |         |       |      | 0:32 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope file :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *26h 56m* |
+| drawing | *Tag time* | *31h 24m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *0h 34m*  |
+| study   | *Tag time* | *2h 47m*  |
 
 #+END:
 *** <2021-02-08 Mon>
@@ -830,6 +835,7 @@
 **** DONE Watts Figure Fundamentals - Mass                            :study:
      :LOGBOOK:
      CLOCK: [2021-02-13 Sat 16:02]--[2021-02-13 Sat 16:36] =>  0:34
+
 *** <2021-02-14 Sun>
 **** DONE Warmup                                                    :drawing:
      :LOGBOOK:
@@ -841,4 +847,14 @@
      :END:
 **** DONE Watts Figure Fundamentals - Structure                     :drawing:
      :LOGBOOK:
+     CLOCK: [2021-02-14 Sun 17:39]--[2021-02-14 Sun 19:23] =>  1:44
      CLOCK: [2021-02-14 Sun 10:03]--[2021-02-14 Sun 11:50] =>  1:47
+     :END:
+**** DONE Next unit plan                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-02-14 Sun 13:12]--[2021-02-14 Sun 14:53] =>  1:41
+     :END:
+**** DONE Blog post                                                   :study:
+     :LOGBOOK:
+     CLOCK: [2021-02-14 Sun 19:27]--[2021-02-14 Sun 19:59] =>  0:32
+     :END:

@@ -45,6 +45,7 @@
 ** Reference material
 ** Master studies
 ** Committing concepts to memory (repitition)
+** Inventing from imagination
 * Unit Template
 *** Video -
 *** Book -
@@ -179,8 +180,10 @@
     - Robertson book
     - Draw objects from life
     - Draw from Osprey books
-** TODO Figure Drawing II
-*** Video - Watts Figure Drawing Phase I
+** DONE Figure Drawing II
+*** Video
+**** DONE Watts Figure Drawing Phase I
+**** TODO Watts Figure Drawing Fundamentals (Finished up to structure section)
 *** Book - Figure Drawing for all its Worth - Loomis
 *** Backup - Watts Figure Drawing Phase II
 *** Art Parent - Frank Frazetta
@@ -210,6 +213,26 @@
     - Watts Figure Drawing Phase I 2-3 lessons
     - Apply Watts concepts to copying comic art
     - Master study on the weekends
+** TODO Anatomy I - Torso
+*** Video
+**** TODO Proko Human Anatomy for Artists - Torso
+*** Book
+**** TODO Watts on Bridgman
+**** TODO Bridgman's Complete Guide to Drawing from Life
+*** Backup
+**** TODO Watts Anatomy Intensives - Torso
+*** Art Parent - David Finch
+*** Challenge - None
+*** Inspiration - Deep Work
+*** Week 1
+    - Copy Finch (45 minutes every morning)
+    - Proko Anatomy sections 1-4
+    - Relevant Goldfinger sections
+    - Learn, copy, invent
+*** Week 2
+*** Week 3
+*** Week 4
+* TODO Term 3
 ** TODO Head Drawing II
 *** Video
 **** Watts Head Drawing Phase II
@@ -223,16 +246,14 @@
 *** Week 2
 *** Week 3
 *** Week 4
-* TODO Term 3
 ** TODO Figure Drawing III
 ** TODO Anatomy III - Arms
-** TODO Clothed Figure Drawing
 * TODO Term 4
 ** TODO Color and Light I
 ** TODO Perspective IV
 ** TODO Anatomy IV - Legs
 * TODO Term 5
-** TODO Intro To Animals
+** TODO Clothed Figure Drawing
 ** TODO Perspective V
 ** TODO Color and Light II
 * TODO Term 6
@@ -241,7 +262,6 @@
 ** TODO Perspective VI
 * TODO Term 7
 ** TODO Anatomy V - Imagination
-** TODO Perspective VII
 ** TODO Environment Design I
 * TODO Term 8
 ** TODO Environment Design II
@@ -255,3 +275,4 @@
 ** TODO Painting III - Matte Painting
 ** TODO Personal Project I
 ** TODO Personal Project II
+   

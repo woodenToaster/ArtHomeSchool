@@ -1,0 +1,36 @@
+#+TITLE: Anatomy I - Torso
+#+AUTHOR: Chris Hogan
+#+DATE: <2021-02-15 Mon> to <2021-03-14 Sun>
+#+STARTUP: nologdone
+
+* Proko Human Anatomy for Artists
+* Log
+** Week 1
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
+#+CAPTION: Clock summary at [2021-02-15 Mon 07:56]
+| Tags    | Headline               | Time   |      |      |      |
+|---------+------------------------+--------+------+------+------|
+|         | *Total time*           | *0:47* |      |      |      |
+|---------+------------------------+--------+------+------+------|
+|         | \_  Week 1             |        | 0:47 |      |      |
+|         | \_    <2021-02-15 Mon> |        |      | 0:47 |      |
+| drawing | \_      Copy Finch     |        |      |      | 0:47 |
+#+END:
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *0h 47m* |
+|---------+------------+----------|
+| study   | *Tag time* | *0h 0m*  |
+
+#+END:
+
+*** <2021-02-15 Mon>
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-15 Mon 06:43]--[2021-02-15 Mon 07:30] =>  0:47
+     :END:
+
+** week 2
+** Week 3
+** Week 4
