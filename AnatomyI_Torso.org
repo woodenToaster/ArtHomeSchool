@@ -100,6 +100,24 @@
      CLOCK: [2021-02-17 Wed 19:24]--[2021-02-17 Wed 21:19] =>  1:55
      :END:
 
+*** <2021-02-18 Thu>
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-18 Thu 06:42]--[2021-02-18 Thu 07:27] =>  0:45
+     :END:
+**** DONE Warmup - digital                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-18 Thu 17:58]--[2021-02-18 Thu 18:12] =>  0:14
+     :END:
+**** DONE Proko Anatomy - Anatomy Tracing                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-18 Thu 18:12]--[2021-02-18 Thu 19:30] =>  1:18
+     :END:
+
+**** DONE Proko Anatomy - Types of Joints                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-18 Thu 19:35]--[2021-02-18 Thu 21:18] =>  1:43
+     :END:
 ** Week 2
 ** Week 3
 ** Week 4
