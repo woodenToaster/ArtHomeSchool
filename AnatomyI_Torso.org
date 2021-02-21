@@ -7,12 +7,12 @@
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-02-17 Wed 21:19]
+#+CAPTION: Clock summary at [2021-02-20 Sat 19:38]
 | Tags    | Headline                                 | Time    |       |      |      |
 |---------+------------------------------------------+---------+-------+------+------|
-|         | *Total time*                             | *11:02* |       |      |      |
+|         | *Total time*                             | *26:33* |       |      |      |
 |---------+------------------------------------------+---------+-------+------+------|
-|         | \_  Week 1                               |         | 11:02 |      |      |
+|         | \_  Week 1                               |         | 26:33 |      |      |
 |         | \_    <2021-02-15 Mon>                   |         |       | 4:17 |      |
 | drawing | \_      Copy Finch                       |         |       |      | 0:47 |
 | drawing | \_      Warmup - digital                 |         |       |      | 0:53 |
@@ -29,13 +29,28 @@
 | drawing | \_      Warmup - digital                 |         |       |      | 0:19 |
 | drawing | \_      Proko Anatomy - Anatomy Tracing  |         |       |      | 1:05 |
 | drawing | \_      Proko Anatomy - Types of Joints  |         |       |      | 1:55 |
+|         | \_    <2021-02-18 Thu>                   |         |       | 4:00 |      |
+| drawing | \_      Copy Finch                       |         |       |      | 0:45 |
+| drawing | \_      Warmup - digital                 |         |       |      | 0:14 |
+| drawing | \_      Proko Anatomy - Anatomy Tracing  |         |       |      | 1:18 |
+| drawing | \_      Proko Anatomy - Types of Joints  |         |       |      | 1:43 |
+|         | \_    <2021-02-19 Fri>                   |         |       | 3:38 |      |
+| drawing | \_      Copy Finch                       |         |       |      | 0:44 |
+| drawing | \_      Warmup - digital                 |         |       |      | 0:22 |
+| drawing | \_      Proko Anatomy - Anatomy Tracing  |         |       |      | 0:53 |
+| drawing | \_      Proko Anatomy - Types of Joints  |         |       |      | 1:39 |
+|         | \_    <2021-02-20 Sat>                   |         |       | 7:53 |      |
+| drawing | \_      Copy Finch                       |         |       |      | 1:05 |
+| study   | \_      Proko Anatomy - Pelvis           |         |       |      | 0:27 |
+| drawing | \_      Proko Anatomy - Types of Joints  |         |       |      | 5:47 |
+| study   | \_      Proko Anatomy - The spine        |         |       |      | 0:34 |
 #+END:
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *10h 18m* |
+| drawing | *Tag time* | *24h 48m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *0h 44m*  |
+| study   | *Tag time* | *1h 45m*  |
 
 #+END:
 
@@ -117,6 +132,43 @@
 **** DONE Proko Anatomy - Types of Joints                           :drawing:
      :LOGBOOK:
      CLOCK: [2021-02-18 Thu 19:35]--[2021-02-18 Thu 21:18] =>  1:43
+     :END:
+*** <2021-02-19 Fri>
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-19 Fri 06:44]--[2021-02-19 Fri 07:28] =>  0:44
+     :END:
+**** DONE Warmup - digital                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-19 Fri 17:46]--[2021-02-19 Fri 18:08] =>  0:22
+     :END:
+**** DONE Proko Anatomy - Anatomy Tracing                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-19 Fri 18:09]--[2021-02-19 Fri 19:02] =>  0:53
+     :END:
+
+**** DONE Proko Anatomy - Types of Joints                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-19 Fri 19:05]--[2021-02-19 Fri 20:44] =>  1:39
+     :END:
+*** <2021-02-20 Sat>
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-20 Sat 08:33]--[2021-02-20 Sat 09:38] =>  1:05
+     :END:
+**** DONE Proko Anatomy - Pelvis                                      :study:
+     :LOGBOOK:
+     CLOCK: [2021-02-20 Sat 09:38]--[2021-02-20 Sat 10:05] =>  0:27
+     :END:
+**** DONE Proko Anatomy - Types of Joints                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-20 Sat 18:08]--[2021-02-20 Sat 19:38] =>  1:30
+     CLOCK: [2021-02-20 Sat 13:06]--[2021-02-20 Sat 15:54] =>  2:48
+     CLOCK: [2021-02-20 Sat 10:05]--[2021-02-20 Sat 11:34] =>  1:29
+     :END:
+**** DONE Proko Anatomy - The spine                                   :study:
+     :LOGBOOK:
+     CLOCK: [2021-02-20 Sat 17:34]--[2021-02-20 Sat 18:08] =>  0:34
      :END:
 ** Week 2
 ** Week 3
