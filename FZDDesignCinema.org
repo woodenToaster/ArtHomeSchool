@@ -58,3 +58,9 @@
    - Keep eye level under human head height.
    - Stick with head, chest, waist, thigh or ground
    - Have a clear focal point or subject matter. No cropping.
+** FOV
+   - Wide enough angle to show the whole scene
+** Composition
+   - Foreground :: reference for scale (human or human sized object)
+   - Midground :: subject matter or focal point
+   - Background :: context and breathing room

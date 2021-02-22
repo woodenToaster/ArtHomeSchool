@@ -7,12 +7,12 @@
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-02-20 Sat 19:38]
+#+CAPTION: Clock summary at [2021-02-21 Sun 20:05]
 | Tags    | Headline                                 | Time    |       |      |      |
 |---------+------------------------------------------+---------+-------+------+------|
-|         | *Total time*                             | *26:33* |       |      |      |
+|         | *Total time*                             | *32:20* |       |      |      |
 |---------+------------------------------------------+---------+-------+------+------|
-|         | \_  Week 1                               |         | 26:33 |      |      |
+|         | \_  Week 1                               |         | 32:20 |      |      |
 |         | \_    <2021-02-15 Mon>                   |         |       | 4:17 |      |
 | drawing | \_      Copy Finch                       |         |       |      | 0:47 |
 | drawing | \_      Warmup - digital                 |         |       |      | 0:53 |
@@ -44,13 +44,16 @@
 | study   | \_      Proko Anatomy - Pelvis           |         |       |      | 0:27 |
 | drawing | \_      Proko Anatomy - Types of Joints  |         |       |      | 5:47 |
 | study   | \_      Proko Anatomy - The spine        |         |       |      | 0:34 |
+|         | \_    <2021-02-21 Sun>                   |         |       | 5:47 |      |
+| drawing | \_      Proko Anatomy - Spine            |         |       |      | 5:02 |
+| study   | \_      Blog post                        |         |       |      | 0:45 |
 #+END:
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *24h 48m* |
+| drawing | *Tag time* | *29h 50m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *1h 45m*  |
+| study   | *Tag time* | *2h 30m*  |
 
 #+END:
 
@@ -170,6 +173,33 @@
      :LOGBOOK:
      CLOCK: [2021-02-20 Sat 17:34]--[2021-02-20 Sat 18:08] =>  0:34
      :END:
+*** <2021-02-21 Sun>
+**** DONE Proko Anatomy - Spine                                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-21 Sun 17:37]--[2021-02-21 Sun 19:19] =>  1:42
+     CLOCK: [2021-02-21 Sun 12:52]--[2021-02-21 Sun 14:35] =>  1:43
+     CLOCK: [2021-02-21 Sun 09:37]--[2021-02-21 Sun 11:14] =>  1:37
+     :END:
+**** DONE Blog post :study:
+     :LOGBOOK:
+     CLOCK: [2021-02-21 Sun 19:20]--[2021-02-21 Sun 20:05] =>  0:45
+     :END:
 ** Week 2
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
+#+CAPTION: Clock summary at [2021-02-21 Sun 20:06]
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *0h 0m*  |
+|---------+------------+----------|
+| study   | *Tag time* | *0h 0m*  |
+
+#+END:
+
 ** Week 3
 ** Week 4

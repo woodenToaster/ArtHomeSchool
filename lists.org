@@ -65,7 +65,6 @@
 * Art Books
 ** General
 *** Drawing Lessons from the Great Masters - Robert Hale
-*** The Practice and Science of Drawing - Speed
 *** Vilppu Drawing Manual - Glenn Vilppu
 *** Imaginative Realism - James Gurney
 *** The Natural Way to Draw - Kimon Nicolaides (for developing the sensitivity of an artist)
@@ -78,6 +77,7 @@
 *** Drawing Course - Charles Bargue
 *** Zentangle
 *** DONE Krash Course - Greg Capullo
+*** DONE The Practice and Science of Drawing - Speed
 ** Figure Drawing
 *** Drawing the Head and Hands - Loomis
 *** Human Anatomy for Artists - Goldfinger
