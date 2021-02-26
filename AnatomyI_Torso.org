@@ -186,12 +186,12 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-02-24 Wed 21:30]
+#+CAPTION: Clock summary at [2021-02-25 Thu 21:16]
 | Tags    | Headline                           | Time    |       |      |      |
 |---------+------------------------------------+---------+-------+------+------|
-|         | *Total time*                       | *12:03* |       |      |      |
+|         | *Total time*                       | *16:11* |       |      |      |
 |---------+------------------------------------+---------+-------+------+------|
-|         | \_  Week 2                         |         | 12:03 |      |      |
+|         | \_  Week 2                         |         | 16:11 |      |      |
 |         | \_    <2021-02-22 Mon>             |         |       | 4:09 |      |
 | drawing | \_      Copy Finch                 |         |       |      | 0:42 |
 | drawing | \_      Warmup                     |         |       |      | 0:27 |
@@ -206,14 +206,18 @@
 | drawing | \_      Warmup                     |         |       |      | 0:28 |
 | drawing | \_      Proko Anatomy - The spine  |         |       |      | 2:13 |
 | drawing | \_      Proko Anatomy - The pelvis |         |       |      | 0:32 |
+|         | \_    <2021-02-25 Thu>             |         |       | 4:08 |      |
+| drawing | \_      Copy Finch                 |         |       |      | 1:32 |
+| drawing | \_      Warmup                     |         |       |      | 0:31 |
+| drawing | \_      Proko Anatomy - The pelvis |         |       |      | 2:05 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *12h 3m* |
-|---------+------------+----------|
-| study   | *Tag time* | *0h 0m*  |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *16h 11m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *0h 0m*   |
 
 #+END:
 *** <2021-02-22 Mon>
@@ -265,6 +269,20 @@
 **** DONE Proko Anatomy - The pelvis                                :drawing:
      :LOGBOOK:
      CLOCK: [2021-02-24 Wed 20:58]--[2021-02-24 Wed 21:30] =>  0:32
+     :END:
+*** <2021-02-25 Thu>
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-25 Thu 20:29]--[2021-02-25 Thu 21:16] =>  0:47
+     CLOCK: [2021-02-25 Thu 06:45]--[2021-02-25 Thu 07:30] =>  0:45
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-25 Thu 17:52]--[2021-02-25 Thu 18:23] =>  0:31
+     :END:
+**** DONE Proko Anatomy - The pelvis                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-25 Thu 18:24]--[2021-02-25 Thu 20:29] =>  2:05
      :END:
 ** week 3
 ** Week 4

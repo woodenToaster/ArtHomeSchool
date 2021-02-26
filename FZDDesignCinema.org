@@ -64,3 +64,16 @@
    - Foreground :: reference for scale (human or human sized object)
    - Midground :: subject matter or focal point
    - Background :: context and breathing room
+* FZD Design Cinema Ep. 105 - Time Management
+Time breakdown of a 3-day piece of art
+** Day 0
+   - Gather reference
+** Day 1
+   - 10 AM - 3 PM :: Super rough sketches, thumbnails. Get designs out. Side
+                     views, no difficult perspective. (brain power)
+   - 3 PM - 7 PM :: Choose design, rough sketch, lock camera, good perspective (muscle memory)
+** Day 2
+   - 10 AM - 1 PM :: Clean up, figure stuff out (not final drawing) (brain power)
+   -  1 PM - 7 PM :: Build in 3D or polish drawing (muscle memory)
+** Day 3
+   - 10 AM - 7 PM :: Polish for presentation (muslce memory)
