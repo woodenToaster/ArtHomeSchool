@@ -186,41 +186,46 @@
      :END:
 ** Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-02-26 Fri 20:45]
-| Tags    | Headline                            | Time    |       |      |      |
-|---------+-------------------------------------+---------+-------+------+------|
-|         | *Total time*                        | *19:57* |       |      |      |
-|---------+-------------------------------------+---------+-------+------+------|
-|         | \_  Week 2                          |         | 19:57 |      |      |
-|         | \_    <2021-02-22 Mon>              |         |       | 4:09 |      |
-| drawing | \_      Copy Finch                  |         |       |      | 0:42 |
-| drawing | \_      Warmup                      |         |       |      | 0:27 |
-| drawing | \_      Proko Anatomy - The spine   |         |       |      | 3:00 |
-|         | \_    <2021-02-23 Tue>              |         |       | 3:59 |      |
-| drawing | \_      Copy Finch                  |         |       |      | 0:42 |
-| drawing | \_      Warmup                      |         |       |      | 0:42 |
-| drawing | \_      Proko Anatomy - The spine   |         |       |      | 2:15 |
-| drawing | \_      Digital boxes               |         |       |      | 0:20 |
-|         | \_    <2021-02-24 Wed>              |         |       | 3:55 |      |
-| drawing | \_      Copy Finch                  |         |       |      | 0:42 |
-| drawing | \_      Warmup                      |         |       |      | 0:28 |
-| drawing | \_      Proko Anatomy - The spine   |         |       |      | 2:13 |
-| drawing | \_      Proko Anatomy - The pelvis  |         |       |      | 0:32 |
-|         | \_    <2021-02-25 Thu>              |         |       | 4:08 |      |
-| drawing | \_      Copy Finch                  |         |       |      | 1:32 |
-| drawing | \_      Warmup                      |         |       |      | 0:31 |
-| drawing | \_      Proko Anatomy - The pelvis  |         |       |      | 2:05 |
-|         | \_    <2021-02-26 Fri>              |         |       | 3:46 |      |
-| drawing | \_      Copy Finch                  |         |       |      | 0:45 |
-| drawing | \_      Warmup                      |         |       |      | 0:25 |
-| drawing | \_      Proko Anatomy - The pelvis  |         |       |      | 1:25 |
-| drawing | \_      Proko Anatomy - The ribcage |         |       |      | 1:11 |
+#+CAPTION: Clock summary at [2021-02-27 Sat 21:32]
+| Tags    | Headline                              | Time    |       |      |      |
+|---------+---------------------------------------+---------+-------+------+------|
+|         | *Total time*                          | *27:53* |       |      |      |
+|---------+---------------------------------------+---------+-------+------+------|
+|         | \_  Week 2                            |         | 27:53 |      |      |
+|         | \_    <2021-02-22 Mon>                |         |       | 4:09 |      |
+| drawing | \_      Copy Finch                    |         |       |      | 0:42 |
+| drawing | \_      Warmup                        |         |       |      | 0:27 |
+| drawing | \_      Proko Anatomy - The spine     |         |       |      | 3:00 |
+|         | \_    <2021-02-23 Tue>                |         |       | 3:59 |      |
+| drawing | \_      Copy Finch                    |         |       |      | 0:42 |
+| drawing | \_      Warmup                        |         |       |      | 0:42 |
+| drawing | \_      Proko Anatomy - The spine     |         |       |      | 2:15 |
+| drawing | \_      Digital boxes                 |         |       |      | 0:20 |
+|         | \_    <2021-02-24 Wed>                |         |       | 3:55 |      |
+| drawing | \_      Copy Finch                    |         |       |      | 0:42 |
+| drawing | \_      Warmup                        |         |       |      | 0:28 |
+| drawing | \_      Proko Anatomy - The spine     |         |       |      | 2:13 |
+| drawing | \_      Proko Anatomy - The pelvis    |         |       |      | 0:32 |
+|         | \_    <2021-02-25 Thu>                |         |       | 4:08 |      |
+| drawing | \_      Copy Finch                    |         |       |      | 1:32 |
+| drawing | \_      Warmup                        |         |       |      | 0:31 |
+| drawing | \_      Proko Anatomy - The pelvis    |         |       |      | 2:05 |
+|         | \_    <2021-02-26 Fri>                |         |       | 3:46 |      |
+| drawing | \_      Copy Finch                    |         |       |      | 0:45 |
+| drawing | \_      Warmup                        |         |       |      | 0:25 |
+| drawing | \_      Proko Anatomy - The pelvis    |         |       |      | 1:25 |
+| drawing | \_      Proko Anatomy - The ribcage   |         |       |      | 1:11 |
+|         | \_    <2021-02-27 Sat>                |         |       | 7:56 |      |
+| drawing | \_      Warmup                        |         |       |      | 0:28 |
+| drawing | \_      Proko Anatomy - The pelvis    |         |       |      | 0:32 |
+| drawing | \_      Proko Anatomy - The ribcage   |         |       |      | 3:26 |
+| drawing | \_      Proko Anatomy - The shoulders |         |       |      | 3:30 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *19h 57m* |
+| drawing | *Tag time* | *27h 53m* |
 |---------+------------+-----------|
 | study   | *Tag time* | *0h 0m*   |
 
@@ -306,5 +311,29 @@
      :LOGBOOK:
      CLOCK: [2021-02-26 Fri 19:34]--[2021-02-26 Fri 20:45] =>  1:11
      :END:
+*** <2021-02-27 Sat>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-27 Sat 09:07]--[2021-02-27 Sat 09:35] =>  0:28
+     :END:
+**** DONE Proko Anatomy - The pelvis                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-27 Sat 09:35]--[2021-02-27 Sat 10:07] =>  0:32
+     :END:
+**** DONE Proko Anatomy - The ribcage                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-27 Sat 13:31]--[2021-02-27 Sat 15:11] =>  1:40
+     CLOCK: [2021-02-27 Sat 10:07]--[2021-02-27 Sat 11:53] =>  1:46
+     :END:
+**** DONE Proko Anatomy - The shoulders                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-02-27 Sat 18:02]--[2021-02-27 Sat 20:15] =>  2:13
+     CLOCK: [2021-02-27 Sat 15:45]--[2021-02-27 Sat 16:30] =>  0:45
+     CLOCK: [2021-02-27 Sat 15:11]--[2021-02-27 Sat 15:43] =>  0:32
+     :END:
+*** <2021-02-28 Sun>
+**** TODO Warmup :drawing:
+**** TODO Proko Anatomy - The shoulders                             :drawing:
+**** TODO Blog :study:
 ** week 3
 ** Week 4

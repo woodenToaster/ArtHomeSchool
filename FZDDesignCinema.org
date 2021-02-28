@@ -77,3 +77,92 @@ Time breakdown of a 3-day piece of art
    -  1 PM - 7 PM :: Build in 3D or polish drawing (muscle memory)
 ** Day 3
    - 10 AM - 7 PM :: Polish for presentation (muslce memory)
+* FZD Design Cinema Ep. 106 - Getting a Job
+** Portfolio Content Categories
+**** Adapting design languages
+     - Pick an existing IP and design something that fits in it
+**** Set dress the world
+     - Take a set and flesh it out with all the props
+**** Costume designs
+     - Light, heavy, and medium armor
+     - Royalty, middle class, poor clothing
+     - Lots of variations
+**** Vehicle design
+     - Interior and exterior
+     - Cutaways
+**** Variations and props
+     - Weapons
+     - Food
+     - Items
+**** Breakdowns (cutaways)
+     - Make it clear enough that there are no questions asked
+**** Production shots
+     - Just a couple
+     - Detailed out 3D
+**** Production paintings
+** Suggested Portfolio Content (20-30 pieces)
+*** 3 Projects
+    - Real world
+    - Fantasy or SciFi
+    - Personal project
+*** For each of the 3 projects
+    - 2 production paintings
+    - 8 production art pieces
+*** Example Breakdowns (taylor to the chosen setting)
+**** Project 1 (2 months)
+     - Real world, Tomb Raider style world
+     - 2x character costumes
+     - 1x vehicle exterior
+     - 1x props
+     - 2x environment exterior
+     - 2x environment interior (breakdown)
+     - 2x production paintings (ideas generated from best pieces from above)
+***** Takeaways
+      - Learn to use reference
+      - Show common sense
+      - Show entertainment value
+**** Project 2 (2 months)
+     - SciFi, Wing Commander
+     - 3x vehicle exterior
+     - 1x vehicle interior
+     - 2x character costumes
+     - 1x environment exterior
+     - 1x environment interior (breakdown)
+     - 2x production paintings (ideas generated from best pieces from above)
+***** Takeaways
+      - New design languages
+      - Making things look cool
+      - Capturing imagination
+**** Project 3 (2 months)
+     - Classic reboot of Final Fantasy VI
+     - 1x vehicle exterior
+     - 1x vehicle interior
+     - 2x character or creature
+     - 2x environment exterior
+     - 2x environment interior (breakdown)
+     - 2x production paintings (ideas generated from best pieces from above)
+***** Takeaways
+      - Able to adapt to existing IPs
+      - Able to upscale/4K details
+      - Able to capture original mood
+* FZD Design Cinema Ep. 107 - How to Add Details
+** Breaking Down Details
+   - Silhouette
+   - 2nd level details :: help define (break) silhouette
+   - 3rd level details :: help define 2nd level details
+   - 2nd and 3rd level details also each have their own 1,2,3 read, recursively,
+     which become 4th and 5th level details
+   - Focus on 1 and 2 in beginning stages
+** First Read
+   - Instantaneous shape recognition
+** 1,2,3 Distance Rule
+   - 3 feet :: silhouette
+   - 1 foot :: 2nd level details are part of silhouette
+   - 1 foot and focusing :: 2nd and 3rd level details support
+   - Start with solid foundaton 
+** Visual Focus
+   - Put details where the eye tends to focus
+   - Don't put details where the eye won't land
+   - More secondary details = more visually interesting, and easier to make cool
+** Start with one role
+   - One job for one area/character, one architecture style
