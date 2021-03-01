@@ -1,0 +1,8 @@
+#+TITLE: Clip Studio Cheatsheet
+#+AUTHOR: Chris Hogan
+#+DATE: <2021-02-28 Mon>
+#+STARTUP: nologdone
+
+* Keyboard Shortcuts
+  - ctrl+t :: Free transform
+  - ctrl+h :: Horizontal flip 
