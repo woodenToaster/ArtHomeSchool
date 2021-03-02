@@ -2,6 +2,17 @@
 #+AUTHOR: Chris Hogan
 #+STARTUP: nologdone
 
+* FZD Design Cinema Ep. 90 - 10 Beginner Drawing Tips
+  1. Use cheap paper
+  2. Start with easy stuff (orthos)
+  3. Draw loose but in control
+  4. Use pen or avoid erasing
+  5. Use thumbnails
+  6. Add details later
+  7. Practice line flow
+  8. Practice line weight
+  9. Cover your wall with drawings
+  10. Repeat 1-9 thousands of times
 * FZD Design Cinema Ep. 95 - Form Follows Function
 ** Design from the inside out (form follows function):
     - Provides a starting point

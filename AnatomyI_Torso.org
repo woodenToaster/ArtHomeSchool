@@ -361,19 +361,47 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-02-28 Sun 21:27]
-| Tags | Headline     | Time   |
-|------+--------------+--------|
-|      | *Total time* | *0:00* |
+#+CAPTION: Clock summary at [2021-03-01 Mon 21:34]
+| Tags    | Headline                   | Time   |      |      |      |
+|---------+----------------------------+--------+------+------+------|
+|         | *Total time*               | *4:06* |      |      |      |
+|---------+----------------------------+--------+------+------+------|
+|         | \_  Week 3                 |        | 4:06 |      |      |
+|         | \_    <2021-03-01 Mon>     |        |      | 4:06 |      |
+| drawing | \_      Copy Finch         |        |      |      | 0:43 |
+| drawing | \_      Digital warmup     |        |      |      | 0:36 |
+| drawing | \_      Proko Anatomy pecs |        |      |      | 2:05 |
+| drawing | \_      Copy Bridgman      |        |      |      | 0:32 |
+| drawing | \_      Digital color      |        |      |      | 0:10 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *0h 0m*  |
+| drawing | *Tag time* | *4h 6m*  |
 |---------+------------+----------|
 | study   | *Tag time* | *0h 0m*  |
 
 #+END:
 
-** Week 4
+*** <2021-03-01 Mon>
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-01 Mon 06:42]--[2021-03-01 Mon 07:25] =>  0:43
+     :END:
+**** DONE Digital warmup                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-01 Mon 18:05]--[2021-03-01 Mon 18:41] =>  0:36
+     :END:
+**** DONE Proko Anatomy pecs                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-01 Mon 18:41]--[2021-03-01 Mon 20:46] =>  2:05
+     :END:
+**** DONE Copy Bridgman                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-01 Mon 20:51]--[2021-03-01 Mon 21:23] =>  0:32
+     :END:
+**** DONE Digital color                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-01 Mon 21:24]--[2021-03-01 Mon 21:34] =>  0:10
+     :END:

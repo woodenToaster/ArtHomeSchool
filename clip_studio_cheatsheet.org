@@ -4,5 +4,10 @@
 #+STARTUP: nologdone
 
 * Keyboard Shortcuts
-  - ctrl+t :: Free transform
-  - ctrl+h :: Horizontal flip 
+  - M-S-s :: Save as
+  - C-t :: Free transform
+  - C-h :: Horizontal flip
+  - C-u :: Hue/saturation/luminosity menu
+  - C-l :: Tonal corrections menu
+    
+    
