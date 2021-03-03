@@ -361,24 +361,29 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-01 Mon 21:34]
-| Tags    | Headline                   | Time   |      |      |      |
-|---------+----------------------------+--------+------+------+------|
-|         | *Total time*               | *4:06* |      |      |      |
-|---------+----------------------------+--------+------+------+------|
-|         | \_  Week 3                 |        | 4:06 |      |      |
-|         | \_    <2021-03-01 Mon>     |        |      | 4:06 |      |
-| drawing | \_      Copy Finch         |        |      |      | 0:43 |
-| drawing | \_      Digital warmup     |        |      |      | 0:36 |
-| drawing | \_      Proko Anatomy pecs |        |      |      | 2:05 |
-| drawing | \_      Copy Bridgman      |        |      |      | 0:32 |
-| drawing | \_      Digital color      |        |      |      | 0:10 |
+#+CAPTION: Clock summary at [2021-03-02 Tue 21:16]
+| Tags    | Headline                        | Time   |      |      |      |
+|---------+---------------------------------+--------+------+------+------|
+|         | *Total time*                    | *7:56* |      |      |      |
+|---------+---------------------------------+--------+------+------+------|
+|         | \_  Week 3                      |        | 7:56 |      |      |
+|         | \_    <2021-03-01 Mon>          |        |      | 4:06 |      |
+| drawing | \_      Copy Finch              |        |      |      | 0:43 |
+| drawing | \_      Digital warmup          |        |      |      | 0:36 |
+| drawing | \_      Proko Anatomy pecs      |        |      |      | 2:05 |
+| drawing | \_      Copy Bridgman           |        |      |      | 0:32 |
+| drawing | \_      Digital color           |        |      |      | 0:10 |
+|         | \_    <2021-03-02 Tue>          |        |      | 3:50 |      |
+| drawing | \_      Copy Finch              |        |      |      | 0:45 |
+| drawing | \_      Warmup                  |        |      |      | 0:26 |
+| drawing | \_      Proko Anatomy - Pecs    |        |      |      | 1:57 |
+| drawing | \_      Proko Anatomy - Breasts |        |      |      | 0:42 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *4h 6m*  |
+| drawing | *Tag time* | *7h 56m* |
 |---------+------------+----------|
 | study   | *Tag time* | *0h 0m*  |
 
@@ -404,4 +409,21 @@
 **** DONE Digital color                                             :drawing:
      :LOGBOOK:
      CLOCK: [2021-03-01 Mon 21:24]--[2021-03-01 Mon 21:34] =>  0:10
+     :END:
+*** <2021-03-02 Tue>
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-02 Tue 06:43]--[2021-03-02 Tue 07:28] =>  0:45
+     :END:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-02 Tue 18:10]--[2021-03-02 Tue 18:36] =>  0:26
+     :END:
+**** DONE Proko Anatomy - Pecs                                      :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-02 Tue 18:36]--[2021-03-02 Tue 20:33] =>  1:57
+     :END:
+**** DONE Proko Anatomy - Breasts                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-02 Tue 20:34]--[2021-03-02 Tue 21:16] =>  0:42
      :END:
