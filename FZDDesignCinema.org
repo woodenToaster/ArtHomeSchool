@@ -2,10 +2,42 @@
 #+AUTHOR: Chris Hogan
 #+STARTUP: nologdone
 
+* Design Cinema Podcast Ep. 6 - Learning on Your Own
+** Set up a proper learning environment
+   - Study room with no distractions
+** Be on a regular schedule
+   - 5-6 hours per day
+** Give yourself some rewards and consequences
+** Don't spend time watching tutorials without practicing
+** Only gather reference for an immediate project need
+** Avoid too many cooks in the kitchen
+   - Just follow 1 or 2 sources of advice
+** Start with interests
+   - Just draw
+** Learn Fundamentals
+   - Anatomy
+   - Perspective
+   - Color and Light
+   - Composition
+** Give yourself a design project
+   - Watch Design Cinema on Designing to Spec
+     - Thumbnails, roughs, cleanup, final
+   - Choose grounded projects
+     - Historically based designs
+     - Design superhero, costume, and hideout
+     - Realistic creatures based on science
+     - Utility vehicle design
+     - Design from a classic novel
+   - Projects require plainning, research and thinking
+** Correctness over speed
 * FZD Design Cinema Ep. 90 - 10 Beginner Drawing Tips
   1. Use cheap paper
      - 20% grey background
-  2. Start with easy stuff (orthos)
+     - add some stray marks
+  2. Start with easy stuff
+     - side views, no perspective
+     - organic forms that don't have to be perfect
+     - forms that are less recognizable by the average person
   3. Draw loose but in control
   4. Use pen or avoid erasing
   5. Use thumbnails
