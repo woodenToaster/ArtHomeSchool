@@ -361,12 +361,12 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-07 Sun 19:22]
+#+CAPTION: Clock summary at [2021-03-07 Sun 20:04]
 | Tags    | Headline                         | Time    |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | *Total time*                     | *33:01* |       |      |      |
+|         | *Total time*                     | *33:43* |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | \_  Week 3                       |         | 33:01 |      |      |
+|         | \_  Week 3                       |         | 33:43 |      |      |
 |         | \_    <2021-03-01 Mon>           |         |       | 4:06 |      |
 | drawing | \_      Copy Finch               |         |       |      | 0:43 |
 | drawing | \_      Digital warmup           |         |       |      | 0:36 |
@@ -398,9 +398,10 @@
 | drawing | \_      Proko Anatomy - Abs      |         |       |      | 4:56 |
 | drawing | \_      Digital warmup           |         |       |      | 1:06 |
 | study   | \_      Proko Anatomy - Obliques |         |       |      | 0:31 |
-|         | \_    <2021-03-07 Sun>           |         |       | 5:15 |      |
+|         | \_    <2021-03-07 Sun>           |         |       | 5:57 |      |
 | drawing | \_      Warmup                   |         |       |      | 0:21 |
 | drawing | \_      Proko Anatomy - Obliques |         |       |      | 4:54 |
+| study   | \_      Blog                     |         |       |      | 0:42 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
@@ -408,7 +409,7 @@
 |---------+------------+-----------|
 | drawing | *Tag time* | *32h 30m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *0h 31m*  |
+| study   | *Tag time* | *1h 13m*  |
 
 #+END:
 
@@ -536,9 +537,9 @@
      CLOCK: [2021-03-07 Sun 13:18]--[2021-03-07 Sun 14:23] =>  1:05
      CLOCK: [2021-03-07 Sun 09:21]--[2021-03-07 Sun 11:51] =>  2:30
      :END:
-**** TODO Blog :study:
+**** DONE Blog                                                        :study:
      :LOGBOOK:
-     CLOCK: [2021-03-07 Sun 19:22]
+     CLOCK: [2021-03-07 Sun 19:22]--[2021-03-07 Sun 20:04] =>  0:42
      :END:
 
 ** Week 4
