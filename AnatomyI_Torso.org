@@ -361,12 +361,12 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-06 Sat 21:23]
+#+CAPTION: Clock summary at [2021-03-07 Sun 19:22]
 | Tags    | Headline                         | Time    |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | *Total time*                     | *27:46* |       |      |      |
+|         | *Total time*                     | *33:01* |       |      |      |
 |---------+----------------------------------+---------+-------+------+------|
-|         | \_  Week 3                       |         | 27:46 |      |      |
+|         | \_  Week 3                       |         | 33:01 |      |      |
 |         | \_    <2021-03-01 Mon>           |         |       | 4:06 |      |
 | drawing | \_      Copy Finch               |         |       |      | 0:43 |
 | drawing | \_      Digital warmup           |         |       |      | 0:36 |
@@ -398,12 +398,15 @@
 | drawing | \_      Proko Anatomy - Abs      |         |       |      | 4:56 |
 | drawing | \_      Digital warmup           |         |       |      | 1:06 |
 | study   | \_      Proko Anatomy - Obliques |         |       |      | 0:31 |
+|         | \_    <2021-03-07 Sun>           |         |       | 5:15 |      |
+| drawing | \_      Warmup                   |         |       |      | 0:21 |
+| drawing | \_      Proko Anatomy - Obliques |         |       |      | 4:54 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *27h 15m* |
+| drawing | *Tag time* | *32h 30m* |
 |---------+------------+-----------|
 | study   | *Tag time* | *0h 31m*  |
 
@@ -522,6 +525,22 @@
      CLOCK: [2021-03-06 Sat 20:30]--[2021-03-06 Sat 20:48] =>  0:18
      CLOCK: [2021-03-06 Sat 15:21]--[2021-03-06 Sat 15:34] =>  0:13
      :END:
+*** <2021-03-07 Sun>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-07 Sun 08:59]--[2021-03-07 Sun 09:20] =>  0:21
+     :END:
+**** DONE Proko Anatomy - Obliques                                  :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-07 Sun 18:03]--[2021-03-07 Sun 19:22] =>  1:19
+     CLOCK: [2021-03-07 Sun 13:18]--[2021-03-07 Sun 14:23] =>  1:05
+     CLOCK: [2021-03-07 Sun 09:21]--[2021-03-07 Sun 11:51] =>  2:30
+     :END:
+**** TODO Blog :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-07 Sun 19:22]
+     :END:
+
 ** Week 4
 
    
