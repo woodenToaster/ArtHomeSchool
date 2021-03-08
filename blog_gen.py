@@ -130,6 +130,8 @@ def gen_plan_skeleton():
     print('Challenges')
     print()
     print('Inspiration')
+    print()
+    print('Exercises')
 
 def gen_post_skeleton(month, day):
     print('For a description of this unit see my {} unit plan. ' + main_link)
