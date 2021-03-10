@@ -544,23 +544,28 @@
 
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-08 Mon 21:24]
-| Tags    | Headline                             | Time   |      |      |      |
-|---------+--------------------------------------+--------+------+------+------|
-|         | *Total time*                         | *9:03* |      |      |      |
-|---------+--------------------------------------+--------+------+------+------|
-|         | \_  Week 4                           |        | 9:03 |      |      |
-|         | \_    <2021-03-08 Mon>               |        |      | 9:03 |      |
-| study   | \_      Order materials for painting |        |      |      | 2:51 |
-| drawing | \_      Warmup                       |        |      |      | 0:30 |
-| drawing | \_      Proko Anatomy - Obliques     |        |      |      | 3:29 |
-| study   | \_      Set up calendar              |        |      |      | 0:13 |
-| drawing | \_      Proko Anatomy - Shoulders    |        |      |      | 2:00 |
+#+CAPTION: Clock summary at [2021-03-09 Tue 21:18]
+| Tags    | Headline                             | Time    |       |      |      |
+|---------+--------------------------------------+---------+-------+------+------|
+|         | *Total time*                         | *12:08* |       |      |      |
+|---------+--------------------------------------+---------+-------+------+------|
+|         | \_  Week 4                           |         | 12:08 |      |      |
+|         | \_    <2021-03-08 Mon>               |         |       | 9:03 |      |
+| study   | \_      Order materials for painting |         |       |      | 2:51 |
+| drawing | \_      Warmup                       |         |       |      | 0:30 |
+| drawing | \_      Proko Anatomy - Obliques     |         |       |      | 3:29 |
+| study   | \_      Set up calendar              |         |       |      | 0:13 |
+| drawing | \_      Proko Anatomy - Shoulders    |         |       |      | 2:00 |
+|         | \_    <2021-03-09 Tue>               |         |       | 3:05 |      |
+| drawing | \_      Warmup                       |         |       |      | 0:25 |
+| drawing | \_      Proko Anatomy - Shoulders    |         |       |      | 0:51 |
+| drawing | \_      Proko Anatomy - Upper Back   |         |       |      | 1:12 |
+| drawing | \_      Copy Finch                   |         |       |      | 0:37 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *5h 59m* |
+| drawing | *Tag time* | *9h 4m*  |
 |---------+------------+----------|
 | study   | *Tag time* | *3h 4m*  |
 
@@ -588,5 +593,23 @@
 **** DONE Proko Anatomy - Shoulders                                 :drawing:
      :LOGBOOK:
      CLOCK: [2021-03-08 Mon 19:23]--[2021-03-08 Mon 21:23] =>  2:00
+     :END:
+
+*** <2021-03-09 Tue>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-09 Tue 18:13]--[2021-03-09 Tue 18:38] =>  0:25
+     :END:
+**** DONE Proko Anatomy - Shoulders :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-09 Tue 18:38]--[2021-03-09 Tue 19:29] =>  0:51
+     :END:
+**** DONE Proko Anatomy - Upper Back                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-09 Tue 19:29]--[2021-03-09 Tue 20:41] =>  1:12
+     :END:
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-09 Tue 20:41]--[2021-03-09 Tue 21:18] =>  0:37
      :END:
 
