@@ -544,12 +544,12 @@
 
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-09 Tue 21:18]
+#+CAPTION: Clock summary at [2021-03-10 Wed 21:29]
 | Tags    | Headline                             | Time    |       |      |      |
 |---------+--------------------------------------+---------+-------+------+------|
-|         | *Total time*                         | *12:08* |       |      |      |
+|         | *Total time*                         | *15:22* |       |      |      |
 |---------+--------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                           |         | 12:08 |      |      |
+|         | \_  Week 4                           |         | 15:22 |      |      |
 |         | \_    <2021-03-08 Mon>               |         |       | 9:03 |      |
 | study   | \_      Order materials for painting |         |       |      | 2:51 |
 | drawing | \_      Warmup                       |         |       |      | 0:30 |
@@ -561,13 +561,17 @@
 | drawing | \_      Proko Anatomy - Shoulders    |         |       |      | 0:51 |
 | drawing | \_      Proko Anatomy - Upper Back   |         |       |      | 1:12 |
 | drawing | \_      Copy Finch                   |         |       |      | 0:37 |
+|         | \_    <2021-03-10 Wed>               |         |       | 3:14 |      |
+| drawing | \_      Warmup                       |         |       |      | 0:19 |
+| drawing | \_      Proko Anatomy - Lower back   |         |       |      | 1:55 |
+| drawing | \_      Copy Finch                   |         |       |      | 1:00 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *9h 4m*  |
-|---------+------------+----------|
-| study   | *Tag time* | *3h 4m*  |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *12h 18m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *3h 4m*   |
 
 #+END:
  
@@ -611,5 +615,19 @@
 **** DONE Copy Finch                                                :drawing:
      :LOGBOOK:
      CLOCK: [2021-03-09 Tue 20:41]--[2021-03-09 Tue 21:18] =>  0:37
+     :END:
+
+*** <2021-03-10 Wed>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-10 Wed 18:14]--[2021-03-10 Wed 18:33] =>  0:19
+     :END:
+**** DONE Proko Anatomy - Lower back                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-10 Wed 18:33]--[2021-03-10 Wed 20:28] =>  1:55
+     :END:
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-10 Wed 20:28]--[2021-03-10 Wed 21:28] =>  1:00
      :END:
 
