@@ -544,12 +544,12 @@
 
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-13 Sat 20:24]
+#+CAPTION: Clock summary at [2021-03-14 Sun 14:57]
 | Tags    | Headline                             | Time    |       |      |      |
 |---------+--------------------------------------+---------+-------+------+------|
-|         | *Total time*                         | *29:31* |       |      |      |
+|         | *Total time*                         | *33:30* |       |      |      |
 |---------+--------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                           |         | 29:31 |      |      |
+|         | \_  Week 4                           |         | 33:30 |      |      |
 |         | \_    <2021-03-08 Mon>               |         |       | 9:03 |      |
 | study   | \_      Order materials for painting |         |       |      | 2:51 |
 | drawing | \_      Warmup                       |         |       |      | 0:30 |
@@ -578,11 +578,14 @@
 | drawing | \_      Proko Anatomy - Upper back   |         |       |      | 4:24 |
 | drawing | \_      Proko Anatomy - Necks        |         |       |      | 1:07 |
 | drawing | \_      Copy Finch                   |         |       |      | 2:07 |
+|         | \_    <2021-03-14 Sun>               |         |       | 3:59 |      |
+| drawing | \_      Warmup                       |         |       |      | 0:21 |
+| drawing | \_      Proko Anatomy - Necks        |         |       |      | 3:38 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *26h 27m* |
+| drawing | *Tag time* | *30h 26m* |
 |---------+------------+-----------|
 | study   | *Tag time* | *3h 4m*   |
 
@@ -688,4 +691,14 @@
      :LOGBOOK:
      CLOCK: [2021-03-13 Sat 18:16]--[2021-03-13 Sat 19:16] =>  1:00
      CLOCK: [2021-03-13 Sat 15:13]--[2021-03-13 Sat 16:20] =>  1:07
+     :END:
+*** <2021-03-14 Sun>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-14 Sun 09:40]--[2021-03-14 Sun 10:01] =>  0:21
+     :END:
+**** DONE Proko Anatomy - Necks                                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-14 Sun 13:11]--[2021-03-14 Sun 14:57] =>  1:46
+     CLOCK: [2021-03-14 Sun 10:01]--[2021-03-14 Sun 11:53] =>  1:52
      :END:
