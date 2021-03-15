@@ -180,6 +180,14 @@
     - Robertson book
     - Draw objects from life
     - Draw from Osprey books
+*** Week 3
+    - Drawabox wheels (2)
+    - Drawabox vehicles (1)
+    - Drawing from a perspective photo
+    - NMA Linear perspective
+    - Learn, copy, invent
+*** Week 4
+    - Drawabox wheels (2)
 ** DONE Figure Drawing II
 *** Video
 **** DONE Watts Figure Drawing Phase I
@@ -213,9 +221,9 @@
     - Watts Figure Drawing Phase I 2-3 lessons
     - Apply Watts concepts to copying comic art
     - Master study on the weekends
-** TODO Anatomy I - Torso
+** DONE Anatomy I - Torso
 *** Video
-**** TODO Proko Human Anatomy for Artists - Torso
+**** DONE Proko Human Anatomy for Artists - Torso
 *** Book
 **** TODO Watts on Bridgman
 **** TODO Bridgman's Complete Guide to Drawing from Life

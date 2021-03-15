@@ -302,7 +302,7 @@
 ** Proko
 *** Portrait Drawing
 *** TODO Anatomy
-**** TODO Torso and Back
+**** DONE Torso and Back
 **** TODO Arms
 **** TODO Legs
 *** DONE Figure Drawing

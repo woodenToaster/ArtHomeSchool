@@ -40,13 +40,6 @@
     - Observed :: Observe and gather reference
     - Remembered :: Ingrain the shapes into your visual library by drawing collected material
     - Applied :: Use remembered details in your own invented designs
-* Moderndayjames Perspective
-** DONE 1
-** DONE 2
-** DONE 3
-** DONE 4
-** DONE 5
-** DONE 6
 * Log
 ** Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
@@ -377,5 +370,5 @@
      :LOGBOOK:
      CLOCK: [2021-01-17 Sun 18:49]--[2021-01-17 Sun 19:43] =>  0:54
      :END:
-
-
+** Week 3
+** Week 4
