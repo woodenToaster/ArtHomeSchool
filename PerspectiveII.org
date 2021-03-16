@@ -371,4 +371,60 @@
      CLOCK: [2021-01-17 Sun 18:49]--[2021-01-17 Sun 19:43] =>  0:54
      :END:
 ** Week 3
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
+#+CAPTION: Clock summary at [2021-03-15 Mon 21:29]
+| Tags    | Headline                         | Time   |      |      |      |
+|---------+----------------------------------+--------+------+------+------|
+|         | *Total time*                     | *9:17* |      |      |      |
+|---------+----------------------------------+--------+------+------+------|
+|         | \_  Week 3                       |        | 9:17 |      |      |
+|         | \_    <2021-03-15 Mon>           |        |      | 9:17 |      |
+| prep    | \_      Build easel              |        |      |      | 2:48 |
+| prep    | \_      Stain canvas and palette |        |      |      | 1:06 |
+| study   | \_      Drawabox - Wheels        |        |      |      | 0:51 |
+| drawing | \_      Drawabox - Wheels        |        |      |      | 1:57 |
+| study   | \_      NMA Linear Perspective   |        |      |      | 1:28 |
+| drawing | \_      Rotate boxes             |        |      |      | 1:07 |
+#+END:
+
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *3h 4m*  |
+|---------+------------+----------|
+| study   | *Tag time* | *2h 19m* |
+|---------+------------+----------|
+| prep    | *Tag time* | *3h 54m* |
+
+#+END:
+*** <2021-03-15 Mon>
+**** DONE Build easel                                                  :prep:
+     :LOGBOOK:
+     CLOCK: [2021-03-15 Mon 13:39]--[2021-03-15 Mon 14:49] =>  1:10
+     CLOCK: [2021-03-15 Mon 09:45]--[2021-03-15 Mon 11:23] =>  1:38
+     :END:
+**** DONE Stain canvas and palette                                     :prep:
+     :LOGBOOK:
+     CLOCK: [2021-03-15 Mon 08:38]--[2021-03-15 Mon 09:44] =>  1:06
+     :END:
+**** DONE Drawabox - Wheels                                           :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-15 Mon 12:48]--[2021-03-15 Mon 13:39] =>  0:51
+     :END:
+**** DONE Drawabox - Wheels                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-15 Mon 18:24]--[2021-03-15 Mon 18:42] =>  0:18
+     CLOCK: [2021-03-15 Mon 18:00]--[2021-03-15 Mon 18:05] =>  0:05
+     CLOCK: [2021-03-15 Mon 14:50]--[2021-03-15 Mon 16:24] =>  1:34
+     :END:
+**** DONE NMA Linear Perspective                                      :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-15 Mon 21:01]--[2021-03-15 Mon 21:29] =>  0:28
+     CLOCK: [2021-03-15 Mon 18:53]--[2021-03-15 Mon 19:53] =>  1:00
+     :END:
+**** DONE Rotate boxes                                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-15 Mon 19:53]--[2021-03-15 Mon 21:00] =>  1:07
+     :END:
+
 ** Week 4

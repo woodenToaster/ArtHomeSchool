@@ -78,6 +78,8 @@
     - x2 2' 2x4
     - Roof is 48" x 48". Try cardboard
 *** TODO 20 watt 5000K compact fluorescent bulb for shadow box
+*** TODO Galvanized airtight trash can
+*** TODO Lint free T-shirt rags
 * Art Books
 ** General
 *** Drawing Lessons from the Great Masters - Robert Hale
