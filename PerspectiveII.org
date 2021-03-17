@@ -372,25 +372,29 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-15 Mon 21:29]
-| Tags    | Headline                         | Time   |      |      |      |
-|---------+----------------------------------+--------+------+------+------|
-|         | *Total time*                     | *9:17* |      |      |      |
-|---------+----------------------------------+--------+------+------+------|
-|         | \_  Week 3                       |        | 9:17 |      |      |
-|         | \_    <2021-03-15 Mon>           |        |      | 9:17 |      |
-| prep    | \_      Build easel              |        |      |      | 2:48 |
-| prep    | \_      Stain canvas and palette |        |      |      | 1:06 |
-| study   | \_      Drawabox - Wheels        |        |      |      | 0:51 |
-| drawing | \_      Drawabox - Wheels        |        |      |      | 1:57 |
-| study   | \_      NMA Linear Perspective   |        |      |      | 1:28 |
-| drawing | \_      Rotate boxes             |        |      |      | 1:07 |
+#+CAPTION: Clock summary at [2021-03-16 Tue 20:59]
+| Tags    | Headline                                         | Time    |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | *Total time*                                     | *12:39* |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | \_  Week 3                                       |         | 12:39 |      |      |
+|         | \_    <2021-03-15 Mon>                           |         |       | 9:17 |      |
+| prep    | \_      Build easel                              |         |       |      | 2:48 |
+| prep    | \_      Stain canvas and palette                 |         |       |      | 1:06 |
+| study   | \_      Drawabox - Wheels                        |         |       |      | 0:51 |
+| drawing | \_      Drawabox - Wheels                        |         |       |      | 1:57 |
+| study   | \_      NMA Linear Perspective                   |         |       |      | 1:28 |
+| drawing | \_      Rotate boxes                             |         |       |      | 1:07 |
+|         | \_    <2021-03-16 Tue>                           |         |       | 3:22 |      |
+| drawing | \_      Drawabox - Wheels                        |         |       |      | 0:28 |
+| drawing | \_      NMA Linear Perspective - Introduction... |         |       |      | 1:08 |
+| drawing | \_      Finch perspective                        |         |       |      | 1:46 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *3h 4m*  |
+| drawing | *Tag time* | *6h 26m* |
 |---------+------------+----------|
 | study   | *Tag time* | *2h 19m* |
 |---------+------------+----------|
@@ -425,6 +429,19 @@
 **** DONE Rotate boxes                                              :drawing:
      :LOGBOOK:
      CLOCK: [2021-03-15 Mon 19:53]--[2021-03-15 Mon 21:00] =>  1:07
+     :END:
+*** <2021-03-16 Tue>
+**** DONE Drawabox - Wheels                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-16 Tue 17:32]--[2021-03-16 Tue 18:00] =>  0:28
+     :END:
+**** DONE NMA Linear Perspective - Introduction 07-09               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-16 Tue 18:00]--[2021-03-16 Tue 19:08] =>  1:08
+     :END:
+**** DONE Finch perspective                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-16 Tue 19:12]--[2021-03-16 Tue 20:58] =>  1:46
      :END:
 
 ** Week 4

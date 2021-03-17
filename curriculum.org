@@ -185,6 +185,7 @@
     - Drawabox vehicles (1)
     - Drawing from a perspective photo
     - NMA Linear perspective
+    - Finch cars
     - Learn, copy, invent
 *** Week 4
     - Drawabox wheels (2)
