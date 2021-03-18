@@ -372,12 +372,12 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-16 Tue 20:59]
+#+CAPTION: Clock summary at [2021-03-17 Wed 21:32]
 | Tags    | Headline                                         | Time    |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                     | *12:39* |       |      |      |
+|         | *Total time*                                     | *17:09* |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 3                                       |         | 12:39 |      |      |
+|         | \_  Week 3                                       |         | 17:09 |      |      |
 |         | \_    <2021-03-15 Mon>                           |         |       | 9:17 |      |
 | prep    | \_      Build easel                              |         |       |      | 2:48 |
 | prep    | \_      Stain canvas and palette                 |         |       |      | 1:06 |
@@ -385,18 +385,24 @@
 | drawing | \_      Drawabox - Wheels                        |         |       |      | 1:57 |
 | study   | \_      NMA Linear Perspective                   |         |       |      | 1:28 |
 | drawing | \_      Rotate boxes                             |         |       |      | 1:07 |
-|         | \_    <2021-03-16 Tue>                           |         |       | 3:22 |      |
+|         | \_    <2021-03-16 Tue>                           |         |       | 3:52 |      |
 | drawing | \_      Drawabox - Wheels                        |         |       |      | 0:28 |
 | drawing | \_      NMA Linear Perspective - Introduction... |         |       |      | 1:08 |
+| study   | \_      NMA Linar Perspective - Introduction...  |         |       |      | 0:30 |
 | drawing | \_      Finch perspective                        |         |       |      | 1:46 |
+|         | \_    <2021-03-17 Wed>                           |         |       | 4:00 |      |
+| drawing | \_      Drawabox - Wheels                        |         |       |      | 0:35 |
+| drawing | \_      NMA Linear Perspective                   |         |       |      | 1:32 |
+| study   | \_      NMA Linear Perspective                   |         |       |      | 0:30 |
+| drawing | \_      Finch perspective                        |         |       |      | 1:23 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *6h 26m* |
+| drawing | *Tag time* | *9h 56m* |
 |---------+------------+----------|
-| study   | *Tag time* | *2h 19m* |
+| study   | *Tag time* | *3h 19m* |
 |---------+------------+----------|
 | prep    | *Tag time* | *3h 54m* |
 
@@ -439,9 +445,30 @@
      :LOGBOOK:
      CLOCK: [2021-03-16 Tue 18:00]--[2021-03-16 Tue 19:08] =>  1:08
      :END:
+**** DONE NMA Linar Perspective - Introduction 10-11                  :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-16 Tue 22:00]--[2021-03-16 Tue 22:30] =>  0:30
+     :END:
 **** DONE Finch perspective                                         :drawing:
      :LOGBOOK:
      CLOCK: [2021-03-16 Tue 19:12]--[2021-03-16 Tue 20:58] =>  1:46
+     :END:
+*** <2021-03-17 Wed>
+**** DONE Drawabox - Wheels                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-17 Wed 18:01]--[2021-03-17 Wed 18:36] =>  0:35
+     :END:
+**** DONE NMA Linear Perspective                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-17 Wed 18:36]--[2021-03-17 Wed 20:08] =>  1:32
+     :END:
+**** DONE NMA Linear Perspective                                      :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-17 Wed 22:00]--[2021-03-17 Wed 22:30] =>  0:30
+     :END:
+**** DONE Finch perspective                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-17 Wed 20:08]--[2021-03-17 Wed 21:31] =>  1:23
      :END:
 
 ** Week 4
