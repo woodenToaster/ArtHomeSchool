@@ -372,12 +372,12 @@
      :END:
 ** Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-17 Wed 21:32]
+#+CAPTION: Clock summary at [2021-03-18 Thu 21:22]
 | Tags    | Headline                                         | Time    |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                     | *17:09* |       |      |      |
+|         | *Total time*                                     | *21:00* |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 3                                       |         | 17:09 |      |      |
+|         | \_  Week 3                                       |         | 21:00 |      |      |
 |         | \_    <2021-03-15 Mon>                           |         |       | 9:17 |      |
 | prep    | \_      Build easel                              |         |       |      | 2:48 |
 | prep    | \_      Stain canvas and palette                 |         |       |      | 1:06 |
@@ -395,16 +395,21 @@
 | drawing | \_      NMA Linear Perspective                   |         |       |      | 1:32 |
 | study   | \_      NMA Linear Perspective                   |         |       |      | 0:30 |
 | drawing | \_      Finch perspective                        |         |       |      | 1:23 |
+|         | \_    <2021-03-18 Thu>                           |         |       | 3:51 |      |
+| drawing | \_      Drawabox - Wheels                        |         |       |      | 0:30 |
+| drawing | \_      NMA Linear Perspective - Introduction... |         |       |      | 1:28 |
+| study   | \_      NMA Linear Perspective - Introduction 17 |         |       |      | 0:30 |
+| drawing | \_      Finch perspective                        |         |       |      | 1:23 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *9h 56m* |
-|---------+------------+----------|
-| study   | *Tag time* | *3h 19m* |
-|---------+------------+----------|
-| prep    | *Tag time* | *3h 54m* |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *13h 17m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *3h 49m*  |
+|---------+------------+-----------|
+| prep    | *Tag time* | *3h 54m*  |
 
 #+END:
 *** <2021-03-15 Mon>
@@ -469,6 +474,23 @@
 **** DONE Finch perspective                                         :drawing:
      :LOGBOOK:
      CLOCK: [2021-03-17 Wed 20:08]--[2021-03-17 Wed 21:31] =>  1:23
+     :END:
+*** <2021-03-18 Thu>
+**** DONE Drawabox - Wheels                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-18 Thu 18:00]--[2021-03-18 Thu 18:30] =>  0:30
+     :END:
+**** DONE NMA Linear Perspective - Introduction 15-16               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-18 Thu 18:31]--[2021-03-18 Thu 19:59] =>  1:28
+     :END:
+**** DONE NMA Linear Perspective - Introduction 17                    :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-18 Thu 22:00]--[2021-03-18 Thu 22:30] =>  0:30
+     :END:
+**** DONE Finch perspective                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-18 Thu 19:59]--[2021-03-18 Thu 21:22] =>  1:23
      :END:
 
 ** Week 4
