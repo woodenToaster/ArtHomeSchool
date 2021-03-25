@@ -296,10 +296,14 @@
 *** Dragon Design
 *** Illustration – Painted Comic Cover
 ** David Finch
+*** TODO Skillshare
+**** DONE Superhero Heads
+**** TODO Facial Expressions
 *** Gnomon workshop
 **** DONE The Body
 **** Hands
 **** Faces
+**** TODO Perspective
 ** Alphonso Dunn - Great Ink Videos
 ** Proko
 *** Portrait Drawing
@@ -318,6 +322,16 @@
 ** drawmixpaint.com
 ** New Master's Academy
 *** Linear Perspective (121 hours)
+**** TODO Part I
+***** DONE Section 1
+***** DONE Section 2
+***** DONE Section 3
+***** TODO Section 4
+***** TODO Section 5
+***** TODO Section 6
+***** TODO Section 7
+**** TODO Part II
+**** TODO Part III
 *** Color Theory
 *** Reilly Drawing Method
 *** Russian Academic Drawing

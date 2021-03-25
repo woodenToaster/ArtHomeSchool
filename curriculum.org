@@ -189,6 +189,8 @@
     - Learn, copy, invent
 *** Week 4
     - Drawabox wheels (2)
+    - NMA Linear perspective
+    - Finch perspective
 ** DONE Figure Drawing II
 *** Video
 **** DONE Watts Figure Drawing Phase I

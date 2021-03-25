@@ -558,29 +558,40 @@
      CLOCK: [2021-03-21 Sun 19:29]--[2021-03-21 Sun 20:25] =>  0:56
      :END:
 ** Week 4
-#+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-#+CAPTION: Clock summary at [2021-03-22 Mon 21:19]
-| Tags    | Headline                                         | Time   |      |      |      |
-|---------+--------------------------------------------------+--------+------+------+------|
-|         | *Total time*                                     | *7:52* |      |      |      |
-|---------+--------------------------------------------------+--------+------+------+------|
-|         | \_  Week 4                                       |        | 7:52 |      |      |
-|         | \_    <2021-03-22 Mon>                           |        |      | 7:52 |      |
-| prep    | \_      Build and paint palette table            |        |      |      | 3:20 |
-| prep    | \_      Measurements for proportional divider... |        |      |      | 0:26 |
-| drawing | \_      Drawabox wheels                          |        |      |      | 0:24 |
-| drawing | \_      Drawabox vehicles                        |        |      |      | 0:41 |
-| drawing | \_      NMA Linear Perspective                   |        |      |      | 2:31 |
-| study   | \_      NMA Linear Perspective                   |        |      |      | 0:30 |
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t :block thisweek
+#+CAPTION: Clock summary at [2021-03-24 Wed 21:30], for week 2021-W12.
+| Tags    | Headline                                         | Time    |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | *Total time*                                     | *15:03* |       |      |      |
+|---------+--------------------------------------------------+---------+-------+------+------|
+|         | \_  Week 4                                       |         | 15:03 |      |      |
+|         | \_    <2021-03-22 Mon>                           |         |       | 7:52 |      |
+| prep    | \_      Build and paint palette table            |         |       |      | 3:20 |
+| prep    | \_      Measurements for proportional divider... |         |       |      | 0:26 |
+| drawing | \_      Drawabox wheels                          |         |       |      | 0:24 |
+| drawing | \_      Drawabox vehicles                        |         |       |      | 0:41 |
+| drawing | \_      NMA Linear Perspective 4 - 1-5           |         |       |      | 2:31 |
+| study   | \_      NMA Linear Perspective 3 - 18            |         |       |      | 0:30 |
+|         | \_    <2021-03-23 Tue>                           |         |       | 3:26 |      |
+| drawing | \_      Drawabox wheels                          |         |       |      | 0:19 |
+| drawing | \_      Drawabox vehicles                        |         |       |      | 0:39 |
+| drawing | \_      NMA Linear Perspective 4 -               |         |       |      | 1:43 |
+| study   | \_      NMA Linear Perspective 4 -               |         |       |      | 0:15 |
+| prep    | \_      Making proportional divider and color... |         |       |      | 0:30 |
+|         | \_    <2021-03-24 Wed>                           |         |       | 3:45 |      |
+| drawing | \_      Drawabox wheels                          |         |       |      | 0:16 |
+| drawing | \_      Drawabox vehicles                        |         |       |      | 0:40 |
+| drawing | \_      NMA Linear Perspective 4 -               |         |       |      | 2:19 |
+| study   | \_      NMA Linear Perspective 4 -               |         |       |      | 0:30 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *3h 36m* |
+| drawing | *Tag time* | *9h 32m* |
 |---------+------------+----------|
-| study   | *Tag time* | *0h 30m* |
+| study   | *Tag time* | *1h 15m* |
 |---------+------------+----------|
-| prep    | *Tag time* | *3h 46m* |
+| prep    | *Tag time* | *4h 16m* |
 
 #+END:
 *** <2021-03-22 Mon>
@@ -609,6 +620,41 @@
      CLOCK: [2021-03-22 Mon 22:00]--[2021-03-22 Mon 22:30] =>  0:30
      :END:
 *** <2021-03-23 Tue>
-**** TODO Drawabox wheels :drawing:
-**** TODO Drawabox vehicles                                         :drawing:
-**** TODO NMA Linear Perspective 4 -                             :drawing:
+**** DONE Drawabox wheels                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-23 Tue 18:17]--[2021-03-23 Tue 18:36] =>  0:19
+     :END:
+**** DONE Drawabox vehicles                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-23 Tue 18:38]--[2021-03-23 Tue 19:17] =>  0:39
+     :END:
+**** DONE NMA Linear Perspective 4 -                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-23 Tue 19:17]--[2021-03-23 Tue 21:00] =>  1:43
+     :END:
+**** DONE NMA Linear Perspective 4 -                                :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-23 Tue 22:00]--[2021-03-23 Tue 22:15] =>  0:15
+     :END:
+**** DONE Making proportional divider and color checker laser files    :prep:
+     :LOGBOOK:
+     CLOCK: [2021-03-23 Tue 21:01]--[2021-03-23 Tue 21:31] =>  0:30
+     :END:
+*** <2021-03-24 Wed>
+**** DONE Drawabox wheels                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-24 Wed 18:14]--[2021-03-24 Wed 18:30] =>  0:16
+     :END:
+**** DONE Drawabox vehicles                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-24 Wed 18:30]--[2021-03-24 Wed 19:10] =>  0:40
+     :END:
+**** DONE NMA Linear Perspective 4 -                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-24 Wed 19:10]--[2021-03-24 Wed 21:29] =>  2:19
+     :END:
+
+**** DONE NMA Linear Perspective 4 -                                  :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-24 Wed 22:00]--[2021-03-24 Wed 22:30] =>  0:30
+     :END:
