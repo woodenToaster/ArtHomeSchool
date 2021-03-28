@@ -229,6 +229,7 @@
 ** Pillars of the Earth - Ken Follett
    - Traces the entire lives of people in the 12th century building a cathedral
 * Videos
+** Sean Gordon Murphy demos (youtube)
 ** Trent Kaniuaga youtube (FZD student?)
 ** Charles Lin tutorials (FZD student)
 ** TODO drawabox
@@ -241,7 +242,7 @@
 *** TODO Lesson 7
 *** DONE 250 boxes
 *** DONE 250 cylinders
-*** TODO 25 wheels
+*** DONE 25 wheels
 *** TODO 100 treasure chests
 ** Ctrl+paint
 ** Moderndayjames
@@ -258,52 +259,52 @@
 *** DONE Head Drawing Phase 1
 *** DONE Figure Drawing Phase 1
 *** TODO Head Drawing Phase 2
-*** Figure Drawing Phase 2
-*** Head Drawing Phase 3
-*** Quicksketch Fundamentals
-*** Figure Drawing Phase 3
-*** Gouache Phase 1
-*** Gouache Phase 2
-*** Head Drawing Phase 4
-*** Figure Drawing Phase 4
-*** Anatomy Intensives: Arms & Legs
-*** Anatomy Intensives: Torso
-*** Bridgman Anatomy
-*** Inking Phase 1
-*** Head Drawing Phase 5
-*** Inking Phase 2
-*** Figure Drawing Phase 5
-*** Gouache Phase 3
-*** Inking Phase 3
-*** Portrait Painting Phase 1
-*** Figure Painting Phase 1
-*** Portrait Painting Phase 2
-*** Figure Painting Phase 2
-*** Portrait Painting Phase 3
-*** Figure Painting Phase 3
+*** TODO Figure Drawing Phase 2
+*** TODO Head Drawing Phase 3
+*** TODO Quicksketch Fundamentals
+*** TODO Figure Drawing Phase 3
+*** TODO Gouache Phase 1
+*** TODO Gouache Phase 2
+*** TODO Head Drawing Phase 4
+*** TODO Figure Drawing Phase 4
+*** TODO Anatomy Intensives: Arms & Legs
+*** TODO Anatomy Intensives: Torso
+*** TODO Bridgman Anatomy
+*** TODO Inking Phase 1
+*** TODO Head Drawing Phase 5
+*** TODO Inking Phase 2
+*** TODO Figure Drawing Phase 5
+*** TODO Gouache Phase 3
+*** TODO Inking Phase 3
+*** TODO Portrait Painting Phase 1
+*** TODO Figure Painting Phase 1
+*** TODO Portrait Painting Phase 2
+*** TODO Figure Painting Phase 2
+*** TODO Portrait Painting Phase 3
+*** TODO Figure Painting Phase 3
 *** DONE Perspective Essentials
-*** Still Life Phase 1
-*** Landscape Phase 1
-*** Still Life Phase 2
-*** Landscape Phase 2
-*** Essentials of Tech
-*** Composition and Staging 
-*** Drapery
-*** Fundamentals of Character Design
-*** Still Life Phase 3
-*** Landscape Phase 3
-*** Painting Mood and Atmosphere in Gouache
-*** Dragon Design
-*** Illustration – Painted Comic Cover
+*** TODO Still Life Phase 1
+*** TODO Landscape Phase 1
+*** TODO Still Life Phase 2
+*** TODO Landscape Phase 2
+*** TODO Essentials of Tech
+*** TODO Composition and Staging 
+*** TODO Drapery
+*** TODO Fundamentals of Character Design
+*** TODO Still Life Phase 3
+*** TODO Landscape Phase 3
+*** TODO Painting Mood and Atmosphere in Gouache
+*** TODO Dragon Design
+*** TODO Illustration – Painted Comic Cover
 ** David Finch
 *** TODO Skillshare
 **** DONE Superhero Heads
 **** TODO Facial Expressions
 *** Gnomon workshop
 **** DONE The Body
+**** DONE Perspective
 **** Hands
-**** Faces
-**** TODO Perspective
+**** TODO Faces
 ** Alphonso Dunn - Great Ink Videos
 ** Proko
 *** Portrait Drawing
@@ -326,7 +327,7 @@
 ***** DONE Section 1
 ***** DONE Section 2
 ***** DONE Section 3
-***** TODO Section 4
+***** DONE Section 4
 ***** TODO Section 5
 ***** TODO Section 6
 ***** TODO Section 7

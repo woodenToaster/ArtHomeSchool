@@ -559,12 +559,12 @@
      :END:
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t :block thisweek
-#+CAPTION: Clock summary at [2021-03-26 Fri 20:36], for week 2021-W12.
+#+CAPTION: Clock summary at [2021-03-27 Sat 21:27], for week 2021-W12.
 | Tags    | Headline                                         | Time    |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                     | *21:27* |       |      |      |
+|         | *Total time*                                     | *26:19* |       |      |      |
 |---------+--------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                                       |         | 21:27 |      |      |
+|         | \_  Week 4                                       |         | 26:19 |      |      |
 |         | \_    <2021-03-22 Mon>                           |         |       | 7:52 |      |
 | prep    | \_      Build and paint palette table            |         |       |      | 3:20 |
 | prep    | \_      Measurements for proportional divider... |         |       |      | 0:26 |
@@ -592,13 +592,18 @@
 | drawing | \_      Drawabox wheels                          |         |       |      | 0:21 |
 | drawing | \_      NMA Linear Perspective 5 - 5-8           |         |       |      | 2:09 |
 | study   | \_      NMA Linear Perspective 4 - 22-23         |         |       |      | 0:30 |
+|         | \_    <2021-03-27 Sat>                           |         |       | 4:52 |      |
+| drawing | \_      David Finch Cars                         |         |       |      | 1:32 |
+| drawing | \_      NMA Linear Perspective 5 - 9, 6 - 1-5    |         |       |      | 2:15 |
+| study   | \_      NMA Linear Perspective 5 - 10-11         |         |       |      | 0:30 |
+| study   | \_      Plan next unit                           |         |       |      | 0:35 |
 #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *14h 56m* |
+| drawing | *Tag time* | *18h 43m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *2h 15m*  |
+| study   | *Tag time* | *3h 20m*  |
 |---------+------------+-----------|
 | prep    | *Tag time* | *4h 16m*  |
 
@@ -697,3 +702,26 @@
      :LOGBOOK:
      CLOCK: [2021-03-26 Fri 22:00]--[2021-03-26 Fri 22:30] =>  0:30
      :END:
+*** <2021-03-27 Sat>
+**** DONE David Finch Cars                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-27 Sat 15:06]--[2021-03-27 Sat 15:25] =>  0:19
+     CLOCK: [2021-03-27 Sat 11:19]--[2021-03-27 Sat 12:32] =>  1:13
+     :END:
+**** DONE NMA Linear Perspective 5 - 9, 6 - 1-5                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-27 Sat 18:36]--[2021-03-27 Sat 20:51] =>  2:15
+     :END:
+**** DONE NMA Linear Perspective 5 - 10-11                            :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-27 Sat 22:00]--[2021-03-27 Sat 22:30] =>  0:30
+     :END:
+**** DONE Plan next unit                                              :study:
+     :LOGBOOK: 
+     CLOCK: [2021-03-27 Sat 20:51]--[2021-03-27 Sat 21:26] =>  0:35
+     :END:
+*** <2021-03-28 Sun>
+**** TODO David Finch Cars :drawing:
+**** TODO NMA Linear Perspective - :drawing:
+**** TODO NMA Linear Perspective - :study:
+**** TODO Blog :study:
