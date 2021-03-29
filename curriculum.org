@@ -165,7 +165,7 @@
 **** DONE How to Draw - Scott Robertson
 *** Backup
 **** TODO New Master's Academy - Linear Perspective
-     - Finished up to 6.5
+     - Finished up to 6.7
 *** Art Parent -
 *** Challenge -
 *** Inspiration - Osprey Books
@@ -254,8 +254,9 @@
 **** Loomis - Drawing the Head and Hands
 *** Backup
 **** David Finch Skillshare - Caricature and Expressions
+**** Finch Faces - Gnomon
 *** Art Parent - David Finch
-*** Challenge -
+*** Challenge - 100 head layins
 *** Inspiration -
 *** Week 1
 *** Week 2
