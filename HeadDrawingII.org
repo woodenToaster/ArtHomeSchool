@@ -5,13 +5,13 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-03-29 Mon 21:24], for week 2021-W13.
+  #+CAPTION: Clock summary at [2021-03-29 Mon 21:27], for week 2021-W13.
   | Tags    | Headline                                     | Time   |      |      |      |
   |---------+----------------------------------------------+--------+------+------+------|
-  |         | *Total time*                                 | *7:14* |      |      |      |
+  |         | *Total time*                                 | *7:39* |      |      |      |
   |---------+----------------------------------------------+--------+------+------+------|
-  |         | \_  Week 1                                   |        | 7:14 |      |      |
-  |         | \_    <2021-03-29 Mon>                       |        |      | 7:14 |      |
+  |         | \_  Week 1                                   |        | 7:39 |      |      |
+  |         | \_    <2021-03-29 Mon>                       |        |      | 7:39 |      |
   | prep    | \_      Build brush holder                   |        |      |      | 1:28 |
   | prep    | \_      Build color checker                  |        |      |      | 1:19 |
   | prep    | \_      Paint brush holder and color checker |        |      |      | 0:27 |
@@ -19,13 +19,14 @@
   | drawing | \_      Head layins - 20 min.                |        |      |      | 0:40 |
   | drawing | \_      Head Phase II - Female cast          |        |      |      | 1:39 |
   | drawing | \_      Loomis book                          |        |      |      | 1:00 |
+  | study   | \_      Head Phase II - Femal cast           |        |      |      | 0:25 |
   #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
 | drawing | *Tag time* | *3h 19m* |
 |---------+------------+----------|
-| study   | *Tag time* | *0h 41m* |
+| study   | *Tag time* | *1h 6m*  |
 |---------+------------+----------|
 | prep    | *Tag time* | *3h 14m* |
 
@@ -59,4 +60,7 @@
      :LOGBOOK:
      CLOCK: [2021-03-29 Mon 20:24]--[2021-03-29 Mon 21:24] =>  1:00
      :END:
-
+**** DONE Head Phase II - Femal cast                                  :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-29 Mon 22:00]--[2021-03-29 Mon 22:25] =>  0:25
+     :END:
