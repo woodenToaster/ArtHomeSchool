@@ -91,3 +91,9 @@
 **** TODO Head Phase II - Photo Drawing                             :drawing:
 **** TODO Loomis book                                               :drawing:
 
+=======
+**** DONE Head Phase II - Femal cast                                  :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-29 Mon 22:00]--[2021-03-29 Mon 22:25] =>  0:25
+     :END:
+>>>>>>> 20d521cb62a0ee6fac0aea472eaacf4c75166152
