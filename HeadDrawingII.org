@@ -5,27 +5,33 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-03-29 Mon 21:24], for week 2021-W13.
-  | Tags    | Headline                                     | Time   |      |      |      |
-  |---------+----------------------------------------------+--------+------+------+------|
-  |         | *Total time*                                 | *7:14* |      |      |      |
-  |---------+----------------------------------------------+--------+------+------+------|
-  |         | \_  Week 1                                   |        | 7:14 |      |      |
-  |         | \_    <2021-03-29 Mon>                       |        |      | 7:14 |      |
-  | prep    | \_      Build brush holder                   |        |      |      | 1:28 |
-  | prep    | \_      Build color checker                  |        |      |      | 1:19 |
-  | prep    | \_      Paint brush holder and color checker |        |      |      | 0:27 |
-  | study   | \_      Head Phase III - Intro               |        |      |      | 0:41 |
-  | drawing | \_      Head layins - 20 min.                |        |      |      | 0:40 |
-  | drawing | \_      Head Phase II - Female cast          |        |      |      | 1:39 |
-  | drawing | \_      Loomis book                          |        |      |      | 1:00 |
+  #+CAPTION: Clock summary at [2021-03-30 Tue 21:23], for week 2021-W13.
+  | Tags    | Headline                                     | Time    |       |      |      |
+  |---------+----------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                                 | *11:36* |       |      |      |
+  |---------+----------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 1                                   |         | 11:36 |      |      |
+  |         | \_    <2021-03-29 Mon>                       |         |       | 7:44 |      |
+  | prep    | \_      Build brush holder                   |         |       |      | 1:28 |
+  | prep    | \_      Build color checker                  |         |       |      | 1:19 |
+  | prep    | \_      Paint brush holder and color checker |         |       |      | 0:27 |
+  | study   | \_      Head Phase III - Intro               |         |       |      | 0:41 |
+  | drawing | \_      Head layins - 20 min.                |         |       |      | 0:40 |
+  | drawing | \_      Head Phase II - Female cast          |         |       |      | 1:39 |
+  | study   | \_      Head Phase II - Female Cast          |         |       |      | 0:30 |
+  | drawing | \_      Loomis book                          |         |       |      | 1:00 |
+  |         | \_    <2021-03-30 Tue>                       |         |       | 3:52 |      |
+  | drawing | \_      Head layins                          |         |       |      | 0:34 |
+  | drawing | \_      Head Phase II - Female cast          |         |       |      | 2:05 |
+  | study   | \_      Head Phase II - Photo Drawing        |         |       |      | 0:30 |
+  | drawing | \_      Loomis book                          |         |       |      | 0:43 |
   #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *3h 19m* |
+| drawing | *Tag time* | *6h 41m* |
 |---------+------------+----------|
-| study   | *Tag time* | *0h 41m* |
+| study   | *Tag time* | *1h 41m* |
 |---------+------------+----------|
 | prep    | *Tag time* | *3h 14m* |
 
@@ -55,8 +61,33 @@
      :LOGBOOK:
      CLOCK: [2021-03-29 Mon 18:45]--[2021-03-29 Mon 20:24] =>  1:39
      :END:
+**** DONE Head Phase II - Female Cast :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-29 Mon 22:00]--[2021-03-29 Mon 22:30] =>  0:30
+     :END:
 **** DONE Loomis book                                               :drawing:
      :LOGBOOK:
      CLOCK: [2021-03-29 Mon 20:24]--[2021-03-29 Mon 21:24] =>  1:00
      :END:
+*** <2021-03-30 Tue>
+**** DONE Head layins                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-30 Tue 18:01]--[2021-03-30 Tue 18:35] =>  0:34
+     :END:
+**** DONE Head Phase II - Female cast                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-30 Tue 18:35]--[2021-03-30 Tue 20:40] =>  2:05
+     :END:
+**** DONE Head Phase II - Photo Drawing                               :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-30 Tue 22:00]--[2021-03-30 Tue 22:30] =>  0:30
+     :END:
+**** DONE Loomis book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-30 Tue 20:40]--[2021-03-30 Tue 21:23] =>  0:43
+     :END:
+*** <2021-03-31 Wed>
+**** TODO Head layins                                               :drawing:
+**** TODO Head Phase II - Photo Drawing                             :drawing:
+**** TODO Loomis book                                               :drawing:
 
