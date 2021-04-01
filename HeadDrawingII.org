@@ -5,33 +5,39 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-03-30 Tue 21:23], for week 2021-W13.
-  | Tags    | Headline                                     | Time    |       |      |      |
-  |---------+----------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                 | *11:36* |       |      |      |
-  |---------+----------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                                   |         | 11:36 |      |      |
-  |         | \_    <2021-03-29 Mon>                       |         |       | 7:44 |      |
-  | prep    | \_      Build brush holder                   |         |       |      | 1:28 |
-  | prep    | \_      Build color checker                  |         |       |      | 1:19 |
-  | prep    | \_      Paint brush holder and color checker |         |       |      | 0:27 |
-  | study   | \_      Head Phase III - Intro               |         |       |      | 0:41 |
-  | drawing | \_      Head layins - 20 min.                |         |       |      | 0:40 |
-  | drawing | \_      Head Phase II - Female cast          |         |       |      | 1:39 |
-  | study   | \_      Head Phase II - Female Cast          |         |       |      | 0:30 |
-  | drawing | \_      Loomis book                          |         |       |      | 1:00 |
-  |         | \_    <2021-03-30 Tue>                       |         |       | 3:52 |      |
-  | drawing | \_      Head layins                          |         |       |      | 0:34 |
-  | drawing | \_      Head Phase II - Female cast          |         |       |      | 2:05 |
-  | study   | \_      Head Phase II - Photo Drawing        |         |       |      | 0:30 |
-  | drawing | \_      Loomis book                          |         |       |      | 0:43 |
+  #+CAPTION: Clock summary at [2021-03-31 Wed 21:21], for week 2021-W13.
+  | Tags    | Headline                                      | Time    |       |      |      |
+  |---------+-----------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                                  | *15:20* |       |      |      |
+  |---------+-----------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 1                                    |         | 15:20 |      |      |
+  |         | \_    <2021-03-29 Mon>                        |         |       | 7:44 |      |
+  | prep    | \_      Build brush holder                    |         |       |      | 1:28 |
+  | prep    | \_      Build color checker                   |         |       |      | 1:19 |
+  | prep    | \_      Paint brush holder and color checker  |         |       |      | 0:27 |
+  | study   | \_      Head Phase III - Intro                |         |       |      | 0:41 |
+  | drawing | \_      Head layins - 20 min.                 |         |       |      | 0:40 |
+  | drawing | \_      Head Phase II - Female cast           |         |       |      | 1:39 |
+  | study   | \_      Head Phase II - Female Cast           |         |       |      | 0:30 |
+  | drawing | \_      Loomis book                           |         |       |      | 1:00 |
+  |         | \_    <2021-03-30 Tue>                        |         |       | 3:52 |      |
+  | drawing | \_      Head layins                           |         |       |      | 0:34 |
+  | drawing | \_      Head Phase II - Female cast           |         |       |      | 2:05 |
+  | study   | \_      Head Phase II - Photo Drawing         |         |       |      | 0:30 |
+  | drawing | \_      Loomis book                           |         |       |      | 0:43 |
+  |         | \_    <2021-03-31 Wed>                        |         |       | 3:44 |      |
+  | drawing | \_      Head layins                           |         |       |      | 0:52 |
+  | drawing | \_      Head Phase II - Photo Drawing         |         |       |      | 1:29 |
+  | drawing | \_      Loomis book                           |         |       |      | 0:53 |
+  | study   | \_      Head Phase II - Photo Drawing         |         |       |      | 0:15 |
+  | study   | \_      Head Phase III - 15 sec., 30 sec.,... |         |       |      | 0:15 |
   #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *6h 41m* |
+| drawing | *Tag time* | *9h 55m* |
 |---------+------------+----------|
-| study   | *Tag time* | *1h 41m* |
+| study   | *Tag time* | *2h 11m* |
 |---------+------------+----------|
 | prep    | *Tag time* | *3h 14m* |
 
@@ -87,13 +93,23 @@
      CLOCK: [2021-03-30 Tue 20:40]--[2021-03-30 Tue 21:23] =>  0:43
      :END:
 *** <2021-03-31 Wed>
-**** TODO Head layins                                               :drawing:
-**** TODO Head Phase II - Photo Drawing                             :drawing:
-**** TODO Loomis book                                               :drawing:
-
-=======
-**** DONE Head Phase II - Femal cast                                  :study:
+**** DONE Head layins                                               :drawing:
      :LOGBOOK:
-     CLOCK: [2021-03-29 Mon 22:00]--[2021-03-29 Mon 22:25] =>  0:25
+     CLOCK: [2021-03-31 Wed 18:06]--[2021-03-31 Wed 18:58] =>  0:52
      :END:
->>>>>>> 20d521cb62a0ee6fac0aea472eaacf4c75166152
+**** DONE Head Phase II - Photo Drawing                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-31 Wed 18:58]--[2021-03-31 Wed 20:27] =>  1:29
+     :END:
+**** DONE Loomis book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-03-31 Wed 20:27]--[2021-03-31 Wed 21:20] =>  0:53
+     :END:
+**** DONE Head Phase II - Photo Drawing                               :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-31 Wed 22:00]--[2021-03-31 Wed 22:15] =>  0:15
+     :END:
+**** DONE Head Phase III - 15 sec., 30 sec., and 1 minute poses       :study:
+     :LOGBOOK:
+     CLOCK: [2021-03-31 Wed 22:15]--[2021-03-31 Wed 22:30] =>  0:15
+     :END:
