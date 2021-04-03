@@ -5,12 +5,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-01 Thu 21:16], for week 2021-W13.
+  #+CAPTION: Clock summary at [2021-04-02 Fri 20:58], for week 2021-W13.
   | Tags    | Headline                                      | Time    |       |      |      |
   |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                  | *18:41* |       |      |      |
+  |         | *Total time*                                  | *21:43* |       |      |      |
   |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                                    |         | 18:41 |      |      |
+  |         | \_  Week 1                                    |         | 21:43 |      |      |
   |         | \_    <2021-03-29 Mon>                        |         |       | 7:44 |      |
   | prep    | \_      Build brush holder                    |         |       |      | 1:28 |
   | prep    | \_      Build color checker                   |         |       |      | 1:19 |
@@ -36,15 +36,20 @@
   | drawing | \_      Head Phase II - Photo Drawing         |         |       |      | 1:33 |
   | drawing | \_      Loomis book                           |         |       |      | 0:45 |
   | study   | \_      Head Phase III - 15 sec., 30 sec.,... |         |       |      | 0:30 |
+  |         | \_    <2021-04-02 Fri>                        |         |       | 3:02 |      |
+  | drawing | \_      Head layins                           |         |       |      | 0:39 |
+  | drawing | \_      Head Phase III - 15 sec, 30 sec, 1... |         |       |      | 1:05 |
+  | drawing | \_      Loomis book                           |         |       |      | 0:35 |
+  | study   | \_      Head Phase III - 15 sec., 30 sec.,... |         |       |      | 0:43 |
   #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
-| Tag     | Headline   | Time (h)  |
-|---------+------------+-----------|
-| drawing | *Tag time* | *12h 46m* |
-|---------+------------+-----------|
-| study   | *Tag time* | *2h 41m*  |
-|---------+------------+-----------|
-| prep    | *Tag time* | *3h 14m*  |
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *15h 5m* |
+|---------+------------+----------|
+| study   | *Tag time* | *3h 24m* |
+|---------+------------+----------|
+| prep    | *Tag time* | *3h 14m* |
 
 #+END:
 *** <2021-03-29 Mon>
@@ -134,4 +139,22 @@
 **** DONE Head Phase III - 15 sec., 30 sec., and 1 minute poses       :study:
      :LOGBOOK:
      CLOCK: [2021-04-01 Thu 22:00]--[2021-04-01 Thu 22:30] =>  0:30
+     :END:
+*** <2021-04-02 Fri>
+**** DONE Head layins                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-02 Fri 18:11]--[2021-04-02 Fri 18:50] =>  0:39
+     :END:
+**** DONE Head Phase III - 15 sec, 30 sec, 1 min quicksketch        :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-02 Fri 18:50]--[2021-04-02 Fri 19:55] =>  1:05
+     :END:
+**** DONE Loomis book                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-02 Fri 19:56]--[2021-04-02 Fri 20:31] =>  0:35
+     :END:
+**** DONE Head Phase III - 15 sec., 30 sec., and 1 minute poses       :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-02 Fri 22:00]--[2021-04-02 Fri 22:17] =>  0:17
+     CLOCK: [2021-04-02 Fri 20:32]--[2021-04-02 Fri 20:58] =>  0:26
      :END:
