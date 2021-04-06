@@ -40,8 +40,8 @@
 ** Epson WF-7840 - $250 (can't print grayscale without color ink cartridges)
 ** Arches 88 silk screen paper (too expensive)
 ** TODO Drawmixpaint supplies to build
-*** TODO Black sheet
-*** TODO Shadow box (try cardboard first)
+*** DONE Black sheet
+*** DONE Shadow box (try cardboard first)
     - x2 Shelf board 1' wide, 3' long
     - x4 64" 2x4
     - x2 2' 2x4

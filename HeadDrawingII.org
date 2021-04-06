@@ -57,7 +57,7 @@
 |---------+------------+----------|
 | drawing | *Tag time* | *22h 1m* |
 |---------+------------+----------|
-| study   | *Tag time* | *4h 4m*  |
+| study   | *Tag time* | *4h 49m* |
 |---------+------------+----------|
 | prep    | *Tag time* | *3h 14m* |
 
@@ -210,5 +210,60 @@
      CLOCK: [2021-04-04 Sun 19:32]--[2021-04-04 Sun 20:17] =>  0:45
      :END:
 ** Week 2
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2021-04-05 Mon 21:36], for week 2021-W14.
+  | Tags    | Headline                                     | Time   |      |      |      |
+  |---------+----------------------------------------------+--------+------+------+------|
+  |         | *Total time*                                 | *6:37* |      |      |      |
+  |---------+----------------------------------------------+--------+------+------+------|
+  |         | \_  Week 2                                   |        | 6:37 |      |      |
+  |         | \_    <2021-04-05 Mon>                       |        |      | 6:37 |      |
+  | study   | \_      Painting prep                        |        |      |      | 0:55 |
+  | prep    | \_      Build a shadow box                   |        |      |      | 2:26 |
+  | drawing | \_      5 minute head lay-ins                |        |      |      | 0:38 |
+  | drawing | \_      Head Drawing Phase III - 5 minute... |        |      |      | 1:23 |
+  | drawing | \_      Loomis                               |        |      |      | 0:59 |
+  | study   | \_      Head Drawing Phase III - 5 minute... |        |      |      | 0:16 |
+  #+END:
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
+| Tag     | Headline   | Time (h) |
+|---------+------------+----------|
+| drawing | *Tag time* | *3h 0m*  |
+|---------+------------+----------|
+| study   | *Tag time* | *1h 11m* |
+|---------+------------+----------|
+| prep    | *Tag time* | *2h 26m* |
+
+#+END:
+
+*** <2021-04-05 Mon>
+**** DONE Painting prep                                               :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-05 Mon 08:45]--[2021-04-05 Mon 09:07] =>  0:22
+     CLOCK: [2021-04-05 Mon 08:03]--[2021-04-05 Mon 08:23] =>  0:20
+     CLOCK: [2021-04-05 Mon 07:40]--[2021-04-05 Mon 07:53] =>  0:13
+     :END:
+**** DONE Build a shadow box                                           :prep:
+     :LOGBOOK:
+     CLOCK: [2021-04-05 Mon 13:20]--[2021-04-05 Mon 13:55] =>  0:35
+     CLOCK: [2021-04-05 Mon 10:05]--[2021-04-05 Mon 11:35] =>  1:30
+     CLOCK: [2021-04-05 Mon 08:23]--[2021-04-05 Mon 08:44] =>  0:21
+     :END:
+**** DONE 5 minute head lay-ins                                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-05 Mon 18:04]--[2021-04-05 Mon 18:42] =>  0:38
+     :END:
+**** DONE Head Drawing Phase III - 5 minute lay-ins                 :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-05 Mon 18:42]--[2021-04-05 Mon 20:05] =>  1:23
+     :END:
+**** DONE Loomis                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-05 Mon 20:19]--[2021-04-05 Mon 21:18] =>  0:59
+     :END:
+**** DONE Head Drawing Phase III - 5 minute lay-ins                   :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-05 Mon 21:20]--[2021-04-05 Mon 21:36] =>  0:16
+     :END:
 ** Week 3
 ** Week 4
