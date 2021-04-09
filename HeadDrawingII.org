@@ -211,12 +211,12 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-07 Wed 21:44], for week 2021-W14.
+  #+CAPTION: Clock summary at [2021-04-08 Thu 20:54], for week 2021-W14.
   | Tags    | Headline                                      | Time    |       |      |      |
   |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                  | *12:25* |       |      |      |
+  |         | *Total time*                                  | *15:21* |       |      |      |
   |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 2                                    |         | 12:25 |      |      |
+  |         | \_  Week 2                                    |         | 15:21 |      |      |
   |         | \_    <2021-04-05 Mon>                        |         |       | 6:37 |      |
   | study   | \_      Painting prep                         |         |       |      | 0:55 |
   | prep    | \_      Build a shadow box                    |         |       |      | 2:26 |
@@ -234,15 +234,20 @@
   | drawing | \_      Head Drawing Phase III - 10 minute... |         |       |      | 1:17 |
   | drawing | \_      Copy panels                           |         |       |      | 0:41 |
   | study   | \_      Head Drawing Phase III - 10 minute... |         |       |      | 0:14 |
+  |         | \_    <2021-04-08 Thu>                        |         |       | 2:56 |      |
+  | drawing | \_      5 minute head lay-ins                 |         |       |      | 0:32 |
+  | drawing | \_      Head Drawing Phase III - 10 minute... |         |       |      | 1:24 |
+  | study   | \_      Head Drawing Phase III - 20 minute... |         |       |      | 0:20 |
+  | drawing | \_      Copy panels                           |         |       |      | 0:40 |
   #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *8h 22m* |
-|---------+------------+----------|
-| study   | *Tag time* | *1h 37m* |
-|---------+------------+----------|
-| prep    | *Tag time* | *2h 26m* |
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *10h 58m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *1h 57m*  |
+|---------+------------+-----------|
+| prep    | *Tag time* | *2h 26m*  |
 
 #+END:
 
@@ -310,5 +315,24 @@
      :LOGBOOK:
      CLOCK: [2021-04-07 Wed 21:30]--[2021-04-07 Wed 21:44] =>  0:14
      :END:
+*** <2021-04-08 Thu>
+**** DONE 5 minute head lay-ins                                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-08 Thu 18:01]--[2021-04-08 Thu 18:33] =>  0:32
+     :END:
+**** DONE Head Drawing Phase III - 10 minute lay-ins                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-08 Thu 19:51]--[2021-04-08 Thu 20:08] =>  0:17
+     CLOCK: [2021-04-08 Thu 18:33]--[2021-04-08 Thu 19:40] =>  1:07
+     :END:
+**** DONE Head Drawing Phase III - 20 minute lay-ins                  :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-08 Thu 22:00]--[2021-04-08 Thu 22:20] =>  0:20
+     :END:
+**** DONE Copy panels                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-08 Thu 20:13]--[2021-04-08 Thu 20:53] =>  0:40
+     :END:
+*** <2021-04-09 Fri>
 ** Week 3
 ** Week 4
