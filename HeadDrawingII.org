@@ -211,41 +211,46 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-08 Thu 20:54], for week 2021-W14.
-  | Tags    | Headline                                      | Time    |       |      |      |
-  |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                  | *15:21* |       |      |      |
-  |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 2                                    |         | 15:21 |      |      |
-  |         | \_    <2021-04-05 Mon>                        |         |       | 6:37 |      |
-  | study   | \_      Painting prep                         |         |       |      | 0:55 |
-  | prep    | \_      Build a shadow box                    |         |       |      | 2:26 |
-  | drawing | \_      5 minute head lay-ins                 |         |       |      | 0:38 |
-  | drawing | \_      Head Drawing Phase III - 5 minute...  |         |       |      | 1:23 |
-  | drawing | \_      Loomis                                |         |       |      | 0:59 |
-  | study   | \_      Head Drawing Phase III - 5 minute...  |         |       |      | 0:16 |
-  |         | \_    <2021-04-06 Tue>                        |         |       | 2:56 |      |
-  | drawing | \_      5 minute head lay-ins                 |         |       |      | 0:32 |
-  | drawing | \_      Head Drawing Phase III - 10 minute... |         |       |      | 1:00 |
-  | study   | \_      Head Drawing Phase III - 10 minute... |         |       |      | 0:12 |
-  | drawing | \_      Loomis                                |         |       |      | 1:12 |
-  |         | \_    <2021-04-07 Wed>                        |         |       | 2:52 |      |
-  | drawing | \_      5 minute head lay-ins                 |         |       |      | 0:40 |
-  | drawing | \_      Head Drawing Phase III - 10 minute... |         |       |      | 1:17 |
-  | drawing | \_      Copy panels                           |         |       |      | 0:41 |
-  | study   | \_      Head Drawing Phase III - 10 minute... |         |       |      | 0:14 |
-  |         | \_    <2021-04-08 Thu>                        |         |       | 2:56 |      |
-  | drawing | \_      5 minute head lay-ins                 |         |       |      | 0:32 |
-  | drawing | \_      Head Drawing Phase III - 10 minute... |         |       |      | 1:24 |
-  | study   | \_      Head Drawing Phase III - 20 minute... |         |       |      | 0:20 |
-  | drawing | \_      Copy panels                           |         |       |      | 0:40 |
+  #+CAPTION: Clock summary at [2021-04-09 Fri 20:52], for week 2021-W14.
+  | Tags    | Headline                                         | Time    |       |      |      |
+  |---------+--------------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                                     | *18:30* |       |      |      |
+  |---------+--------------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 2                                       |         | 18:30 |      |      |
+  |         | \_    <2021-04-05 Mon>                           |         |       | 6:37 |      |
+  | study   | \_      Painting prep                            |         |       |      | 0:55 |
+  | prep    | \_      Build a shadow box                       |         |       |      | 2:26 |
+  | drawing | \_      5 minute head lay-ins                    |         |       |      | 0:38 |
+  | drawing | \_      Head Drawing Phase III - 5 minute...     |         |       |      | 1:23 |
+  | drawing | \_      Loomis                                   |         |       |      | 0:59 |
+  | study   | \_      Head Drawing Phase III - 5 minute...     |         |       |      | 0:16 |
+  |         | \_    <2021-04-06 Tue>                           |         |       | 2:56 |      |
+  | drawing | \_      5 minute head lay-ins                    |         |       |      | 0:32 |
+  | drawing | \_      Head Drawing Phase III - 10 minute...    |         |       |      | 1:00 |
+  | study   | \_      Head Drawing Phase III - 10 minute...    |         |       |      | 0:12 |
+  | drawing | \_      Loomis                                   |         |       |      | 1:12 |
+  |         | \_    <2021-04-07 Wed>                           |         |       | 2:52 |      |
+  | drawing | \_      5 minute head lay-ins                    |         |       |      | 0:40 |
+  | drawing | \_      Head Drawing Phase III - 10 minute...    |         |       |      | 1:17 |
+  | drawing | \_      Copy panels                              |         |       |      | 0:41 |
+  | study   | \_      Head Drawing Phase III - 10 minute...    |         |       |      | 0:14 |
+  |         | \_    <2021-04-08 Thu>                           |         |       | 2:56 |      |
+  | drawing | \_      5 minute head lay-ins                    |         |       |      | 0:32 |
+  | drawing | \_      Head Drawing Phase III - 10 minute...    |         |       |      | 1:24 |
+  | study   | \_      Head Drawing Phase III - 20 minute...    |         |       |      | 0:20 |
+  | drawing | \_      Copy panels                              |         |       |      | 0:40 |
+  |         | \_    <2021-04-09 Fri>                           |         |       | 3:09 |      |
+  | drawing | \_      5 minute head lay-ins                    |         |       |      | 0:43 |
+  | drawing | \_      Head Drawing Phase III - 20 minute...    |         |       |      | 1:06 |
+  | study   | \_      Head Drawing Phase III - 20 minute...    |         |       |      | 1:00 |
+  | study   | \_      Head Drawing Phase III - 1 hour quick... |         |       |      | 0:20 |
   #+END:
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *10h 58m* |
+| drawing | *Tag time* | *12h 47m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *1h 57m*  |
+| study   | *Tag time* | *3h 17m*  |
 |---------+------------+-----------|
 | prep    | *Tag time* | *2h 26m*  |
 
@@ -334,5 +339,21 @@
      CLOCK: [2021-04-08 Thu 20:13]--[2021-04-08 Thu 20:53] =>  0:40
      :END:
 *** <2021-04-09 Fri>
+**** DONE 5 minute head lay-ins                                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-09 Fri 18:02]--[2021-04-09 Fri 18:45] =>  0:43
+     :END:
+**** DONE Head Drawing Phase III - 20 minute lay-ins                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-09 Fri 19:45]--[2021-04-09 Fri 20:51] =>  1:06
+     :END:
+**** DONE Head Drawing Phase III - 20 minute lay-ins                  :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-09 Fri 18:45]--[2021-04-09 Fri 19:45] =>  1:00
+     :END:
+**** DONE Head Drawing Phase III - 1 hour quick sketch :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-09 Fri 22:00]--[2021-04-09 Fri 22:20] =>  0:20
+     :END:
 ** Week 3
 ** Week 4
