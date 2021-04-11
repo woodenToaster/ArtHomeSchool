@@ -246,7 +246,7 @@
 ** Ctrl+paint
 ** Moderndayjames
 ** Sinix Design
-** Watts Atelier Illustrator and Concept Artist Learning PathDrawing Fundamentals Phase 1
+** Watts Atelier Illustrator and Concept Artist Learning Path
 *** DONE Drawing Fundamentals Phase 1
 *** DONE Drawing Fundamentals Phase 2
 *** DONE Head Drawing Fundamentals
@@ -257,7 +257,7 @@
 **** TODO Full Value
 *** DONE Head Drawing Phase 1
 *** DONE Figure Drawing Phase 1
-*** TODO Head Drawing Phase 2
+*** DONE Head Drawing Phase 2
 *** TODO Figure Drawing Phase 2
 *** TODO Head Drawing Phase 3
 *** TODO Quicksketch Fundamentals
