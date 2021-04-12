@@ -337,6 +337,7 @@
 *** Russian Academic Drawing
 ** DONE Marshall Vandruff Perspective
 * Comics
+** https://www.comicbookherald.com/the-best-comics-of-all-time/
 ** Berserk
 ** Sandman
 ** X-Men
@@ -349,8 +350,8 @@
 *** Ronin
 ** Alan Moore
    - From Hell
-   - Watchmen
    - Saga of the Swamp Thing (hoopla)
+   - Mister Miracle
 ** Batman
    - Black Mirror
 ** Transmetropolitan
