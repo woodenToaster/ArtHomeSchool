@@ -401,29 +401,34 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-13 Tue 21:11], for week 2021-W15.
-  | Tags    | Headline                                         | Time   |      |      |      |
-  |---------+--------------------------------------------------+--------+------+------+------|
-  |         | *Total time*                                     | *8:00* |      |      |      |
-  |---------+--------------------------------------------------+--------+------+------+------|
-  |         | \_  Week 3                                       |        | 8:00 |      |      |
-  |         | \_    <2021-04-12 Mon>                           |        |      | 5:00 |      |
-  | prep    | \_      Set up still life                        |        |      |      | 2:47 |
-  | drawing | \_      Warmup                                   |        |      |      | 0:25 |
-  | drawing | \_      Head Drawing Phase III - 1 hour quick... |        |      |      | 1:13 |
-  | study   | \_      Head Drawing Phase III - 1 hour quick... |        |      |      | 0:35 |
-  |         | \_    <2021-04-13 Tue>                           |        |      | 3:00 |      |
-  | drawing | \_      5 minute head lay-ins                    |        |      |      | 0:35 |
-  | drawing | \_      Head Drawing Phase III - 1 hour quick... |        |      |      | 1:12 |
-  | drawing | \_      Head Drawing Phase III - 30 minute...    |        |      |      | 1:13 |
+  #+CAPTION: Clock summary at [2021-04-14 Wed 21:25], for week 2021-W15.
+  | Tags    | Headline                                         | Time    |       |      |      |
+  |---------+--------------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                                     | *11:19* |       |      |      |
+  |---------+--------------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 3                                       |         | 11:19 |      |      |
+  |         | \_    <2021-04-12 Mon>                           |         |       | 5:00 |      |
+  | prep    | \_      Set up still life                        |         |       |      | 2:47 |
+  | drawing | \_      Warmup                                   |         |       |      | 0:25 |
+  | drawing | \_      Head Drawing Phase III - 1 hour quick... |         |       |      | 1:13 |
+  | study   | \_      Head Drawing Phase III - 1 hour quick... |         |       |      | 0:35 |
+  |         | \_    <2021-04-13 Tue>                           |         |       | 3:15 |      |
+  | drawing | \_      5 minute head lay-ins                    |         |       |      | 0:35 |
+  | drawing | \_      Head Drawing Phase III - 1 hour quick... |         |       |      | 1:12 |
+  | drawing | \_      Head Drawing Phase III - 30 minute...    |         |       |      | 1:13 |
+  | study   | \_      Head Drawing Phase III - 30 minute...    |         |       |      | 0:15 |
+  |         | \_    <2021-04-14 Wed>                           |         |       | 3:04 |      |
+  | drawing | \_      5 minute head lay-ins                    |         |       |      | 0:31 |
+  | drawing | \_      Head Drawing Phase III - 30 minute...    |         |       |      | 2:17 |
+  | study   | \_      Head Drawing Phase III - 30 minute...    |         |       |      | 0:16 |
   #+END:
  
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h) |
 |---------+------------+----------|
-| drawing | *Tag time* | *4h 38m* |
+| drawing | *Tag time* | *7h 26m* |
 |---------+------------+----------|
-| study   | *Tag time* | *0h 35m* |
+| study   | *Tag time* | *1h 6m*  |
 |---------+------------+----------|
 | prep    | *Tag time* | *2h 47m* |
 
@@ -460,5 +465,24 @@
      :LOGBOOK:
      CLOCK: [2021-04-13 Tue 20:31]--[2021-04-13 Tue 21:11] =>  0:40
      CLOCK: [2021-04-13 Tue 19:36]--[2021-04-13 Tue 20:09] =>  0:33
+     :END:
+**** DONE Head Drawing Phase III - 30 minute master study             :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-13 Tue 22:00]--[2021-04-13 Tue 22:15] =>  0:15
+     :END:
+*** <2021-04-14 Wed>
+**** DONE 5 minute head lay-ins                                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-14 Wed 17:45]--[2021-04-14 Wed 18:16] =>  0:31
+     :END:
+**** DONE Head Drawing Phase III - 30 minute master study           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-14 Wed 20:20]--[2021-04-14 Wed 21:04] =>  0:44
+     CLOCK: [2021-04-14 Wed 19:00]--[2021-04-14 Wed 19:59] =>  0:59
+     CLOCK: [2021-04-14 Wed 18:16]--[2021-04-14 Wed 18:50] =>  0:34
+     :END:
+**** DONE Head Drawing Phase III - 30 minute master study             :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-14 Wed 21:04]--[2021-04-14 Wed 21:20] =>  0:16
      :END:
 ** Week 4
