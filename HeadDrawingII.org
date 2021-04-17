@@ -401,12 +401,12 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-15 Thu 21:20], for week 2021-W15.
+  #+CAPTION: Clock summary at [2021-04-16 Fri 20:53], for week 2021-W15.
   | Tags    | Headline                                         | Time    |       |      |      |
   |---------+--------------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                     | *14:12* |       |      |      |
+  |         | *Total time*                                     | *15:22* |       |      |      |
   |---------+--------------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 3                                       |         | 14:12 |      |      |
+  |         | \_  Week 3                                       |         | 15:22 |      |      |
   |         | \_    <2021-04-12 Mon>                           |         |       | 5:00 |      |
   | prep    | \_      Set up still life                        |         |       |      | 2:47 |
   | drawing | \_      Warmup                                   |         |       |      | 0:25 |
@@ -425,12 +425,15 @@
   | drawing | \_      Warmup                                   |         |       |      | 0:15 |
   | drawing | \_      Head Drawing Phase III - 1 hour...       |         |       |      | 1:49 |
   | drawing | \_      Copy panels                              |         |       |      | 0:49 |
+  |         | \_    <2021-04-16 Fri>                           |         |       | 1:10 |      |
+  | drawing | \_      Warmup                                   |         |       |      | 0:36 |
+  | drawing | \_      Copy panels                              |         |       |      | 0:34 |
   #+END:
  
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *10h 19m* |
+| drawing | *Tag time* | *11h 29m* |
 |---------+------------+-----------|
 | study   | *Tag time* | *1h 6m*   |
 |---------+------------+-----------|
@@ -501,5 +504,14 @@
 **** DONE Copy panels                                               :drawing:
      :LOGBOOK:
      CLOCK: [2021-04-15 Thu 20:31]--[2021-04-15 Thu 21:20] =>  0:49
+     :END:
+*** <2021-04-16 Fri>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-16 Fri 19:33]--[2021-04-16 Fri 20:09] =>  0:36
+     :END:
+**** DONE Copy panels                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-16 Fri 20:19]--[2021-04-16 Fri 20:53] =>  0:34
      :END:
 ** Week 4
