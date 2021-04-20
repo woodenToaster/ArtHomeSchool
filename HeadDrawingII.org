@@ -556,20 +556,45 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-18 Sun 20:26], for week 2021-W15.
-  | Tags | Headline     | Time   |
-  |------+--------------+--------|
-  |      | *Total time* | *0:00* |
+  #+CAPTION: Clock summary at [2021-04-19 Mon 21:18], for week 2021-W16.
+  | Tags    | Headline                                       | Time   |      |      |      |
+  |---------+------------------------------------------------+--------+------+------+------|
+  |         | *Total time*                                   | *4:17* |      |      |      |
+  |---------+------------------------------------------------+--------+------+------+------|
+  |         | \_  Week 4                                     |        | 4:17 |      |      |
+  |         | \_    <2021-04-19 Mon>                         |        |      | 4:17 |      |
+  | prep    | \_      Set up still life                      |        |      |      | 1:05 |
+  | drawing | \_      Draw still life                        |        |      |      | 1:31 |
+  | drawing | \_      Head Phase III - 5 minute quick sketch |        |      |      | 0:58 |
+  | drawing | \_      Copy panels                            |        |      |      | 0:43 |
   #+END:
   
-#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
-| Tag     | Headline   | Time (h) |
-|---------+------------+----------|
-| drawing | *Tag time* | *0h 0m*  |
-|---------+------------+----------|
-| study   | *Tag time* | *0h 0m*  |
-|---------+------------+----------|
-| prep    | *Tag time* | *0h 0m*  |
+  #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
+  | Tag     | Headline   | Time (h) |
+  |---------+------------+----------|
+  | drawing | *Tag time* | *3h 12m* |
+  |---------+------------+----------|
+  | study   | *Tag time* | *0h 0m*  |
+  |---------+------------+----------|
+  | prep    | *Tag time* | *1h 5m*  |
+  
+  #+END:
 
-#+END:
-*** 
+*** <2021-04-19 Mon>
+**** DONE Set up still life                                            :prep:
+     :LOGBOOK:
+     CLOCK: [2021-04-19 Mon 10:09]--[2021-04-19 Mon 11:14] =>  1:05
+     :END:
+**** DONE Draw still life                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-19 Mon 18:31]--[2021-04-19 Mon 19:37] =>  1:06
+     CLOCK: [2021-04-19 Mon 11:14]--[2021-04-19 Mon 11:39] =>  0:25
+     :END:
+**** DONE Head Phase III - 5 minute quick sketch                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-19 Mon 19:37]--[2021-04-19 Mon 20:35] =>  0:58
+     :END:
+**** DONE Copy panels                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-19 Mon 20:35]--[2021-04-19 Mon 21:18] =>  0:43
+     :END:
