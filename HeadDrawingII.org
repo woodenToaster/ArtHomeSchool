@@ -556,29 +556,37 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-20 Tue 21:11], for week 2021-W16.
-  | Tags    | Headline                                       | Time   |      |      |      |
-  |---------+------------------------------------------------+--------+------+------+------|
-  |         | *Total time*                                   | *7:27* |      |      |      |
-  |---------+------------------------------------------------+--------+------+------+------|
-  |         | \_  Week 4                                     |        | 7:27 |      |      |
-  |         | \_    <2021-04-19 Mon>                         |        |      | 4:17 |      |
-  | prep    | \_      Set up still life                      |        |      |      | 1:05 |
-  | drawing | \_      Draw still life                        |        |      |      | 1:31 |
-  | drawing | \_      Head Phase III - 5 minute quick sketch |        |      |      | 0:58 |
-  | drawing | \_      Copy panels                            |        |      |      | 0:43 |
-  |         | \_    <2021-04-20 Tue>                         |        |      | 3:10 |      |
-  | drawing | \_      5 minute head lay-ins                  |        |      |      | 0:37 |
-  | drawing | \_      10 minute head lay-ins                 |        |      |      | 1:41 |
-  | drawing | \_      Copy panels                            |        |      |      | 0:52 |
+  #+CAPTION: Clock summary at [2021-04-21 Wed 21:14], for week 2021-W16.
+  | Tags    | Headline                                       | Time    |       |      |      |
+  |---------+------------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                                   | *11:40* |       |      |      |
+  |---------+------------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 4                                     |         | 11:40 |      |      |
+  |         | \_    <2021-04-19 Mon>                         |         |       | 4:37 |      |
+  | prep    | \_      Set up still life                      |         |       |      | 1:05 |
+  | drawing | \_      Draw still life                        |         |       |      | 1:31 |
+  | drawing | \_      Head Phase III - 5 minute quick sketch |         |       |      | 0:58 |
+  | study   | \_      Head Phase III - 5 minute quick sketch |         |       |      | 0:20 |
+  | drawing | \_      Copy panels                            |         |       |      | 0:43 |
+  |         | \_    <2021-04-20 Tue>                         |         |       | 3:30 |      |
+  | drawing | \_      5 minute head lay-ins                  |         |       |      | 0:37 |
+  | drawing | \_      10 minute head lay-ins                 |         |       |      | 1:41 |
+  | study   | \_      10 minute head lay-ins                 |         |       |      | 0:20 |
+  | drawing | \_      Copy panels                            |         |       |      | 0:52 |
+  |         | \_    <2021-04-21 Wed>                         |         |       | 3:33 |      |
+  | drawing | \_      Warmup                                 |         |       |      | 0:27 |
+  | drawing | \_      10 minute head lay-ins                 |         |       |      | 0:59 |
+  | study   | \_      20 minute head lay-ins                 |         |       |      | 0:46 |
+  | drawing | \_      20 minute head lay-ins                 |         |       |      | 0:56 |
+  | drawing | \_      Copy panels                            |         |       |      | 0:25 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
   | Tag     | Headline   | Time (h) |
   |---------+------------+----------|
-  | drawing | *Tag time* | *6h 22m* |
+  | drawing | *Tag time* | *9h 9m*  |
   |---------+------------+----------|
-  | study   | *Tag time* | *0h 0m*  |
+  | study   | *Tag time* | *1h 26m* |
   |---------+------------+----------|
   | prep    | *Tag time* | *1h 5m*  |
   
@@ -598,6 +606,10 @@
      :LOGBOOK:
      CLOCK: [2021-04-19 Mon 19:37]--[2021-04-19 Mon 20:35] =>  0:58
      :END:
+**** DONE Head Phase III - 5 minute quick sketch                    :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-19 Mon 20:00]--[2021-04-19 Mon 20:20] =>  0:20
+     :END:
 **** DONE Copy panels                                               :drawing:
      :LOGBOOK:
      CLOCK: [2021-04-19 Mon 20:35]--[2021-04-19 Mon 21:18] =>  0:43
@@ -612,7 +624,34 @@
      :LOGBOOK:
      CLOCK: [2021-04-20 Tue 18:38]--[2021-04-20 Tue 20:19] =>  1:41
      :END:
+**** DONE 10 minute head lay-ins                                    :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-20 Tue 20:00]--[2021-04-20 Tue 20:20] =>  0:20
+     :END:
 **** DONE Copy panels                                               :drawing:
      :LOGBOOK:
      CLOCK: [2021-04-20 Tue 20:19]--[2021-04-20 Tue 21:11] =>  0:52
+     :END:
+
+*** <2021-04-21 Wed>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-21 Wed 18:00]--[2021-04-21 Wed 18:27] =>  0:27
+     :END:
+**** DONE 10 minute head lay-ins                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-21 Wed 18:27]--[2021-04-21 Wed 19:26] =>  0:59
+     :END:
+**** DONE 20 minute head lay-ins                                      :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-21 Wed 19:26]--[2021-04-21 Wed 19:52] =>  0:26
+     CLOCK: [2021-04-21 Wed 22:00]--[2021-04-21 Wed 22:20] =>  0:20
+     :END:
+**** DONE 20 minute head lay-ins                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-21 Wed 19:52]--[2021-04-21 Wed 20:48] =>  0:56
+     :END:
+**** DONE Copy panels                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-21 Wed 20:49]--[2021-04-21 Wed 21:14] =>  0:25
      :END:
