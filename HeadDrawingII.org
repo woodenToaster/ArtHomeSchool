@@ -556,12 +556,12 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-21 Wed 21:14], for week 2021-W16.
+  #+CAPTION: Clock summary at [2021-04-22 Thu 21:31], for week 2021-W16.
   | Tags    | Headline                                       | Time    |       |      |      |
   |---------+------------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                   | *11:40* |       |      |      |
+  |         | *Total time*                                   | *15:18* |       |      |      |
   |---------+------------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 4                                     |         | 11:40 |      |      |
+  |         | \_  Week 4                                     |         | 15:18 |      |      |
   |         | \_    <2021-04-19 Mon>                         |         |       | 4:37 |      |
   | prep    | \_      Set up still life                      |         |       |      | 1:05 |
   | drawing | \_      Draw still life                        |         |       |      | 1:31 |
@@ -579,16 +579,20 @@
   | study   | \_      20 minute head lay-ins                 |         |       |      | 0:46 |
   | drawing | \_      20 minute head lay-ins                 |         |       |      | 0:56 |
   | drawing | \_      Copy panels                            |         |       |      | 0:25 |
+  |         | \_    <2021-04-22 Thu>                         |         |       | 3:38 |      |
+  | drawing | \_      10 minute head lay-ins                 |         |       |      | 2:26 |
+  | drawing | \_      Copy panels                            |         |       |      | 0:52 |
+  | study   | \_      20 minute head lay-ins                 |         |       |      | 0:20 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
-  | Tag     | Headline   | Time (h) |
-  |---------+------------+----------|
-  | drawing | *Tag time* | *9h 9m*  |
-  |---------+------------+----------|
-  | study   | *Tag time* | *1h 26m* |
-  |---------+------------+----------|
-  | prep    | *Tag time* | *1h 5m*  |
+  | Tag     | Headline   | Time (h)  |
+  |---------+------------+-----------|
+  | drawing | *Tag time* | *12h 27m* |
+  |---------+------------+-----------|
+  | study   | *Tag time* | *1h 46m*  |
+  |---------+------------+-----------|
+  | prep    | *Tag time* | *1h 5m*   |
   
   #+END:
 
@@ -654,4 +658,19 @@
 **** DONE Copy panels                                               :drawing:
      :LOGBOOK:
      CLOCK: [2021-04-21 Wed 20:49]--[2021-04-21 Wed 21:14] =>  0:25
+     :END:
+
+*** <2021-04-22 Thu>
+**** DONE 10 minute head lay-ins                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-22 Thu 18:12]--[2021-04-22 Thu 20:38] =>  2:26
+     :END:
+**** DONE Copy panels                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-22 Thu 20:38]--[2021-04-22 Thu 21:30] =>  0:52
+     :END:
+
+**** DONE 20 minute head lay-ins                                      :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-22 Thu 22:00]--[2021-04-22 Thu 22:20] =>  0:20
      :END:
