@@ -556,12 +556,12 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-23 Fri 21:30], for week 2021-W16.
+  #+CAPTION: Clock summary at [2021-04-24 Sat 20:49], for week 2021-W16.
   | Tags    | Headline                                       | Time    |       |      |      |
   |---------+------------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                   | *18:59* |       |      |      |
+  |         | *Total time*                                   | *25:38* |       |      |      |
   |---------+------------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 4                                     |         | 18:59 |      |      |
+  |         | \_  Week 4                                     |         | 25:38 |      |      |
   |         | \_    <2021-04-19 Mon>                         |         |       | 4:37 |      |
   | prep    | \_      Set up still life                      |         |       |      | 1:05 |
   | drawing | \_      Draw still life                        |         |       |      | 1:31 |
@@ -588,14 +588,21 @@
   | drawing | \_      20 minute head lay-ins                 |         |       |      | 1:48 |
   | study   | \_      1 hour head lay-in                     |         |       |      | 0:20 |
   | drawing | \_      Comic head                             |         |       |      | 0:59 |
+  |         | \_    <2021-04-24 Sat>                         |         |       | 6:39 |      |
+  | drawing | \_      Warmup                                 |         |       |      | 0:30 |
+  | drawing | \_      20 minute head lay-ins                 |         |       |      | 2:07 |
+  | study   | \_      Head Phase III - 1 hour                |         |       |      | 1:00 |
+  | drawing | \_      Head Phase III - 1 hour                |         |       |      | 1:55 |
+  | study   | \_      Plan next unit                         |         |       |      | 0:42 |
+  | drawing | \_      Copy Finch                             |         |       |      | 0:25 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *15h 48m* |
+  | drawing | *Tag time* | *20h 45m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *2h 6m*   |
+  | study   | *Tag time* | *3h 48m*  |
   |---------+------------+-----------|
   | prep    | *Tag time* | *1h 5m*   |
   
@@ -697,3 +704,36 @@
      :LOGBOOK:
      CLOCK: [2021-04-23 Fri 20:31]--[2021-04-23 Fri 21:30] =>  0:59
      :END:
+
+*** <2021-04-24 Sat>
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-24 Sat 09:12]--[2021-04-24 Sat 09:42] =>  0:30
+     :END:
+**** DONE 20 minute head lay-ins                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-24 Sat 13:32]--[2021-04-24 Sat 14:12] =>  0:40
+     CLOCK: [2021-04-24 Sat 09:42]--[2021-04-24 Sat 11:09] =>  1:27
+     :END:
+**** DONE Head Phase III - 1 hour                                     :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-24 Sat 14:19]--[2021-04-24 Sat 15:08] =>  0:49
+     CLOCK: [2021-04-24 Sat 11:09]--[2021-04-24 Sat 11:20] =>  0:11
+     :END:
+**** DONE Head Phase III - 1 hour                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-24 Sat 18:29]--[2021-04-24 Sat 20:24] =>  1:55
+     :END:
+**** DONE Plan next unit                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-24 Sat 15:43]--[2021-04-24 Sat 15:52] =>  0:09
+     CLOCK: [2021-04-24 Sat 15:09]--[2021-04-24 Sat 15:42] =>  0:33
+     :END:
+**** DONE Copy Finch                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-24 Sat 20:24]--[2021-04-24 Sat 20:49] =>  0:25
+     :END:
+
+*** <2021-04-25 Sun>
+**** TODO Blog post :study:
+**** TODO Head Phase III - 1 hour                                   :drawing:

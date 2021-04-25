@@ -248,15 +248,15 @@
 * TODO Term 3
 ** TODO Head Drawing II
 *** Video
-**** Watts Head Drawing Phase II
-**** Watts Head Drawing Phase III
+**** DONE Watts Head Drawing Phase II
+**** TODO Watts Head Drawing Phase III
 *** Book
 **** Loomis - Drawing the Head and Hands
 *** Backup
 **** David Finch Skillshare - Caricature and Expressions
 **** Finch Faces - Gnomon
 *** Art Parent - Joseph Clement Coll
-*** Challenge - 100 head layins
+*** DONE Challenge - 100 head layins
 *** Inspiration -
 *** Week 1
     - Head layins, 20 min.
@@ -266,6 +266,18 @@
 *** Week 3
 *** Week 4
 ** TODO Figure Drawing III
+*** Video
+**** TODO Watts Figure Drawing Fundamentals (Mass and Full Value)
+**** TODO Watts Figure Drawing Phase II
+*** Book - Steve Huston's Figure Drawing for Artists
+*** Backup -
+*** Art Parent - Jack Kirby
+*** Challenge - Copy 1 complete comic page per week (11 x 17)
+*** Inspiration -
+*** Week 1
+*** Week 2
+*** Week 3
+*** Week 4
 ** TODO Anatomy III - Arms
 * TODO Term 4
 ** TODO Color and Light I
@@ -273,7 +285,7 @@
 ** TODO Anatomy IV - Legs
 * TODO Term 5
 ** TODO Clothed Figure Drawing
-** TODO Perspective V
+** TODO Bridgman's Anatomy
 ** TODO Color and Light II
 * TODO Term 6
 ** TODO Character Design
