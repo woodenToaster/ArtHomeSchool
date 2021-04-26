@@ -1,0 +1,9 @@
+#+TITLE: Figure Drawing III
+#+AUTHOR: Chris Hogan
+#+DATE: <2021-04-26 Mon> to <2021-05-23 Sun>
+
+* Log
+** Week 1
+** Week 2
+** Week 3
+** Week 4

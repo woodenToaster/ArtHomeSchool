@@ -556,12 +556,12 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-24 Sat 20:49], for week 2021-W16.
+  #+CAPTION: Clock summary at [2021-04-25 Sun 20:23], for week 2021-W16.
   | Tags    | Headline                                       | Time    |       |      |      |
   |---------+------------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                   | *25:38* |       |      |      |
+  |         | *Total time*                                   | *28:44* |       |      |      |
   |---------+------------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 4                                     |         | 25:38 |      |      |
+  |         | \_  Week 4                                     |         | 28:44 |      |      |
   |         | \_    <2021-04-19 Mon>                         |         |       | 4:37 |      |
   | prep    | \_      Set up still life                      |         |       |      | 1:05 |
   | drawing | \_      Draw still life                        |         |       |      | 1:31 |
@@ -595,14 +595,18 @@
   | drawing | \_      Head Phase III - 1 hour                |         |       |      | 1:55 |
   | study   | \_      Plan next unit                         |         |       |      | 0:42 |
   | drawing | \_      Copy Finch                             |         |       |      | 0:25 |
+  |         | \_    <2021-04-25 Sun>                         |         |       | 3:06 |      |
+  | drawing | \_      Warmup                                 |         |       |      | 0:28 |
+  | drawing | \_      Head Phase III - 1 hour                |         |       |      | 2:07 |
+  | study   | \_      Blog post                              |         |       |      | 0:31 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "prep")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *20h 45m* |
+  | drawing | *Tag time* | *23h 20m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *3h 48m*  |
+  | study   | *Tag time* | *4h 19m*  |
   |---------+------------+-----------|
   | prep    | *Tag time* | *1h 5m*   |
   
@@ -735,5 +739,16 @@
      :END:
 
 *** <2021-04-25 Sun>
-**** TODO Blog post :study:
-**** TODO Head Phase III - 1 hour                                   :drawing:
+**** DONE Warmup                                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-25 Sun 10:12]--[2021-04-25 Sun 10:40] =>  0:28
+     :END:
+**** DONE Head Phase III - 1 hour                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-25 Sun 18:31]--[2021-04-25 Sun 19:38] =>  1:07
+     CLOCK: [2021-04-25 Sun 10:40]--[2021-04-25 Sun 11:40] =>  1:00
+     :END:
+**** DONE Blog post                                                   :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-25 Sun 19:52]--[2021-04-25 Sun 20:23] =>  0:31
+     :END:
