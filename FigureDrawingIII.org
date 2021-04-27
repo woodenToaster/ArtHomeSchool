@@ -4,6 +4,54 @@
 
 * Log
 ** Week 1
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2021-04-26 Mon 21:11], for week 2021-W17.
+  | Tags     | Headline                    | Time   |      |      |      |
+  |----------+-----------------------------+--------+------+------+------|
+  |          | *Total time*                | *8:46* |      |      |      |
+  |----------+-----------------------------+--------+------+------+------|
+  |          | \_  Week 1                  |        | 8:46 |      |      |
+  |          | \_    <2021-04-26 Mon>      |        |      | 8:46 |      |
+  | drawing  | \_      Pencil still life   |        |      |      | 1:03 |
+  | study    | \_      Color mixing        |        |      |      | 2:17 |
+  | painting | \_      Color mixing        |        |      |      | 2:19 |
+  | painting | \_      Painting            |        |      |      | 2:07 |
+  | drawing  | \_      Figure Fundamentals |        |      |      | 1:00 |
+  #+END:
+  
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "painting")
+| Tag      | Headline   | Time (h) |
+|----------+------------+----------|
+| drawing  | *Tag time* | *2h 3m*  |
+|----------+------------+----------|
+| study    | *Tag time* | *2h 17m* |
+|----------+------------+----------|
+| painting | *Tag time* | *4h 26m* |
+
+#+END:
+*** <2021-04-26 Mon>
+**** DONE Pencil still life                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-26 Mon 08:45]--[2021-04-26 Mon 09:48] =>  1:03
+     :END:
+**** DONE Color mixing                                                :study:
+     :LOGBOOK:
+     CLOCK: [2021-04-26 Mon 17:49]--[2021-04-26 Mon 18:03] =>  0:14
+     CLOCK: [2021-04-26 Mon 13:27]--[2021-04-26 Mon 13:42] =>  0:15
+     CLOCK: [2021-04-26 Mon 09:48]--[2021-04-26 Mon 11:36] =>  1:48
+     :END:
+**** DONE Color mixing                                             :painting:
+     :LOGBOOK:
+     CLOCK: [2021-04-26 Mon 13:42]--[2021-04-26 Mon 16:01] =>  2:19
+     :END:
+**** DONE Painting                                                 :painting:
+     :LOGBOOK:
+     CLOCK: [2021-04-26 Mon 18:03]--[2021-04-26 Mon 20:10] =>  2:07
+     :END:
+**** DONE Figure Fundamentals                                       :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-26 Mon 20:11]--[2021-04-26 Mon 21:11] =>  1:00
+     :END:
 ** Week 2
 ** Week 3
 ** Week 4
