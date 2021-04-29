@@ -5,12 +5,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-27 Tue 21:25], for week 2021-W17.
+  #+CAPTION: Clock summary at [2021-04-28 Wed 21:28], for week 2021-W17.
   | Tags     | Headline                           | Time    |       |      |      |
   |----------+------------------------------------+---------+-------+------+------|
-  |          | *Total time*                       | *11:45* |       |      |      |
+  |          | *Total time*                       | *15:10* |       |      |      |
   |----------+------------------------------------+---------+-------+------+------|
-  |          | \_  Week 1                         |         | 11:45 |      |      |
+  |          | \_  Week 1                         |         | 15:10 |      |      |
   |          | \_    <2021-04-26 Mon>             |         |       | 8:46 |      |
   | drawing  | \_      Pencil still life          |         |       |      | 1:03 |
   | study    | \_      Color mixing               |         |       |      | 2:17 |
@@ -20,16 +20,19 @@
   |          | \_    <2021-04-27 Tue>             |         |       | 2:59 |      |
   | painting | \_      Paint                      |         |       |      | 1:37 |
   | drawing  | \_      Figure Fundamentals - Mass |         |       |      | 1:22 |
+  |          | \_    <2021-04-28 Wed>             |         |       | 3:25 |      |
+  | painting | \_      Painting                   |         |       |      | 1:40 |
+  | drawing  | \_      Figure Fundamentals - Mass |         |       |      | 1:45 |
   #+END:
   
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "painting")
 | Tag      | Headline   | Time (h) |
 |----------+------------+----------|
-| drawing  | *Tag time* | *3h 25m* |
+| drawing  | *Tag time* | *5h 10m* |
 |----------+------------+----------|
 | study    | *Tag time* | *2h 17m* |
 |----------+------------+----------|
-| painting | *Tag time* | *6h 3m*  |
+| painting | *Tag time* | *7h 43m* |
 
 #+END:
 *** <2021-04-26 Mon>
@@ -64,6 +67,15 @@
      :LOGBOOK:
      CLOCK: [2021-04-27 Tue 21:00]--[2021-04-27 Tue 21:25] =>  0:25
      CLOCK: [2021-04-27 Tue 19:52]--[2021-04-27 Tue 20:49] =>  0:57
+     :END:
+*** <2021-04-28 Wed>
+**** DONE Painting                                                 :painting:
+     :LOGBOOK:
+     CLOCK: [2021-04-28 Wed 18:03]--[2021-04-28 Wed 19:43] =>  1:40
+     :END:
+**** DONE Figure Fundamentals - Mass                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-28 Wed 19:43]--[2021-04-28 Wed 21:28] =>  1:45
      :END:
 ** Week 2
 ** Week 3
