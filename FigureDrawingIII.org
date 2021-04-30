@@ -77,6 +77,11 @@
      :LOGBOOK:
      CLOCK: [2021-04-28 Wed 19:43]--[2021-04-28 Wed 21:28] =>  1:45
      :END:
+*** <2021-04-29 Thu>
+**** DONE Figure Fundamentals - Mass                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-04-29 Thu 18:59]--[2021-04-29 Thu 21:20] =>  2:21
+     :END:
 ** Week 2
 ** Week 3
 ** Week 4
