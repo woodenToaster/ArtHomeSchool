@@ -246,7 +246,7 @@
 *** Week 3
 *** Week 4
 * TODO Term 3
-** TODO Head Drawing II
+** DONE Head Drawing II
 *** Video
 **** DONE Watts Head Drawing Phase II
 **** TODO Watts Head Drawing Phase III

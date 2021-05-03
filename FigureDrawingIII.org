@@ -5,39 +5,51 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-04-30 Fri 20:54], for week 2021-W17.
-  | Tags     | Headline                                | Time    |       |      |      |
-  |----------+-----------------------------------------+---------+-------+------+------|
-  |          | *Total time*                            | *21:02* |       |      |      |
-  |----------+-----------------------------------------+---------+-------+------+------|
-  |          | \_  Week 1                              |         | 21:02 |      |      |
-  |          | \_    <2021-04-26 Mon>                  |         |       | 8:46 |      |
-  | drawing  | \_      Pencil still life               |         |       |      | 1:03 |
-  | study    | \_      Color mixing                    |         |       |      | 2:17 |
-  | painting | \_      Color mixing                    |         |       |      | 2:19 |
-  | painting | \_      Painting                        |         |       |      | 2:07 |
-  | drawing  | \_      Figure Fundamentals             |         |       |      | 1:00 |
-  |          | \_    <2021-04-27 Tue>                  |         |       | 2:59 |      |
-  | painting | \_      Paint                           |         |       |      | 1:37 |
-  | drawing  | \_      Figure Fundamentals - Mass      |         |       |      | 1:22 |
-  |          | \_    <2021-04-28 Wed>                  |         |       | 3:25 |      |
-  | painting | \_      Painting                        |         |       |      | 1:40 |
-  | drawing  | \_      Figure Fundamentals - Mass      |         |       |      | 1:45 |
-  |          | \_    <2021-04-29 Thu>                  |         |       | 2:21 |      |
-  | drawing  | \_      Figure Fundamentals - Mass      |         |       |      | 2:21 |
-  |          | \_    <2021-04-30 Fri>                  |         |       | 3:31 |      |
-  | drawing  | \_      Figure Fundamentals - Mass      |         |       |      | 3:01 |
-  | study    | \_      Figure Drawing Phase II - Intro |         |       |      | 0:30 |
+  #+CAPTION: Clock summary at [2021-05-02 Sun 19:21], for week 2021-W17.
+  | Tags     | Headline                                 | Time    |       |      |      |
+  |----------+------------------------------------------+---------+-------+------+------|
+  |          | *Total time*                             | *34:02* |       |      |      |
+  |----------+------------------------------------------+---------+-------+------+------|
+  |          | \_  Week 1                               |         | 34:02 |      |      |
+  |          | \_    <2021-04-26 Mon>                   |         |       | 8:46 |      |
+  | drawing  | \_      Pencil still life                |         |       |      | 1:03 |
+  | study    | \_      Color mixing                     |         |       |      | 2:17 |
+  | painting | \_      Color mixing                     |         |       |      | 2:19 |
+  | painting | \_      Painting                         |         |       |      | 2:07 |
+  | drawing  | \_      Figure Fundamentals              |         |       |      | 1:00 |
+  |          | \_    <2021-04-27 Tue>                   |         |       | 2:59 |      |
+  | painting | \_      Paint                            |         |       |      | 1:37 |
+  | drawing  | \_      Figure Fundamentals - Mass       |         |       |      | 1:22 |
+  |          | \_    <2021-04-28 Wed>                   |         |       | 3:25 |      |
+  | painting | \_      Painting                         |         |       |      | 1:40 |
+  | drawing  | \_      Figure Fundamentals - Mass       |         |       |      | 1:45 |
+  |          | \_    <2021-04-29 Thu>                   |         |       | 2:21 |      |
+  | drawing  | \_      Figure Fundamentals - Mass       |         |       |      | 2:21 |
+  |          | \_    <2021-04-30 Fri>                   |         |       | 3:31 |      |
+  | drawing  | \_      Figure Fundamentals - Mass       |         |       |      | 3:01 |
+  | study    | \_      Figure Drawing Phase II - Intro  |         |       |      | 0:30 |
+  |          | \_    <2021-05-01 Sat>                   |         |       | 5:53 |      |
+  | painting | \_      Painting                         |         |       |      | 2:15 |
+  | drawing  | \_      Copy comic page                  |         |       |      | 1:41 |
+  | drawing  | \_      Figure Fundamentals - Full value |         |       |      | 1:57 |
+  |          | \_    <2021-05-02 Sun>                   |         |       | 7:07 |      |
+  | painting | \_      Painting                         |         |       |      | 1:23 |
+  | prep     | \_      Painting clean up                |         |       |      | 0:40 |
+  | drawing  | \_      Figure Fundamentals - Full value |         |       |      | 2:54 |
+  | drawing  | \_      Copy comic page                  |         |       |      | 1:31 |
+  | study    | \_      Blog                             |         |       |      | 0:39 |
   #+END:
   
-#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "painting")
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "painting" "prep")
 | Tag      | Headline   | Time (h)  |
 |----------+------------+-----------|
-| drawing  | *Tag time* | *10h 32m* |
+| drawing  | *Tag time* | *18h 35m* |
 |----------+------------+-----------|
-| study    | *Tag time* | *2h 47m*  |
+| study    | *Tag time* | *3h 26m*  |
 |----------+------------+-----------|
-| painting | *Tag time* | *7h 43m*  |
+| painting | *Tag time* | *11h 21m* |
+|----------+------------+-----------|
+| prep     | *Tag time* | *0h 40m*  |
 
 #+END:
 *** <2021-04-26 Mon>
@@ -95,6 +107,42 @@
 **** DONE Figure Drawing Phase II - Intro                             :study:
      :LOGBOOK:
      CLOCK: [2021-04-30 Fri 22:00]--[2021-04-30 Fri 22:30] =>  0:30
+     :END:
+*** <2021-05-01 Sat>
+**** DONE Painting                                                 :painting:
+     :LOGBOOK:
+     CLOCK: [2021-05-01 Sat 08:42]--[2021-05-01 Sat 10:57] =>  2:15
+     :END:
+**** DONE Copy comic page                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-01 Sat 18:04]--[2021-05-01 Sat 19:04] =>  1:00
+     CLOCK: [2021-05-01 Sat 11:00]--[2021-05-01 Sat 11:41] =>  0:41
+     :END:
+**** DONE Figure Fundamentals - Full value                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-01 Sat 19:04]--[2021-05-01 Sat 21:01] =>  1:57
+     :END:
+*** <2021-05-02 Sun>
+**** DONE Painting                                                 :painting:
+     :LOGBOOK:
+     CLOCK: [2021-05-02 Sun 09:01]--[2021-05-02 Sun 10:24] =>  1:23
+     :END:
+**** DONE Painting clean up                                            :prep:
+     :LOGBOOK:
+     CLOCK: [2021-05-02 Sun 10:24]--[2021-05-02 Sun 11:04] =>  0:40
+     :END:
+**** DONE Figure Fundamentals - Full value                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-02 Sun 13:02]--[2021-05-02 Sun 15:00] =>  1:58
+     CLOCK: [2021-05-02 Sun 11:04]--[2021-05-02 Sun 12:00] =>  0:56
+     :END:
+**** DONE Copy comic page                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-02 Sun 17:11]--[2021-05-02 Sun 18:42] =>  1:31
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2021-05-02 Sun 18:42]--[2021-05-02 Sun 19:21] =>  0:39
      :END:
 ** Week 2
 ** Week 3
