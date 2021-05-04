@@ -210,3 +210,23 @@ Time breakdown of a 3-day piece of art
    - More secondary details = more visually interesting, and easier to make cool
 ** Start with one role
    - One job for one area/character, one architecture style
+* FZD Design Cinema Ep. 108 - Design Basics
+  - Fundamentals
+  - Base
+  - Set dressing
+  - Story telling
+** Start with a good base
+** Define the main function
+** Human factors and life support
+   - Beds
+   - Chairs
+   - Tables
+** Function over form details
+** Add lighting
+** Add different materials
+   - Wood
+   - Carpet
+   - Bricks
+** Add animations and sound
+** Add personal details
+* FZD Design Cinema Ep. 109 - Design Breakdown
