@@ -190,11 +190,11 @@
    - Highly recommended by Marshall Vandruff
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
-*** Deep Work - Cal Newport
 *** Digital Minimalism - Cal Newport
 *** Real Artists Don't Starve - Jeff Goins
 *** Linchpin - Seth Goden
     - Art and business mix
+*** The Practice: Shipping Creative Work - Seth Goden
 *** Practicing: A Musician's Return to Music - Glenn Kurtz (library)
 *** Osprey Medieval reference books
 *** The Skilled Huntsman
@@ -212,6 +212,7 @@
 *** Mastery: Greene
 *** Mindworks - Gary van Warmerdam
 *** Chasing Love - Ray Bradberry
+*** DONE Deep Work - Cal Newport
 *** DONE The Creative Habit - Twyla Tharp
 *** DONE The Talent Code
 *** DONE Gardner's Art Through the Ages
@@ -226,6 +227,7 @@
 ** Pillars of the Earth - Ken Follett
    - Traces the entire lives of people in the 12th century building a cathedral
 * Videos
+** Neil Gaimon: Make Good Art
 ** Sean Gordon Murphy demos (youtube)
 ** Trent Kaniuaga youtube (FZD student?)
 ** Charles Lin tutorials (FZD student)
@@ -317,7 +319,6 @@
 ** Dorian Iton - Light on Form
 ** Ron Lemen - Color wheel exercises
 ** FZD Design Cinema
-** drawmixpaint.com
 ** New Master's Academy
 *** Linear Perspective (121 hours)
 **** TODO Part I
@@ -334,6 +335,7 @@
 *** Reilly Drawing Method
 *** Russian Academic Drawing
 ** DONE Marshall Vandruff Perspective
+** DONE drawmixpaint.com
 * Comics
 ** https://www.comicbookherald.com/the-best-comics-of-all-time/
 ** Berserk

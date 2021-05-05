@@ -146,28 +146,31 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-03 Mon 21:28], for week 2021-W18.
-  | Tags    | Headline                                 | Time   |      |      |      |
-  |---------+------------------------------------------+--------+------+------+------|
-  |         | *Total time*                             | *8:19* |      |      |      |
-  |---------+------------------------------------------+--------+------+------+------|
-  |         | \_  Week 2                               |        | 8:19 |      |      |
-  |         | \_    <2021-05-03 Mon>                   |        |      | 8:19 |      |
-  | drawing | \_      Comic gestures                   |        |      |      | 0:41 |
-  | drawing | \_      Copy comic panel                 |        |      |      | 3:08 |
-  | drawing | \_      Figure Fundamentals - Full value |        |      |      | 4:30 |
+  #+CAPTION: Clock summary at [2021-05-04 Tue 20:40], for week 2021-W18.
+  | Tags    | Headline                                 | Time    |       |      |      |
+  |---------+------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                             | *10:39* |       |      |      |
+  |---------+------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 2                               |         | 10:39 |      |      |
+  |         | \_    <2021-05-03 Mon>                   |         |       | 8:19 |      |
+  | drawing | \_      Comic gestures                   |         |       |      | 0:41 |
+  | drawing | \_      Copy comic panel                 |         |       |      | 3:08 |
+  | drawing | \_      Figure Fundamentals - Full value |         |       |      | 4:30 |
+  |         | \_    <2021-05-04 Tue>                   |         |       | 2:20 |      |
+  | drawing | \_      Comic gestures                   |         |       |      | 0:41 |
+  | drawing | \_      Copy comic panel                 |         |       |      | 1:39 |
   #+END:
  
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "painting" "prep")
-| Tag      | Headline   | Time (h) |
-|----------+------------+----------|
-| drawing  | *Tag time* | *8h 19m* |
-|----------+------------+----------|
-| study    | *Tag time* | *0h 0m*  |
-|----------+------------+----------|
-| painting | *Tag time* | *0h 0m*  |
-|----------+------------+----------|
-| prep     | *Tag time* | *0h 0m*  |
+| Tag      | Headline   | Time (h)  |
+|----------+------------+-----------|
+| drawing  | *Tag time* | *10h 39m* |
+|----------+------------+-----------|
+| study    | *Tag time* | *0h 0m*   |
+|----------+------------+-----------|
+| painting | *Tag time* | *0h 0m*   |
+|----------+------------+-----------|
+| prep     | *Tag time* | *0h 0m*   |
 
 #+END:
 *** <2021-05-03 Mon>
@@ -184,6 +187,15 @@
      :LOGBOOK:
      CLOCK: [2021-05-03 Mon 19:22]--[2021-05-03 Mon 21:28] =>  2:06
      CLOCK: [2021-05-03 Mon 13:29]--[2021-05-03 Mon 15:53] =>  2:24
+     :END:
+*** <2021-05-04 Tue>
+**** DONE Comic gestures                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-04 Tue 18:20]--[2021-05-04 Tue 19:01] =>  0:41
+     :END:
+**** DONE Copy comic panel                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-04 Tue 19:01]--[2021-05-04 Tue 20:40] =>  1:39
      :END:
 ** Week 3
 ** Week 4
