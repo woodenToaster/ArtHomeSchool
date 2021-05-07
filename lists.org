@@ -230,6 +230,15 @@
 ** Robert E. Howard
 ** Pillars of the Earth - Ken Follett
    - Traces the entire lives of people in the 12th century building a cathedral
+* Movies
+** TODO Spiderman 1
+** TODO Spiderman 2
+** TODO Spiderman 3
+** TODO Amazing Spiderman 1
+** TODO Amazing Spiderman 2
+** TODO Venom
+** TODO Dark Pheonix
+** TODO New Mutants
 * Videos
 ** Neil Gaimon: Make Good Art
 ** Sean Gordon Murphy demos (youtube)
