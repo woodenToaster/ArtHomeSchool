@@ -146,31 +146,35 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-04 Tue 20:40], for week 2021-W18.
+  #+CAPTION: Clock summary at [2021-05-06 Thu 21:11], for week 2021-W18.
   | Tags    | Headline                                 | Time    |       |      |      |
   |---------+------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                             | *10:39* |       |      |      |
+  |         | *Total time*                             | *16:51* |       |      |      |
   |---------+------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 2                               |         | 10:39 |      |      |
+  |         | \_  Week 2                               |         | 16:51 |      |      |
   |         | \_    <2021-05-03 Mon>                   |         |       | 8:19 |      |
   | drawing | \_      Comic gestures                   |         |       |      | 0:41 |
   | drawing | \_      Copy comic panel                 |         |       |      | 3:08 |
   | drawing | \_      Figure Fundamentals - Full value |         |       |      | 4:30 |
   |         | \_    <2021-05-04 Tue>                   |         |       | 2:20 |      |
   | drawing | \_      Comic gestures                   |         |       |      | 0:41 |
-  | drawing | \_      Copy comic panel                 |         |       |      | 1:39 |
+  | drawing | \_      Copy comic page                  |         |       |      | 1:39 |
+  |         | \_    <2021-05-05 Wed>                   |         |       | 3:13 |      |
+  | drawing | \_      Comic gestures                   |         |       |      | 0:39 |
+  | drawing | \_      Copy comic page                  |         |       |      | 1:20 |
+  | drawing | \_      Figure Fundamentals - Full value |         |       |      | 1:14 |
+  |         | \_    <2021-05-06 Thu>                   |         |       | 2:59 |      |
+  | drawing | \_      Comic gestures                   |         |       |      | 0:36 |
+  | drawing | \_      Copy comic page                  |         |       |      | 1:00 |
+  | drawing | \_      Figure Fundamentals - Full value |         |       |      | 1:23 |
   #+END:
  
-#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study" "painting" "prep")
-| Tag      | Headline   | Time (h)  |
-|----------+------------+-----------|
-| drawing  | *Tag time* | *10h 39m* |
-|----------+------------+-----------|
-| study    | *Tag time* | *0h 0m*   |
-|----------+------------+-----------|
-| painting | *Tag time* | *0h 0m*   |
-|----------+------------+-----------|
-| prep     | *Tag time* | *0h 0m*   |
+#+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
+| Tag     | Headline   | Time (h)  |
+|---------+------------+-----------|
+| drawing | *Tag time* | *16h 51m* |
+|---------+------------+-----------|
+| study   | *Tag time* | *0h 0m*   |
 
 #+END:
 *** <2021-05-03 Mon>
@@ -193,9 +197,35 @@
      :LOGBOOK:
      CLOCK: [2021-05-04 Tue 18:20]--[2021-05-04 Tue 19:01] =>  0:41
      :END:
-**** DONE Copy comic panel                                          :drawing:
+**** DONE Copy comic page                                           :drawing:
      :LOGBOOK:
      CLOCK: [2021-05-04 Tue 19:01]--[2021-05-04 Tue 20:40] =>  1:39
+     :END:
+*** <2021-05-05 Wed>
+**** DONE Comic gestures                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-05 Wed 18:06]--[2021-05-05 Wed 18:45] =>  0:39
+     :END:
+**** DONE Copy comic page                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-05 Wed 18:45]--[2021-05-05 Wed 20:05] =>  1:20
+     :END:
+**** DONE Figure Fundamentals - Full value                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-05 Wed 20:06]--[2021-05-05 Wed 21:20] =>  1:14
+     :END:
+*** <2021-05-06 Thu>
+**** DONE Comic gestures                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-06 Thu 18:10]--[2021-05-06 Thu 18:46] =>  0:36
+     :END:
+**** DONE Copy comic page                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-06 Thu 18:46]--[2021-05-06 Thu 19:46] =>  1:00
+     :END:
+**** DONE Figure Fundamentals - Full value                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-06 Thu 19:46]--[2021-05-06 Thu 21:09] =>  1:23
      :END:
 ** Week 3
 ** Week 4

@@ -107,6 +107,7 @@
 *** FORCE: Dynamic Life Drawing
 *** Learn to Draw Action Heros - Rob Marzullo
 *** Dynamic Figure Drawing - Burne Hogarth
+*** Watts on Bridgman
 *** George Bridgman
 **** TODO Complete Guide to Drawing from Life
 ***** How to study
@@ -136,6 +137,7 @@
 *** Mastering Drawing the Human Figure - Jack Faragasso
     - Reilly method
 *** The Human Figure - John Vanderpoel
+*** Stonehouse's Anatomy
 *** DONE Figure Drawing: Design and Invention - Michael Hampton
 *** DONE How to Draw Comics the Marvel Way
 *** DONE The DC Guide to Penciling Comics
@@ -188,6 +190,8 @@
 ** Stan Lee's How to Write Comics
 ** Writing The Natural Way - Rico
    - Highly recommended by Marshall Vandruff
+** Writing for Comics - Alan Moore
+** Writing for Comics - Peter David
 ** DONE Framed Ink: Drawing and Composition for Visual Storytellers
 * Inspirational Books
 *** Digital Minimalism - Cal Newport
