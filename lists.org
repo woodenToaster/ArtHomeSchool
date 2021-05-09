@@ -263,11 +263,7 @@
 *** DONE Drawing Fundamentals Phase 1
 *** DONE Drawing Fundamentals Phase 2
 *** DONE Head Drawing Fundamentals
-*** TODO Figure Drawing Fundamentals
-**** DONE Gesture
-**** DONE Structure
-**** TODO Mass
-**** TODO Full Value
+*** DONE Figure Drawing Fundamentals
 *** DONE Head Drawing Phase 1
 *** DONE Figure Drawing Phase 1
 *** DONE Head Drawing Phase 2

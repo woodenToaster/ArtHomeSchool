@@ -47,6 +47,7 @@
 ** Master studies
 ** Committing concepts to memory (repitition)
 ** Inventing from imagination
+** Focus on Weaknesses
 * Unit Template
 *** Video -
 *** Book -
@@ -267,7 +268,7 @@
 *** Week 4
 ** TODO Figure Drawing III
 *** Video
-**** TODO Watts Figure Drawing Fundamentals (Mass and Full Value)
+**** DONE Watts Figure Drawing Fundamentals (Mass and Full Value)
 **** TODO Watts Figure Drawing Phase II
 *** Book - Steve Huston's Figure Drawing for Artists
 *** Backup -
