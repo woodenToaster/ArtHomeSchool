@@ -236,9 +236,13 @@
 ** TODO Spiderman 3
 ** TODO Amazing Spiderman 1
 ** TODO Amazing Spiderman 2
+** TODO Spiderman: Into the spiderverse
 ** TODO Venom
-** TODO Dark Pheonix
+** TODO X-men: The last stand
 ** TODO New Mutants
+** TODO Dead Pool 2
+** TODO The Wolverine
+** TODO Watchment
 * Videos
 ** Neil Gaimon: Make Good Art
 ** Sean Gordon Murphy demos (youtube)
