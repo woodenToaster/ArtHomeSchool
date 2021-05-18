@@ -11,6 +11,11 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 * Art Supplies
+** Pencil extender
+** Drawing board
+** Tall chair
+** Trash can
+** Small mirror
 ** Non-photo blue lead for staedtler holder
 ** Woodless graphite pencil
 ** Electric pencil sharpener
@@ -37,7 +42,7 @@
 ** HP OfficeJet Pro 7740 11x17 printer scanner - $279 (doesn't scan 11x17)
 ** Epson WF-7840 - $250 (can't print grayscale without color ink cartridges)
 ** Arches 88 silk screen paper (too expensive)
-** TODO Drawmixpaint supplies to build
+** DONE Drawmixpaint supplies to build
 *** DONE Black sheet
 *** DONE Shadow box (try cardboard first)
     - x2 Shelf board 1' wide, 3' long
@@ -45,8 +50,6 @@
     - x2 2' 2x4
     - Roof is 48" x 48". Try cardboard
 *** DONE 20 watt 5000K compact fluorescent bulb for shadow box
-*** TODO Galvanized airtight trash can
-*** TODO Lint free T-shirt rags
 *** DONE Black paint
 *** DONE Easel
     - x1 25" 2x4
@@ -212,6 +215,10 @@
 *** DONE The Art Spirit - Robert Henri (Hoopla)
 *** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
 * Fiction
+** The Once and Future King - T.H. White
+   - Inspired the sword and the stone
+   - Arthurian legend
+** The Dragonbone Chair - Tad Williams
 ** Neuromancer
 ** Robert E. Howard
 ** Pillars of the Earth - Ken Follett
