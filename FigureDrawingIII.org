@@ -5,7 +5,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-20 Thu 21:12], for week 2021-W20.
+  #+CAPTION: Clock summary at [2021-05-21 Fri 20:21], for week 2021-W20.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -117,7 +117,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-20 Thu 21:12], for week 2021-W20.
+  #+CAPTION: Clock summary at [2021-05-21 Fri 20:21], for week 2021-W20.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -230,7 +230,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-20 Thu 21:12], for week 2021-W20.
+  #+CAPTION: Clock summary at [2021-05-21 Fri 20:21], for week 2021-W20.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -320,12 +320,12 @@
 
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-#+CAPTION: Clock summary at [2021-05-20 Thu 21:12], for week 2021-W20.
+#+CAPTION: Clock summary at [2021-05-21 Fri 20:21], for week 2021-W20.
 | Tags    | Headline                                       | Time    |       |      |      |
 |---------+------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                   | *10:32* |       |      |      |
+|         | *Total time*                                   | *12:51* |       |      |      |
 |---------+------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                                     |         | 10:32 |      |      |
+|         | \_  Week 4                                     |         | 12:51 |      |      |
 |         | \_    <2021-05-17 Mon>                         |         |       | 2:56 |      |
 | drawing | \_      Comic gestures                         |         |       |      | 0:43 |
 | drawing | \_      Figure Drawing Phase II - 20 minute... |         |       |      | 1:11 |
@@ -341,12 +341,16 @@
 | drawing | \_      Comic gestures                         |         |       |      | 0:38 |
 | drawing | \_      Copy comic page                        |         |       |      | 1:35 |
 | drawing | \_      Figure Drawing Phase II - 20 minute... |         |       |      | 0:40 |
+|         | \_    <2021-05-21 Fri>                         |         |       | 2:19 |      |
+| drawing | \_      Comic gestures                         |         |       |      | 0:42 |
+| drawing | \_      Copy comic page                        |         |       |      | 1:09 |
+| drawing | \_      Figure Drawing Phase II - 20 minute... |         |       |      | 0:28 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *10h 32m* |
+| drawing | *Tag time* | *12h 51m* |
 |---------+------------+-----------|
 | study   | *Tag time* | *0h 0m*   |
 
@@ -399,4 +403,17 @@
 **** DONE Figure Drawing Phase II - 20 minute male lay-in           :drawing:
      :LOGBOOK:
      CLOCK: [2021-05-20 Thu 20:32]--[2021-05-20 Thu 21:12] =>  0:40
+     :END:
+*** <2021-05-21 Fri>
+**** DONE Comic gestures                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-21 Fri 18:02]--[2021-05-21 Fri 18:44] =>  0:42
+     :END:
+**** DONE Copy comic page                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-21 Fri 18:44]--[2021-05-21 Fri 19:53] =>  1:09
+     :END:
+**** DONE Figure Drawing Phase II - 20 minute female lay-in         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-21 Fri 19:53]--[2021-05-21 Fri 20:21] =>  0:28
      :END:
