@@ -5,7 +5,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-21 Fri 20:21], for week 2021-W20.
+  #+CAPTION: Clock summary at [2021-05-22 Sat 21:08], for week 2021-W20.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -117,7 +117,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-21 Fri 20:21], for week 2021-W20.
+  #+CAPTION: Clock summary at [2021-05-22 Sat 21:08], for week 2021-W20.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -230,7 +230,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-21 Fri 20:21], for week 2021-W20.
+  #+CAPTION: Clock summary at [2021-05-22 Sat 21:08], for week 2021-W20.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -320,12 +320,12 @@
 
 ** Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-#+CAPTION: Clock summary at [2021-05-21 Fri 20:21], for week 2021-W20.
+#+CAPTION: Clock summary at [2021-05-22 Sat 21:08], for week 2021-W20.
 | Tags    | Headline                                       | Time    |       |      |      |
 |---------+------------------------------------------------+---------+-------+------+------|
-|         | *Total time*                                   | *12:51* |       |      |      |
+|         | *Total time*                                   | *18:11* |       |      |      |
 |---------+------------------------------------------------+---------+-------+------+------|
-|         | \_  Week 4                                     |         | 12:51 |      |      |
+|         | \_  Week 4                                     |         | 18:11 |      |      |
 |         | \_    <2021-05-17 Mon>                         |         |       | 2:56 |      |
 | drawing | \_      Comic gestures                         |         |       |      | 0:43 |
 | drawing | \_      Figure Drawing Phase II - 20 minute... |         |       |      | 1:11 |
@@ -345,14 +345,19 @@
 | drawing | \_      Comic gestures                         |         |       |      | 0:42 |
 | drawing | \_      Copy comic page                        |         |       |      | 1:09 |
 | drawing | \_      Figure Drawing Phase II - 20 minute... |         |       |      | 0:28 |
+|         | \_    <2021-05-22 Sat>                         |         |       | 5:20 |      |
+| drawing | \_      Comic gestures                         |         |       |      | 0:33 |
+| drawing | \_      Copy comic page                        |         |       |      | 3:05 |
+| drawing | \_      Figure Drawing Phase II - 20 minute... |         |       |      | 0:48 |
+| study   | \_      Plan next unit                         |         |       |      | 0:54 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :scope subtree :maxlevel 6 :match ("drawing" "study")
 | Tag     | Headline   | Time (h)  |
 |---------+------------+-----------|
-| drawing | *Tag time* | *12h 51m* |
+| drawing | *Tag time* | *17h 17m* |
 |---------+------------+-----------|
-| study   | *Tag time* | *0h 0m*   |
+| study   | *Tag time* | *0h 54m*  |
 
 #+END:
 
@@ -416,4 +421,23 @@
 **** DONE Figure Drawing Phase II - 20 minute female lay-in         :drawing:
      :LOGBOOK:
      CLOCK: [2021-05-21 Fri 19:53]--[2021-05-21 Fri 20:21] =>  0:28
+     :END:
+*** <2021-05-22 Sat>
+**** DONE Comic gestures                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-22 Sat 09:04]--[2021-05-22 Sat 09:37] =>  0:33
+     :END:
+**** DONE Copy comic page                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-22 Sat 20:30]--[2021-05-22 Sat 21:08] =>  0:38
+     CLOCK: [2021-05-22 Sat 18:21]--[2021-05-22 Sat 19:29] =>  1:08
+     CLOCK: [2021-05-22 Sat 09:37]--[2021-05-22 Sat 10:56] =>  1:19
+     :END:
+**** DONE Figure Drawing Phase II - 20 minute female lay-in         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-22 Sat 10:56]--[2021-05-22 Sat 11:44] =>  0:48
+     :END:
+**** DONE Plan next unit                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-05-22 Sat 13:32]--[2021-05-22 Sat 14:26] =>  0:54
      :END:

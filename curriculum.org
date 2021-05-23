@@ -279,7 +279,32 @@
 *** Week 2
 *** Week 3
 *** Week 4
-** TODO Anatomy III - Arms
+** TODO Anatomy III - Arms and Hands
+*** Video
+**** TODO Proko Human Anatomy for Artists - Arms 
+*** Book
+**** TODO Bridgman's Book of a Hundred Hands
+*** Backup
+*** Art Parent - Bridgman
+*** Challenge
+**** TODO 100 hands
+*** Inspiration - Alan Moore's Writing for Comcis
+*** Week 1
+**** TODO 4 hands from Bridgman
+**** TODO 70 minutes on original sequential art
+**** TODO Proko - Arm bones and hand bones
+*** Week 2
+**** TODO 4 hands from Bridgman
+**** TODO 70 minutes on original sequential art
+**** TODO Proko - Delroids and biceps
+*** Week 3
+**** TODO 4 hands from Bridgman
+**** TODO 70 minutes on original sequential art
+**** TODO Proko - Triceps and forearms
+*** Week 4
+**** TODO 4 hands from Bridgman
+**** TODO 70 minutes on original sequential art
+**** TODO Proko - Hands
 * TODO Term 4
 ** TODO Color and Light I
 ** TODO Perspective IV
