@@ -6,12 +6,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-27 Thu 21:17], for week 2021-W21.
+  #+CAPTION: Clock summary at [2021-05-28 Fri 20:02], for week 2021-W21.
   | Tags    | Headline                       | Time    |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | *Total time*                   | *14:04* |       |      |      |
+  |         | *Total time*                   | *16:23* |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                     |         | 14:04 |      |      |
+  |         | \_  Week 1                     |         | 16:23 |      |      |
   |         | \_    <2021-05-24 Mon>         |         |       | 4:47 |      |
   | drawing | \_      Digital warmup         |         |       |      | 0:33 |
   | drawing | \_      Copy comic page        |         |       |      | 1:09 |
@@ -36,14 +36,18 @@
   | drawing | \_      Proko hands            |         |       |      | 0:57 |
   | drawing | \_      Hands from imagination |         |       |      | 1:11 |
   | study   | \_      Proko hands            |         |       |      | 0:10 |
+  |         | \_    <2021-05-28 Fri>         |         |       | 2:19 |      |
+  | drawing | \_      4 Bridgman hands       |         |       |      | 0:30 |
+  | drawing | \_      Proko hands            |         |       |      | 1:34 |
+  | study   | \_      Proko hands            |         |       |      | 0:15 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *12h 54m* |
+  | drawing | *Tag time* | *14h 58m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *1h 10m*  |
+  | study   | *Tag time* | *1h 25m*  |
   
   #+END:
 *** <2021-05-24 Mon>
@@ -129,6 +133,19 @@
 **** DONE Proko hands                                                 :study:
      :LOGBOOK:
      CLOCK: [2021-05-27 Thu 22:00]--[2021-05-27 Thu 22:10] =>  0:10
+     :END:
+*** <2021-05-28 Fri>
+**** DONE 4 Bridgman hands                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-28 Fri 17:57]--[2021-05-28 Fri 18:27] =>  0:30
+     :END:
+**** DONE Proko hands                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-28 Fri 18:28]--[2021-05-28 Fri 20:02] =>  1:34
+     :END:
+**** DONE Proko hands                                                 :study:
+     :LOGBOOK:
+     CLOCK: [2021-05-28 Fri 22:00]--[2021-05-28 Fri 22:15] =>  0:15
      :END:
 ** Week 2
 ** Week 3
