@@ -6,12 +6,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-29 Sat 20:27], for week 2021-W21.
+  #+CAPTION: Clock summary at [2021-05-30 Sun 20:49], for week 2021-W21.
   | Tags    | Headline                       | Time    |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | *Total time*                   | *23:22* |       |      |      |
+  |         | *Total time*                   | *26:15* |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                     |         | 23:22 |      |      |
+  |         | \_  Week 1                     |         | 26:15 |      |      |
   |         | \_    <2021-05-24 Mon>         |         |       | 4:47 |      |
   | drawing | \_      Digital warmup         |         |       |      | 0:33 |
   | drawing | \_      Copy comic page        |         |       |      | 1:09 |
@@ -45,14 +45,18 @@
   | drawing | \_      Proko hands            |         |       |      | 3:31 |
   | drawing | \_      Copy comic art         |         |       |      | 0:44 |
   | drawing | \_      Draw from imagination  |         |       |      | 2:17 |
+  |         | \_    <2021-05-30 Sun>         |         |       | 2:53 |      |
+  | drawing | \_      4 Bridgman hands       |         |       |      | 0:40 |
+  | drawing | \_      Proko hands            |         |       |      | 1:43 |
+  | study   | \_      Blog post              |         |       |      | 0:30 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *21h 57m* |
+  | drawing | *Tag time* | *24h 20m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *1h 25m*  |
+  | study   | *Tag time* | *1h 55m*  |
   
   #+END:
 *** <2021-05-24 Mon>
@@ -170,8 +174,39 @@
      :LOGBOOK:
      CLOCK: [2021-05-29 Sat 18:10]--[2021-05-29 Sat 20:27] =>  2:17
      :END:
+*** <2021-05-30 Sun>
+**** DONE 4 Bridgman hands                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-30 Sun 09:59]--[2021-05-30 Sun 10:39] =>  0:40
+     :END:
+**** DONE Proko hands                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-05-30 Sun 14:06]--[2021-05-30 Sun 14:46] =>  0:40
+     CLOCK: [2021-05-30 Sun 10:39]--[2021-05-30 Sun 11:42] =>  1:03
+     :END:
+**** DONE Blog post                                                   :study:
+     :LOGBOOK:
+     CLOCK: [2021-05-30 Sun 20:09]--[2021-05-30 Sun 20:39] =>  0:30
+     :END:
 
 ** Week 2
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2021-05-30 Sun 20:50], for week 2021-W21.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
+  #+END:
+ 
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
+  | Tag     | Headline   | Time (h) |
+  |---------+------------+----------|
+  | drawing | *Tag time* | *0h 0m*  |
+  |---------+------------+----------|
+  | study   | *Tag time* | *0h 0m*  |
+  
+  #+END:
+
+*** <2021-05-31 Mon>
 ** Week 3
 ** Week 4
    
