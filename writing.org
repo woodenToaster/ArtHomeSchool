@@ -1,0 +1,6 @@
+#+TITLE: Writing
+#+DATE: <2021-05-31 Mon>
+
+#+STARTUP: nologdone
+
+* <2021-05-31 Mon>
