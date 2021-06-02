@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-31 Mon 21:03], for week 2021-W22.
+  #+CAPTION: Clock summary at [2021-06-01 Tue 21:16], for week 2021-W22.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -152,22 +152,27 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-05-31 Mon 21:03], for week 2021-W22.
-  | Tags    | Headline               | Time   |      |      |      |
-  |---------+------------------------+--------+------+------+------|
-  |         | *Total time*           | *6:30* |      |      |      |
-  |---------+------------------------+--------+------+------+------|
-  |         | \_  Week 2             |        | 6:30 |      |      |
-  |         | \_    <2021-05-31 Mon> |        |      | 6:30 |      |
-  | drawing | \_      Bridgman hands |        |      |      | 0:25 |
-  | drawing | \_      Proko hands    |        |      |      | 1:15 |
-  | drawing | \_      Copy comic art |        |      |      | 4:50 |
+  #+CAPTION: Clock summary at [2021-06-01 Tue 21:16], for week 2021-W22.
+  | Tags    | Headline                       | Time   |      |      |      |
+  |---------+--------------------------------+--------+------+------+------|
+  |         | *Total time*                   | *9:32* |      |      |      |
+  |---------+--------------------------------+--------+------+------+------|
+  |         | \_  Week 2                     |        | 9:32 |      |      |
+  |         | \_    <2021-05-31 Mon>         |        |      | 6:30 |      |
+  | drawing | \_      Bridgman hands         |        |      |      | 0:25 |
+  | drawing | \_      Proko hands            |        |      |      | 1:15 |
+  | drawing | \_      Copy comic art         |        |      |      | 4:50 |
+  |         | \_    <2021-06-01 Tue>         |        |      | 3:02 |      |
+  | drawing | \_      Bridgman hands         |        |      |      | 0:35 |
+  | drawing | \_      Proko hand bones       |        |      |      | 1:16 |
+  | drawing | \_      Copy comic hands       |        |      |      | 0:27 |
+  | drawing | \_      Hands from imagination |        |      |      | 0:44 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h) |
   |---------+------------+----------|
-  | drawing | *Tag time* | *6h 30m* |
+  | drawing | *Tag time* | *9h 32m* |
   |---------+------------+----------|
   | study   | *Tag time* | *0h 0m*  |
   
@@ -186,6 +191,23 @@
      :LOGBOOK:
      CLOCK: [2021-05-31 Mon 18:14]--[2021-05-31 Mon 21:03] =>  2:49
      CLOCK: [2021-05-31 Mon 14:07]--[2021-05-31 Mon 16:08] =>  2:01
+     :END:
+*** <2021-06-01 Tue>
+**** DONE Bridgman hands                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-01 Tue 18:03]--[2021-06-01 Tue 18:38] =>  0:35
+     :END:
+**** DONE Proko hand bones                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-01 Tue 18:38]--[2021-06-01 Tue 19:54] =>  1:16
+     :END:
+**** DONE Copy comic hands                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-01 Tue 19:54]--[2021-06-01 Tue 20:21] =>  0:27
+     :END:
+**** DONE Hands from imagination                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-01 Tue 20:32]--[2021-06-01 Tue 21:16] =>  0:44
      :END:
 ** Week 3
 ** Week 4
