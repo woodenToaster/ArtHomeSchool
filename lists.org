@@ -451,7 +451,6 @@
     - Draw a still life while focusing on drawing negative space.
 *** Value Scale
     - Draw a still life using only 2 values: dark and light.
-** Create a collage of your artistic inspirational roots
 * Long Exercises
 ** TODO Jim Lee style sketches: 1) Gesture. 2) Micron 08 outline. 3) Brush.
 ** TODO Copy a whole page
@@ -1191,4 +1190,46 @@
 *** <2020-10-11-Sat>
 **** DONE Plan first unit materials and exercises
 **** DONE drawabox plants
+* Second Year (<2021-05-31 Mon> to <2022-05-31 Tue>)
+** Study strategy
+*** Learn
+**** Read drawing books
+**** Watch videos
+**** Take classes
+*** Copy
+**** Do exercises from books and videos
+**** Master studies
+*** Invent
+**** Invent based on a topic I've just learned and copied
+**** Original art
+**** Storytelling (sequential pages)
+** Weekly goal - 35 hours
+*** Learn + copy = 18 hours
+*** Invent = 17 hours
+*** Weekly breakdown
+**** Monday - 8 hours
+***** Learn - 2 hours
+***** Master study - 2 hours
+***** Original page - 4 hours
+**** Tuesday - 3 hours
+***** Learn and copy - 1.5 hours
+***** Invent based on study topic - 1.5 hours
+**** Wednesday - 3 hours
+***** Learn and copy - 1.5 hours
+***** Invent based on study topic - 1.5 hours
+**** Thursday - 3 hours
+***** Learn and copy - 1.5 hours
+***** Invent based on study topic - 1.5 hours
+**** Friday - 3 hours
+***** Learn and copy - 1.5 hours
+***** Invent based on study topic - 1.5 hours
+**** Saturday - 8 hours
+***** Learn - 2 hours
+***** Master study - 2 hours
+***** Original page - 4 hours
+**** Sunday - 7 hours
+* Third Year (<2022-05-31 Tue> to <2023-05-31 Wed>)
+** Portfolio
+** Digital Painting
+** Complete graphic novel
 
