@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-04 Fri 21:00], for week 2021-W22.
+  #+CAPTION: Clock summary at [2021-06-05 Sat 15:29], for week 2021-W22.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -152,12 +152,12 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-04 Fri 21:00], for week 2021-W22.
+  #+CAPTION: Clock summary at [2021-06-05 Sat 15:29], for week 2021-W22.
   | Tags    | Headline                       | Time    |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | *Total time*                   | *17:57* |       |      |      |
+  |         | *Total time*                   | *22:04* |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | \_  Week 2                     |         | 17:57 |      |      |
+  |         | \_  Week 2                     |         | 22:04 |      |      |
   |         | \_    <2021-05-31 Mon>         |         |       | 6:30 |      |
   | drawing | \_      Bridgman hands         |         |       |      | 0:25 |
   | drawing | \_      Proko hands            |         |       |      | 1:15 |
@@ -180,14 +180,17 @@
   | drawing | \_      Bridgman hands         |         |       |      | 0:23 |
   | drawing | \_      Proko hand bones       |         |       |      | 1:14 |
   | drawing | \_      Hands imagination      |         |       |      | 1:08 |
+  |         | \_    <2021-06-05 Sat>         |         |       | 4:07 |      |
+  | drawing | \_      Proko hand bones       |         |       |      | 3:34 |
+  | drawing | \_      Copy comic hands       |         |       |      | 0:33 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-  | Tag     | Headline   | Time (h)  |
-  |---------+------------+-----------|
-  | drawing | *Tag time* | *17h 57m* |
-  |---------+------------+-----------|
-  | study   | *Tag time* | *0h 0m*   |
+  | Tag     | Headline   | Time (h) |
+  |---------+------------+----------|
+  | drawing | *Tag time* | *22h 4m* |
+  |---------+------------+----------|
+  | study   | *Tag time* | *0h 0m*  |
   
   #+END:
 
@@ -265,6 +268,16 @@
 **** DONE Hands imagination                                         :drawing:
      :LOGBOOK:
      CLOCK: [2021-06-04 Fri 19:52]--[2021-06-04 Fri 21:00] =>  1:08
+     :END:
+*** <2021-06-05 Sat>
+**** DONE Proko hand bones                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-05 Sat 13:34]--[2021-06-05 Sat 14:22] =>  0:48
+     CLOCK: [2021-06-05 Sat 08:58]--[2021-06-05 Sat 11:44] =>  2:46
+     :END:
+**** DONE Copy comic hands                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-05 Sat 14:56]--[2021-06-05 Sat 15:29] =>  0:33
      :END:
 ** Week 3
 ** Week 4
