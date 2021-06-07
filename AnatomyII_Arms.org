@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-05 Sat 15:29], for week 2021-W22.
+  #+CAPTION: Clock summary at [2021-06-06 Sun 20:31], for week 2021-W22.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -152,12 +152,12 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-05 Sat 15:29], for week 2021-W22.
+  #+CAPTION: Clock summary at [2021-06-06 Sun 20:31], for week 2021-W22.
   | Tags    | Headline                       | Time    |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | *Total time*                   | *22:04* |       |      |      |
+  |         | *Total time*                   | *27:01* |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | \_  Week 2                     |         | 22:04 |      |      |
+  |         | \_  Week 2                     |         | 27:01 |      |      |
   |         | \_    <2021-05-31 Mon>         |         |       | 6:30 |      |
   | drawing | \_      Bridgman hands         |         |       |      | 0:25 |
   | drawing | \_      Proko hands            |         |       |      | 1:15 |
@@ -183,14 +183,20 @@
   |         | \_    <2021-06-05 Sat>         |         |       | 4:07 |      |
   | drawing | \_      Proko hand bones       |         |       |      | 3:34 |
   | drawing | \_      Copy comic hands       |         |       |      | 0:33 |
+  |         | \_    <2021-06-06 Sun>         |         |       | 4:57 |      |
+  | study   | \_      Proko deltoids         |         |       |      | 0:33 |
+  | drawing | \_      Proko deltoids         |         |       |      | 0:55 |
+  | drawing | \_      Copy comic deltoids    |         |       |      | 1:29 |
+  | drawing | \_      Original page          |         |       |      | 1:13 |
+  | study   | \_      Blog                   |         |       |      | 0:47 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-  | Tag     | Headline   | Time (h) |
-  |---------+------------+----------|
-  | drawing | *Tag time* | *22h 4m* |
-  |---------+------------+----------|
-  | study   | *Tag time* | *0h 0m*  |
+  | Tag     | Headline   | Time (h)  |
+  |---------+------------+-----------|
+  | drawing | *Tag time* | *25h 41m* |
+  |---------+------------+-----------|
+  | study   | *Tag time* | *1h 20m*  |
   
   #+END:
 
@@ -279,6 +285,42 @@
      :LOGBOOK:
      CLOCK: [2021-06-05 Sat 14:56]--[2021-06-05 Sat 15:29] =>  0:33
      :END:
+*** <2021-06-06 Sun>
+**** DONE Proko deltoids                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-06-06 Sun 09:03]--[2021-06-06 Sun 09:36] =>  0:33
+     :END:
+**** DONE Proko deltoids                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-06 Sun 09:36]--[2021-06-06 Sun 10:31] =>  0:55
+     :END:
+**** DONE Copy comic deltoids :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-06 Sun 10:31]--[2021-06-06 Sun 12:00] =>  1:35
+     :END:
+**** DONE Original page                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-06 Sun 18:17]--[2021-06-06 Sun 19:30] =>  1:13
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2021-06-06 Sun 19:44]--[2021-06-06 Sun 20:31] =>  0:47
+     :END:
 ** Week 3
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2021-06-06 Sun 20:31], for week 2021-W22.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
+  #+END:
+ 
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
+  | Tag     | Headline   | Time (h) |
+  |---------+------------+----------|
+  | drawing | *Tag time* | *0h 0m*  |
+  |---------+------------+----------|
+  | study   | *Tag time* | *0h 0m*  |
+  
+  #+END:
 ** Week 4
    
