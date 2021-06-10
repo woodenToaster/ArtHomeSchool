@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-08 Tue 21:18], for week 2021-W23.
+  #+CAPTION: Clock summary at [2021-06-09 Wed 21:35], for week 2021-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -152,7 +152,7 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-08 Tue 21:18], for week 2021-W23.
+  #+CAPTION: Clock summary at [2021-06-09 Wed 21:35], for week 2021-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -275,12 +275,12 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-08 Tue 21:18], for week 2021-W23.
+  #+CAPTION: Clock summary at [2021-06-09 Wed 21:35], for week 2021-W23.
   | Tags    | Headline               | Time    |       |      |      |
   |---------+------------------------+---------+-------+------+------|
-  |         | *Total time*           | *11:49* |       |      |      |
+  |         | *Total time*           | *16:01* |       |      |      |
   |---------+------------------------+---------+-------+------+------|
-  |         | \_  Week 3             |         | 11:49 |      |      |
+  |         | \_  Week 3             |         | 16:01 |      |      |
   |         | \_    <2021-06-07 Mon> |         |       | 8:20 |      |
   | drawing | \_      Proko deltoids |         |       |      | 2:44 |
   | drawing | \_      Original page  |         |       |      | 3:30 |
@@ -290,14 +290,18 @@
   | drawing | \_      Proko biceps   |         |       |      | 1:48 |
   | study   | \_      Proko deltoids |         |       |      | 0:30 |
   | drawing | \_      Original page  |         |       |      | 1:11 |
+  |         | \_    <2021-06-09 Wed> |         |       | 4:12 |      |
+  | drawing | \_      Proko biceps   |         |       |      | 1:50 |
+  | study   | \_      Proko deltoids |         |       |      | 0:40 |
+  | drawing | \_      Original page  |         |       |      | 1:42 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *10h 59m* |
+  | drawing | *Tag time* | *14h 31m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *0h 50m*  |
+  | study   | *Tag time* | *1h 30m*  |
   
   #+END:
 *** <2021-06-07 Mon>
@@ -332,6 +336,19 @@
 **** DONE Original page                                             :drawing:
      :LOGBOOK:
      CLOCK: [2021-06-08 Tue 20:07]--[2021-06-08 Tue 21:18] =>  1:11
+     :END:
+*** <2021-06-09 Wed>
+**** DONE Proko biceps                                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-09 Wed 18:03]--[2021-06-09 Wed 19:53] =>  1:50
+     :END:
+**** DONE Proko deltoids                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-06-09 Wed 22:00]--[2021-06-09 Wed 22:40] =>  0:40
+     :END:
+**** DONE Original page                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-09 Wed 19:53]--[2021-06-09 Wed 21:35] =>  1:42
      :END:
 ** Week 4
    
