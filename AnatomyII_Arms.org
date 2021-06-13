@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-11 Fri 21:24], for week 2021-W23.
+  #+CAPTION: Clock summary at [2021-06-12 Sat 21:06], for week 2021-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -152,7 +152,7 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-11 Fri 21:24], for week 2021-W23.
+  #+CAPTION: Clock summary at [2021-06-12 Sat 21:06], for week 2021-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -275,39 +275,42 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-11 Fri 21:24], for week 2021-W23.
-  | Tags    | Headline               | Time    |       |      |      |
-  |---------+------------------------+---------+-------+------+------|
-  |         | *Total time*           | *22:04* |       |      |      |
-  |---------+------------------------+---------+-------+------+------|
-  |         | \_  Week 3             |         | 22:04 |      |      |
-  |         | \_    <2021-06-07 Mon> |         |       | 8:20 |      |
-  | drawing | \_      Proko deltoids |         |       |      | 2:44 |
-  | drawing | \_      Original page  |         |       |      | 3:30 |
-  | study   | \_      Proko deltoids |         |       |      | 0:20 |
-  | drawing | \_      Proko biceps   |         |       |      | 1:46 |
-  |         | \_    <2021-06-08 Tue> |         |       | 3:29 |      |
-  | drawing | \_      Proko biceps   |         |       |      | 1:48 |
-  | study   | \_      Proko deltoids |         |       |      | 0:30 |
-  | drawing | \_      Original page  |         |       |      | 1:11 |
-  |         | \_    <2021-06-09 Wed> |         |       | 4:12 |      |
-  | drawing | \_      Proko biceps   |         |       |      | 1:50 |
-  | study   | \_      Proko deltoids |         |       |      | 0:40 |
-  | drawing | \_      Original page  |         |       |      | 1:42 |
-  |         | \_    <2021-06-10 Thu> |         |       | 2:35 |      |
-  | drawing | \_      Proko biceps   |         |       |      | 0:57 |
-  | drawing | \_      Original page  |         |       |      | 1:08 |
-  | study   | \_      Proko biceps   |         |       |      | 0:30 |
-  |         | \_    <2021-06-11 Fri> |         |       | 3:28 |      |
-  | study   | \_      Proko biceps   |         |       |      | 0:30 |
-  | drawing | \_      Proko biceps   |         |       |      | 1:54 |
-  | drawing | \_      Original page  |         |       |      | 1:04 |
+  #+CAPTION: Clock summary at [2021-06-12 Sat 21:06], for week 2021-W23.
+  | Tags    | Headline                      | Time    |       |      |      |
+  |---------+-------------------------------+---------+-------+------+------|
+  |         | *Total time*                  | *30:05* |       |      |      |
+  |---------+-------------------------------+---------+-------+------+------|
+  |         | \_  Week 3                    |         | 30:05 |      |      |
+  |         | \_    <2021-06-07 Mon>        |         |       | 8:20 |      |
+  | drawing | \_      Proko deltoids        |         |       |      | 2:44 |
+  | drawing | \_      Original page         |         |       |      | 3:30 |
+  | study   | \_      Proko deltoids        |         |       |      | 0:20 |
+  | drawing | \_      Proko biceps          |         |       |      | 1:46 |
+  |         | \_    <2021-06-08 Tue>        |         |       | 3:29 |      |
+  | drawing | \_      Proko biceps          |         |       |      | 1:48 |
+  | study   | \_      Proko deltoids        |         |       |      | 0:30 |
+  | drawing | \_      Original page         |         |       |      | 1:11 |
+  |         | \_    <2021-06-09 Wed>        |         |       | 4:12 |      |
+  | drawing | \_      Proko biceps          |         |       |      | 1:50 |
+  | study   | \_      Proko deltoids        |         |       |      | 0:40 |
+  | drawing | \_      Original page         |         |       |      | 1:42 |
+  |         | \_    <2021-06-10 Thu>        |         |       | 2:35 |      |
+  | drawing | \_      Proko biceps          |         |       |      | 0:57 |
+  | drawing | \_      Original page         |         |       |      | 1:08 |
+  | study   | \_      Proko biceps          |         |       |      | 0:30 |
+  |         | \_    <2021-06-11 Fri>        |         |       | 3:28 |      |
+  | study   | \_      Proko biceps          |         |       |      | 0:30 |
+  | drawing | \_      Proko biceps          |         |       |      | 1:54 |
+  | drawing | \_      Original page         |         |       |      | 1:04 |
+  |         | \_    <2021-06-12 Sat>        |         |       | 8:01 |      |
+  | drawing | \_      Proko Triceps         |         |       |      | 4:20 |
+  | drawing | \_      Arms from imagination |         |       |      | 3:41 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *19h 34m* |
+  | drawing | *Tag time* | *27h 35m* |
   |---------+------------+-----------|
   | study   | *Tag time* | *2h 30m*  |
   
@@ -383,6 +386,19 @@
 **** DONE Original page                                             :drawing:
      :LOGBOOK:
      CLOCK: [2021-06-11 Fri 20:20]--[2021-06-11 Fri 21:24] =>  1:04
+     :END:
+*** <2021-06-12 Sat>
+**** DONE Proko Triceps                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-12 Sat 18:03]--[2021-06-12 Sat 19:26] =>  1:23
+     CLOCK: [2021-06-12 Sat 13:43]--[2021-06-12 Sat 14:56] =>  1:13
+     CLOCK: [2021-06-12 Sat 09:06]--[2021-06-12 Sat 10:50] =>  1:44
+     :END:
+**** DONE Arms from imagination                                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-12 Sat 19:39]--[2021-06-12 Sat 21:06] =>  1:27
+     CLOCK: [2021-06-12 Sat 15:21]--[2021-06-12 Sat 16:26] =>  1:05
+     CLOCK: [2021-06-12 Sat 10:51]--[2021-06-12 Sat 12:00] =>  1:09
      :END:
 ** Week 4
    

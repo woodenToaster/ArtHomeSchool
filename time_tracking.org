@@ -1,14 +1,14 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t
-#+CAPTION: Clock summary at [2021-05-29 Sat 20:53]
+#+CAPTION: Clock summary at [2021-06-12 Sat 21:09]
 | File                       | Tags     | Headline                                         | Time     |       |      |      |
 |----------------------------+----------+--------------------------------------------------+----------+-------+------+------|
-|                            | ALL      | *Total time*                                     | *851:15* |       |      |      |
+|                            | ALL      | *Total time*                                     | *911:14* |       |      |      |
 |----------------------------+----------+--------------------------------------------------+----------+-------+------+------|
-| AnatomyII_Arms.org         |          | *File time*                                      | *23:22*  |       |      |      |
-|                            |          | Log                                              | 23:22    |       |      |      |
-|                            |          | \_  Week 1                                       |          | 23:22 |      |      |
+| AnatomyII_Arms.org         |          | *File time*                                      | *83:21*  |       |      |      |
+|                            |          | Log                                              | 83:21    |       |      |      |
+|                            |          | \_  Week 1                                       |          | 26:15 |      |      |
 |                            |          | \_    <2021-05-24 Mon>                           |          |       | 4:47 |      |
 |                            | drawing  | \_      Digital warmup                           |          |       |      | 0:33 |
 |                            | drawing  | \_      Copy comic page                          |          |       |      | 1:09 |
@@ -42,6 +42,67 @@
 |                            | drawing  | \_      Proko hands                              |          |       |      | 3:31 |
 |                            | drawing  | \_      Copy comic art                           |          |       |      | 0:44 |
 |                            | drawing  | \_      Draw from imagination                    |          |       |      | 2:17 |
+|                            |          | \_    <2021-05-30 Sun>                           |          |       | 2:53 |      |
+|                            | drawing  | \_      4 Bridgman hands                         |          |       |      | 0:40 |
+|                            | drawing  | \_      Proko hands                              |          |       |      | 1:43 |
+|                            | study    | \_      Blog post                                |          |       |      | 0:30 |
+|                            |          | \_  Week 2                                       |          | 27:01 |      |      |
+|                            |          | \_    <2021-05-31 Mon>                           |          |       | 6:30 |      |
+|                            | drawing  | \_      Bridgman hands                           |          |       |      | 0:25 |
+|                            | drawing  | \_      Proko hands                              |          |       |      | 1:15 |
+|                            | drawing  | \_      Copy comic art                           |          |       |      | 4:50 |
+|                            |          | \_    <2021-06-01 Tue>                           |          |       | 3:02 |      |
+|                            | drawing  | \_      Bridgman hands                           |          |       |      | 0:35 |
+|                            | drawing  | \_      Proko hand bones                         |          |       |      | 1:16 |
+|                            | drawing  | \_      Copy comic hands                         |          |       |      | 0:27 |
+|                            | drawing  | \_      Hands from imagination                   |          |       |      | 0:44 |
+|                            |          | \_    <2021-06-02 Wed>                           |          |       | 3:27 |      |
+|                            | drawing  | \_      Bridgman hands                           |          |       |      | 0:25 |
+|                            | drawing  | \_      Proko hand bones                         |          |       |      | 1:12 |
+|                            | drawing  | \_      Copy comic hands                         |          |       |      | 1:02 |
+|                            | drawing  | \_      Hands from imagination                   |          |       |      | 0:48 |
+|                            |          | \_    <2021-06-03 Thu>                           |          |       | 2:13 |      |
+|                            | drawing  | \_      Bridgman hands                           |          |       |      | 0:28 |
+|                            | drawing  | \_      Proko hand bones                         |          |       |      | 1:04 |
+|                            | drawing  | \_      Copy comic hands                         |          |       |      | 0:41 |
+|                            |          | \_    <2021-06-04 Fri>                           |          |       | 2:45 |      |
+|                            | drawing  | \_      Bridgman hands                           |          |       |      | 0:23 |
+|                            | drawing  | \_      Proko hand bones                         |          |       |      | 1:14 |
+|                            | drawing  | \_      Hands imagination                        |          |       |      | 1:08 |
+|                            |          | \_    <2021-06-05 Sat>                           |          |       | 4:07 |      |
+|                            | drawing  | \_      Proko hand bones                         |          |       |      | 3:34 |
+|                            | drawing  | \_      Copy comic hands                         |          |       |      | 0:33 |
+|                            |          | \_    <2021-06-06 Sun>                           |          |       | 4:57 |      |
+|                            | study    | \_      Proko deltoids                           |          |       |      | 0:33 |
+|                            | drawing  | \_      Proko deltoids                           |          |       |      | 0:55 |
+|                            | drawing  | \_      Copy comic deltoids                      |          |       |      | 1:29 |
+|                            | drawing  | \_      Original page                            |          |       |      | 1:13 |
+|                            | study    | \_      Blog                                     |          |       |      | 0:47 |
+|                            |          | \_  Week 3                                       |          | 30:05 |      |      |
+|                            |          | \_    <2021-06-07 Mon>                           |          |       | 8:20 |      |
+|                            | drawing  | \_      Proko deltoids                           |          |       |      | 2:44 |
+|                            | drawing  | \_      Original page                            |          |       |      | 3:30 |
+|                            | study    | \_      Proko deltoids                           |          |       |      | 0:20 |
+|                            | drawing  | \_      Proko biceps                             |          |       |      | 1:46 |
+|                            |          | \_    <2021-06-08 Tue>                           |          |       | 3:29 |      |
+|                            | drawing  | \_      Proko biceps                             |          |       |      | 1:48 |
+|                            | study    | \_      Proko deltoids                           |          |       |      | 0:30 |
+|                            | drawing  | \_      Original page                            |          |       |      | 1:11 |
+|                            |          | \_    <2021-06-09 Wed>                           |          |       | 4:12 |      |
+|                            | drawing  | \_      Proko biceps                             |          |       |      | 1:50 |
+|                            | study    | \_      Proko deltoids                           |          |       |      | 0:40 |
+|                            | drawing  | \_      Original page                            |          |       |      | 1:42 |
+|                            |          | \_    <2021-06-10 Thu>                           |          |       | 2:35 |      |
+|                            | drawing  | \_      Proko biceps                             |          |       |      | 0:57 |
+|                            | drawing  | \_      Original page                            |          |       |      | 1:08 |
+|                            | study    | \_      Proko biceps                             |          |       |      | 0:30 |
+|                            |          | \_    <2021-06-11 Fri>                           |          |       | 3:28 |      |
+|                            | study    | \_      Proko biceps                             |          |       |      | 0:30 |
+|                            | drawing  | \_      Proko biceps                             |          |       |      | 1:54 |
+|                            | drawing  | \_      Original page                            |          |       |      | 1:04 |
+|                            |          | \_    <2021-06-12 Sat>                           |          |       | 8:01 |      |
+|                            | drawing  | \_      Proko Triceps                            |          |       |      | 4:20 |
+|                            | drawing  | \_      Arms from imagination                    |          |       |      | 3:41 |
 |----------------------------+----------+--------------------------------------------------+----------+-------+------+------|
 | AnatomyI_Torso.org         |          | *File time*                                      | *136:38* |       |      |      |
 |                            |          | Log                                              | 136:38   |       |      |      |
@@ -1047,4 +1108,6 @@
 | lists.org                  |          | *File time*                                      | *0:00*   |       |      |      |
 |----------------------------+----------+--------------------------------------------------+----------+-------+------+------|
 | time_tracking.org          |          | *File time*                                      | *0:00*   |       |      |      |
+|----------------------------+----------+--------------------------------------------------+----------+-------+------+------|
+| writing.org                |          | *File time*                                      | *0:00*   |       |      |      |
 #+END:
