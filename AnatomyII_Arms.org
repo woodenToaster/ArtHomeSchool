@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-12 Sat 21:06], for week 2021-W23.
+  #+CAPTION: Clock summary at [2021-06-13 Sun 20:03], for week 2021-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -152,7 +152,7 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-12 Sat 21:06], for week 2021-W23.
+  #+CAPTION: Clock summary at [2021-06-13 Sun 20:03], for week 2021-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -275,12 +275,12 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-12 Sat 21:06], for week 2021-W23.
+  #+CAPTION: Clock summary at [2021-06-13 Sun 20:03], for week 2021-W23.
   | Tags    | Headline                      | Time    |       |      |      |
   |---------+-------------------------------+---------+-------+------+------|
-  |         | *Total time*                  | *30:05* |       |      |      |
+  |         | *Total time*                  | *36:20* |       |      |      |
   |---------+-------------------------------+---------+-------+------+------|
-  |         | \_  Week 3                    |         | 30:05 |      |      |
+  |         | \_  Week 3                    |         | 36:20 |      |      |
   |         | \_    <2021-06-07 Mon>        |         |       | 8:20 |      |
   | drawing | \_      Proko deltoids        |         |       |      | 2:44 |
   | drawing | \_      Original page         |         |       |      | 3:30 |
@@ -305,14 +305,20 @@
   |         | \_    <2021-06-12 Sat>        |         |       | 8:01 |      |
   | drawing | \_      Proko Triceps         |         |       |      | 4:20 |
   | drawing | \_      Arms from imagination |         |       |      | 3:41 |
+  |         | \_    <2021-06-13 Sun>        |         |       | 6:15 |      |
+  | drawing | \_      Proko Triceps         |         |       |      | 3:13 |
+  | drawing | \_      Arms from imagination |         |       |      | 1:03 |
+  | study   | \_      Proko biceps          |         |       |      | 0:56 |
+  | study   | \_      Proko forearms        |         |       |      | 0:24 |
+  | study   | \_      Blog                  |         |       |      | 0:39 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *27h 35m* |
+  | drawing | *Tag time* | *31h 51m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *2h 30m*  |
+  | study   | *Tag time* | *4h 29m*  |
   
   #+END:
 *** <2021-06-07 Mon>
@@ -399,6 +405,30 @@
      CLOCK: [2021-06-12 Sat 19:39]--[2021-06-12 Sat 21:06] =>  1:27
      CLOCK: [2021-06-12 Sat 15:21]--[2021-06-12 Sat 16:26] =>  1:05
      CLOCK: [2021-06-12 Sat 10:51]--[2021-06-12 Sat 12:00] =>  1:09
+     :END:
+*** <2021-06-13 Sun>
+**** DONE Proko Triceps                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-13 Sun 18:05]--[2021-06-13 Sun 18:56] =>  0:51
+     CLOCK: [2021-06-13 Sun 13:52]--[2021-06-13 Sun 14:46] =>  0:54
+     CLOCK: [2021-06-13 Sun 09:26]--[2021-06-13 Sun 10:54] =>  1:28
+     :END:
+**** DONE Arms from imagination                                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-13 Sun 10:55]--[2021-06-13 Sun 11:58] =>  1:03
+     :END:
+**** DONE Proko biceps                                                :study:
+     :LOGBOOK:
+     CLOCK: [2021-06-13 Sun 17:12]--[2021-06-13 Sun 17:55] =>  0:43
+     CLOCK: [2021-06-13 Sun 14:47]--[2021-06-13 Sun 15:00] =>  0:13
+     :END:
+**** DONE Proko forearms                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-06-13 Sun 18:56]--[2021-06-13 Sun 19:20] =>  0:24
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2021-06-13 Sun 19:24]--[2021-06-13 Sun 20:03] =>  0:39
      :END:
 ** Week 4
    
