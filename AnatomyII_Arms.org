@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-16 Wed 21:17], for week 2021-W24.
+  #+CAPTION: Clock summary at [2021-06-17 Thu 21:21], for week 2021-W24.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -152,7 +152,7 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-16 Wed 21:17], for week 2021-W24.
+  #+CAPTION: Clock summary at [2021-06-17 Thu 21:21], for week 2021-W24.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -275,7 +275,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-16 Wed 21:17], for week 2021-W24.
+  #+CAPTION: Clock summary at [2021-06-17 Thu 21:21], for week 2021-W24.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -400,12 +400,12 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-16 Wed 21:17], for week 2021-W24.
+  #+CAPTION: Clock summary at [2021-06-17 Thu 21:21], for week 2021-W24.
   | Tags    | Headline                                | Time    |       |      |      |
   |---------+-----------------------------------------+---------+-------+------+------|
-  |         | *Total time*                            | *15:34* |       |      |      |
+  |         | *Total time*                            | *18:40* |       |      |      |
   |---------+-----------------------------------------+---------+-------+------+------|
-  |         | \_  Week 4                              |         | 15:34 |      |      |
+  |         | \_  Week 4                              |         | 18:40 |      |      |
   |         | \_    <2021-06-14 Mon>                  |         |       | 8:26 |      |
   | drawing | \_      Proko forearms                  |         |       |      | 4:00 |
   | drawing | \_      Comic arms from photo reference |         |       |      | 3:24 |
@@ -419,12 +419,15 @@
   | drawing | \_      Proko forearms                  |         |       |      | 2:02 |
   | study   | \_      Proko forearms                  |         |       |      | 0:20 |
   | drawing | \_      Original page                   |         |       |      | 1:06 |
+  |         | \_    <2021-06-17 Thu>                  |         |       | 3:06 |      |
+  | drawing | \_      Proko forearms                  |         |       |      | 1:17 |
+  | drawing | \_      Original page                   |         |       |      | 1:49 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *13h 32m* |
+  | drawing | *Tag time* | *16h 38m* |
   |---------+------------+-----------|
   | study   | *Tag time* | *2h 2m*   |
   
@@ -477,3 +480,13 @@
      :LOGBOOK:
      CLOCK: [2021-06-16 Wed 20:11]--[2021-06-16 Wed 21:17] =>  1:06
      :END:
+*** <2021-06-17 Thu>
+**** DONE Proko forearms                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-17 Thu 18:09]--[2021-06-17 Thu 19:26] =>  1:17
+     :END:
+**** DONE Original page                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-17 Thu 19:32]--[2021-06-17 Thu 21:21] =>  1:49
+     :END:
+     
