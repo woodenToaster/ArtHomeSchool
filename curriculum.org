@@ -246,7 +246,7 @@
 *** Week 2
 *** Week 3
 *** Week 4
-* TODO Term 3
+* DONE Term 3
 ** DONE Head Drawing II
 *** Video
 **** DONE Watts Head Drawing Phase II
@@ -266,7 +266,7 @@
 *** Week 2
 *** Week 3
 *** Week 4
-** TODO Figure Drawing III
+** DONE Figure Drawing III
 *** Video
 **** DONE Watts Figure Drawing Fundamentals (Mass and Full Value)
 **** TODO Watts Figure Drawing Phase II
@@ -279,16 +279,16 @@
 *** Week 2
 *** Week 3
 *** Week 4
-** TODO Anatomy III - Arms and Hands
+** DONE Anatomy III - Arms and Hands
 *** Video
-**** TODO Proko Human Anatomy for Artists - Arms 
+**** TODO Proko Human Anatomy for Artists - Arms (done through forearms) 
 *** Book
 **** TODO Bridgman's Book of a Hundred Hands
 *** Backup
 *** Art Parent - Bridgman
 *** Challenge
 **** TODO 100 hands
-*** Inspiration - Alan Moore's Writing for Comcis
+*** Inspiration - Alan Moore's Writing for Comics
 *** Week 1
 **** TODO 4 hands from Bridgman
 **** TODO 70 minutes on original sequential art
@@ -306,9 +306,14 @@
 **** TODO 70 minutes on original sequential art
 **** TODO Proko - Hands
 * TODO Term 4
+** TODO Anatomy IV - Legs and Feet
+*** Video - Proko Anatomy
+*** Book - Bridgman Complet Guide
+*** Backup - Proko hands
+*** Art Parent - Finch
+*** Inspiration - McCloud - Understanding comics
 ** TODO Color and Light I
 ** TODO Perspective IV
-** TODO Anatomy IV - Legs
 * TODO Term 5
 ** TODO Clothed Figure Drawing
 ** TODO Bridgman's Anatomy
