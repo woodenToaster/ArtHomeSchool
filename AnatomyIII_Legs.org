@@ -6,22 +6,25 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-06-21 Mon 20:58], for week 2021-W25.
-  | Tags    | Headline               | Time   |      |      |      |
-  |---------+------------------------+--------+------+------+------|
-  |         | *Total time*           | *8:26* |      |      |      |
-  |---------+------------------------+--------+------+------+------|
-  |         | \_  Week 1             |        | 8:26 |      |      |
-  |         | \_    <2021-06-21 Mon> |        |      | 8:26 |      |
-  | drawing | \_      Proko legs     |        |      |      | 4:32 |
-  | drawing | \_      Original page  |        |      |      | 3:54 |
+  #+CAPTION: Clock summary at [2021-06-22 Tue 21:13], for week 2021-W25.
+  | Tags    | Headline                | Time    |       |      |      |
+  |---------+-------------------------+---------+-------+------+------|
+  |         | *Total time*            | *11:33* |       |      |      |
+  |---------+-------------------------+---------+-------+------+------|
+  |         | \_  Week 1              |         | 11:33 |      |      |
+  |         | \_    <2021-06-21 Mon>  |         |       | 8:26 |      |
+  | drawing | \_      Proko legs      |         |       |      | 4:32 |
+  | drawing | \_      Original page   |         |       |      | 3:54 |
+  |         | \_    <2021-06-22 Tue>  |         |       | 3:07 |      |
+  | drawing | \_      Proko leg bones |         |       |      | 1:36 |
+  | drawing | \_      Original page   |         |       |      | 1:31 |
   #+END:
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-  | Tag     | Headline   | Time (h) |
-  |---------+------------+----------|
-  | drawing | *Tag time* | *8h 26m* |
-  |---------+------------+----------|
-  | study   | *Tag time* | *0h 0m*  |
+  | Tag     | Headline   | Time (h)  |
+  |---------+------------+-----------|
+  | drawing | *Tag time* | *11h 33m* |
+  |---------+------------+-----------|
+  | study   | *Tag time* | *0h 0m*   |
   
   #+END:
 *** <2021-06-21 Mon>
@@ -37,6 +40,16 @@
      CLOCK: [2021-06-21 Mon 15:01]--[2021-06-21 Mon 16:12] =>  1:11
      CLOCK: [2021-06-21 Mon 10:17]--[2021-06-21 Mon 11:41] =>  1:24
      :END:
+*** <2021-06-22 Tue>
+**** DONE Proko leg bones                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-22 Tue 18:05]--[2021-06-22 Tue 19:41] =>  1:36
+     :END:
+**** DONE Original page                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-06-22 Tue 19:42]--[2021-06-22 Tue 21:13] =>  1:31
+     :END:
 ** Week 2
 ** Week 3
 ** Week 4
+   

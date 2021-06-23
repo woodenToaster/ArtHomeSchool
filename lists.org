@@ -36,14 +36,12 @@
 *** 2 inch brush
 ** Blair low odor spray fix
 ** Stillman and Birn Zeta Series sketchbook
+** Stillman and Birn Epsilon Series sketchbook (for ink)
 ** white ink
 ** Point divider
-** Alvin parallel glider
-** Watercolor paper/sketchbook
 ** Canon Pixma iX6820 13x19 cardstock printer - $189
 ** HP OfficeJet Pro 7740 11x17 printer scanner - $279 (doesn't scan 11x17)
 ** Epson WF-7840 - $250 (can't print grayscale without color ink cartridges)
-** Arches 88 silk screen paper (too expensive)
 ** DONE Drawmixpaint supplies to build
 *** DONE Black sheet
 *** DONE Shadow box (try cardboard first)
@@ -84,6 +82,7 @@
     - x2 22" 2x4
 * Art Books
 ** General
+*** Sketching: The Basics
 *** Drawing Lessons from the Great Masters - Robert Hale
 *** Vilppu Drawing Manual - Glenn Vilppu
 *** Imaginative Realism - James Gurney
@@ -180,6 +179,7 @@
 *** Drawing and Designing with Confidence - Lin
 *** Composition of Outdoor Painting - Edgar Payne
 *** Framed Ink
+*** Framed Ink 2
 *** How Pictures Work - Bang
 *** Vision and Art - Margaret Livingstone
 *** Pictorial Composition - Poore
