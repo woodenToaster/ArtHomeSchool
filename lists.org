@@ -10,15 +10,16 @@
 ** Divinity 2
 ** Demon's Souls
 ** Baldur's Gate 3
+** Guardians of the Galaxy
 * Art Supplies
 ** Non-photo blue lead for staedtler holder
+** Conte 1710 B
+** Woodless graphite pencil
 ** Pencil extender
 ** Drawing board
 ** Tall chair
 ** Trash can
 ** Small mirror
-** Conte 1710 B
-** Woodless graphite pencil
 ** Copic (or prismacolor) grey toned markers
 ** Gouache paints
 *** Yellow ochre
@@ -34,7 +35,7 @@
 *** 2 inch brush
 ** Blair low odor spray fix
 ** Stillman and Birn Zeta Series sketchbook
-** Stillman and Birn Epsilon Series sketchbook (for ink)
+** Stillman and Birn Epsilon Series sketchbook
 ** white ink
 ** Point divider
 ** Canon Pixma iX6820 13x19 cardstock printer - $189
@@ -80,7 +81,6 @@
     - x2 22" 2x4
 * Art Books
 ** General
-*** Sketching: The Basics
 *** Drawing Lessons from the Great Masters - Robert Hale
 *** Vilppu Drawing Manual - Glenn Vilppu
 *** Imaginative Realism - James Gurney
@@ -96,6 +96,7 @@
 *** DONE Krash Course - Greg Capullo
 *** DONE The Practice and Science of Drawing - Speed
 ** Figure Drawing
+*** Figure Drawing for Concept Artists
 *** Drawing the Head and Hands - Loomis
 *** Human Anatomy for Artists - Goldfinger
 *** Artistic Anatomy - Paul Richer
@@ -146,6 +147,7 @@
 *** DONE Force: Drawing Human Anatomy
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
+*** Sketching: The Basics
 *** Creative Perspective for Artists and Illustrators - Ernest Watson
 *** Framed Perspective Vol I - Marcos mateu-Mestre
 *** Framed Perspective Vol II - Marcos mateu-Mestre
@@ -237,7 +239,6 @@
 ** TODO The Wolverine
 ** TODO Watchmen
 * Videos
-** Neil Gaimon: Make Good Art
 ** Sean Gordon Murphy demos (youtube)
 ** Trent Kaniuaga youtube (FZD student?)
 ** Charles Lin tutorials (FZD student)
@@ -254,6 +255,7 @@
 *** DONE 25 wheels
 *** TODO 100 treasure chests
 ** Ctrl+paint
+** Lucidpixul
 ** Moderndayjames
 ** Sinix Design
 ** Watts Atelier Illustrator and Concept Artist Learning Path
@@ -312,10 +314,10 @@
 **** TODO Faces
 ** Alphonso Dunn - Great Ink Videos
 ** Proko
-*** Portrait Drawing
+*** TODO Portrait Drawing
 *** TODO Anatomy
 **** DONE Torso and Back
-**** TODO Arms
+**** DONE Arms
 **** TODO Legs
 *** DONE Figure Drawing
 ** The Drawing Database
@@ -340,6 +342,7 @@
 *** Color Theory
 *** Reilly Drawing Method
 *** Russian Academic Drawing
+** DONE Neil Gaimon: Make Good Art
 ** DONE Marshall Vandruff Perspective
 ** DONE drawmixpaint.com
 * Comics
@@ -367,9 +370,7 @@
 ** Maus
 ** Happy
 ** The Deadman Collection - Niel Adams
-** Pride of Badhdad
 ** Silver Surfer Parable
-** 4 Kids walk into a bank
 ** Daytripper
 ** This One Summer
 ** East of West
