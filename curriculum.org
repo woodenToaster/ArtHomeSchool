@@ -308,7 +308,7 @@
 * TODO Term 4
 ** TODO Anatomy IV - Legs and Feet
 *** Video - Proko Anatomy
-*** Book - Bridgman Complet Guide
+*** Book - Bridgman Complete Guide
 *** Backup - Proko hands
 *** Art Parent - Finch
 *** Inspiration - McCloud - Understanding comics
