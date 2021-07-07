@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-05 Mon 20:29], for week 2021-W27.
+  #+CAPTION: Clock summary at [2021-07-06 Tue 21:39], for week 2021-W27.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -102,7 +102,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-05 Mon 20:29], for week 2021-W27.
+  #+CAPTION: Clock summary at [2021-07-06 Tue 21:39], for week 2021-W27.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -196,24 +196,28 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-05 Mon 20:29], for week 2021-W27.
-  | Tags    | Headline                 | Time   |      |      |      |
-  |---------+--------------------------+--------+------+------+------|
-  |         | *Total time*             | *7:59* |      |      |      |
-  |---------+--------------------------+--------+------+------+------|
-  |         | \_  Week 3               |        | 7:59 |      |      |
-  |         | \_    <2021-07-05 Mon>   |        |      | 7:59 |      |
-  | drawing | \_      Proko quads      |        |      |      | 3:09 |
-  | drawing | \_      Proko hamstrings |        |      |      | 1:52 |
-  | drawing | \_      Original page    |        |      |      | 2:58 |
+  #+CAPTION: Clock summary at [2021-07-06 Tue 21:39], for week 2021-W27.
+  | Tags    | Headline                 | Time    |       |      |      |
+  |---------+--------------------------+---------+-------+------+------|
+  |         | *Total time*             | *11:19* |       |      |      |
+  |---------+--------------------------+---------+-------+------+------|
+  |         | \_  Week 3               |         | 11:19 |      |      |
+  |         | \_    <2021-07-05 Mon>   |         |       | 7:59 |      |
+  | drawing | \_      Proko quads      |         |       |      | 3:09 |
+  | drawing | \_      Proko hamstrings |         |       |      | 1:52 |
+  | drawing | \_      Original page    |         |       |      | 2:58 |
+  |         | \_    <2021-07-06 Tue>   |         |       | 3:20 |      |
+  | drawing | \_      Proko hamstrings |         |       |      | 1:35 |
+  | drawing | \_      Original page    |         |       |      | 1:22 |
+  | study   | \_      Proko hamstrings |         |       |      | 0:23 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-  | Tag     | Headline   | Time (h) |
-  |---------+------------+----------|
-  | drawing | *Tag time* | *7h 59m* |
-  |---------+------------+----------|
-  | study   | *Tag time* | *0h 0m*  |
+  | Tag     | Headline   | Time (h)  |
+  |---------+------------+-----------|
+  | drawing | *Tag time* | *10h 56m* |
+  |---------+------------+-----------|
+  | study   | *Tag time* | *0h 23m*  |
   
   #+END:
 *** <2021-07-05 Mon>
@@ -231,6 +235,19 @@
      CLOCK: [2021-07-05 Mon 19:34]--[2021-07-05 Mon 20:29] =>  0:55
      CLOCK: [2021-07-05 Mon 15:07]--[2021-07-05 Mon 15:45] =>  0:38
      CLOCK: [2021-07-05 Mon 10:14]--[2021-07-05 Mon 11:39] =>  1:25
+     :END:
+*** <2021-07-06 Tue>
+**** DONE Proko hamstrings                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-07-06 Tue 17:45]--[2021-07-06 Tue 19:20] =>  1:35
+     :END:
+**** DONE Original page                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-07-06 Tue 19:21]--[2021-07-06 Tue 20:43] =>  1:22
+     :END:
+**** DONE Proko hamstrings                                            :study:
+     :LOGBOOK:
+     CLOCK: [2021-07-06 Tue 21:16]--[2021-07-06 Tue 21:39] =>  0:23
      :END:
 ** Week 4
    
