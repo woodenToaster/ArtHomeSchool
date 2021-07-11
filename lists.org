@@ -14,11 +14,11 @@
 * Art Supplies
 ** Col-erase non photo blue pencil
 ** Conte 1710 B
-** Woodless graphite pencil (monolith or tombow?)
+** Woodless graphite pencil (cretacolor monolith)
 ** Pencil extender
+** Bristol
 ** Drawing board
 ** Tall chair
-** Trash can
 ** Copic (or prismacolor) grey toned markers
 ** Gouache paints
 *** Yellow ochre
@@ -224,6 +224,10 @@
 ** Robert E. Howard
 ** Pillars of the Earth - Ken Follett
    - Traces the entire lives of people in the 12th century building a cathedral
+** Brandon Sanderson
+*** TODO Elantris
+*** Mistborn
+*** Way of Kings
 * Movies
 ** TODO Spiderman 1
 ** TODO Spiderman 2
