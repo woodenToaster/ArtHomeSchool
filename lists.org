@@ -318,10 +318,10 @@
 ** Alphonso Dunn - Great Ink Videos
 ** Proko
 *** TODO Portrait Drawing
-*** TODO Anatomy
+*** DONE Anatomy
 **** DONE Torso and Back
 **** DONE Arms
-**** TODO Legs
+**** DONE Legs
 *** DONE Figure Drawing
 ** The Drawing Database
 *** Basics

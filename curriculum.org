@@ -279,7 +279,7 @@
 *** Week 2
 *** Week 3
 *** Week 4
-** DONE Anatomy III - Arms and Hands
+** DONE Anatomy II - Arms and Hands
 *** Video
 **** TODO Proko Human Anatomy for Artists - Arms (done through forearms) 
 *** Book
@@ -306,35 +306,42 @@
 **** TODO 70 minutes on original sequential art
 **** TODO Proko - Hands
 * TODO Term 4
-** TODO Anatomy IV - Legs and Feet
+** DONE Anatomy III - Legs and Feet
 *** Video - Proko Anatomy
 *** Book - Bridgman Complete Guide
 *** Backup - Proko hands
 *** Art Parent - Finch
 *** Inspiration - McCloud - Understanding comics
-** TODO Color and Light I
-** TODO Perspective IV
+** TODO Figure Drawing IV - Comics
+*** Video - David Finch
+*** Book - Savage Sword of Conan Omnibus
+*** Backup -
+*** Art Parent - John Buscema
+*** Week 1
+**** Gesture
+*** Week 2
+**** Structure
+*** Week 3
+**** Shadow Mapping
+*** Week 4
+**** Rendering
+** TODO Bridgman's Anatomy
 * TODO Term 5
 ** TODO Clothed Figure Drawing
-** TODO Bridgman's Anatomy
-** TODO Color and Light II
+** TODO Composition and Storytelling I
+** TODO Value/Color and Light I
 * TODO Term 6
+** TODO Color and Light II
 ** TODO Character Design
-** TODO Composition and Storytelling II
-** TODO Perspective VI
+** TODO Perspective III
 * TODO Term 7
 ** TODO Anatomy V - Imagination
 ** TODO Environment Design I
 * TODO Term 8
 ** TODO Environment Design II
 ** TODO Inking I
-** TODO Anatomy VI - Caricature/Animal
 * TODO Term 9
 ** TODO Painting I
 ** TODO Inking II
 ** TODO Painting II
-* TODO Term 10
-** TODO Painting III - Matte Painting
-** TODO Personal Project I
-** TODO Personal Project II
    

@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-16 Fri 20:49], for week 2021-W28.
+  #+CAPTION: Clock summary at [2021-07-17 Sat 20:38], for week 2021-W28.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -102,7 +102,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-16 Fri 20:49], for week 2021-W28.
+  #+CAPTION: Clock summary at [2021-07-17 Sat 20:38], for week 2021-W28.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -196,7 +196,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-16 Fri 20:49], for week 2021-W28.
+  #+CAPTION: Clock summary at [2021-07-17 Sat 20:38], for week 2021-W28.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -309,12 +309,12 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-16 Fri 20:49], for week 2021-W28.
+  #+CAPTION: Clock summary at [2021-07-17 Sat 20:38], for week 2021-W28.
   | Tags    | Headline                       | Time    |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | *Total time*                   | *20:43* |       |      |      |
+  |         | *Total time*                   | *27:31* |       |      |      |
   |---------+--------------------------------+---------+-------+------+------|
-  |         | \_  Week 4                     |         | 20:43 |      |      |
+  |         | \_  Week 4                     |         | 27:31 |      |      |
   |         | \_    <2021-07-12 Mon>         |         |       | 9:20 |      |
   | drawing | \_      Proko feet             |         |       |      | 1:32 |
   | drawing | \_      Finch feet             |         |       |      | 4:10 |
@@ -337,14 +337,19 @@
   | drawing | \_      Proko hands            |         |       |      | 1:19 |
   | drawing | \_      Constructing hands     |         |       |      | 1:20 |
   | study   | \_      Proko feet             |         |       |      | 0:20 |
+  |         | \_    <2021-07-17 Sat>         |         |       | 6:48 |      |
+  | drawing | \_      Proko hands            |         |       |      | 2:27 |
+  | drawing | \_      Original page          |         |       |      | 1:12 |
+  | drawing | \_      Constructing hands     |         |       |      | 2:19 |
+  | study   | \_      Plan next unit         |         |       |      | 0:50 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *18h 29m* |
+  | drawing | *Tag time* | *24h 27m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *2h 14m*  |
+  | study   | *Tag time* | *3h 4m*   |
   
   #+END:
 *** <2021-07-12 Mon>
@@ -421,3 +426,26 @@
      :LOGBOOK:
      CLOCK: [2021-07-16 Fri 22:00]--[2021-07-16 Fri 22:20] =>  0:20
      :END:
+*** <2021-07-17 Sat>
+**** DONE Proko hands                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-07-17 Sat 14:34]--[2021-07-17 Sat 15:40] =>  1:06
+     CLOCK: [2021-07-17 Sat 09:07]--[2021-07-17 Sat 10:28] =>  1:21
+     :END:
+**** DONE Original page                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-07-17 Sat 10:28]--[2021-07-17 Sat 11:40] =>  1:12
+     :END:
+**** DONE Constructing hands                                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-07-17 Sat 18:08]--[2021-07-17 Sat 19:42] =>  1:34
+     CLOCK: [2021-07-17 Sat 15:40]--[2021-07-17 Sat 16:25] =>  0:45
+     :END:
+**** DONE Plan next unit                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-07-17 Sat 19:48]--[2021-07-17 Sat 20:38] =>  0:50
+     :END:
+*** <2021-07-18 Sun>
+**** TODO Proko hands :drawing:
+**** TODO Original page :drawing:
+**** TODO Blog :study:
