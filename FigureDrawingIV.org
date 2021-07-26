@@ -6,12 +6,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-24 Sat 16:29], for week 2021-W29.
+  #+CAPTION: Clock summary at [2021-07-25 Sun 20:14], for week 2021-W29.
   | Tags    | Headline                | Time    |       |      |      |
   |---------+-------------------------+---------+-------+------+------|
-  |         | *Total time*            | *24:55* |       |      |      |
+  |         | *Total time*            | *28:51* |       |      |      |
   |---------+-------------------------+---------+-------+------+------|
-  |         | \_  Week 1              |         | 24:55 |      |      |
+  |         | \_  Week 1              |         | 28:51 |      |      |
   |         | \_    <2021-07-19 Mon>  |         |       | 7:56 |      |
   | drawing | \_      Gesture drawing |         |       |      | 4:42 |
   | drawing | \_      Original page   |         |       |      | 3:14 |
@@ -29,13 +29,17 @@
   | drawing | \_      Original page   |         |       |      | 1:32 |
   |         | \_    <2021-07-24 Sat>  |         |       | 4:59 |      |
   | drawing | \_      Gesture drawing |         |       |      | 4:59 |
+  |         | \_    <2021-07-25 Sun>  |         |       | 3:56 |      |
+  | drawing | \_      Gesture drawing |         |       |      | 2:57 |
+  | drawing | \_      Original page   |         |       |      | 0:33 |
+  | study   | \_      Blog            |         |       |      | 0:26 |
   #+END:
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *24h 55m* |
+  | drawing | *Tag time* | *28h 25m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *0h 0m*   |
+  | study   | *Tag time* | *0h 26m*  |
   
   #+END:
 *** <2021-07-19 Mon>
@@ -92,10 +96,24 @@
      CLOCK: [2021-07-24 Sat 09:02]--[2021-07-24 Sat 12:00] =>  2:58
      :END:
 **** TODO Original page :drawing:
-     
+*** <2021-07-25 Sun>
+**** DONE Gesture drawing                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-07-25 Sun 18:18]--[2021-07-25 Sun 19:28] =>  1:10
+     CLOCK: [2021-07-25 Sun 10:03]--[2021-07-25 Sun 11:50] =>  1:47
+     :END:
+**** DONE Original page                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-07-25 Sun 13:09]--[2021-07-25 Sun 13:42] =>  0:33
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2021-07-25 Sun 19:48]--[2021-07-25 Sun 20:14] =>  0:26
+     :END:
+ 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-24 Sat 16:29], for week 2021-W29.
+  #+CAPTION: Clock summary at [2021-07-25 Sun 20:14], for week 2021-W29.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -110,7 +128,7 @@
   #+END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-24 Sat 16:29], for week 2021-W29.
+  #+CAPTION: Clock summary at [2021-07-25 Sun 20:14], for week 2021-W29.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -125,7 +143,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-07-24 Sat 16:29], for week 2021-W29.
+  #+CAPTION: Clock summary at [2021-07-25 Sun 20:14], for week 2021-W29.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
