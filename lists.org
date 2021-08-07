@@ -182,6 +182,7 @@
 *** Pictorial Composition - Poore
 *** DONE Wally Wood - 22 panels that always work
 * Inspirational Books
+*** Psychology of Performance - Eddie O'Connor (Hoopla)
 *** Digital Minimalism - Cal Newport
 *** Real Artists Don't Starve - Jeff Goins
 *** Linchpin - Seth Goden
@@ -223,9 +224,15 @@
 ** Pillars of the Earth - Ken Follett
    - Traces the entire lives of people in the 12th century building a cathedral
 ** Brandon Sanderson
-*** TODO Elantris
-*** Mistborn
-*** Way of Kings
+*** DONE Elantris
+*** TODO Mistborn
+**** TODO 1
+**** TODO 2
+**** TODO 3
+**** TODO 4
+**** TODO 5
+**** TODO 6
+*** TODO Way of Kings
 * Movies
 ** TODO Spiderman 1
 ** TODO Spiderman 2
@@ -314,8 +321,9 @@
 *** Gnomon workshop
 **** DONE The Body
 **** DONE Perspective
-**** Hands
+**** TODO Hands
 **** TODO Faces
+**** TODO Fight Scenes
 ** Alphonso Dunn - Great Ink Videos
 ** Proko
 *** TODO Portrait Drawing
@@ -325,7 +333,6 @@
 **** DONE Legs
 *** DONE Figure Drawing
 ** The Drawing Database
-*** Basics
 ** Jimmy Reyes
 ** The Process
 ** Dorian Iton - Light on Form
