@@ -246,7 +246,7 @@
 ** TODO Dead Pool 2
 ** TODO The Wolverine
 ** TODO Watchmen
-** TODO Conan The Barbarian
+** DONE Conan The Barbarian
 ** TODO Conan The Destroyer
 ** TODO Conan The Barbarian (2011)
 * Videos

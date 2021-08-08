@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-08-06 Fri 20:32], for week 2021-W31.
+  #+CAPTION: Clock summary at [2021-08-07 Sat 20:48], for week 2021-W31.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -90,7 +90,7 @@
  
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2021-W30 :tags t
-  #+CAPTION: Clock summary at [2021-08-06 Fri 20:32], for week 2021-W30.
+  #+CAPTION: Clock summary at [2021-08-07 Sat 20:48], for week 2021-W30.
   | Tags    | Headline                   | Time    |       |      |      |
   |---------+----------------------------+---------+-------+------+------|
   |         | *Total time*               | *16:25* |       |      |      |
@@ -178,12 +178,12 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-08-06 Fri 20:32], for week 2021-W31.
+  #+CAPTION: Clock summary at [2021-08-07 Sat 20:48], for week 2021-W31.
   | Tags    | Headline                  | Time    |       |      |      |
   |---------+---------------------------+---------+-------+------+------|
-  |         | *Total time*              | *16:47* |       |      |      |
+  |         | *Total time*              | *23:39* |       |      |      |
   |---------+---------------------------+---------+-------+------+------|
-  |         | \_  Week 3                |         | 16:47 |      |      |
+  |         | \_  Week 3                |         | 23:39 |      |      |
   |         | \_    <2021-08-02 Mon>    |         |       | 0:42 |      |
   | drawing | \_      Portrait drawing  |         |       |      | 0:42 |
   |         | \_    <2021-08-03 Tue>    |         |       | 0:20 |      |
@@ -196,11 +196,13 @@
   | drawing | \_      Figure drawing    |         |       |      | 3:57 |
   |         | \_    <2021-08-06 Fri>    |         |       | 5:45 |      |
   | drawing | \_      Figure drawing    |         |       |      | 5:45 |
+  |         | \_    <2021-08-07 Sat>    |         |       | 6:52 |      |
+  | drawing | \_      Figure drawing    |         |       |      | 6:52 |
   #+END:
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *14h 54m* |
+  | drawing | *Tag time* | *21h 46m* |
   |---------+------------+-----------|
   | study   | *Tag time* | *1h 53m*  |
   
@@ -243,9 +245,16 @@
      CLOCK: [2021-08-06 Fri 13:59]--[2021-08-06 Fri 15:41] =>  1:42
      CLOCK: [2021-08-06 Fri 09:37]--[2021-08-06 Fri 11:09] =>  1:32
      :END:
+*** <2021-08-07 Sat>
+**** DONE Figure drawing                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-08-07 Sat 18:20]--[2021-08-07 Sat 20:48] =>  2:28
+     CLOCK: [2021-08-07 Sat 13:40]--[2021-08-07 Sat 15:44] =>  2:04
+     CLOCK: [2021-08-07 Sat 09:15]--[2021-08-07 Sat 11:35] =>  2:20
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-08-06 Fri 20:32], for week 2021-W31.
+  #+CAPTION: Clock summary at [2021-08-07 Sat 20:48], for week 2021-W31.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
