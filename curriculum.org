@@ -325,23 +325,50 @@
 **** Shadow Mapping
 *** Week 4
 **** Rendering
-** TODO Bridgman's Anatomy
+** TODO Anatomy IV - Bridgman
+*** Videos
+    - Bridgman's Anatomy - Eric Gist
+    - Bridgman's Anatomy: Phase I - Jeff Watts
+    - Proko: How to study Bridgman
+    - Moderndayjames: Deciphering Bridgman
+*** Books
+    - Bridgman's Complete Guide to Drawing from Life
+    - Watts on Bridgman
+*** Art Parent - George Bridgman
+*** Challenge
+    - Draw the whole Bridgman book, then again from memory
+*** Week 1
+    - Proko
+    - Moderndayjames
+    - Copy torso
+*** Week 2
+    - Watts
+    - Torso from memory
+*** Week 3
+    - Watts
+    - Copy legs and arms
+*** Week 4
+    - Gist
+    - Legs and arms from memory
 * TODO Term 5
 ** TODO Clothed Figure Drawing
+** TODO Head drawing III
 ** TODO Composition and Storytelling I
-** TODO Value/Color and Light I
 * TODO Term 6
-** TODO Color and Light II
-** TODO Character Design
+** TODO Value and Light I
 ** TODO Perspective III
+** TODO Color and Light II
 * TODO Term 7
 ** TODO Anatomy V - Imagination
+** TODO Perspective IV
 ** TODO Environment Design I
 * TODO Term 8
 ** TODO Environment Design II
 ** TODO Inking I
+** TODO Character Design
 * TODO Term 9
 ** TODO Painting I
 ** TODO Inking II
 ** TODO Painting II
-   
+* TODO Term 10
+** TODO Digital Art I - Photoshop
