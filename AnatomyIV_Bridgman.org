@@ -6,12 +6,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-08-21 Sat 20:40], for week 2021-W33.
+  #+CAPTION: Clock summary at [2021-08-22 Sun 19:53], for week 2021-W33.
   | Tags    | Headline                  | Time    |       |      |      |
   |---------+---------------------------+---------+-------+------+------|
-  |         | *Total time*              | *22:59* |       |      |      |
+  |         | *Total time*              | *29:22* |       |      |      |
   |---------+---------------------------+---------+-------+------+------|
-  |         | \_  Week 1                |         | 22:59 |      |      |
+  |         | \_  Week 1                |         | 29:22 |      |      |
   |         | \_    <2021-08-16 Mon>    |         |       | 7:22 |      |
   | study   | \_      Watts on Bridgman |         |       |      | 1:18 |
   | drawing | \_      Bridgman          |         |       |      | 4:32 |
@@ -30,14 +30,18 @@
   | drawing | \_      Original art      |         |       |      | 0:53 |
   |         | \_    <2021-08-21 Sat>    |         |       | 4:30 |      |
   | drawing | \_      Watts on Bridgman |         |       |      | 4:30 |
+  |         | \_    <2021-08-22 Sun>    |         |       | 6:23 |      |
+  | drawing | \_      Watts on Bridgman |         |       |      | 4:22 |
+  | drawing | \_      Original page     |         |       |      | 1:38 |
+  | study   | \_      Blog              |         |       |      | 0:23 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *21h 41m* |
+  | drawing | *Tag time* | *27h 41m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *1h 18m*  |
+  | study   | *Tag time* | *1h 41m*  |
   
   #+END:
 *** <2021-08-16 Mon>
@@ -98,9 +102,23 @@
      CLOCK: [2021-08-21 Sat 14:24]--[2021-08-21 Sat 16:09] =>  1:45
      CLOCK: [2021-08-21 Sat 08:39]--[2021-08-21 Sat 11:24] =>  2:45
      :END:
+*** <2021-08-22 Sun>
+**** DONE Watts on Bridgman                                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-08-22 Sun 17:58]--[2021-08-22 Sun 19:30] =>  1:32
+     CLOCK: [2021-08-22 Sun 09:01]--[2021-08-22 Sun 11:51] =>  2:50
+     :END:
+**** DONE Original page                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-08-22 Sun 13:16]--[2021-08-22 Sun 14:54] =>  1:38
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2021-08-22 Sun 19:30]--[2021-08-22 Sun 19:53] =>  0:23
+     :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-08-21 Sat 20:40], for week 2021-W33.
+  #+CAPTION: Clock summary at [2021-08-22 Sun 19:53], for week 2021-W33.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -114,9 +132,10 @@
   | study   | *Tag time* | *0h 0m*  |
   
   #+END:
+*** 
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-08-21 Sat 20:40], for week 2021-W33.
+  #+CAPTION: Clock summary at [2021-08-22 Sun 19:53], for week 2021-W33.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -132,7 +151,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-08-21 Sat 20:40], for week 2021-W33.
+  #+CAPTION: Clock summary at [2021-08-22 Sun 19:53], for week 2021-W33.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
