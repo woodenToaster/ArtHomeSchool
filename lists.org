@@ -361,11 +361,6 @@
 ** https://www.comicbookherald.com/the-best-comics-of-all-time/
 ** Berserk
 ** Sandman
-** X-Men
-   - Age of Apocalypse
-   - X-cutioner's song
-   - lifedeath
-   - Grant Morrison New X-Men
 ** Frank Miller
 *** Sin City vol 4
 *** Ronin
@@ -376,7 +371,7 @@
 ** Batman
    - Black Mirror
 ** Transmetropolitan
-** Y: Last Man Standing
+** Y: The Last Man
 ** Black Hole - Charles Burns (Urbana Library)
 ** 100 Bullets
 ** Maus
@@ -388,7 +383,7 @@
 ** East of West
 * Art to Study
 ** Comics
-*** Moder Masters series (readcomiconline)
+*** Modern Masters series (readcomiconline)
 *** Lynd Ward - Woodcut novels (library)
 *** Niel Adams - Deadman Collection
 *** Hal Foster - Prince Valliant (trees)
@@ -417,6 +412,7 @@
 **** Return of Wolverine
 *** Simon Bisley
      - Slaine (first few books)
+     - Lobo
 *** Dark Souls Concept art
 *** Kevin Nowlan
     - Superman and Aliens (for lighting)
