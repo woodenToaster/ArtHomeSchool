@@ -236,8 +236,8 @@
 ** Michael Moorecock - Elric books
 * Movies
 ** TODO Spiderman 1
-** TODO Spiderman 2
-** TODO Spiderman 3
+** DONE Spiderman 2
+** DONE Spiderman 3
 ** TODO Amazing Spiderman 1
 ** TODO Amazing Spiderman 2
 ** TODO Spiderman: Into the spiderverse
