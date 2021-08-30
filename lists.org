@@ -240,7 +240,7 @@
 ** DONE Spiderman 3
 ** TODO Amazing Spiderman 1
 ** TODO Amazing Spiderman 2
-** TODO Spiderman: Into the spiderverse
+** DONE Spiderman: Into the spiderverse
 ** TODO Venom
 ** TODO X-men: The last stand
 ** TODO New Mutants
@@ -358,7 +358,6 @@
 ** DONE Marshall Vandruff Perspective
 ** DONE drawmixpaint.com
 * Comics
-** https://www.comicbookherald.com/the-best-comics-of-all-time/
 ** Berserk
 ** Sandman
 ** Frank Miller
@@ -368,8 +367,6 @@
    - From Hell
    - Saga of the Swamp Thing (hoopla)
    - Mister Miracle
-** Batman
-   - Black Mirror
 ** Transmetropolitan
 ** Y: The Last Man
 ** Black Hole - Charles Burns (Urbana Library)
@@ -377,7 +374,6 @@
 ** Maus
 ** Happy
 ** The Deadman Collection - Niel Adams
-** Silver Surfer Parable
 ** Daytripper
 ** This One Summer
 ** East of West
@@ -468,14 +464,6 @@
 ** TODO Draw the same panel every day for a week
 ** TODO Draw a whole script to an existing comic
 ** TODO Illustrate an existing story (Poe, Dostoevsky)
-** TODO Practice each piece of anatomy for a week straight
-*** TODO Head
-*** TODO Arms
-*** TODO Hands
-*** TODO Torso
-*** TODO Pelvis
-*** TODO Legs
-*** TODO Feet
 ** TODO Bring director's cut pencil into clip studio and ink it.
 ** TODO Concept design
    - Start with some thumbnails from reference
