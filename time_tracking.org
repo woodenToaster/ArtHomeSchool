@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t
-#+CAPTION: Clock summary at [2021-08-07 Sat 15:49]
+#+CAPTION: Clock summary at [2021-09-05 Sun 18:58]
 | File                       | Tags     | Headline                                         | Time      |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
-|                            | ALL      | *Total time*                                     | *1156:38* |       |      |      |
+|                            | ALL      | *Total time*                                     | *1268:08* |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | AnatomyIII_Legs.org        |          | *File time*                                      | *136:15*  |       |      |      |
 |                            |          | Log                                              | 136:15    |       |      |      |
@@ -249,6 +249,72 @@
 |                            | drawing  | \_      Proko forearms                           |           |       |      | 5:48 |
 |                            | drawing  | \_      Original page                            |           |       |      | 0:50 |
 |                            | study    | \_      Blog                                     |           |       |      | 0:56 |
+|----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
+| AnatomyIV_Bridgman.org     |          | *File time*                                      | *73:39*   |       |      |      |
+|                            |          | Log                                              | 73:39     |       |      |      |
+|                            |          | \_  Week 1                                       |           | 29:22 |      |      |
+|                            |          | \_    <2021-08-16 Mon>                           |           |       | 7:22 |      |
+|                            | study    | \_      Watts on Bridgman                        |           |       |      | 1:18 |
+|                            | drawing  | \_      Bridgman                                 |           |       |      | 4:32 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:32 |
+|                            |          | \_    <2021-08-17 Tue>                           |           |       | 3:02 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 1:51 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:11 |
+|                            |          | \_    <2021-08-18 Wed>                           |           |       | 2:51 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 1:35 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:16 |
+|                            |          | \_    <2021-08-19 Thu>                           |           |       | 2:55 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 1:47 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:08 |
+|                            |          | \_    <2021-08-20 Fri>                           |           |       | 2:19 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 1:26 |
+|                            | drawing  | \_      Original art                             |           |       |      | 0:53 |
+|                            |          | \_    <2021-08-21 Sat>                           |           |       | 4:30 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 4:30 |
+|                            |          | \_    <2021-08-22 Sun>                           |           |       | 6:23 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 4:22 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:38 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:23 |
+|                            |          | \_  Week 2                                       |           | 20:27 |      |      |
+|                            |          | \_    <2021-08-23 Mon>                           |           |       | 5:54 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 3:00 |
+|                            | drawing  | \_      Original page                            |           |       |      | 2:54 |
+|                            |          | \_    <2021-08-24 Tue>                           |           |       | 2:56 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 1:49 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:07 |
+|                            |          | \_    <2021-08-25 Wed>                           |           |       | 2:55 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 1:28 |
+|                            | drawing  | \_      Original art                             |           |       |      | 1:27 |
+|                            |          | \_    <2021-08-26 Thu>                           |           |       | 2:35 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 1:48 |
+|                            | drawing  | \_      Original art                             |           |       |      | 0:47 |
+|                            |          | \_    <2021-08-27 Fri>                           |           |       | 1:04 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 1:04 |
+|                            |          | \_    <2021-08-28 Sat>                           |           |       | 2:06 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 2:06 |
+|                            |          | \_    <2021-08-29 Sun>                           |           |       | 2:57 |      |
+|                            | drawing  | \_      Watts on Bridgman                        |           |       |      | 2:40 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:17 |
+|                            |          | \_  Week 3                                       |           | 23:50 |      |      |
+|                            |          | \_    <2021-08-30 Mon>                           |           |       | 7:34 |      |
+|                            | drawing  | \_      Bridgman arms                            |           |       |      | 4:56 |
+|                            | drawing  | \_      Original page                            |           |       |      | 2:38 |
+|                            |          | \_    <2021-08-31 Tue>                           |           |       | 2:45 |      |
+|                            | drawing  | \_      Bridgman arms                            |           |       |      | 1:36 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:09 |
+|                            |          | \_    <2021-09-01 Wed>                           |           |       | 2:41 |      |
+|                            | drawing  | \_      Bridgman                                 |           |       |      | 1:33 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:08 |
+|                            |          | \_    <2021-09-02 Thu>                           |           |       | 2:34 |      |
+|                            | drawing  | \_      Bridgman                                 |           |       |      | 1:20 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:14 |
+|                            |          | \_    <2021-09-03 Fri>                           |           |       | 1:24 |      |
+|                            | drawing  | \_      Bridgman                                 |           |       |      | 1:24 |
+|                            |          | \_    <2021-09-04 Sat>                           |           |       | 2:20 |      |
+|                            | drawing  | \_      Bridgman                                 |           |       |      | 2:20 |
+|                            |          | \_    <2021-09-05 Sun>                           |           |       | 4:32 |      |
+|                            | drawing  | \_      Bridgman                                 |           |       |      | 4:13 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:19 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | AnatomyI_Torso.org         |          | *File time*                                      | *136:38*  |       |      |      |
 |                            |          | Log                                              | 136:38    |       |      |      |
@@ -682,8 +748,8 @@
 |                            | drawing  | \_      Copy comic page                          |           |       |      | 4:45 |
 |                            | study    | \_      Blog                                     |           |       |      | 0:33 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
-| FigureDrawingIV.org        |          | *File time*                                      | *66:27*   |       |      |      |
-|                            |          | Log                                              | 66:27     |       |      |      |
+| FigureDrawingIV.org        |          | *File time*                                      | *104:18*  |       |      |      |
+|                            |          | Log                                              | 104:18    |       |      |      |
 |                            |          | \_  Week 1                                       |           | 28:51 |      |      |
 |                            |          | \_    <2021-07-19 Mon>                           |           |       | 7:56 |      |
 |                            | drawing  | \_      Gesture drawing                          |           |       |      | 4:42 |
@@ -725,7 +791,7 @@
 |                            | drawing  | \_      Structure drawing                        |           |       |      | 0:20 |
 |                            |          | \_    <2021-08-01 Sun>                           |           |       | 0:45 |      |
 |                            | drawing  | \_      Structure drawing                        |           |       |      | 0:45 |
-|                            |          | \_  Week 3                                       |           | 21:11 |      |      |
+|                            |          | \_  Week 3                                       |           | 29:40 |      |      |
 |                            |          | \_    <2021-08-02 Mon>                           |           |       | 0:42 |      |
 |                            | drawing  | \_      Portrait drawing                         |           |       |      | 0:42 |
 |                            |          | \_    <2021-08-03 Tue>                           |           |       | 0:20 |      |
@@ -738,8 +804,32 @@
 |                            | drawing  | \_      Figure drawing                           |           |       |      | 3:57 |
 |                            |          | \_    <2021-08-06 Fri>                           |           |       | 5:45 |      |
 |                            | drawing  | \_      Figure drawing                           |           |       |      | 5:45 |
-|                            |          | \_    <2021-08-07 Sat>                           |           |       | 4:24 |      |
-|                            | drawing  | \_      Figure drawing                           |           |       |      | 4:24 |
+|                            |          | \_    <2021-08-07 Sat>                           |           |       | 6:52 |      |
+|                            | drawing  | \_      Figure drawing                           |           |       |      | 6:52 |
+|                            |          | \_    <2021-08-08 Sun>                           |           |       | 6:01 |      |
+|                            | drawing  | \_      Figure drawing                           |           |       |      | 5:33 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:28 |
+|                            |          | \_  Week 4                                       |           | 29:22 |      |      |
+|                            |          | \_    <2021-08-09 Mon>                           |           |       | 8:00 |      |
+|                            | drawing  | \_      Figure drawing                           |           |       |      | 5:08 |
+|                            | drawing  | \_      Original panel                           |           |       |      | 2:52 |
+|                            |          | \_    <2021-08-10 Tue>                           |           |       | 2:55 |      |
+|                            | drawing  | \_      Figure drawing                           |           |       |      | 1:19 |
+|                            | drawing  | \_      Original art                             |           |       |      | 1:36 |
+|                            |          | \_    <2021-08-11 Wed>                           |           |       | 2:57 |      |
+|                            | drawing  | \_      Figure drawing                           |           |       |      | 1:24 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:33 |
+|                            |          | \_    <2021-08-12 Thu>                           |           |       | 2:53 |      |
+|                            | drawing  | \_      Figure drawing                           |           |       |      | 2:53 |
+|                            |          | \_    <2021-08-13 Fri>                           |           |       | 1:28 |      |
+|                            | drawing  | \_      Figure drawing                           |           |       |      | 1:28 |
+|                            |          | \_    <2021-08-14 Sat>                           |           |       | 4:56 |      |
+|                            | drawing  | \_      Figure drawing                           |           |       |      | 3:43 |
+|                            | study    | \_      Plan next unit                           |           |       |      | 1:13 |
+|                            |          | \_    <2021-08-15 Sun>                           |           |       | 6:13 |      |
+|                            | drawing  | \_      Figure drawing                           |           |       |      | 3:58 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:44 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:31 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | HeadDrawingI.org           |          | *File time*                                      | *123:33*  |       |      |      |
 |                            |          | Log                                              | 123:33    |       |      |      |

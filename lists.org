@@ -232,24 +232,24 @@
 **** TODO 4
 **** TODO 5
 **** TODO 6
-*** TODO Way of 
+*** TODO Way of Kings
 ** Michael Moorecock - Elric books
-* Movies
+* Movies/Shows
 ** TODO Spiderman 1
-** DONE Spiderman 2
-** DONE Spiderman 3
 ** TODO Amazing Spiderman 1
 ** TODO Amazing Spiderman 2
-** DONE Spiderman: Into the spiderverse
 ** TODO Venom
 ** TODO X-men: The last stand
 ** TODO New Mutants
 ** TODO Dead Pool 2
 ** TODO The Wolverine
 ** TODO Watchmen
-** DONE Conan The Barbarian
 ** TODO Conan The Destroyer
 ** TODO Conan The Barbarian (2011)
+** TODO Shange Chi
+** TODO Falcon and the Winter Soldier
+** TODO Wandavision
+** TODO Daredevil
 * Videos
 ** Sean Gordon Murphy demos (youtube)
 ** Trent Kaniuaga youtube (FZD student?)
