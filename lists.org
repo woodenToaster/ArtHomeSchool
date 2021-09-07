@@ -248,7 +248,6 @@
 ** TODO Conan The Barbarian (2011)
 ** TODO Shange Chi
 ** TODO Falcon and the Winter Soldier
-** TODO Wandavision
 ** TODO Daredevil
 * Videos
 ** Sean Gordon Murphy demos (youtube)
