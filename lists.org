@@ -158,7 +158,7 @@
 *** DONE The DC Guide to Inking comics
 *** DONE The Complete Art of Comic Book Inking - Gary Martin
 ** Light and Value
-*** Color and Light (geared towrad painting) - James Gurney
+*** Color and Light (geared torward painting) - James Gurney
 *** Dynamic Light and Shading - Burne Hogarth 
 *** How to Render - Robertson
 *** Light for Visual Artists - Yot
