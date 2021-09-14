@@ -36,7 +36,9 @@ months = {
 }
 
 main_link = ('For full context, see the description of my Art Home School Curriculum. '
-             'https://litmusik.medium.com/art-home-school-introduction-f0e7027af017')
+             'https://litmusik.medium.com/art-home-school-introduction-f0e7027af017'
+             'If you are inspired by this post, consider leaving me a tip.'
+             'paypal.me/litmusik')
 
 def get_next_n_days(n, month, day, year):
     result = []
