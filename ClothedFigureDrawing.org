@@ -6,22 +6,25 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-13 Mon 20:06], for week 2021-W37.
+  #+CAPTION: Clock summary at [2021-09-14 Tue 21:15], for week 2021-W37.
   | Tags    | Headline                        | Time   |      |      |      |
   |---------+---------------------------------+--------+------+------+------|
-  |         | *Total time*                    | *6:27* |      |      |      |
+  |         | *Total time*                    | *9:42* |      |      |      |
   |---------+---------------------------------+--------+------+------+------|
-  |         | \_  Week 1                      |        | 6:27 |      |      |
+  |         | \_  Week 1                      |        | 9:42 |      |      |
   |         | \_    <2021-09-13 Mon>          |        |      | 6:27 |      |
   | study   | \_      Plan the unit           |        |      |      | 0:47 |
   | study   | \_      moderndayjames clothing |        |      |      | 0:29 |
   | drawing | \_      Watts drapery           |        |      |      | 5:11 |
+  |         | \_    <2021-09-14 Tue>          |        |      | 3:15 |      |
+  | drawing | \_      Watts drapery           |        |      |      | 1:38 |
+  | drawing | \_      Drapery study           |        |      |      | 1:37 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h) |
   |---------+------------+----------|
-  | drawing | *Tag time* | *5h 11m* |
+  | drawing | *Tag time* | *8h 26m* |
   |---------+------------+----------|
   | study   | *Tag time* | *1h 16m* |
   
@@ -40,4 +43,13 @@
      CLOCK: [2021-09-13 Mon 17:53]--[2021-09-13 Mon 19:51] =>  1:58
      CLOCK: [2021-09-13 Mon 14:05]--[2021-09-13 Mon 15:40] =>  1:35
      CLOCK: [2021-09-13 Mon 10:08]--[2021-09-13 Mon 11:46] =>  1:38
+     :END:
+*** <2021-09-14 Tue>
+**** DONE Watts drapery                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-09-14 Tue 18:00]--[2021-09-14 Tue 19:38] =>  1:38
+     :END:
+**** DONE Drapery study                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-09-14 Tue 19:38]--[2021-09-14 Tue 21:15] =>  1:37
      :END:
