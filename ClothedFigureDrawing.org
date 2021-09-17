@@ -6,12 +6,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-15 Wed 21:02], for week 2021-W37.
+  #+CAPTION: Clock summary at [2021-09-16 Thu 21:04], for week 2021-W37.
   | Tags    | Headline                        | Time    |       |      |      |
   |---------+---------------------------------+---------+-------+------+------|
-  |         | *Total time*                    | *12:44* |       |      |      |
+  |         | *Total time*                    | *15:47* |       |      |      |
   |---------+---------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                      |         | 12:44 |      |      |
+  |         | \_  Week 1                      |         | 15:47 |      |      |
   |         | \_    <2021-09-13 Mon>          |         |       | 6:27 |      |
   | study   | \_      Plan the unit           |         |       |      | 0:47 |
   | study   | \_      moderndayjames clothing |         |       |      | 0:29 |
@@ -21,6 +21,8 @@
   | drawing | \_      Drapery study           |         |       |      | 1:37 |
   |         | \_    <2021-09-15 Wed>          |         |       | 3:02 |      |
   | drawing | \_      Watts drapery           |         |       |      | 3:02 |
+  |         | \_    <2021-09-16 Thu>          |         |       | 3:03 |      |
+  |         | \_      Watts drapery           |         |       |      | 3:03 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
@@ -59,4 +61,9 @@
 **** DONE Watts drapery                                             :drawing:
      :LOGBOOK:
      CLOCK: [2021-09-15 Wed 18:00]--[2021-09-15 Wed 21:02] =>  3:02
+     :END:
+*** <2021-09-16 Thu>
+**** DONE Watts drapery
+     :LOGBOOK:
+     CLOCK: [2021-09-16 Thu 18:01]--[2021-09-16 Thu 21:04] =>  3:03
      :END:
