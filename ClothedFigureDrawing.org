@@ -6,12 +6,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-16 Thu 21:04], for week 2021-W37.
+  #+CAPTION: Clock summary at [2021-09-17 Fri 21:36], for week 2021-W37.
   | Tags    | Headline                        | Time    |       |      |      |
   |---------+---------------------------------+---------+-------+------+------|
-  |         | *Total time*                    | *15:47* |       |      |      |
+  |         | *Total time*                    | *18:41* |       |      |      |
   |---------+---------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                      |         | 15:47 |      |      |
+  |         | \_  Week 1                      |         | 18:41 |      |      |
   |         | \_    <2021-09-13 Mon>          |         |       | 6:27 |      |
   | study   | \_      Plan the unit           |         |       |      | 0:47 |
   | study   | \_      moderndayjames clothing |         |       |      | 0:29 |
@@ -23,12 +23,14 @@
   | drawing | \_      Watts drapery           |         |       |      | 3:02 |
   |         | \_    <2021-09-16 Thu>          |         |       | 3:03 |      |
   |         | \_      Watts drapery           |         |       |      | 3:03 |
+  |         | \_    <2021-09-17 Fri>          |         |       | 2:54 |      |
+  | drawing | \_      Watts drapery           |         |       |      | 2:54 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *11h 28m* |
+  | drawing | *Tag time* | *14h 22m* |
   |---------+------------+-----------|
   | study   | *Tag time* | *1h 16m*  |
   
@@ -66,4 +68,9 @@
 **** DONE Watts drapery
      :LOGBOOK:
      CLOCK: [2021-09-16 Thu 18:01]--[2021-09-16 Thu 21:04] =>  3:03
+     :END:
+*** <2021-09-17 Fri>
+**** DONE Watts drapery                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-09-17 Fri 18:06]--[2021-09-17 Fri 21:00] =>  2:54
      :END:
