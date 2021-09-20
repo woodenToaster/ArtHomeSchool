@@ -6,37 +6,42 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-18 Sat 20:43], for week 2021-W37.
-  | Tags    | Headline                        | Time    |       |      |      |
-  |---------+---------------------------------+---------+-------+------+------|
-  |         | *Total time*                    | *24:52* |       |      |      |
-  |---------+---------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                      |         | 24:52 |      |      |
-  |         | \_    <2021-09-13 Mon>          |         |       | 6:27 |      |
-  | study   | \_      Plan the unit           |         |       |      | 0:47 |
-  | study   | \_      moderndayjames clothing |         |       |      | 0:29 |
-  | drawing | \_      Watts drapery           |         |       |      | 5:11 |
-  |         | \_    <2021-09-14 Tue>          |         |       | 3:15 |      |
-  | drawing | \_      Watts drapery           |         |       |      | 1:38 |
-  | drawing | \_      Drapery study           |         |       |      | 1:37 |
-  |         | \_    <2021-09-15 Wed>          |         |       | 3:02 |      |
-  | drawing | \_      Watts drapery           |         |       |      | 3:02 |
-  |         | \_    <2021-09-16 Thu>          |         |       | 3:03 |      |
-  | drawing | \_      Watts drapery           |         |       |      | 3:03 |
-  |         | \_    <2021-09-17 Fri>          |         |       | 2:54 |      |
-  | drawing | \_      Watts drapery           |         |       |      | 2:54 |
-  |         | \_    <2021-09-18 Sat>          |         |       | 6:11 |      |
-  | study   | \_      Gather reference        |         |       |      | 0:29 |
-  | drawing | \_      Original page           |         |       |      | 1:08 |
-  | drawing | \_      Watts drapery           |         |       |      | 4:34 |
+  #+CAPTION: Clock summary at [2021-09-19 Sun 19:52], for week 2021-W37.
+  | Tags    | Headline                           | Time    |       |      |      |
+  |---------+------------------------------------+---------+-------+------+------|
+  |         | *Total time*                       | *29:26* |       |      |      |
+  |---------+------------------------------------+---------+-------+------+------|
+  |         | \_  Week 1                         |         | 29:26 |      |      |
+  |         | \_    <2021-09-13 Mon>             |         |       | 6:27 |      |
+  | study   | \_      Plan the unit              |         |       |      | 0:47 |
+  | study   | \_      moderndayjames clothing    |         |       |      | 0:29 |
+  | drawing | \_      Watts drapery              |         |       |      | 5:11 |
+  |         | \_    <2021-09-14 Tue>             |         |       | 3:15 |      |
+  | drawing | \_      Watts drapery              |         |       |      | 1:38 |
+  | drawing | \_      Drapery study              |         |       |      | 1:37 |
+  |         | \_    <2021-09-15 Wed>             |         |       | 3:02 |      |
+  | drawing | \_      Watts drapery              |         |       |      | 3:02 |
+  |         | \_    <2021-09-16 Thu>             |         |       | 3:03 |      |
+  | drawing | \_      Watts drapery              |         |       |      | 3:03 |
+  |         | \_    <2021-09-17 Fri>             |         |       | 2:54 |      |
+  | drawing | \_      Watts drapery              |         |       |      | 2:54 |
+  |         | \_    <2021-09-18 Sat>             |         |       | 6:11 |      |
+  | study   | \_      Gather reference           |         |       |      | 0:29 |
+  | drawing | \_      Original page              |         |       |      | 1:08 |
+  | drawing | \_      Watts drapery              |         |       |      | 4:34 |
+  |         | \_    <2021-09-19 Sun>             |         |       | 4:34 |      |
+  | study   | \_      moderndayjames clothing II |         |       |      | 0:48 |
+  | drawing | \_      moderndayjames clothing II |         |       |      | 3:06 |
+  | study   | \_      Finch clothing             |         |       |      | 0:21 |
+  | study   | \_      Blog post                  |         |       |      | 0:19 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-  | Tag     | Headline   | Time (h) |
-  |---------+------------+----------|
-  | drawing | *Tag time* | *23h 7m* |
-  |---------+------------+----------|
-  | study   | *Tag time* | *1h 45m* |
+  | Tag     | Headline   | Time (h)  |
+  |---------+------------+-----------|
+  | drawing | *Tag time* | *26h 13m* |
+  |---------+------------+-----------|
+  | study   | *Tag time* | *3h 13m*  |
   
   #+END:
 *** <2021-09-13 Mon>
@@ -92,4 +97,22 @@
      CLOCK: [2021-09-18 Sat 19:03]--[2021-09-18 Sat 20:36] =>  1:33
      CLOCK: [2021-09-18 Sat 13:30]--[2021-09-18 Sat 16:31] =>  3:01
      :END:
-     
+*** <2021-09-19 Sun>
+**** DONE moderndayjames clothing II                                  :study:
+     :LOGBOOK:
+     CLOCK: [2021-09-19 Sun 09:12]--[2021-09-19 Sun 10:00] =>  0:48
+     :END:
+**** DONE moderndayjames clothing II                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-09-19 Sun 18:21]--[2021-09-19 Sun 19:17] =>  0:56
+     CLOCK: [2021-09-19 Sun 14:01]--[2021-09-19 Sun 14:59] =>  0:58
+     CLOCK: [2021-09-19 Sun 10:00]--[2021-09-19 Sun 11:12] =>  1:12
+     :END:
+**** DONE Finch clothing                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-09-19 Sun 13:20]--[2021-09-19 Sun 13:41] =>  0:21
+     :END:
+**** DONE Blog post                                                   :study:
+     :LOGBOOK:
+     CLOCK: [2021-09-19 Sun 19:33]--[2021-09-19 Sun 19:52] =>  0:19
+     :END:
