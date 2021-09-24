@@ -145,6 +145,11 @@
      :LOGBOOK:
      CLOCK: [2021-09-22 Wed 18:54]--[2021-09-22 Wed 21:01] =>  2:07
      :END:
+*** <2021-09-23 Thu>
+**** DONE Finch clothing                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-09-23 Thu 18:04]--[2021-09-23 Thu 20:25] =>  2:21
+     :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
   #+CAPTION: Clock summary at [2021-09-22 Wed 21:01], for week 2021-W38.
