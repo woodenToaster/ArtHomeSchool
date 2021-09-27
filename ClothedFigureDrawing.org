@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-22 Wed 21:01], for week 2021-W38.
+  #+CAPTION: Clock summary at [2021-09-26 Sun 20:07], for week 2021-W38.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -94,12 +94,12 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-22 Wed 21:01], for week 2021-W38.
+  #+CAPTION: Clock summary at [2021-09-26 Sun 20:07], for week 2021-W38.
   | Tags    | Headline               | Time    |       |      |      |
   |---------+------------------------+---------+-------+------+------|
-  |         | *Total time*           | *13:11* |       |      |      |
+  |         | *Total time*           | *18:18* |       |      |      |
   |---------+------------------------+---------+-------+------+------|
-  |         | \_  Week 2             |         | 13:11 |      |      |
+  |         | \_  Week 2             |         | 18:18 |      |      |
   |         | \_    <2021-09-20 Mon> |         |       | 7:55 |      |
   | study   | \_      Watts drapery  |         |       |      | 2:27 |
   | drawing | \_      Watts drapery  |         |       |      | 5:28 |
@@ -108,14 +108,23 @@
   | drawing | \_      Watts drapery  |         |       |      | 2:54 |
   |         | \_    <2021-09-22 Wed> |         |       | 2:07 |      |
   | drawing | \_      Watts drapery  |         |       |      | 2:07 |
+  |         | \_    <2021-09-23 Thu> |         |       | 2:21 |      |
+  | drawing | \_      Finch clothing |         |       |      | 2:21 |
+  |         | \_    <2021-09-24 Fri> |         |       | 1:18 |      |
+  | drawing | \_      Finch clothing |         |       |      | 1:18 |
+  |         | \_    <2021-09-25 Sat> |         |       | 0:20 |      |
+  | drawing | \_      sketching      |         |       |      | 0:20 |
+  |         | \_    <2021-09-26 Sun> |         |       | 1:08 |      |
+  | drawing | \_      Finch clothing |         |       |      | 0:46 |
+  | study   | \_      Blog           |         |       |      | 0:22 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *10h 29m* |
+  | drawing | *Tag time* | *15h 14m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *2h 42m*  |
+  | study   | *Tag time* | *3h 4m*   |
   
   #+END:
 *** <2021-09-20 Mon>
@@ -150,9 +159,28 @@
      :LOGBOOK:
      CLOCK: [2021-09-23 Thu 18:04]--[2021-09-23 Thu 20:25] =>  2:21
      :END:
+*** <2021-09-24 Fri>
+**** DONE Finch clothing                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-09-24 Fri 18:27]--[2021-09-24 Fri 19:45] =>  1:18
+     :END:
+*** <2021-09-25 Sat>
+**** DONE sketching                                                 :drawing:
+    :LOGBOOK:
+    CLOCK: [2021-09-25 Sat 23:00]--[2021-09-25 Sat 23:20] =>  0:20
+    :END:
+*** <2021-09-26 Sun>
+**** DONE Finch clothing                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-09-26 Sun 18:55]--[2021-09-26 Sun 19:41] =>  0:46
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2021-09-26 Sun 19:45]--[2021-09-26 Sun 20:07] =>  0:22
+     :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-22 Wed 21:01], for week 2021-W38.
+  #+CAPTION: Clock summary at [2021-09-26 Sun 20:07], for week 2021-W38.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -168,7 +196,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-22 Wed 21:01], for week 2021-W38.
+  #+CAPTION: Clock summary at [2021-09-26 Sun 20:07], for week 2021-W38.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
