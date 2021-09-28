@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-26 Sun 20:07], for week 2021-W38.
+  #+CAPTION: Clock summary at [2021-09-27 Mon 20:06], for week 2021-W39.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -94,29 +94,10 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-26 Sun 20:07], for week 2021-W38.
-  | Tags    | Headline               | Time    |       |      |      |
-  |---------+------------------------+---------+-------+------+------|
-  |         | *Total time*           | *18:18* |       |      |      |
-  |---------+------------------------+---------+-------+------+------|
-  |         | \_  Week 2             |         | 18:18 |      |      |
-  |         | \_    <2021-09-20 Mon> |         |       | 7:55 |      |
-  | study   | \_      Watts drapery  |         |       |      | 2:27 |
-  | drawing | \_      Watts drapery  |         |       |      | 5:28 |
-  |         | \_    <2021-09-21 Tue> |         |       | 3:09 |      |
-  | study   | \_      Watts drapery  |         |       |      | 0:15 |
-  | drawing | \_      Watts drapery  |         |       |      | 2:54 |
-  |         | \_    <2021-09-22 Wed> |         |       | 2:07 |      |
-  | drawing | \_      Watts drapery  |         |       |      | 2:07 |
-  |         | \_    <2021-09-23 Thu> |         |       | 2:21 |      |
-  | drawing | \_      Finch clothing |         |       |      | 2:21 |
-  |         | \_    <2021-09-24 Fri> |         |       | 1:18 |      |
-  | drawing | \_      Finch clothing |         |       |      | 1:18 |
-  |         | \_    <2021-09-25 Sat> |         |       | 0:20 |      |
-  | drawing | \_      sketching      |         |       |      | 0:20 |
-  |         | \_    <2021-09-26 Sun> |         |       | 1:08 |      |
-  | drawing | \_      Finch clothing |         |       |      | 0:46 |
-  | study   | \_      Blog           |         |       |      | 0:22 |
+  #+CAPTION: Clock summary at [2021-09-27 Mon 20:06], for week 2021-W39.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
@@ -180,23 +161,32 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-26 Sun 20:07], for week 2021-W38.
-  | Tags | Headline     | Time   |
-  |------+--------------+--------|
-  |      | *Total time* | *0:00* |
+  #+CAPTION: Clock summary at [2021-09-27 Mon 20:06], for week 2021-W39.
+  | Tags    | Headline                       | Time   |      |      |      |
+  |---------+--------------------------------+--------+------+------+------|
+  |         | *Total time*                   | *1:30* |      |      |      |
+  |---------+--------------------------------+--------+------+------+------|
+  |         | \_  Week 3                     |        | 1:30 |      |      |
+  |         | \_    <2021-09-27 Mon>         |        |      | 1:30 |      |
+  | drawing | \_      Clothed figure drawing |        |      |      | 1:30 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h) |
   |---------+------------+----------|
-  | drawing | *Tag time* | *0h 0m*  |
+  | drawing | *Tag time* | *1h 30m* |
   |---------+------------+----------|
   | study   | *Tag time* | *0h 0m*  |
   
   #+END:
+*** <2021-09-27 Mon>
+**** DONE Clothed figure drawing                                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-09-27 Mon 18:16]--[2021-09-27 Mon 19:46] =>  1:30
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-26 Sun 20:07], for week 2021-W38.
+  #+CAPTION: Clock summary at [2021-09-27 Mon 20:06], for week 2021-W39.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
