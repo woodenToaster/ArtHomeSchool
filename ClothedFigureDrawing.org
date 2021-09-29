@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-27 Mon 20:06], for week 2021-W39.
+  #+CAPTION: Clock summary at [2021-09-28 Tue 21:03], for week 2021-W39.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -94,7 +94,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-27 Mon 20:06], for week 2021-W39.
+  #+CAPTION: Clock summary at [2021-09-28 Tue 21:03], for week 2021-W39.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -161,20 +161,22 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-27 Mon 20:06], for week 2021-W39.
-  | Tags    | Headline                       | Time   |      |      |      |
-  |---------+--------------------------------+--------+------+------+------|
-  |         | *Total time*                   | *1:30* |      |      |      |
-  |---------+--------------------------------+--------+------+------+------|
-  |         | \_  Week 3                     |        | 1:30 |      |      |
-  |         | \_    <2021-09-27 Mon>         |        |      | 1:30 |      |
-  | drawing | \_      Clothed figure drawing |        |      |      | 1:30 |
+  #+CAPTION: Clock summary at [2021-09-28 Tue 21:03], for week 2021-W39.
+  | Tags    | Headline                             | Time   |      |      |      |
+  |---------+--------------------------------------+--------+------+------+------|
+  |         | *Total time*                         | *2:40* |      |      |      |
+  |---------+--------------------------------------+--------+------+------+------|
+  |         | \_  Week 3                           |        | 2:40 |      |      |
+  |         | \_    <2021-09-27 Mon>               |        |      | 1:30 |      |
+  | drawing | \_      Clothed figure drawing       |        |      |      | 1:30 |
+  |         | \_    <2021-09-28 Tue>               |        |      | 1:10 |      |
+  | drawing | \_      Finch clothed figure drawing |        |      |      | 1:10 |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h) |
   |---------+------------+----------|
-  | drawing | *Tag time* | *1h 30m* |
+  | drawing | *Tag time* | *2h 40m* |
   |---------+------------+----------|
   | study   | *Tag time* | *0h 0m*  |
   
@@ -184,9 +186,14 @@
      :LOGBOOK:
      CLOCK: [2021-09-27 Mon 18:16]--[2021-09-27 Mon 19:46] =>  1:30
      :END:
+*** <2021-09-28 Tue>
+**** DONE Finch clothed figure drawing                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-09-28 Tue 19:53]--[2021-09-28 Tue 21:03] =>  1:10
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-27 Mon 20:06], for week 2021-W39.
+  #+CAPTION: Clock summary at [2021-09-28 Tue 21:03], for week 2021-W39.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -200,3 +207,4 @@
   | study   | *Tag time* | *0h 0m*  |
   
   #+END:
+  
