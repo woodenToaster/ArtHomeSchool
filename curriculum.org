@@ -352,14 +352,14 @@
     - Legs and arms from memory
 * TODO Term 5
 ** TODO Clothed Figure Drawing
-*** Video
+*** Videos
 **** TODO How to draw clothing and drapery with Glenn Vilppu
-**** TODO Drapery with Eric Gist
-**** TODO Moderndayjames
-***** TODO Character sketching I: Cloth and drapery
-***** TODO Cloth and drapery II: Movement and fabric
-**** TODO Sinix: clothing folds and you
-**** TODO Finch: clothing and folds
+**** DONE Drapery with Eric Gist
+**** DONE Moderndayjames
+***** DONE Character sketching I: Cloth and drapery
+***** DONE Cloth and drapery II: Movement and fabric
+**** DONE Sinix: clothing folds and you
+**** DONE Finch: clothing and folds
 *** Book
 **** TODO Hogarth - Dynamic wrinkles
 **** TODO Bridgman - Draped figure
