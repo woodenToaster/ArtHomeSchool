@@ -245,8 +245,8 @@
 ** TODO Conan The Destroyer
 ** TODO Conan The Barbarian (2011)
 ** TODO Shange Chi
-** TODO Falcon and the Winter Soldier
 ** TODO Daredevil
+** TODO The Defenders
 * Videos
 ** Sean Gordon Murphy demos (youtube)
 ** Trent Kaniuaga youtube (FZD student?)
@@ -305,7 +305,7 @@
 *** TODO Landscape Phase 2
 *** TODO Essentials of Tech
 *** TODO Composition and Staging 
-*** TODO Drapery
+*** DONE Drapery
 *** TODO Fundamentals of Character Design
 *** TODO Still Life Phase 3
 *** TODO Landscape Phase 3
