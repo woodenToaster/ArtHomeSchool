@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t
-#+CAPTION: Clock summary at [2021-09-05 Sun 18:58]
+#+CAPTION: Clock summary at [2021-10-03 Sun 20:13]
 | File                       | Tags     | Headline                                         | Time      |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
-|                            | ALL      | *Total time*                                     | *1268:08* |       |      |      |
+|                            | ALL      | *Total time*                                     | *1369:01* |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | AnatomyIII_Legs.org        |          | *File time*                                      | *136:15*  |       |      |      |
 |                            |          | Log                                              | 136:15    |       |      |      |
@@ -250,8 +250,8 @@
 |                            | drawing  | \_      Original page                            |           |       |      | 0:50 |
 |                            | study    | \_      Blog                                     |           |       |      | 0:56 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
-| AnatomyIV_Bridgman.org     |          | *File time*                                      | *73:39*   |       |      |      |
-|                            |          | Log                                              | 73:39     |       |      |      |
+| AnatomyIV_Bridgman.org     |          | *File time*                                      | *105:22*  |       |      |      |
+|                            |          | Log                                              | 105:22    |       |      |      |
 |                            |          | \_  Week 1                                       |           | 29:22 |      |      |
 |                            |          | \_    <2021-08-16 Mon>                           |           |       | 7:22 |      |
 |                            | study    | \_      Watts on Bridgman                        |           |       |      | 1:18 |
@@ -315,6 +315,28 @@
 |                            |          | \_    <2021-09-05 Sun>                           |           |       | 4:32 |      |
 |                            | drawing  | \_      Bridgman                                 |           |       |      | 4:13 |
 |                            | study    | \_      Blog                                     |           |       |      | 0:19 |
+|                            |          | \_  Week 4                                       |           | 31:43 |      |      |
+|                            |          | \_    <2021-09-06 Mon>                           |           |       | 7:17 |      |
+|                            | drawing  | \_      Bridgman legs                            |           |       |      | 4:08 |
+|                            | drawing  | \_      Original page                            |           |       |      | 3:09 |
+|                            |          | \_    <2021-09-07 Tue>                           |           |       | 2:24 |      |
+|                            | drawing  | \_      Bridgman legs                            |           |       |      | 1:46 |
+|                            | drawing  | \_      Original page                            |           |       |      | 0:38 |
+|                            |          | \_    <2021-09-08 Wed>                           |           |       | 2:59 |      |
+|                            | drawing  | \_      Bridgman legs                            |           |       |      | 1:37 |
+|                            | drawing  | \_      Proko challenge                          |           |       |      | 1:22 |
+|                            |          | \_    <2021-09-09 Thu>                           |           |       | 2:45 |      |
+|                            | drawing  | \_      Bridgman legs                            |           |       |      | 1:33 |
+|                            | drawing  | \_      Proko challenge                          |           |       |      | 1:12 |
+|                            |          | \_    <2021-09-10 Fri>                           |           |       | 2:08 |      |
+|                            | drawing  | \_      Bridgman legs                            |           |       |      | 1:34 |
+|                            | drawing  | \_      Proko challenge                          |           |       |      | 0:34 |
+|                            |          | \_    <2021-09-11 Sat>                           |           |       | 8:07 |      |
+|                            | drawing  | \_      Proko challenge                          |           |       |      | 8:07 |
+|                            |          | \_    <2021-09-12 Sun>                           |           |       | 6:03 |      |
+|                            | drawing  | \_      Proko challenge                          |           |       |      | 1:56 |
+|                            | drawing  | \_      Bridgman legs                            |           |       |      | 3:33 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:34 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | AnatomyI_Torso.org         |          | *File time*                                      | *136:38*  |       |      |      |
 |                            |          | Log                                              | 136:38    |       |      |      |
@@ -458,6 +480,71 @@
 |                            | drawing  | \_      Proko Anatomy - Necks                    |           |       |      | 4:34 |
 |                            | study    | \_      Blog                                     |           |       |      | 0:50 |
 |                            | study    | \_      Unit plan                                |           |       |      | 0:20 |
+|----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
+| ClothedFigureDrawing.org   |          | *File time*                                      | *69:10*   |       |      |      |
+|                            |          | Log                                              | 69:10     |       |      |      |
+|                            |          | \_  Week 1                                       |           | 29:26 |      |      |
+|                            |          | \_    <2021-09-13 Mon>                           |           |       | 6:27 |      |
+|                            | study    | \_      Plan the unit                            |           |       |      | 0:47 |
+|                            | study    | \_      moderndayjames clothing                  |           |       |      | 0:29 |
+|                            | drawing  | \_      Watts drapery                            |           |       |      | 5:11 |
+|                            |          | \_    <2021-09-14 Tue>                           |           |       | 3:15 |      |
+|                            | drawing  | \_      Watts drapery                            |           |       |      | 1:38 |
+|                            | drawing  | \_      Drapery study                            |           |       |      | 1:37 |
+|                            |          | \_    <2021-09-15 Wed>                           |           |       | 3:02 |      |
+|                            | drawing  | \_      Watts drapery                            |           |       |      | 3:02 |
+|                            |          | \_    <2021-09-16 Thu>                           |           |       | 3:03 |      |
+|                            | drawing  | \_      Watts drapery                            |           |       |      | 3:03 |
+|                            |          | \_    <2021-09-17 Fri>                           |           |       | 2:54 |      |
+|                            | drawing  | \_      Watts drapery                            |           |       |      | 2:54 |
+|                            |          | \_    <2021-09-18 Sat>                           |           |       | 6:11 |      |
+|                            | study    | \_      Gather reference                         |           |       |      | 0:29 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:08 |
+|                            | drawing  | \_      Watts drapery                            |           |       |      | 4:34 |
+|                            |          | \_    <2021-09-19 Sun>                           |           |       | 4:34 |      |
+|                            | study    | \_      moderndayjames clothing II               |           |       |      | 0:48 |
+|                            | drawing  | \_      moderndayjames clothing II               |           |       |      | 3:06 |
+|                            | study    | \_      Finch clothing                           |           |       |      | 0:21 |
+|                            | study    | \_      Blog post                                |           |       |      | 0:19 |
+|                            |          | \_  Week 2                                       |           | 18:18 |      |      |
+|                            |          | \_    <2021-09-20 Mon>                           |           |       | 7:55 |      |
+|                            | study    | \_      Watts drapery                            |           |       |      | 2:27 |
+|                            | drawing  | \_      Watts drapery                            |           |       |      | 5:28 |
+|                            |          | \_    <2021-09-21 Tue>                           |           |       | 3:09 |      |
+|                            | study    | \_      Watts drapery                            |           |       |      | 0:15 |
+|                            | drawing  | \_      Watts drapery                            |           |       |      | 2:54 |
+|                            |          | \_    <2021-09-22 Wed>                           |           |       | 2:07 |      |
+|                            | drawing  | \_      Watts drapery                            |           |       |      | 2:07 |
+|                            |          | \_    <2021-09-23 Thu>                           |           |       | 2:21 |      |
+|                            | drawing  | \_      Finch clothing                           |           |       |      | 2:21 |
+|                            |          | \_    <2021-09-24 Fri>                           |           |       | 1:18 |      |
+|                            | drawing  | \_      Finch clothing                           |           |       |      | 1:18 |
+|                            |          | \_    <2021-09-25 Sat>                           |           |       | 0:20 |      |
+|                            | drawing  | \_      sketching                                |           |       |      | 0:20 |
+|                            |          | \_    <2021-09-26 Sun>                           |           |       | 1:08 |      |
+|                            | drawing  | \_      Finch clothing                           |           |       |      | 0:46 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:22 |
+|                            |          | \_  Week 3                                       |           | 21:26 |      |      |
+|                            |          | \_    <2021-09-27 Mon>                           |           |       | 1:30 |      |
+|                            | drawing  | \_      Clothed figure drawing                   |           |       |      | 1:30 |
+|                            |          | \_    <2021-09-28 Tue>                           |           |       | 1:10 |      |
+|                            | drawing  | \_      Finch clothed figure drawing             |           |       |      | 1:10 |
+|                            |          | \_    <2021-09-29 Wed>                           |           |       | 2:28 |      |
+|                            | drawing  | \_      Finch clothing                           |           |       |      | 2:28 |
+|                            |          | \_    <2021-09-30 Thu>                           |           |       | 2:47 |      |
+|                            | drawing  | \_      Clothed figure charcoal                  |           |       |      | 1:58 |
+|                            | drawing  | \_      Clothed figure from imagination          |           |       |      | 0:49 |
+|                            |          | \_    <2021-10-01 Fri>                           |           |       | 1:35 |      |
+|                            | drawing  | \_      Copy clothing                            |           |       |      | 1:35 |
+|                            |          | \_    <2021-10-02 Sat>                           |           |       | 5:48 |      |
+|                            | drawing  | \_      Clothed figure                           |           |       |      | 5:11 |
+|                            | study    | \_      Clothed figure                           |           |       |      | 0:13 |
+|                            | study    | \_      Alla prima                               |           |       |      | 0:24 |
+|                            |          | \_    <2021-10-03 Sun>                           |           |       | 6:08 |      |
+|                            | study    | \_      Alla prima                               |           |       |      | 0:36 |
+|                            | drawing  | \_      Clothed figure from photo                |           |       |      | 4:27 |
+|                            | study    | \_      Clothed figure from photo                |           |       |      | 0:30 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:35 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | FZDDesignCinema.org        |          | *File time*                                      | *0:00*    |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
