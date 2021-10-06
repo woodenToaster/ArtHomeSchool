@@ -240,6 +240,7 @@
 ** TODO Daredevil
 ** TODO The Defenders
 * Videos
+** Online Art Academy - Charles Bernard
 ** Sean Gordon Murphy demos (youtube)
 ** Trent Kaniuaga youtube (FZD student?)
 ** Charles Lin tutorials (FZD student)

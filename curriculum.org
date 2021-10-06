@@ -363,7 +363,6 @@
 *** Book
 **** TODO Hogarth - Dynamic wrinkles
 **** TODO Bridgman - Draped figure
-**** TODO Loomis?
 *** Art Parent - Alfredo Alcala
 *** Week 1 - gestures
 *** Week 2 - linear layin
@@ -373,8 +372,8 @@
 ** TODO Composition and Storytelling I
 * TODO Term 6
 ** TODO Head drawing III
+** TODO Color and Light I
 ** TODO Perspective III
-** TODO Color and Light II
 * TODO Term 7
 ** TODO Anatomy V - Imagination
 ** TODO Perspective IV
