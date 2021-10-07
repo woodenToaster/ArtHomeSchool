@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-05 Tue 21:07], for week 2021-W40.
+  #+CAPTION: Clock summary at [2021-10-06 Wed 20:52], for week 2021-W40.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -94,7 +94,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-05 Tue 21:07], for week 2021-W40.
+  #+CAPTION: Clock summary at [2021-10-06 Wed 20:52], for week 2021-W40.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -161,7 +161,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-05 Tue 21:07], for week 2021-W40.
+  #+CAPTION: Clock summary at [2021-10-06 Wed 20:52], for week 2021-W40.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -242,27 +242,30 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-05 Tue 21:07], for week 2021-W40.
-  | Tags    | Headline                                | Time   |      |      |      |
-  |---------+-----------------------------------------+--------+------+------+------|
-  |         | *Total time*                            | *9:05* |      |      |      |
-  |---------+-----------------------------------------+--------+------+------+------|
-  |         | \_  Week 4                              |        | 9:05 |      |      |
-  |         | \_    <2021-10-04 Mon>                  |        |      | 5:59 |      |
-  | study   | \_      Vilppu drapery                  |        |      |      | 1:15 |
-  | drawing | \_      Clothed figure                  |        |      |      | 3:13 |
-  | drawing | \_      Clothed figure from imagination |        |      |      | 1:31 |
-  |         | \_    <2021-10-05 Tue>                  |        |      | 3:06 |      |
-  | drawing | \_      Clothed figure from photo       |        |      |      | 1:48 |
-  | drawing | \_      Original comic page             |        |      |      | 1:18 |
+  #+CAPTION: Clock summary at [2021-10-06 Wed 20:52], for week 2021-W40.
+  | Tags    | Headline                                | Time    |       |      |      |
+  |---------+-----------------------------------------+---------+-------+------+------|
+  |         | *Total time*                            | *11:27* |       |      |      |
+  |---------+-----------------------------------------+---------+-------+------+------|
+  |         | \_  Week 4                              |         | 11:27 |      |      |
+  |         | \_    <2021-10-04 Mon>                  |         |       | 5:59 |      |
+  | study   | \_      Vilppu drapery                  |         |       |      | 1:15 |
+  | drawing | \_      Clothed figure                  |         |       |      | 3:13 |
+  | drawing | \_      Clothed figure from imagination |         |       |      | 1:31 |
+  |         | \_    <2021-10-05 Tue>                  |         |       | 3:06 |      |
+  | drawing | \_      Clothed figure from photo       |         |       |      | 1:48 |
+  | drawing | \_      Original comic page             |         |       |      | 1:18 |
+  |         | \_    <2021-10-06 Wed>                  |         |       | 2:22 |      |
+  | drawing | \_      Clothed figure from photo       |         |       |      | 1:04 |
+  | drawing | \_      Original page                   |         |       |      | 1:18 |
   #+END:
- 
+  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-  | Tag     | Headline   | Time (h) |
-  |---------+------------+----------|
-  | drawing | *Tag time* | *7h 50m* |
-  |---------+------------+----------|
-  | study   | *Tag time* | *1h 15m* |
+  | Tag     | Headline   | Time (h)  |
+  |---------+------------+-----------|
+  | drawing | *Tag time* | *10h 12m* |
+  |---------+------------+-----------|
+  | study   | *Tag time* | *1h 15m*  |
   
   #+END:
 *** <2021-10-04 Mon>
@@ -287,4 +290,14 @@
 **** DONE Original comic page                                       :drawing:
      :LOGBOOK:
      CLOCK: [2021-10-05 Tue 19:49]--[2021-10-05 Tue 21:07] =>  1:18
+     :END:
+*** <2021-10-06 Wed>
+**** DONE Clothed figure from photo                                 :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-10-06 Wed 18:55]--[2021-10-06 Wed 19:29] =>  0:34
+     CLOCK: [2021-10-06 Wed 18:10]--[2021-10-06 Wed 18:40] =>  0:30
+     :END:
+**** DONE Original page                                             :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-10-06 Wed 19:29]--[2021-10-06 Wed 20:47] =>  1:18
      :END:

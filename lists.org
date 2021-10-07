@@ -161,6 +161,7 @@
 *** Oil Painting Techniques - Patrick Jones
     - Focuses on fantasy art
 *** Mastering the Craft of Painting - Grado
+*** Faragasso (Reilly method)
 ** Composition
 *** Universal Principles of Design - Lidwell, Holden, Butler
 *** Drawing and Designing with Confidence - Lin
@@ -216,9 +217,9 @@
 ** Brandon Sanderson
 *** DONE Elantris
 *** TODO Mistborn
-**** TODO 1
-**** TODO 2
-**** TODO 3
+**** DONE The Final Empire
+**** DONE The Well of Ascension
+**** TODO The Hero of Ages
 **** TODO 4
 **** TODO 5
 **** TODO 6
@@ -229,6 +230,7 @@
 ** TODO Amazing Spiderman 1
 ** TODO Amazing Spiderman 2
 ** TODO Venom
+** TODO Venom 2
 ** TODO X-men: The last stand
 ** TODO New Mutants
 ** TODO Dead Pool 2
@@ -236,7 +238,7 @@
 ** TODO Watchmen
 ** TODO Conan The Destroyer
 ** TODO Conan The Barbarian (2011)
-** TODO Shange Chi
+** TODO Shang Chi
 ** TODO Daredevil
 ** TODO The Defenders
 * Videos
