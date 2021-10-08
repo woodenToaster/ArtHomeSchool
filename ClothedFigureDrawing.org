@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-06 Wed 20:52], for week 2021-W40.
+  #+CAPTION: Clock summary at [2021-10-07 Thu 20:58], for week 2021-W40.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -94,7 +94,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-06 Wed 20:52], for week 2021-W40.
+  #+CAPTION: Clock summary at [2021-10-07 Thu 20:58], for week 2021-W40.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -161,7 +161,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-06 Wed 20:52], for week 2021-W40.
+  #+CAPTION: Clock summary at [2021-10-07 Thu 20:58], for week 2021-W40.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -242,12 +242,12 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-06 Wed 20:52], for week 2021-W40.
+  #+CAPTION: Clock summary at [2021-10-07 Thu 20:58], for week 2021-W40.
   | Tags    | Headline                                | Time    |       |      |      |
   |---------+-----------------------------------------+---------+-------+------+------|
-  |         | *Total time*                            | *11:27* |       |      |      |
+  |         | *Total time*                            | *13:57* |       |      |      |
   |---------+-----------------------------------------+---------+-------+------+------|
-  |         | \_  Week 4                              |         | 11:27 |      |      |
+  |         | \_  Week 4                              |         | 13:57 |      |      |
   |         | \_    <2021-10-04 Mon>                  |         |       | 5:59 |      |
   | study   | \_      Vilppu drapery                  |         |       |      | 1:15 |
   | drawing | \_      Clothed figure                  |         |       |      | 3:13 |
@@ -258,14 +258,17 @@
   |         | \_    <2021-10-06 Wed>                  |         |       | 2:22 |      |
   | drawing | \_      Clothed figure from photo       |         |       |      | 1:04 |
   | drawing | \_      Original page                   |         |       |      | 1:18 |
+  |         | \_    <2021-10-07 Thu>                  |         |       | 2:30 |      |
+  | drawing | \_      Clothed figure from photo       |         |       |      | 1:41 |
+  | study   | \_      Original comic page             |         |       |      | 0:49 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *10h 12m* |
+  | drawing | *Tag time* | *11h 53m* |
   |---------+------------+-----------|
-  | study   | *Tag time* | *1h 15m*  |
+  | study   | *Tag time* | *2h 4m*   |
   
   #+END:
 *** <2021-10-04 Mon>
@@ -300,4 +303,13 @@
 **** DONE Original page                                             :drawing:
      :LOGBOOK:
      CLOCK: [2021-10-06 Wed 19:29]--[2021-10-06 Wed 20:47] =>  1:18
+     :END:
+*** <2021-10-07 Thu>
+**** DONE Clothed figure from photo                                 :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-10-07 Thu 18:00]--[2021-10-07 Thu 19:41] =>  1:41
+     :END:
+**** DONE Original comic page                                         :study:
+     :LOGBOOK:
+     CLOCK: [2021-10-07 Thu 20:09]--[2021-10-07 Thu 20:58] =>  0:49
      :END:
