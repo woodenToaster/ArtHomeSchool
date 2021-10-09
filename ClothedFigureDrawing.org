@@ -313,3 +313,8 @@
      :LOGBOOK:
      CLOCK: [2021-10-07 Thu 20:09]--[2021-10-07 Thu 20:58] =>  0:49
      :END:
+*** <2021-10-08 Fri>
+**** DONE Drapery master study                                      :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-10-08 Fri 18:21]--[2021-10-08 Fri 20:56] =>  2:35
+     :END:
