@@ -351,7 +351,7 @@
     - Gist
     - Legs and arms from memory
 * TODO Term 5
-** TODO Clothed Figure Drawing
+** DONE Clothed Figure Drawing
 *** Videos
 **** TODO How to draw clothing and drapery with Glenn Vilppu
 **** DONE Drapery with Eric Gist
@@ -368,6 +368,34 @@
 *** Week 2 - linear layin
 *** Week 3 - shadow mapping
 *** Week 4 - fully rendered
+** TODO Unit II
+*** Videos
+**** TODO Watts Figure Phase II
+**** TODO Watts Head Phase IV
+**** TODO Watts Gouache Phase I
+**** TODO Watts Composition and Staging
+*** Books
+*** Art Parent - Jeff Watts
+*** Inspiration - Alla Prima by Schmid
+*** Monday
+    - Gouache
+    - Composition
+    - Original art
+*** Tuesday
+    - Figure drawing II
+*** Wednesday
+    - Head drawing IV
+*** Thursday
+    - Figure drawing II
+*** Friday
+    - Head drawing IV
+*** Saturday
+    - Gouache
+    - Composition
+    - Original art
+*** Sunday
+    - Gouache
+    - Original art
 ** TODO Value and Light I
 ** TODO Composition and Storytelling I
 * TODO Term 6
