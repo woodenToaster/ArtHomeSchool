@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t
-#+CAPTION: Clock summary at [2021-10-03 Sun 20:13]
+#+CAPTION: Clock summary at [2021-10-11 Mon 08:41]
 | File                       | Tags     | Headline                                         | Time      |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
-|                            | ALL      | *Total time*                                     | *1369:01* |       |      |      |
+|                            | ALL      | *Total time*                                     | *1396:12* |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | AnatomyIII_Legs.org        |          | *File time*                                      | *136:15*  |       |      |      |
 |                            |          | Log                                              | 136:15    |       |      |      |
@@ -481,8 +481,8 @@
 |                            | study    | \_      Blog                                     |           |       |      | 0:50 |
 |                            | study    | \_      Unit plan                                |           |       |      | 0:20 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
-| ClothedFigureDrawing.org   |          | *File time*                                      | *69:10*   |       |      |      |
-|                            |          | Log                                              | 69:10     |       |      |      |
+| ClothedFigureDrawing.org   |          | *File time*                                      | *96:21*   |       |      |      |
+|                            |          | Log                                              | 96:21     |       |      |      |
 |                            |          | \_  Week 1                                       |           | 29:26 |      |      |
 |                            |          | \_    <2021-09-13 Mon>                           |           |       | 6:27 |      |
 |                            | study    | \_      Plan the unit                            |           |       |      | 0:47 |
@@ -545,6 +545,28 @@
 |                            | drawing  | \_      Clothed figure from photo                |           |       |      | 4:27 |
 |                            | study    | \_      Clothed figure from photo                |           |       |      | 0:30 |
 |                            | study    | \_      Blog                                     |           |       |      | 0:35 |
+|                            |          | \_  Week 4                                       |           | 27:11 |      |      |
+|                            |          | \_    <2021-10-04 Mon>                           |           |       | 5:59 |      |
+|                            | study    | \_      Vilppu drapery                           |           |       |      | 1:15 |
+|                            | drawing  | \_      Clothed figure                           |           |       |      | 3:13 |
+|                            | drawing  | \_      Clothed figure from imagination          |           |       |      | 1:31 |
+|                            |          | \_    <2021-10-05 Tue>                           |           |       | 3:06 |      |
+|                            | drawing  | \_      Clothed figure from photo                |           |       |      | 1:48 |
+|                            | drawing  | \_      Original comic page                      |           |       |      | 1:18 |
+|                            |          | \_    <2021-10-06 Wed>                           |           |       | 2:22 |      |
+|                            | drawing  | \_      Clothed figure from photo                |           |       |      | 1:04 |
+|                            | drawing  | \_      Original page                            |           |       |      | 1:18 |
+|                            |          | \_    <2021-10-07 Thu>                           |           |       | 2:30 |      |
+|                            | drawing  | \_      Clothed figure from photo                |           |       |      | 1:41 |
+|                            | study    | \_      Original comic page                      |           |       |      | 0:49 |
+|                            |          | \_    <2021-10-08 Fri>                           |           |       | 2:35 |      |
+|                            | drawing  | \_      Drapery master study                     |           |       |      | 2:35 |
+|                            |          | \_    <2021-10-09 Sat>                           |           |       | 6:47 |      |
+|                            | drawing  | \_      Drapery master study                     |           |       |      | 5:27 |
+|                            | study    | \_      Plan next unit                           |           |       |      | 1:20 |
+|                            |          | \_    <2021-10-10 Sun>                           |           |       | 3:52 |      |
+|                            | drawing  | \_      Clothed figure from photo                |           |       |      | 3:28 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:24 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | FZDDesignCinema.org        |          | *File time*                                      | *0:00*    |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
@@ -1480,6 +1502,8 @@
 |                            | drawing  | \_      NMA Linear Perspective -                 |           |       |      | 1:34 |
 |                            | study    | \_      NMA Linear Perspective -                 |           |       |      | 0:30 |
 |                            | study    | \_      Blog                                     |           |       |      | 0:42 |
+|----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
+| Term5Unit2.org             |          | *File time*                                      | *0:00*    |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | clip_studio_cheatsheet.org |          | *File time*                                      | *0:00*    |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|

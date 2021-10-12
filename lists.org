@@ -16,7 +16,6 @@
 ** Sanding block
 ** OLFA utility knife
 ** Tombow pencils
-** Stonehenge drawing paper
 ** pentel mechanical pencils
 ** Blending stumps
 ** Sakura pigma brush pens
@@ -28,6 +27,7 @@
 **** 3
 *** 2 inch brush
 ** Blair low odor spray fix
+** Stonehenge drawing paper
 ** Stillman and Birn Zeta Series sketchbook
 ** Stillman and Birn Epsilon Series sketchbook
 ** white ink
