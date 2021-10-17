@@ -12,10 +12,10 @@
 ** Baldur's Gate 3
 ** Guardians of the Galaxy
 * Art Supplies
-** Prismacolor kneaded eraser
-** Sanding block
-** Blending stumps
-** OLFA utility knife
+** Stonehenge drawing paper
+** Vellum bristol
+** Artists tape
+** Drafting dots
 ** Tombow pencils
 ** pentel mechanical pencils
 ** Sakura pigma brush pens
@@ -27,7 +27,6 @@
 **** 3
 *** 2 inch brush
 ** Blair low odor spray fix
-** Stonehenge drawing paper
 ** Stillman and Birn Zeta Series sketchbook
 ** Stillman and Birn Epsilon Series sketchbook
 ** white ink
