@@ -6,36 +6,10 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-17 Sun 20:17], for week 2021-W41.
-  | Tags    | Headline                             | Time    |       |      |      |
-  |---------+--------------------------------------+---------+-------+------+------|
-  |         | *Total time*                         | *35:10* |       |      |      |
-  |---------+--------------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                           |         | 35:10 |      |      |
-  |         | \_    <2021-10-11 Mon>               |         |       | 8:01 |      |
-  | drawing | \_      Drawing for gouache portrait |         |       |      | 2:59 |
-  | study   | \_      Composition                  |         |       |      | 2:10 |
-  | drawing | \_      Original page                |         |       |      | 2:52 |
-  |         | \_    <2021-10-12 Tue>               |         |       | 3:00 |      |
-  | drawing | \_      20 minute layins             |         |       |      | 2:28 |
-  | study   | \_      20 minute layins             |         |       |      | 0:32 |
-  |         | \_    <2021-10-13 Wed>               |         |       | 3:30 |      |
-  | drawing | \_      Head drawing                 |         |       |      | 2:57 |
-  | study   | \_      Head drawing                 |         |       |      | 0:33 |
-  |         | \_    <2021-10-14 Thu>               |         |       | 3:03 |      |
-  | drawing | \_      Figure lay-ins               |         |       |      | 2:26 |
-  | study   | \_      Figure lay-ins               |         |       |      | 0:37 |
-  |         | \_    <2021-10-15 Fri>               |         |       | 3:27 |      |
-  | drawing | \_      Head drawing                 |         |       |      | 2:46 |
-  | study   | \_      Head drawing                 |         |       |      | 0:41 |
-  |         | \_    <2021-10-16 Sat>               |         |       | 7:56 |      |
-  | drawing | \_      Drawing for gouache portrait |         |       |      | 3:02 |
-  | study   | \_      Composition                  |         |       |      | 1:58 |
-  | drawing | \_      Original page                |         |       |      | 2:56 |
-  |         | \_    <2021-10-17 Sun>               |         |       | 6:13 |      |
-  | drawing | \_      Drawing for gouache portrait |         |       |      | 2:53 |
-  | drawing | \_      Original page                |         |       |      | 2:44 |
-  | study   | \_      Blog                         |         |       |      | 0:36 |
+  #+CAPTION: Clock summary at [2021-10-18 Mon 20:44], for week 2021-W42.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
   #+END:
  
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
@@ -128,23 +102,50 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-17 Sun 20:17], for week 2021-W41.
-  | Tags | Headline     | Time   |
-  |------+--------------+--------|
-  |      | *Total time* | *0:00* |
+  #+CAPTION: Clock summary at [2021-10-18 Mon 20:44], for week 2021-W42.
+  | Tags     | Headline                 | Time   |      |      |      |
+  |----------+--------------------------+--------+------+------+------|
+  |          | *Total time*             | *8:01* |      |      |      |
+  |----------+--------------------------+--------+------+------+------|
+  |          | \_  Week 2               |        | 8:01 |      |      |
+  |          | \_    <2021-10-18 Mon>   |        |      | 8:01 |      |
+  | drawing  | \_      Gouache portrait |        |      |      | 1:17 |
+  | painting | \_      Gouache portrait |        |      |      | 2:41 |
+  | study    | \_      Composition      |        |      |      | 1:31 |
+  | drawing  | \_      Original art     |        |      |      | 2:32 |
   #+END:
- 
-  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-  | Tag     | Headline   | Time (h) |
-  |---------+------------+----------|
-  | drawing | *Tag time* | *0h 0m*  |
-  |---------+------------+----------|
-  | study   | *Tag time* | *0h 0m*  |
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "painting" "study")
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *3h 49m* |
+  |----------+------------+----------|
+  | painting | *Tag time* | *2h 41m* |
+  |----------+------------+----------|
+  | study    | *Tag time* | *1h 31m* |
   
   #+END:
+*** <2021-10-18 Mon>
+**** DONE Gouache portrait                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-10-18 Mon 08:40]--[2021-10-18 Mon 09:57] =>  1:17
+     :END:
+**** DONE Gouache portrait                                         :painting:
+     :LOGBOOK:
+     CLOCK: [2021-10-18 Mon 13:31]--[2021-10-18 Mon 14:31] =>  1:00
+     CLOCK: [2021-10-18 Mon 09:58]--[2021-10-18 Mon 11:39] =>  1:41
+     :END:
+**** DONE Composition                                                 :study:
+     :LOGBOOK:
+     CLOCK: [2021-10-18 Mon 14:40]--[2021-10-18 Mon 16:11] =>  1:31
+     :END:
+**** DONE Original art                                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-10-18 Mon 18:12]--[2021-10-18 Mon 20:44] =>  2:32
+     :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-17 Sun 20:17], for week 2021-W41.
+  #+CAPTION: Clock summary at [2021-10-18 Mon 20:44], for week 2021-W42.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -160,7 +161,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-10-17 Sun 20:17], for week 2021-W41.
+  #+CAPTION: Clock summary at [2021-10-18 Mon 20:44], for week 2021-W42.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
