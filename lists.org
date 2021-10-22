@@ -34,6 +34,7 @@
 ** Epson WF-7840 - $250 (can't print grayscale without color ink cartridges)
 * Art Books
 ** General
+*** Fundamentals of drawing - Mogilevtsev
 *** Drawing Lessons from the Great Masters - Robert Hale
 *** Vilppu Drawing Manual - Glenn Vilppu
 *** Imaginative Realism - James Gurney
@@ -120,6 +121,7 @@
 *** Light for Visual Artists - Yot
 *** Lessons on Shading - Sparkes
 ** Painting
+*** Fundamentals of painting - Mogilevtsev
 *** Hawthorne on Painting
 *** Alla Prima - Richard Schmid
 *** Oil Painting techniques and materials - Harold Speed
