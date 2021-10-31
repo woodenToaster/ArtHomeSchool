@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t
-#+CAPTION: Clock summary at [2021-10-11 Mon 08:41]
+#+CAPTION: Clock summary at [2021-10-30 Sat 18:28]
 | File                       | Tags     | Headline                                         | Time      |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
-|                            | ALL      | *Total time*                                     | *1396:12* |       |      |      |
+|                            | ALL      | *Total time*                                     | *1486:28* |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | AnatomyIII_Legs.org        |          | *File time*                                      | *136:15*  |       |      |      |
 |                            |          | Log                                              | 136:15    |       |      |      |
@@ -1503,7 +1503,79 @@
 |                            | study    | \_      NMA Linear Perspective -                 |           |       |      | 0:30 |
 |                            | study    | \_      Blog                                     |           |       |      | 0:42 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
-| Term5Unit2.org             |          | *File time*                                      | *0:00*    |       |      |      |
+| Term5Unit2.org             |          | *File time*                                      | *90:16*   |       |      |      |
+|                            |          | Log                                              | 90:16     |       |      |      |
+|                            |          | \_  Week 1                                       |           | 35:10 |      |      |
+|                            |          | \_    <2021-10-11 Mon>                           |           |       | 8:01 |      |
+|                            | drawing  | \_      Drawing for gouache portrait             |           |       |      | 2:59 |
+|                            | study    | \_      Composition                              |           |       |      | 2:10 |
+|                            | drawing  | \_      Original page                            |           |       |      | 2:52 |
+|                            |          | \_    <2021-10-12 Tue>                           |           |       | 3:00 |      |
+|                            | drawing  | \_      20 minute layins                         |           |       |      | 2:28 |
+|                            | study    | \_      20 minute layins                         |           |       |      | 0:32 |
+|                            |          | \_    <2021-10-13 Wed>                           |           |       | 3:30 |      |
+|                            | drawing  | \_      Head drawing                             |           |       |      | 2:57 |
+|                            | study    | \_      Head drawing                             |           |       |      | 0:33 |
+|                            |          | \_    <2021-10-14 Thu>                           |           |       | 3:03 |      |
+|                            | drawing  | \_      Figure lay-ins                           |           |       |      | 2:26 |
+|                            | study    | \_      Figure lay-ins                           |           |       |      | 0:37 |
+|                            |          | \_    <2021-10-15 Fri>                           |           |       | 3:27 |      |
+|                            | drawing  | \_      Head drawing                             |           |       |      | 2:46 |
+|                            | study    | \_      Head drawing                             |           |       |      | 0:41 |
+|                            |          | \_    <2021-10-16 Sat>                           |           |       | 7:56 |      |
+|                            | drawing  | \_      Drawing for gouache portrait             |           |       |      | 3:02 |
+|                            | study    | \_      Composition                              |           |       |      | 1:58 |
+|                            | drawing  | \_      Original page                            |           |       |      | 2:56 |
+|                            |          | \_    <2021-10-17 Sun>                           |           |       | 6:13 |      |
+|                            | drawing  | \_      Drawing for gouache portrait             |           |       |      | 2:53 |
+|                            | drawing  | \_      Original page                            |           |       |      | 2:44 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:36 |
+|                            |          | \_  Week 2                                       |           | 30:55 |      |      |
+|                            |          | \_    <2021-10-18 Mon>                           |           |       | 8:01 |      |
+|                            | drawing  | \_      Gouache portrait                         |           |       |      | 1:17 |
+|                            | painting | \_      Gouache portrait                         |           |       |      | 2:41 |
+|                            | study    | \_      Composition                              |           |       |      | 1:31 |
+|                            | drawing  | \_      Original art                             |           |       |      | 2:32 |
+|                            |          | \_    <2021-10-19 Tue>                           |           |       | 3:22 |      |
+|                            | drawing  | \_      20 minute figure layins                  |           |       |      | 2:51 |
+|                            | study    | \_      20 minute figure layins                  |           |       |      | 0:31 |
+|                            |          | \_    <2021-10-20 Wed>                           |           |       | 3:18 |      |
+|                            | drawing  | \_      Head drawing                             |           |       |      | 3:03 |
+|                            | study    | \_      Head drawing                             |           |       |      | 0:15 |
+|                            |          | \_    <2021-10-21 Thu>                           |           |       | 3:04 |      |
+|                            | drawing  | \_      20 minute figure layins                  |           |       |      | 2:31 |
+|                            | study    | \_      20 minute figure layins                  |           |       |      | 0:33 |
+|                            |          | \_    <2021-10-22 Fri>                           |           |       | 1:10 |      |
+|                            | drawing  | \_      Head drawing                             |           |       |      | 1:10 |
+|                            |          | \_    <2021-10-23 Sat>                           |           |       | 7:41 |      |
+|                            | painting | \_      Gouache portrait                         |           |       |      | 5:23 |
+|                            | study    | \_      Gouache portrait                         |           |       |      | 0:39 |
+|                            | study    | \_      Composition - Center of interest         |           |       |      | 1:39 |
+|                            |          | \_    <2021-10-24 Sun>                           |           |       | 4:19 |      |
+|                            | painting | \_      Gouache portrait                         |           |       |      | 0:56 |
+|                            | drawing  | \_      Original art                             |           |       |      | 3:09 |
+|                            | study    | \_      Blog                                     |           |       |      | 0:14 |
+|                            |          | \_  Week 3                                       |           | 24:11 |      |      |
+|                            |          | \_    <2021-10-25 Mon>                           |           |       | 6:51 |      |
+|                            | study    | \_      Composition - Linking objects            |           |       |      | 1:38 |
+|                            | study    | \_      Picture This                             |           |       |      | 0:22 |
+|                            | drawing  | \_      Gouache portrait drawing                 |           |       |      | 2:58 |
+|                            | drawing  | \_      Original comic page                      |           |       |      | 1:53 |
+|                            |          | \_    <2021-10-26 Tue>                           |           |       | 3:03 |      |
+|                            | drawing  | \_      Figure layins                            |           |       |      | 2:30 |
+|                            | study    | \_      Figure layins                            |           |       |      | 0:33 |
+|                            |          | \_    <2021-10-27 Wed>                           |           |       | 2:51 |      |
+|                            | drawing  | \_      Head drawing                             |           |       |      | 1:43 |
+|                            | study    | \_      Head drawing                             |           |       |      | 1:08 |
+|                            |          | \_    <2021-10-28 Thu>                           |           |       | 3:29 |      |
+|                            | drawing  | \_      Figure layins                            |           |       |      | 2:32 |
+|                            | study    | \_      Figure layins                            |           |       |      | 0:57 |
+|                            |          | \_    <2021-10-29 Fri>                           |           |       | 2:58 |      |
+|                            | drawing  | \_      Head drawing                             |           |       |      | 2:24 |
+|                            | drawing  | \_      Head drawing                             |           |       |      | 0:34 |
+|                            |          | \_    <2021-10-30 Sat>                           |           |       | 4:59 |      |
+|                            | study    | \_      Composition                              |           |       |      | 1:45 |
+|                            | drawing  | \_      Gouache portrait drawing                 |           |       |      | 3:14 |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|
 | clip_studio_cheatsheet.org |          | *File time*                                      | *0:00*    |       |      |      |
 |----------------------------+----------+--------------------------------------------------+-----------+-------+------+------|

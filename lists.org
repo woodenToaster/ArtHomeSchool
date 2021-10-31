@@ -12,11 +12,8 @@
 ** Baldur's Gate 3
 ** Guardians of the Galaxy
 * Art Supplies
-** Sadie Valeri Graphite Drawing
-*** Drawing board
-*** Strathmore 300 Vellum bristol
 ** Stonehenge drawing paper
-** Drafting dots
+** Drawing board
 ** Sakura pigma brush pens
 ** Copic (or prismacolor) grey toned markers
 ** Robert Simmons sythetic sable brushes
@@ -24,7 +21,6 @@
 **** 2
 **** 3
 **** 4
-** Blair low odor spray fix
 ** Stillman and Birn Zeta Series sketchbook
 ** Stillman and Birn Epsilon Series sketchbook
 ** white ink
@@ -406,6 +402,10 @@
 *** Gustave Dore
 *** Fechin
 *** Albrecht Altdorfer
+*** Jules Bastien-Lepage
+*** Leon Bonnat
+*** Howard Pyle
+*** Dean Cornwell
 ** Fantasy Illustration
 *** Spectrum books (library)
 * Exercises
