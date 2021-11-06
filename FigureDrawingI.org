@@ -3,6 +3,15 @@
 #+DATE: <2020-10-12 Mon> to <2020-11-08 Sun>
 #+STARTUP: nologdone
 
+  #+BEGIN: clocktable :maxlevel 6 :tags t
+  #+CAPTION: Clock summary at [2021-11-05 Fri 20:38]
+  | Tags    | Headline     | Time    |
+  |---------+--------------+---------|
+  |         | *Total time* | *96:00* |
+  |---------+--------------+---------|
+  | drawing | Log          | 96:00   |
+  #+END:
+  
 * Proko Figure Drawing Fundamentals
 ** How to Draw Gesture
    - Find longest axis of each form to find the fluid motion. Start with longest
@@ -242,7 +251,10 @@
 *** TODO Draw spheres connected to each other, and make them come alive.
 ** Boxes
 *** TODO Draw boxes that are alive.
-* Log
+* Log :drawing:
+  :LOGBOOK:
+  CLOCK: [2021-11-01 Mon 20:36]--[2021-11-05 Fri 20:36] => 96:00
+  :END:
 ** Week 1
 *** <2020-10-12 Mon>
 **** DONE Croquis cafe gesture session
