@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-05 Fri 20:34], for week 2021-W44.
+  #+CAPTION: Clock summary at [2021-11-06 Sat 20:00], for week 2021-W44.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -102,7 +102,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-05 Fri 20:34], for week 2021-W44.
+  #+CAPTION: Clock summary at [2021-11-06 Sat 20:00], for week 2021-W44.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -201,7 +201,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-05 Fri 20:34], for week 2021-W44.
+  #+CAPTION: Clock summary at [2021-11-06 Sat 20:00], for week 2021-W44.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -294,12 +294,12 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-05 Fri 20:34], for week 2021-W44.
+  #+CAPTION: Clock summary at [2021-11-06 Sat 20:00], for week 2021-W44.
   | Tags     | Headline                 | Time    |       |      |      |
   |----------+--------------------------+---------+-------+------+------|
-  |          | *Total time*             | *12:55* |       |      |      |
+  |          | *Total time*             | *18:01* |       |      |      |
   |----------+--------------------------+---------+-------+------+------|
-  |          | \_  Week 4               |         | 12:55 |      |      |
+  |          | \_  Week 4               |         | 18:01 |      |      |
   |          | \_    <2021-11-01 Mon>   |         |       | 3:00 |      |
   | painting | \_      Gouache portrait |         |       |      | 3:00 |
   |          | \_    <2021-11-02 Tue>   |         |       | 2:55 |      |
@@ -312,6 +312,9 @@
   | drawing  | \_      Figure layins    |         |       |      | 1:51 |
   |          | \_    <2021-11-05 Fri>   |         |       | 2:20 |      |
   | drawing  | \_      Head drawing     |         |       |      | 2:20 |
+  |          | \_    <2021-11-06 Sat>   |         |       | 5:06 |      |
+  | study    | \_      Composition      |         |       |      | 2:01 |
+  | painting | \_      Gouache portrait |         |       |      | 3:05 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
@@ -319,9 +322,9 @@
   |----------+------------+----------|
   | drawing  | *Tag time* | *9h 12m* |
   |----------+------------+----------|
-  | study    | *Tag time* | *0h 43m* |
+  | study    | *Tag time* | *2h 44m* |
   |----------+------------+----------|
-  | painting | *Tag time* | *3h 0m*  |
+  | painting | *Tag time* | *6h 5m*  |
   
   #+END:
 *** <2021-11-01 Mon>
@@ -357,3 +360,23 @@
      :LOGBOOK:
      CLOCK: [2021-11-05 Fri 18:14]--[2021-11-05 Fri 20:34] =>  2:20
      :END:
+*** <2021-11-06 Sat>
+**** DONE Composition                                                 :study:
+     :LOGBOOK:
+     CLOCK: [2021-11-06 Sat 15:24]--[2021-11-06 Sat 15:44] =>  0:20
+     CLOCK: [2021-11-06 Sat 13:26]--[2021-11-06 Sat 14:06] =>  0:40
+     CLOCK: [2021-11-06 Sat 08:17]--[2021-11-06 Sat 09:18] =>  1:01
+     :END:
+**** DONE Gouache portrait                                         :painting:
+     :LOGBOOK:
+     CLOCK: [2021-11-06 Sat 18:04]--[2021-11-06 Sat 20:00] =>  1:56
+     CLOCK: [2021-11-06 Sat 09:46]--[2021-11-06 Sat 10:55] =>  1:09
+     :END:
+**** DONE Plan next unit                                              :study:
+     :LOGBOOK:
+     CLOCK: [2021-11-06 Sat 20:30]--[2021-11-06 Sat 20:58] =>  0:28
+     :END:
+*** <2021-11-07 Sun>
+**** TODO Gouache portrait :painting:
+**** TODO Original art :drawing:
+**** TODO Blog :study:

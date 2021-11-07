@@ -368,7 +368,7 @@
 *** Week 2 - linear layin
 *** Week 3 - shadow mapping
 *** Week 4 - fully rendered
-** TODO Unit II
+** DONE Unit II
 *** Videos
 **** TODO Watts Figure Phase II
 **** TODO Watts Head Phase IV
@@ -396,23 +396,30 @@
 *** Sunday
     - Gouache
     - Original art
+** TODO Bargue Drawing
+*** Videos
+**** TODO Steven Bauman's patreon
+*** Books
+**** TODO Bargue Drawing Course
+*** Art Parent - Charles Bargue
+*** Inspiration - Alla Prima by Schmid
+* TODO Term 6
 ** TODO Value and Light I
 ** TODO Composition and Storytelling I
-* TODO Term 6
 ** TODO Head drawing III
+* TODO Term 7
 ** TODO Color and Light I
 ** TODO Perspective III
-* TODO Term 7
 ** TODO Anatomy V - Imagination
+* TODO Term 8
 ** TODO Perspective IV
 ** TODO Environment Design I
-* TODO Term 8
 ** TODO Environment Design II
+* TODO Term 9
 ** TODO Inking I
 ** TODO Character Design
-* TODO Term 9
 ** TODO Painting I
+* TODO Term 10
 ** TODO Inking II
 ** TODO Painting II
-* TODO Term 10
 ** TODO Digital Art I - Photoshop
