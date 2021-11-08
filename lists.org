@@ -12,22 +12,13 @@
 ** Baldur's Gate 3
 ** Guardians of the Galaxy
 * Art Supplies
-** Stonehenge drawing paper
 ** Drawing board
 ** General's G314 draughting pencil
-** Mabef MBM-09D easel
 ** Sakura pigma brush pens
 ** Copic (or prismacolor) grey toned markers
-** Robert Simmons sythetic sable brushes
-*** Round
-**** 2
-**** 3
-**** 4
 ** Stillman and Birn Zeta Series sketchbook
-** Stillman and Birn Epsilon Series sketchbook
 ** white ink
 ** Point divider
-** Canon Pixma iX6820 13x19 cardstock printer - $189
 ** HP OfficeJet Pro 7740 11x17 printer scanner - $279 (doesn't scan 11x17)
 ** Epson WF-7840 - $250 (can't print grayscale without color ink cartridges)
 * Art Books
@@ -397,6 +388,7 @@
     - Wolverine
     - Uncanny X-Men
     - King Conan
+*** Brian Hitch (perspective)
 ** Fine Art and Illustration
 *** Charles Dana Gibson
 *** Joseph Clemont Coll

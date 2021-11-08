@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-06 Sat 20:00], for week 2021-W44.
+  #+CAPTION: Clock summary at [2021-11-07 Sun 19:56], for week 2021-W44.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -102,7 +102,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-06 Sat 20:00], for week 2021-W44.
+  #+CAPTION: Clock summary at [2021-11-07 Sun 19:56], for week 2021-W44.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -201,7 +201,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-06 Sat 20:00], for week 2021-W44.
+  #+CAPTION: Clock summary at [2021-11-07 Sun 19:56], for week 2021-W44.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -294,37 +294,43 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-06 Sat 20:00], for week 2021-W44.
-  | Tags     | Headline                 | Time    |       |      |      |
-  |----------+--------------------------+---------+-------+------+------|
-  |          | *Total time*             | *18:01* |       |      |      |
-  |----------+--------------------------+---------+-------+------+------|
-  |          | \_  Week 4               |         | 18:01 |      |      |
-  |          | \_    <2021-11-01 Mon>   |         |       | 3:00 |      |
-  | painting | \_      Gouache portrait |         |       |      | 3:00 |
-  |          | \_    <2021-11-02 Tue>   |         |       | 2:55 |      |
-  | drawing  | \_      Figure layins    |         |       |      | 2:24 |
-  | study    | \_      Figure layins    |         |       |      | 0:31 |
-  |          | \_    <2021-11-03 Wed>   |         |       | 2:49 |      |
-  | study    | \_      Head drawing     |         |       |      | 0:12 |
-  | drawing  | \_      Head drawing     |         |       |      | 2:37 |
-  |          | \_    <2021-11-04 Thu>   |         |       | 1:51 |      |
-  | drawing  | \_      Figure layins    |         |       |      | 1:51 |
-  |          | \_    <2021-11-05 Fri>   |         |       | 2:20 |      |
-  | drawing  | \_      Head drawing     |         |       |      | 2:20 |
-  |          | \_    <2021-11-06 Sat>   |         |       | 5:06 |      |
-  | study    | \_      Composition      |         |       |      | 2:01 |
-  | painting | \_      Gouache portrait |         |       |      | 3:05 |
+  #+CAPTION: Clock summary at [2021-11-07 Sun 19:56], for week 2021-W44.
+  | Tags     | Headline                         | Time    |       |      |      |
+  |----------+----------------------------------+---------+-------+------+------|
+  |          | *Total time*                     | *22:34* |       |      |      |
+  |----------+----------------------------------+---------+-------+------+------|
+  |          | \_  Week 4                       |         | 22:34 |      |      |
+  |          | \_    <2021-11-01 Mon>           |         |       | 3:00 |      |
+  | painting | \_      Gouache portrait         |         |       |      | 3:00 |
+  |          | \_    <2021-11-02 Tue>           |         |       | 2:55 |      |
+  | drawing  | \_      Figure layins            |         |       |      | 2:24 |
+  | study    | \_      Figure layins            |         |       |      | 0:31 |
+  |          | \_    <2021-11-03 Wed>           |         |       | 2:49 |      |
+  | study    | \_      Head drawing             |         |       |      | 0:12 |
+  | drawing  | \_      Head drawing             |         |       |      | 2:37 |
+  |          | \_    <2021-11-04 Thu>           |         |       | 1:51 |      |
+  | drawing  | \_      Figure layins            |         |       |      | 1:51 |
+  |          | \_    <2021-11-05 Fri>           |         |       | 2:20 |      |
+  | drawing  | \_      Head drawing             |         |       |      | 2:20 |
+  |          | \_    <2021-11-06 Sat>           |         |       | 5:34 |      |
+  | study    | \_      Composition              |         |       |      | 2:01 |
+  | painting | \_      Gouache portrait         |         |       |      | 3:05 |
+  | study    | \_      Plan next unit           |         |       |      | 0:28 |
+  |          | \_    <2021-11-07 Sun>           |         |       | 4:05 |      |
+  | drawing  | \_      Gouache portrait drawing |         |       |      | 1:38 |
+  | study    | \_      Gouache portrait         |         |       |      | 0:56 |
+  | drawing  | \_      Original art             |         |       |      | 1:08 |
+  | study    | \_      Blog                     |         |       |      | 0:23 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
-  | Tag      | Headline   | Time (h) |
-  |----------+------------+----------|
-  | drawing  | *Tag time* | *9h 12m* |
-  |----------+------------+----------|
-  | study    | *Tag time* | *2h 44m* |
-  |----------+------------+----------|
-  | painting | *Tag time* | *6h 5m*  |
+  | Tag      | Headline   | Time (h)  |
+  |----------+------------+-----------|
+  | drawing  | *Tag time* | *11h 58m* |
+  |----------+------------+-----------|
+  | study    | *Tag time* | *4h 31m*  |
+  |----------+------------+-----------|
+  | painting | *Tag time* | *6h 5m*   |
   
   #+END:
 *** <2021-11-01 Mon>
@@ -377,6 +383,19 @@
      CLOCK: [2021-11-06 Sat 20:30]--[2021-11-06 Sat 20:58] =>  0:28
      :END:
 *** <2021-11-07 Sun>
-**** TODO Gouache portrait :painting:
-**** TODO Original art :drawing:
-**** TODO Blog :study:
+**** DONE Gouache portrait drawing                                  :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-11-07 Sun 10:20]--[2021-11-07 Sun 11:58] =>  1:38
+     :END:
+**** DONE Gouache portrait                                            :study:
+     :LOGBOOK:
+     CLOCK: [2021-11-07 Sun 09:23]--[2021-11-07 Sun 10:19] =>  0:56
+     :END:
+**** DONE Original art                                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-11-07 Sun 18:25]--[2021-11-07 Sun 19:33] =>  1:08
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2021-11-07 Sun 19:33]--[2021-11-07 Sun 19:56] =>  0:23
+     :END:
