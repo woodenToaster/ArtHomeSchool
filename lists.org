@@ -12,6 +12,10 @@
 ** Baldur's Gate 3
 ** Guardians of the Galaxy
 * Art Supplies
+** Leads
+*** 2mm
+*** 0.5 mm
+*** 0.3 mm
 ** Drawing board
 ** General's G314 draughting pencil
 ** Sakura pigma brush pens

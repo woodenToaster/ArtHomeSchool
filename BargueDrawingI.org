@@ -1,0 +1,31 @@
+#+TITLE: Bargue Drawing I
+#+AUTHOR: Chris Hogan
+#+DATE: <2021-11-08 Mon> to <2021-12-05 Sun>
+#+STARTUP: nologdone
+
+* Log
+** Week 1
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2021-11-08 Mon 21:14], for week 2021-W45.
+  | Tags    | Headline                        | Time   |      |      |      |
+  |---------+---------------------------------+--------+------+------+------|
+  |         | *Total time*                    | *3:01* |      |      |      |
+  |---------+---------------------------------+--------+------+------+------|
+  |         | \_  Week 1                      |        | 3:01 |      |      |
+  |         | \_    <2021-11-08 Mon>          |        |      | 3:01 |      |
+  | drawing | \_      Value scale in graphite |        |      |      | 3:01 |
+  #+END:
+ 
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
+  | Tag     | Headline   | Time (h) |
+  |---------+------------+----------|
+  | drawing | *Tag time* | *3h 1m*  |
+  |---------+------------+----------|
+  | study   | *Tag time* | *0h 0m*  |
+  
+  #+END:
+*** <2021-11-08 Mon>
+**** DONE Value scale in graphite                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-11-08 Mon 18:13]--[2021-11-08 Mon 21:14] =>  3:01
+     :END:
