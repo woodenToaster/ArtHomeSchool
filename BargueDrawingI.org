@@ -6,12 +6,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-11 Thu 20:57], for week 2021-W45.
+  #+CAPTION: Clock summary at [2021-11-12 Fri 21:16], for week 2021-W45.
   | Tags    | Headline                        | Time    |       |      |      |
   |---------+---------------------------------+---------+-------+------+------|
-  |         | *Total time*                    | *11:18* |       |      |      |
+  |         | *Total time*                    | *14:01* |       |      |      |
   |---------+---------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                      |         | 11:18 |      |      |
+  |         | \_  Week 1                      |         | 14:01 |      |      |
   |         | \_    <2021-11-08 Mon>          |         |       | 3:01 |      |
   | drawing | \_      Value scale in graphite |         |       |      | 3:01 |
   |         | \_    <2021-11-09 Tue>          |         |       | 2:28 |      |
@@ -24,12 +24,15 @@
   | drawing | \_      Sphere                  |         |       |      | 1:05 |
   | study   | \_      Bargue eyes             |         |       |      | 0:27 |
   | drawing | \_      Bargue eye              |         |       |      | 1:21 |
+  |         | \_    <2021-11-12 Fri>          |         |       | 2:43 |      |
+  | drawing | \_      Bargue eyes             |         |       |      | 1:44 |
+  | drawing | \_      Bargue drawing          |         |       |      | 0:59 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h) |
   |---------+------------+----------|
-  | drawing | *Tag time* | *9h 19m* |
+  | drawing | *Tag time* | *12h 2m* |
   |---------+------------+----------|
   | study   | *Tag time* | *1h 59m* |
   
@@ -72,3 +75,12 @@
      CLOCK: [2021-11-11 Thu 19:36]--[2021-11-11 Thu 20:57] =>  1:21
      :END:
 *** <2021-11-12 Fri>
+**** DONE Bargue eyes                                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-11-12 Fri 18:33]--[2021-11-12 Fri 20:17] =>  1:44
+     :END:
+**** DONE Bargue drawing                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-11-12 Fri 20:28]--[2021-11-12 Fri 21:16] =>  0:48
+     CLOCK: [2021-11-12 Fri 20:17]--[2021-11-12 Fri 20:28] =>  0:11
+     :END:
