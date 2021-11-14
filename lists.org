@@ -14,8 +14,12 @@
 * Art Supplies
 ** Leads
 *** 2mm
+**** 4B
 *** 0.5 mm
+**** 2B
+**** B
 *** 0.3 mm
+**** B
 ** Drawing board
 ** General's G314 draughting pencil
 ** Sakura pigma brush pens
