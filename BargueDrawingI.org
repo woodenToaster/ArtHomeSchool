@@ -6,12 +6,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-13 Sat 21:22], for week 2021-W45.
+  #+CAPTION: Clock summary at [2021-11-14 Sun 20:17], for week 2021-W45.
   | Tags    | Headline                        | Time    |       |      |      |
   |---------+---------------------------------+---------+-------+------+------|
-  |         | *Total time*                    | *22:11* |       |      |      |
+  |         | *Total time*                    | *27:15* |       |      |      |
   |---------+---------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                      |         | 22:11 |      |      |
+  |         | \_  Week 1                      |         | 27:15 |      |      |
   |         | \_    <2021-11-08 Mon>          |         |       | 3:01 |      |
   | drawing | \_      Value scale in graphite |         |       |      | 3:01 |
   |         | \_    <2021-11-09 Tue>          |         |       | 2:28 |      |
@@ -30,14 +30,18 @@
   |         | \_    <2021-11-13 Sat>          |         |       | 8:10 |      |
   | study   | \_      Composition and staging |         |       |      | 2:07 |
   | drawing | \_      Bargue drawing          |         |       |      | 6:03 |
+  |         | \_    <2021-11-14 Sun>          |         |       | 5:04 |      |
+  | study   | \_      Composition             |         |       |      | 0:55 |
+  | drawing | \_      Gouache portrait        |         |       |      | 3:30 |
+  | study   | \_      Blog                    |         |       |      | 0:39 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
-  | Tag     | Headline   | Time (h) |
-  |---------+------------+----------|
-  | drawing | *Tag time* | *18h 5m* |
-  |---------+------------+----------|
-  | study   | *Tag time* | *4h 6m*  |
+  | Tag     | Headline   | Time (h)  |
+  |---------+------------+-----------|
+  | drawing | *Tag time* | *21h 35m* |
+  |---------+------------+-----------|
+  | study   | *Tag time* | *5h 40m*  |
   
   #+END:
 *** <2021-11-08 Mon>
@@ -99,3 +103,67 @@
      CLOCK: [2021-11-13 Sat 14:12]--[2021-11-13 Sat 16:21] =>  2:09
      CLOCK: [2021-11-13 Sat 09:33]--[2021-11-13 Sat 11:20] =>  1:47
      :END:
+*** <2021-11-14 Sun>
+**** DONE Composition                                                 :study:
+     :LOGBOOK:
+     CLOCK: [2021-11-14 Sun 09:52]--[2021-11-14 Sun 10:47] =>  0:55
+     :END:
+**** DONE Gouache portrait                                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-11-14 Sun 18:03]--[2021-11-14 Sun 19:23] =>  1:20
+     CLOCK: [2021-11-14 Sun 14:00]--[2021-11-14 Sun 14:58] =>  0:58
+     CLOCK: [2021-11-14 Sun 10:49]--[2021-11-14 Sun 12:01] =>  1:12
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2021-11-14 Sun 19:38]--[2021-11-14 Sun 20:17] =>  0:39
+     :END:
+** Week 2
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2021-11-14 Sun 20:17], for week 2021-W45.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
+  | Tag     | Headline   | Time (h) |
+  |---------+------------+----------|
+  | drawing | *Tag time* | *0h 0m*  |
+  |---------+------------+----------|
+  | study   | *Tag time* | *0h 0m*  |
+  
+  #+END:
+*** <2021-11-15 Mon>
+** Week 3
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2021-11-14 Sun 20:17], for week 2021-W45.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
+  | Tag     | Headline   | Time (h) |
+  |---------+------------+----------|
+  | drawing | *Tag time* | *0h 0m*  |
+  |---------+------------+----------|
+  | study   | *Tag time* | *0h 0m*  |
+  
+  #+END:
+** Week 4
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2021-11-14 Sun 20:17], for week 2021-W45.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
+  | Tag     | Headline   | Time (h) |
+  |---------+------------+----------|
+  | drawing | *Tag time* | *0h 0m*  |
+  |---------+------------+----------|
+  | study   | *Tag time* | *0h 0m*  |
+  
+  #+END:
