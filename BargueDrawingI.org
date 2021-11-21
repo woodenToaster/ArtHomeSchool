@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-19 Fri 20:23], for week 2021-W46.
+  #+CAPTION: Clock summary at [2021-11-20 Sat 21:12], for week 2021-W46.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -96,12 +96,12 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-19 Fri 20:23], for week 2021-W46.
+  #+CAPTION: Clock summary at [2021-11-20 Sat 21:12], for week 2021-W46.
   | Tags    | Headline                         | Time    |       |      |      |
   |---------+----------------------------------+---------+-------+------+------|
-  |         | *Total time*                     | *19:30* |       |      |      |
+  |         | *Total time*                     | *22:27* |       |      |      |
   |---------+----------------------------------+---------+-------+------+------|
-  |         | \_  Week 2                       |         | 19:30 |      |      |
+  |         | \_  Week 2                       |         | 22:27 |      |      |
   |         | \_    <2021-11-15 Mon>           |         |       | 8:41 |      |
   | study   | \_      Russian academic drawing |         |       |      | 2:00 |
   | drawing | \_      Gouache portrait         |         |       |      | 4:22 |
@@ -116,12 +116,14 @@
   | drawing | \_      Bargue drawing           |         |       |      | 2:23 |
   |         | \_    <2021-11-19 Fri>           |         |       | 1:46 |      |
   | drawing | \_      Bargue drawing           |         |       |      | 1:46 |
+  |         | \_    <2021-11-20 Sat>           |         |       | 2:57 |      |
+  | drawing | \_      Bargue drawing           |         |       |      | 2:57 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study")
   | Tag     | Headline   | Time (h)  |
   |---------+------------+-----------|
-  | drawing | *Tag time* | *16h 35m* |
+  | drawing | *Tag time* | *19h 32m* |
   |---------+------------+-----------|
   | study   | *Tag time* | *2h 55m*  |
   
@@ -169,10 +171,14 @@
      CLOCK: [2021-11-19 Fri 18:37]--[2021-11-19 Fri 20:23] =>  1:46
      :END:
 *** <2021-11-20 Sat>
-**** TODO Bargue drawing :drawing:
+**** DONE Bargue drawing                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-11-20 Sat 19:45]--[2021-11-20 Sat 21:11] =>  1:26
+     CLOCK: [2021-11-20 Sat 10:34]--[2021-11-20 Sat 12:05] =>  1:31
+     :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-19 Fri 20:23], for week 2021-W46.
+  #+CAPTION: Clock summary at [2021-11-20 Sat 21:12], for week 2021-W46.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -188,7 +194,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-19 Fri 20:23], for week 2021-W46.
+  #+CAPTION: Clock summary at [2021-11-20 Sat 21:12], for week 2021-W46.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
