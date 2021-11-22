@@ -2,12 +2,12 @@
 #+AUTHOR: Chris Hogan
 
 * Games
+** Divinity 2
 ** Elden Ring
-** Mortal Shell
 ** Ghost of Tsushima
+** Mortal Shell
 ** Spider Man: Miles Morales
 ** Grim Dawn
-** Divinity 2
 ** Demon's Souls
 ** Baldur's Gate 3
 ** Guardians of the Galaxy
@@ -181,32 +181,19 @@
 ** Pillars of the Earth - Ken Follett
    - Traces the entire lives of people in the 12th century building a cathedral
 ** Brandon Sanderson
-*** DONE Elantris
-*** TODO Mistborn
-**** DONE The Final Empire
-**** DONE The Well of Ascension
-**** TODO The Hero of Ages
-**** TODO 4
-**** TODO 5
-**** TODO 6
 *** TODO Way of Kings
 ** Michael Moorecock - Elric books
 * Movies/Shows
-** TODO Spiderman 1
-** TODO Amazing Spiderman 1
-** TODO Amazing Spiderman 2
+** TODO The Eternals
+** TODO Dead Pool 2
+** TODO X-men: The last stand
 ** TODO Venom
 ** TODO Venom 2
-** TODO X-men: The last stand
+** TODO Amazing Spiderman 1
+** TODO Amazing Spiderman 2
 ** TODO New Mutants
-** TODO Dead Pool 2
 ** TODO The Wolverine
 ** TODO Watchmen
-** TODO Conan The Destroyer
-** TODO Conan The Barbarian (2011)
-** TODO Shang Chi
-** TODO Daredevil
-** TODO The Defenders
 ** TODO Dune
 * Videos
 ** Sadie Valeri Atelier online
