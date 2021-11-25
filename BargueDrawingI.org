@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-23 Tue 21:02], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-24 Wed 19:14], for week 2021-W47.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -98,7 +98,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-23 Tue 21:02], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-24 Wed 19:14], for week 2021-W47.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -173,23 +173,25 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-23 Tue 21:02], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-24 Wed 19:14], for week 2021-W47.
   | Tags     | Headline                 | Time   |      |      |      |
   |----------+--------------------------+--------+------+------+------|
-  |          | *Total time*             | *6:03* |      |      |      |
+  |          | *Total time*             | *7:07* |      |      |      |
   |----------+--------------------------+--------+------+------+------|
-  |          | \_  Week 3               |        | 6:03 |      |      |
+  |          | \_  Week 3               |        | 7:07 |      |      |
   |          | \_    <2021-11-22 Mon>   |        |      | 1:02 |      |
   | painting | \_      Gouache portrait |        |      |      | 1:02 |
   |          | \_    <2021-11-23 Tue>   |        |      | 5:01 |      |
   | study    | \_      GCA sphere       |        |      |      | 1:01 |
   | drawing  | \_      GCA sphere       |        |      |      | 4:00 |
+  |          | \_    <2021-11-24 Wed>   |        |      | 1:04 |      |
+  | drawing  | \_      GCA sphere       |        |      |      | 1:04 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *4h 0m*  |
+  | drawing  | *Tag time* | *5h 4m*  |
   |----------+------------+----------|
   | study    | *Tag time* | *1h 1m*  |
   |----------+------------+----------|
@@ -211,9 +213,14 @@
      CLOCK: [2021-11-23 Tue 18:26]--[2021-11-23 Tue 21:02] =>  2:36
      CLOCK: [2021-11-23 Tue 14:59]--[2021-11-23 Tue 16:23] =>  1:24
      :END:
+*** <2021-11-24 Wed>
+**** DONE GCA sphere                                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-11-24 Wed 18:06]--[2021-11-24 Wed 19:10] =>  1:04
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-23 Tue 21:02], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-24 Wed 19:14], for week 2021-W47.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
