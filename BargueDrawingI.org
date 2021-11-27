@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-25 Thu 15:28], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-26 Fri 20:53], for week 2021-W47.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -98,7 +98,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-25 Thu 15:28], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-26 Fri 20:53], for week 2021-W47.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -173,27 +173,29 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-25 Thu 15:28], for week 2021-W47.
-  | Tags     | Headline                 | Time   |      |      |      |
-  |----------+--------------------------+--------+------+------+------|
-  |          | *Total time*             | *8:47* |      |      |      |
-  |----------+--------------------------+--------+------+------+------|
-  |          | \_  Week 3               |        | 8:47 |      |      |
-  |          | \_    <2021-11-22 Mon>   |        |      | 1:02 |      |
-  | painting | \_      Gouache portrait |        |      |      | 1:02 |
-  |          | \_    <2021-11-23 Tue>   |        |      | 5:01 |      |
-  | study    | \_      GCA sphere       |        |      |      | 1:01 |
-  | drawing  | \_      GCA sphere       |        |      |      | 4:00 |
-  |          | \_    <2021-11-24 Wed>   |        |      | 1:04 |      |
-  | drawing  | \_      GCA sphere       |        |      |      | 1:04 |
-  |          | \_    <2021-11-25 Thu>   |        |      | 1:40 |      |
-  | drawing  | \_      Bargue drawing   |        |      |      | 1:40 |
+  #+CAPTION: Clock summary at [2021-11-26 Fri 20:53], for week 2021-W47.
+  | Tags     | Headline                 | Time    |       |      |      |
+  |----------+--------------------------+---------+-------+------+------|
+  |          | *Total time*             | *10:55* |       |      |      |
+  |----------+--------------------------+---------+-------+------+------|
+  |          | \_  Week 3               |         | 10:55 |      |      |
+  |          | \_    <2021-11-22 Mon>   |         |       | 1:02 |      |
+  | painting | \_      Gouache portrait |         |       |      | 1:02 |
+  |          | \_    <2021-11-23 Tue>   |         |       | 5:01 |      |
+  | study    | \_      GCA sphere       |         |       |      | 1:01 |
+  | drawing  | \_      GCA sphere       |         |       |      | 4:00 |
+  |          | \_    <2021-11-24 Wed>   |         |       | 1:04 |      |
+  | drawing  | \_      GCA sphere       |         |       |      | 1:04 |
+  |          | \_    <2021-11-25 Thu>   |         |       | 1:40 |      |
+  | drawing  | \_      Bargue drawing   |         |       |      | 1:40 |
+  |          | \_    <2021-11-26 Fri>   |         |       | 2:08 |      |
+  | drawing  | \_      Bargue drawing   |         |       |      | 2:08 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *6h 44m* |
+  | drawing  | *Tag time* | *8h 52m* |
   |----------+------------+----------|
   | study    | *Tag time* | *1h 1m*  |
   |----------+------------+----------|
@@ -225,9 +227,14 @@
      :LOGBOOK:
      CLOCK: [2021-11-25 Thu 13:48]--[2021-11-25 Thu 15:28] =>  1:40
      :END:
+*** <2021-11-26 Fri>
+**** DONE Bargue drawing                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-11-26 Fri 18:45]--[2021-11-26 Fri 20:53] =>  2:08
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-25 Thu 15:28], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-26 Fri 20:53], for week 2021-W47.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
