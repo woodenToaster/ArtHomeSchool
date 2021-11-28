@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-26 Fri 20:53], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-27 Sat 22:14], for week 2021-W47.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -98,7 +98,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-26 Fri 20:53], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-27 Sat 22:14], for week 2021-W47.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -173,23 +173,27 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-26 Fri 20:53], for week 2021-W47.
-  | Tags     | Headline                 | Time    |       |      |      |
-  |----------+--------------------------+---------+-------+------+------|
-  |          | *Total time*             | *10:55* |       |      |      |
-  |----------+--------------------------+---------+-------+------+------|
-  |          | \_  Week 3               |         | 10:55 |      |      |
-  |          | \_    <2021-11-22 Mon>   |         |       | 1:02 |      |
-  | painting | \_      Gouache portrait |         |       |      | 1:02 |
-  |          | \_    <2021-11-23 Tue>   |         |       | 5:01 |      |
-  | study    | \_      GCA sphere       |         |       |      | 1:01 |
-  | drawing  | \_      GCA sphere       |         |       |      | 4:00 |
-  |          | \_    <2021-11-24 Wed>   |         |       | 1:04 |      |
-  | drawing  | \_      GCA sphere       |         |       |      | 1:04 |
-  |          | \_    <2021-11-25 Thu>   |         |       | 1:40 |      |
-  | drawing  | \_      Bargue drawing   |         |       |      | 1:40 |
-  |          | \_    <2021-11-26 Fri>   |         |       | 2:08 |      |
-  | drawing  | \_      Bargue drawing   |         |       |      | 2:08 |
+  #+CAPTION: Clock summary at [2021-11-27 Sat 22:14], for week 2021-W47.
+  | Tags     | Headline                             | Time    |       |      |      |
+  |----------+--------------------------------------+---------+-------+------+------|
+  |          | *Total time*                         | *16:38* |       |      |      |
+  |----------+--------------------------------------+---------+-------+------+------|
+  |          | \_  Week 3                           |         | 16:38 |      |      |
+  |          | \_    <2021-11-22 Mon>               |         |       | 1:02 |      |
+  | painting | \_      Gouache portrait             |         |       |      | 1:02 |
+  |          | \_    <2021-11-23 Tue>               |         |       | 5:01 |      |
+  | study    | \_      GCA sphere                   |         |       |      | 1:01 |
+  | drawing  | \_      GCA sphere                   |         |       |      | 4:00 |
+  |          | \_    <2021-11-24 Wed>               |         |       | 1:04 |      |
+  | drawing  | \_      GCA sphere                   |         |       |      | 1:04 |
+  |          | \_    <2021-11-25 Thu>               |         |       | 1:40 |      |
+  | drawing  | \_      Bargue drawing               |         |       |      | 1:40 |
+  |          | \_    <2021-11-26 Fri>               |         |       | 2:08 |      |
+  | drawing  | \_      Bargue drawing               |         |       |      | 2:08 |
+  |          | \_    <2021-11-27 Sat>               |         |       | 5:43 |      |
+  | study    | \_      GCA Orientation seminar      |         |       |      | 2:00 |
+  | painting | \_      Gouache portrait             |         |       |      | 1:27 |
+  | study    | \_      Photoshop for matte painters |         |       |      | 2:16 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
@@ -197,9 +201,9 @@
   |----------+------------+----------|
   | drawing  | *Tag time* | *8h 52m* |
   |----------+------------+----------|
-  | study    | *Tag time* | *1h 1m*  |
+  | study    | *Tag time* | *5h 17m* |
   |----------+------------+----------|
-  | painting | *Tag time* | *1h 2m*  |
+  | painting | *Tag time* | *2h 29m* |
   
   #+END:
 *** <2021-11-22 Mon>
@@ -232,9 +236,23 @@
      :LOGBOOK:
      CLOCK: [2021-11-26 Fri 18:45]--[2021-11-26 Fri 20:53] =>  2:08
      :END:
+*** <2021-11-27 Sat>
+**** DONE GCA Orientation seminar                                     :study:
+     :LOGBOOK:
+     CLOCK: [2021-11-27 Sat 08:00]--[2021-11-27 Sat 10:00] =>  2:00
+     :END:
+**** DONE Gouache portrait                                         :painting:
+     :LOGBOOK:
+     CLOCK: [2021-11-27 Sat 19:02]--[2021-11-27 Sat 20:29] =>  1:27
+     :END:
+**** DONE Photoshop for matte painters                                :study:
+     :LOGBOOK:
+     CLOCK: [2021-11-27 Sat 20:41]--[2021-11-27 Sat 22:14] =>  1:33
+     CLOCK: [2021-11-27 Sat 18:19]--[2021-11-27 Sat 19:02] =>  0:43
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-11-26 Fri 20:53], for week 2021-W47.
+  #+CAPTION: Clock summary at [2021-11-27 Sat 22:14], for week 2021-W47.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
