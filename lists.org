@@ -118,9 +118,11 @@
 *** Light for Visual Artists - Yot
 *** Lessons on Shading - Sparkes
 ** Painting
+*** The Painterly Approach - Bob Rohm
+*** The Simple Secret to Better Painting - Gregg Albert
 *** Fundamentals of painting - Mogilevtsev
 *** Hawthorne on Painting
-*** Alla Prima - Richard Schmid
+*** DONE Alla Prima - Richard Schmid
 *** Oil Painting techniques and materials - Harold Speed
 *** How I make a Picture - Rockwell
 *** Oil Painting Techniques - Patrick Jones
@@ -128,12 +130,14 @@
 *** Mastering the Craft of Painting - Grado
 *** Faragasso (Reilly method)
 ** Composition
+*** Mastering Composition - Ian Roberts
+*** Color and Composition for Film - Hans Bacher and Sanatan Suryavanashi
 *** Universal Principles of Design - Lidwell, Holden, Butler
 *** Drawing and Designing with Confidence - Lin
 *** Composition of Outdoor Painting - Edgar Payne
 *** Framed Ink
 *** Framed Ink 2
-*** How Pictures Work - Bang
+*** DONE How Pictures Work - Bang
 *** Vision and Art - Margaret Livingstone
 *** Pictorial Composition - Poore
 *** Composition - Cyril Pearce
@@ -198,9 +202,13 @@
 ** TODO Watchmen
 ** TODO Dune
 * Videos
+** Jama Jurabayev
+** James Paick - youtube cgma
+** Andreas Rocha - youtube environment paintings MTG
+** Steven Baumann
+** Syn Studio
 ** Sadie Valeri Atelier online
 ** Grand Central Atelier online classes
-** Online Art Academy - Charles Bernard
 ** Sean Gordon Murphy demos (youtube)
 ** Trent Kaniuaga youtube (FZD student?)
 ** Charles Lin tutorials (FZD student)
@@ -229,7 +237,7 @@
 *** DONE Figure Drawing Phase 1
 *** DONE Head Drawing Phase 2
 *** TODO Figure Drawing Phase 2
-*** TODO Head Drawing Phase 3
+*** DONE Head Drawing Phase 3
 *** TODO Quicksketch Fundamentals
 *** TODO Figure Drawing Phase 3
 *** TODO Gouache Phase 1
@@ -257,7 +265,7 @@
 *** TODO Still Life Phase 2
 *** TODO Landscape Phase 2
 *** TODO Essentials of Tech
-*** TODO Composition and Staging 
+*** DONE Composition and Staging 
 *** DONE Drapery
 *** TODO Fundamentals of Character Design
 *** TODO Still Life Phase 3
@@ -272,7 +280,7 @@
 *** Gnomon workshop
 **** DONE The Body
 **** DONE Perspective
-**** TODO Hands
+**** DONE Hands
 **** TODO Faces
 **** TODO Fight Scenes
 ** Alphonso Dunn - Great Ink Videos
