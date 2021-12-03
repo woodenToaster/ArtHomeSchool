@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-01 Wed 21:00], for week 2021-W48.
+  #+CAPTION: Clock summary at [2021-12-02 Thu 21:01], for week 2021-W48.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -98,7 +98,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-01 Wed 21:00], for week 2021-W48.
+  #+CAPTION: Clock summary at [2021-12-02 Thu 21:01], for week 2021-W48.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -173,7 +173,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-01 Wed 21:00], for week 2021-W48.
+  #+CAPTION: Clock summary at [2021-12-02 Thu 21:01], for week 2021-W48.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -249,25 +249,27 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-01 Wed 21:00], for week 2021-W48.
-  | Tags    | Headline                 | Time   |      |      |      |
-  |---------+--------------------------+--------+------+------+------|
-  |         | *Total time*             | *8:04* |      |      |      |
-  |---------+--------------------------+--------+------+------+------|
-  |         | \_  Week 4               |        | 8:04 |      |      |
-  |         | \_    <2021-11-29 Mon>   |        |      | 4:05 |      |
-  | study   | \_      GCA assignment 2 |        |      |      | 1:25 |
-  | drawing | \_      Bargue drawing   |        |      |      | 2:40 |
-  |         | \_    <2021-11-30 Tue>   |        |      | 1:02 |      |
-  | drawing | \_      Bargue drawing   |        |      |      | 1:02 |
-  |         | \_    <2021-12-01 Wed>   |        |      | 2:57 |      |
-  | drawing | \_      Bargue drawing   |        |      |      | 2:57 |
+  #+CAPTION: Clock summary at [2021-12-02 Thu 21:01], for week 2021-W48.
+  | Tags    | Headline                 | Time    |       |      |      |
+  |---------+--------------------------+---------+-------+------+------|
+  |         | *Total time*             | *10:52* |       |      |      |
+  |---------+--------------------------+---------+-------+------+------|
+  |         | \_  Week 4               |         | 10:52 |      |      |
+  |         | \_    <2021-11-29 Mon>   |         |       | 4:05 |      |
+  | study   | \_      GCA assignment 2 |         |       |      | 1:25 |
+  | drawing | \_      Bargue drawing   |         |       |      | 2:40 |
+  |         | \_    <2021-11-30 Tue>   |         |       | 1:02 |      |
+  | drawing | \_      Bargue drawing   |         |       |      | 1:02 |
+  |         | \_    <2021-12-01 Wed>   |         |       | 2:57 |      |
+  | drawing | \_      Bargue drawing   |         |       |      | 2:57 |
+  |         | \_    <2021-12-02 Thu>   |         |       | 2:48 |      |
+  | drawing | \_      Bargue drawing   |         |       |      | 2:48 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *6h 39m* |
+  | drawing  | *Tag time* | *9h 27m* |
   |----------+------------+----------|
   | study    | *Tag time* | *1h 25m* |
   |----------+------------+----------|
@@ -294,4 +296,9 @@
 **** DONE Bargue drawing                                            :drawing:
      :LOGBOOK:
      CLOCK: [2021-12-01 Wed 18:03]--[2021-12-01 Wed 21:00] =>  2:57
+     :END:
+*** <2021-12-02 Thu>
+**** DONE Bargue drawing                                            :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-12-02 Thu 18:13]--[2021-12-02 Thu 21:01] =>  2:48
      :END:
