@@ -350,7 +350,7 @@
 *** Week 4
     - Gist
     - Legs and arms from memory
-* TODO Term 5
+* DONE Term 5
 ** DONE Clothed Figure Drawing
 *** Videos
 **** TODO How to draw clothing and drapery with Glenn Vilppu
@@ -396,14 +396,58 @@
 *** Sunday
     - Gouache
     - Original art
-** TODO Bargue Drawing
+** DONE Bargue Drawing
 *** Videos
-**** TODO Steven Bauman's patreon
+**** DONE Steven Bauman's patreon
 *** Books
-**** TODO Bargue Drawing Course
+**** DONE Bargue Drawing Course
 *** Art Parent - Charles Bargue
 *** Inspiration - Alla Prima by Schmid
 * TODO Term 6
+** TODO Intro to Concept Art
+*** Videos
+**** TODO FZD Design Cinema 89
+**** TODO FZD Design Cinema 101
+**** TODO FZD Design Cinema 102
+*** Backup
+**** TODO Andreas Rocha iamag
+*** Art Parent
+**** Feng Zhu
+**** Andreas Rocha
+*** Inspiration
+**** TODO The Simple Secret to Better Painting
+*** Week 1
+**** M/W/F
+     - Sketching organic, non-symmetrical forms from reference (rocks, trees)
+     - Sketching organic, non-symmetrical forms from imagination
+**** T/Th/Sa
+     - Environment thumbnails
+     - Environment thumbnails from imagination
+     - Environment paintings
+*** Week 2
+**** M/W/F
+   - Sketching skulls and skeletons from reference (animal skeletons)
+   - Sketching skulls and skeletons from imagination
+**** T/Th/Sa
+   - Environment thumbnails
+   - Environment thumbnails from imagination
+   - Environment paintings
+*** Week 3
+**** M/W/F
+   - Sketching insects and mammals from reference
+   - Sketching insects and mammals from imagination
+**** T/Th/Sa
+   - Environment thumbnails
+   - Environment thumbnails from imagination
+   - Environment paintings
+*** Week 4
+**** M/W/F
+   - Sketching somewhat-organic hard surfaces from reference (huts, medieval structures)
+   - Sketching somewhat-organic hard surfaces from imagination
+**** T/Th/Sa
+   - Environment thumbnails
+   - Environment thumbnails from imagination
+   - Environment master study
 ** TODO Value and Light I
 ** TODO Composition and Storytelling I
 ** TODO Head drawing III
