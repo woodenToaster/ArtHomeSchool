@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-04 Sat 16:04], for week 2021-W48.
+  #+CAPTION: Clock summary at [2021-12-05 Sun 20:14], for week 2021-W48.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -25,7 +25,7 @@
 *** <2021-12-06 Mon>
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-04 Sat 16:04], for week 2021-W48.
+  #+CAPTION: Clock summary at [2021-12-05 Sun 20:14], for week 2021-W48.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -43,7 +43,7 @@
   #+END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-04 Sat 16:04], for week 2021-W48.
+  #+CAPTION: Clock summary at [2021-12-05 Sun 20:14], for week 2021-W48.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -61,7 +61,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-04 Sat 16:04], for week 2021-W48.
+  #+CAPTION: Clock summary at [2021-12-05 Sun 20:14], for week 2021-W48.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |

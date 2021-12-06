@@ -41,6 +41,35 @@
 *** Video Games
 *** Fan Art
 *** Mindless TV
+* FZD Design Cinema Ep. 89 - Just Draw!
+** Tips for Getting Started
+   - Don't worry about quality at first
+   - Aim for about 50 studies per week, 20 minutes per study
+   - Start with easy subject matters
+   - Start with side views and orthos
+   - Draw stuff you want to draw
+   - Find joy in the process
+** Suggested Progression
+*** Organic and non-symmetrical objects
+    1. Rock formations
+    2. Old, gnarly trees
+*** Symmetric, organic objects
+    1. Animal bones and skulls
+    2. Bugs and insects
+    3. Bigger animals without hair
+*** Organic and imprecise hard surfaces
+    1. Old, hand-built buildings and huts
+** Suggested Materials
+   - A3 paper size
+   - 20% grey or a picture of canson mi tientes
+   - Default airbrush at 8 pixels
+   - Each drawing on a different layer
+   - Arrange finished drawings onto a "sketchbook" page and add labels
+** Process
+   - Linear block-in
+   - Line weight
+   - Contour lines
+   - Grey wash for shadows and white paint for highlights
 * FZD Design Cinema Ep. 90 - 10 Beginner Drawing Tips
   1. Use cheap paper
      - 20% grey background
@@ -106,6 +135,11 @@
   7. Do photobash painting for color comp
   8. Build in 3D
   9. Final painting
+* FZD Design Cinema Ep. 101 - Sketching 101
+  - Find horizon line
+  - Draw overall sillouette
+  - Smooth, flowing lines
+* FZD Design Cinema Ep. 102 - Intro to Digital Painting
 * FZD Design Cinema Ep. 104 - Environmental Composition
 ** Camera Position
    - Be a tourist
