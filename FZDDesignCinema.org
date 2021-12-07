@@ -136,10 +136,44 @@
   8. Build in 3D
   9. Final painting
 * FZD Design Cinema Ep. 101 - Sketching 101
-  - Find horizon line
-  - Draw overall sillouette
-  - Smooth, flowing lines
+  1. Find horizon line
+  2. Draw overall sillouette
+     - Relax
+     - Smooth, flowing lines
+     - Big to small
+  3. Add line weight
+     - in shadow
+     - form overlap
+     - corners and creases
+     - areas with weight (bottom of form)
+     - start at focal point
+  4. Add contour lines and details
+  5. Marker wash
+     - Darkest near focal point
+     - Start light and build up (50% gray with 30% opacity)
+  6. Highlights with pure white
 * FZD Design Cinema Ep. 102 - Intro to Digital Painting
+** Suggested reference
+   - Look for images with high contrast, full value range and atmospheric fog
+   - Crop good compositions
+   - 2.35 ratio for film, 1.77 for games
+   - No colors
+   - Organic
+   - Loose perspective
+   - Far shot, exterior
+   - Overcast to avoid shadows
+** Tips to build confidence
+   - Don't use layers
+   - Minimize undo. Paint out mistakes
+   - No photo textures
+   - Stick with 1 or 2 main default brushes
+   - Avoid tricks like copy/paste, smudge, blur
+   - Quality, not speed. Spend 20 hours on a painting
+   - Use real world references
+   - Copy film stills
+   - Start with big forms, then refine details
+   - Basics : dark, medium, light / foreground, midground, background
+   - Start with 50% grey canvas
 * FZD Design Cinema Ep. 104 - Environmental Composition
 ** Camera Position
    - Be a tourist
