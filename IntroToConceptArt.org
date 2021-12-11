@@ -6,12 +6,12 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-09 Thu 21:24], for week 2021-W49.
+  #+CAPTION: Clock summary at [2021-12-10 Fri 20:58], for week 2021-W49.
   | Tags     | Headline                                 | Time    |       |       |      |
   |----------+------------------------------------------+---------+-------+-------+------|
-  |          | *Total time*                             | *18:54* |       |       |      |
+  |          | *Total time*                             | *21:25* |       |       |      |
   |----------+------------------------------------------+---------+-------+-------+------|
-  |          | \_  Week 1                               |         | 18:54 |       |      |
+  |          | \_  Week 1                               |         | 21:25 |       |      |
   |          | \_    <2021-12-06 Mon>                   |         |       | 10:02 |      |
   | study    | \_      FZD 101                          |         |       |       | 1:45 |
   | study    | \_      FZD 102                          |         |       |       | 0:31 |
@@ -23,12 +23,14 @@
   | drawing  | \_      digital sketching from reference |         |       |       | 3:01 |
   |          | \_    <2021-12-09 Thu>                   |         |       |  2:58 |      |
   | painting | \_      digital painting from reference  |         |       |       | 2:58 |
+  |          | \_    <2021-12-10 Fri>                   |         |       |  2:31 |      |
+  | drawing  | \_      digital sketching from reference |         |       |       | 2:31 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *10h 47m* |
+  | drawing  | *Tag time* | *13h 18m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *2h 58m*  |
   |----------+------------+-----------|
@@ -71,9 +73,15 @@
      CLOCK: [2021-12-09 Thu 20:52]--[2021-12-09 Thu 21:24] =>  0:32
      CLOCK: [2021-12-09 Thu 18:05]--[2021-12-09 Thu 20:31] =>  2:26
      :END:
+*** <2021-12-10 Fri>
+**** DONE digital sketching from reference                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-12-10 Fri 18:36]--[2021-12-10 Fri 20:58] =>  2:22
+     CLOCK: [2021-12-10 Fri 18:25]--[2021-12-10 Fri 18:34] =>  0:09
+     :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-09 Thu 21:24], for week 2021-W49.
+  #+CAPTION: Clock summary at [2021-12-10 Fri 20:58], for week 2021-W49.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -91,7 +99,7 @@
   #+END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-09 Thu 21:24], for week 2021-W49.
+  #+CAPTION: Clock summary at [2021-12-10 Fri 20:58], for week 2021-W49.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -109,7 +117,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-09 Thu 21:24], for week 2021-W49.
+  #+CAPTION: Clock summary at [2021-12-10 Fri 20:58], for week 2021-W49.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
