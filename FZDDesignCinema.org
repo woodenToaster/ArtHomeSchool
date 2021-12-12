@@ -174,6 +174,16 @@
    - Start with big forms, then refine details
    - Basics : dark, medium, light / foreground, midground, background
    - Start with 50% grey canvas
+* FZD Design Cinema Ep. 103 - Intro to Design
+** Pick a design (game, film)
+** Understand the design's influences (from creator's POV)
+    - What moods does it evoke?
+    - What words does it bring to mind? Choose 5 key words.
+    - Look at original concept art
+    - Put design in it's context (place & time of creator)
+** Put together design boards with similar influences
+** Sketch, experiment, try things, have fun
+** Pick a favorite design to finalize
 * FZD Design Cinema Ep. 104 - Environmental Composition
 ** Camera Position
    - Be a tourist
