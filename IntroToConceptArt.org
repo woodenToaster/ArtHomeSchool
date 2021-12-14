@@ -6,33 +6,10 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-12 Sun 19:58], for week 2021-W49.
-  | Tags     | Headline                                 | Time    |       |       |      |
-  |----------+------------------------------------------+---------+-------+-------+------|
-  |          | *Total time*                             | *35:13* |       |       |      |
-  |----------+------------------------------------------+---------+-------+-------+------|
-  |          | \_  Week 1                               |         | 35:13 |       |      |
-  |          | \_    <2021-12-06 Mon>                   |         |       | 10:02 |      |
-  | study    | \_      FZD 101                          |         |       |       | 1:45 |
-  | study    | \_      FZD 102                          |         |       |       | 0:31 |
-  | drawing  | \_      digital sketching from reference |         |       |       | 7:46 |
-  |          | \_    <2021-12-07 Tue>                   |         |       |  2:53 |      |
-  | study    | \_      gathering reference              |         |       |       | 0:42 |
-  | painting | \_      digital painting from reference  |         |       |       | 2:11 |
-  |          | \_    <2021-12-08 Wed>                   |         |       |  3:01 |      |
-  | drawing  | \_      digital sketching from reference |         |       |       | 3:01 |
-  |          | \_    <2021-12-09 Thu>                   |         |       |  2:58 |      |
-  | painting | \_      digital painting from reference  |         |       |       | 2:58 |
-  |          | \_    <2021-12-10 Fri>                   |         |       |  2:31 |      |
-  | drawing  | \_      digital sketching from reference |         |       |       | 2:31 |
-  |          | \_    <2021-12-11 Sat>                   |         |       |  6:51 |      |
-  | study    | \_      GCA class                        |         |       |       | 1:59 |
-  | painting | \_      digital painting from reference  |         |       |       | 4:27 |
-  | study    | \_      FZD Ep 103                       |         |       |       | 0:25 |
-  |          | \_    <2021-12-12 Sun>                   |         |       |  6:57 |      |
-  | study    | \_      GCA assignment                   |         |       |       | 0:49 |
-  | drawing  | \_      GCA assignment                   |         |       |       | 5:37 |
-  | study    | \_      Blog                             |         |       |       | 0:31 |
+  #+CAPTION: Clock summary at [2021-12-13 Mon 21:33], for week 2021-W50.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
@@ -119,26 +96,41 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-12 Sun 19:58], for week 2021-W49.
-  | Tags | Headline     | Time   |
-  |------+--------------+--------|
-  |      | *Total time* | *0:00* |
+  #+CAPTION: Clock summary at [2021-12-13 Mon 21:33], for week 2021-W50.
+  | Tags    | Headline                        | Time   |      |      |      |
+  |---------+---------------------------------+--------+------+------+------|
+  |         | *Total time*                    | *6:39* |      |      |      |
+  |---------+---------------------------------+--------+------+------+------|
+  |         | \_  Week 2                      |        | 6:39 |      |      |
+  |         | \_    <2021-12-13 Mon>          |        |      | 6:39 |      |
+  | study   | \_      Reference gathering     |        |      |      | 0:26 |
+  | drawing | \_      Digital sketching trees |        |      |      | 6:13 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *0h 0m*  |
+  | drawing  | *Tag time* | *6h 13m* |
   |----------+------------+----------|
-  | study    | *Tag time* | *0h 0m*  |
+  | study    | *Tag time* | *0h 26m* |
   |----------+------------+----------|
   | painting | *Tag time* | *0h 0m*  |
   
   #+END:
 *** <2021-12-13 Mon>
+**** DONE Reference gathering                                         :study:
+     :LOGBOOK:
+     CLOCK: [2021-12-13 Mon 08:40]--[2021-12-13 Mon 09:06] =>  0:26
+     :END:
+**** DONE Digital sketching trees                                   :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-12-13 Mon 18:05]--[2021-12-13 Mon 21:33] =>  3:28
+     CLOCK: [2021-12-13 Mon 15:44]--[2021-12-13 Mon 16:09] =>  0:25
+     CLOCK: [2021-12-13 Mon 09:06]--[2021-12-13 Mon 11:26] =>  2:20
+     :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-12 Sun 19:58], for week 2021-W49.
+  #+CAPTION: Clock summary at [2021-12-13 Mon 21:33], for week 2021-W50.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -156,7 +148,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-12 Sun 19:58], for week 2021-W49.
+  #+CAPTION: Clock summary at [2021-12-13 Mon 21:33], for week 2021-W50.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |

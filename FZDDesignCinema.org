@@ -47,12 +47,14 @@
     1. Pick a design problem (from books, old movies, old games)
     2. Understand the client needs
     3. Understand the subject matter
-    4. Write out the possible solutions and keywords
-    5. Do research and gather references
+    4. Define the look and feel (overall mood)
+       - Mood boards
+    5. Write out the possible solutions and keywords
+       - Possible locations and set designs
+    6. Do research and gather references
 *** Drawing and painting
-    6. Start with rough thumbnails and idealization sketches
-    7. Pick a few different design directions
-    8. Define the look and feel (overall mood)
+    7. Start with rough thumbnails and idealization sketches
+    8. Pick a few different design directions
     9. Refine the design and apply story driven details
     10. Use art skills to bring to final presentation level
 * FZD Design Cinema Ep. 89 - Just Draw!
