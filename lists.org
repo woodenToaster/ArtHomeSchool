@@ -189,6 +189,9 @@
 ** Michael Moorecock - Elric books
 ** The Malazan Book of the Fallen - Steven Erikson
 ** I am Legend
+** David Eddings
+   - Bulgariad
+   - Mallorean
 * Movies/Shows
 ** TODO The Eternals
 ** TODO Dead Pool 2
