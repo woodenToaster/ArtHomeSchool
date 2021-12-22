@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-20 Mon 21:36], for week 2021-W51.
+  #+CAPTION: Clock summary at [2021-12-21 Tue 21:45], for week 2021-W51.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -96,7 +96,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-20 Mon 21:36], for week 2021-W51.
+  #+CAPTION: Clock summary at [2021-12-21 Tue 21:45], for week 2021-W51.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -171,25 +171,28 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-20 Mon 21:36], for week 2021-W51.
-  | Tags    | Headline                          | Time   |      |      |      |
-  |---------+-----------------------------------+--------+------+------+------|
-  |         | *Total time*                      | *6:59* |      |      |      |
-  |---------+-----------------------------------+--------+------+------+------|
-  |         | \_  Week 3                        |        | 6:59 |      |      |
-  |         | \_    <2021-12-20 Mon>            |        |      | 6:59 |      |
-  | study   | \_      Gather reference          |        |      |      | 0:15 |
-  | drawing | \_      Digital sketching insects |        |      |      | 6:44 |
+  #+CAPTION: Clock summary at [2021-12-21 Tue 21:45], for week 2021-W51.
+  | Tags     | Headline                                  | Time    |       |      |      |
+  |----------+-------------------------------------------+---------+-------+------+------|
+  |          | *Total time*                              | *12:03* |       |      |      |
+  |----------+-------------------------------------------+---------+-------+------+------|
+  |          | \_  Week 3                                |         | 12:03 |      |      |
+  |          | \_    <2021-12-20 Mon>                    |         |       | 6:59 |      |
+  | study    | \_      Gather reference                  |         |       |      | 0:15 |
+  | drawing  | \_      Digital sketching insects         |         |       |      | 6:44 |
+  |          | \_    <2021-12-21 Tue>                    |         |       | 5:04 |      |
+  | drawing  | \_      Design project - Dark Souls enemy |         |       |      | 2:08 |
+  | painting | \_      Digital painting master study     |         |       |      | 2:56 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *6h 44m* |
+  | drawing  | *Tag time* | *8h 52m* |
   |----------+------------+----------|
   | study    | *Tag time* | *0h 15m* |
   |----------+------------+----------|
-  | painting | *Tag time* | *0h 0m*  |
+  | painting | *Tag time* | *2h 56m* |
   
   #+END:
 *** <2021-12-20 Mon>
@@ -203,9 +206,19 @@
      CLOCK: [2021-12-20 Mon 14:53]--[2021-12-20 Mon 16:25] =>  1:32
      CLOCK: [2021-12-20 Mon 08:48]--[2021-12-20 Mon 11:39] =>  2:51
      :END:
+*** <2021-12-21 Tue>
+**** DONE Design project - Dark Souls enemy                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-12-21 Tue 15:00]--[2021-12-21 Tue 15:51] =>  0:51
+     CLOCK: [2021-12-21 Tue 13:00]--[2021-12-21 Tue 14:17] =>  1:17
+     :END:
+**** DONE Digital painting master study                            :painting:
+     :LOGBOOK:
+     CLOCK: [2021-12-21 Tue 18:49]--[2021-12-21 Tue 21:45] =>  2:56
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-20 Mon 21:36], for week 2021-W51.
+  #+CAPTION: Clock summary at [2021-12-21 Tue 21:45], for week 2021-W51.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |

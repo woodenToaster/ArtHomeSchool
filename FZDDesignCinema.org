@@ -335,3 +335,139 @@ Time breakdown of a 3-day piece of art
 ** Add animations and sound
 ** Add personal details
 * FZD Design Cinema Ep. 109 - Design Breakdown
+
+* FZD School Assignments
+  https://www.youtube.com/watch?v=xGXE-F_o7NI
+** Term 1
+*** Design Sketching
+    5 A3 pages per week from reference, new topic each week, pen and grey marker
+**** Buildings
+**** Animals
+**** People
+**** Documentary Books
+**** Design Evolution
+**** Bottle Design
+     Thumbnails of bottle designs using various references for inspiration
+**** Hazardous Material Bottle
+     - Design a container to safely hold mercury for for experimenting over a period of time
+     - List condition/problem/wishlist (research)
+     - Gather reference
+     - Mind mapping
+     - Thumbnails
+     - Finalize 3 designs
+**** Transport Vehicle
+*** Digital Painting Forms and Materials
+    All black and white
+**** Boxes1
+     3 pages, fully rendered, no airbrush
+**** Boxes2
+**** Spheres
+**** Spheres and shapes
+**** Cubed animals
+     Convert reference to basic shapes, then render each shape
+**** Cubed man-made
+**** Machines and humans
+     Convert reference to basic shapes, then render each shape
+**** Textures1
+     Sphere with texture, like Unreal textures, limited palette
+**** Textures2
+**** Reflections1
+     Paint reflection in a chrome ball
+**** Reflections2
+**** Rendering1
+**** Rendering2
+*** Perspective
+    https://fzdschool.com/blog_posts/for-students-learning-perspective
+    - Block letters of alphabet
+    - Architecture
+*** Visual Communications I
+    Build up from simple to complex in perspective
+**** Simple perspective
+**** Simple objects
+**** Simplified objects
+**** Rounded objects
+**** Trucks
+     - Bulky vehicle
+     - Draw through
+     - Different perspective than reference
+**** Boats and planes
+**** Bugs
+     Constructed
+**** Animals
+**** Anthropomorphic animals
+     Based on existing cultures
+**** Characters and skeletons
+**** Beasts of burden
+**** Hard surface and humanoid
+     - Person on a vehicle
+**** Boss
+** Term 2
+*** Entertainment design
+    Concept art design projects every week
+**** Brand new product
+     - Combine product you like with something random
+     - Condition/problem/wishlist
+     - Mindmap
+     - Thumbnails
+**** Creature study
+     - Thumbnails and studies
+**** Predators
+     - Animal evolved many years ahead
+**** Prey
+     - Animal evolved many years ahead
+**** Creature feature
+     - Animal evolved many years ahead
+**** Booby trap room 1
+**** Booby trap room 2
+**** Relic gaurdians
+     Gaurdian, relic, and location
+**** Relics
+**** Theme park
+*** Environments and composition
+**** Nature studies
+**** Hometown buildings
+**** Design language
+     E.g. - French tudor architecture
+**** Composition studies
+     - Building in an environment
+     - Based on history
+**** School studies
+     - Specific building from life
+     - Combine studies to create something new
+**** Story sketches
+     - Pick a book
+**** Story scenes
+     - Storyboarding
+**** Sinbad voyage I
+     - Sketches
+**** Sinbad voyage story
+     - Storyboarding
+*** Visual communications II
+**** Profile thumbnails
+     - Building with function (olympus star temple)
+**** Temple 3D
+     - Draw one profile thumbnail in 3/4 view
+**** Swamp witches
+**** RPG
+**** Room
+     - See FZD blog post
+**** Time periods
+     - Fantasy, real world, sci-fi
+     - Traveling
+     - Arriving
+     - Discovering
+**** The runaway
+*** Visual Development
+**** Sketchup basics
+**** Houses
+**** Wild west I
+**** Wild west II
+**** Zoo sketches
+     - Sketch animals from reference and combine two to make a new animal
+**** Zbrush tires
+**** Creature zbrush sketches
+** Term 3
+*** Entertainment Design
+    - Plan and execute a 7 week project
+*** Production Design
+*** Production Painting
