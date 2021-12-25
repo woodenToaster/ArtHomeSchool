@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-23 Thu 21:41], for week 2021-W51.
+  #+CAPTION: Clock summary at [2021-12-24 Fri 22:18], for week 2021-W51.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -96,7 +96,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-23 Thu 21:41], for week 2021-W51.
+  #+CAPTION: Clock summary at [2021-12-24 Fri 22:18], for week 2021-W51.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -171,12 +171,12 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-23 Thu 21:41], for week 2021-W51.
+  #+CAPTION: Clock summary at [2021-12-24 Fri 22:18], for week 2021-W51.
   | Tags     | Headline                                  | Time    |       |      |      |
   |----------+-------------------------------------------+---------+-------+------+------|
-  |          | *Total time*                              | *24:23* |       |      |      |
+  |          | *Total time*                              | *27:21* |       |      |      |
   |----------+-------------------------------------------+---------+-------+------+------|
-  |          | \_  Week 3                                |         | 24:23 |      |      |
+  |          | \_  Week 3                                |         | 27:21 |      |      |
   |          | \_    <2021-12-20 Mon>                    |         |       | 6:59 |      |
   | study    | \_      Gather reference                  |         |       |      | 0:15 |
   | drawing  | \_      Digital sketching insects         |         |       |      | 6:44 |
@@ -190,12 +190,14 @@
   |          | \_    <2021-12-23 Thu>                    |         |       | 4:50 |      |
   | drawing  | \_      Design project                    |         |       |      | 2:34 |
   | painting | \_      Digital painting master study     |         |       |      | 2:16 |
+  |          | \_    <2021-12-24 Fri>                    |         |       | 2:58 |      |
+  | drawing  | \_      Digital sketching insects         |         |       |      | 2:58 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *16h 50m* |
+  | drawing  | *Tag time* | *19h 48m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *2h 21m*  |
   |----------+------------+-----------|
@@ -249,9 +251,14 @@
      :LOGBOOK:
      CLOCK: [2021-12-23 Thu 19:25]--[2021-12-23 Thu 21:41] =>  2:16
      :END:
+*** <2021-12-24 Fri>
+**** DONE Digital sketching insects                                 :drawing:
+     :LOGBOOK:
+     CLOCK: [2021-12-24 Fri 19:20]--[2021-12-24 Fri 22:18] =>  2:58
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-12-23 Thu 21:41], for week 2021-W51.
+  #+CAPTION: Clock summary at [2021-12-24 Fri 22:18], for week 2021-W51.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
