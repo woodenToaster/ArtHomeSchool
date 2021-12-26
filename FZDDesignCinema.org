@@ -339,23 +339,28 @@ Time breakdown of a 3-day piece of art
 * FZD School Assignments
   https://www.youtube.com/watch?v=xGXE-F_o7NI
 ** Term 1
-*** Design Sketching
-    5 A3 pages per week from reference, new topic each week, pen and grey marker
-**** Buildings
-**** Animals
-**** People
-**** Documentary Books
-**** Design Evolution
-**** Bottle Design
-     Thumbnails of bottle designs using various references for inspiration
-**** Hazardous Material Bottle
-     - Design a container to safely hold mercury for for experimenting over a period of time
+*** Design Sketching - Doing studies from reference to build visual library
+**** Week 2: Buildings
+     - 5 A3 pages from reference. Pen and grey marker
+**** Week 3: Animals
+     - 5 A3 pages from reference. Pen and grey marker
+**** Week 4: People
+     - 5 A3 pages from reference. Pen and grey marker
+**** Week 5: Documentary Books
+**** Week 6: Design Evolution
+**** Week 7: Bottle Design
+     - 3 pages, 15-20 Thumbnails per page of bottle designs using various references for inspiration
+**** Week 8: Hazardous Material Bottle
+     - Scenario: Design a container to safely hold mercury for for experimenting over a period of time
      - List condition/problem/wishlist (research)
      - Gather reference
      - Mind mapping
      - Thumbnails
      - Finalize 3 designs
 **** Transport Vehicle
+     - Studies
+     - Thumbnails
+     - Finalize 3 designs 
 *** Digital Painting Forms and Materials
     All black and white
 **** Boxes1
