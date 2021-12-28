@@ -30,6 +30,18 @@
      - Design from a classic novel
    - Projects require plainning, research and thinking
 ** Correctness over speed
+* FZD Design Cinema Ep. 4
+** Digital painting
+   - Start with perspective grid
+   - Line sketch
+   - Block in value to check composition
+   - Shrink to thumbnail to check composition
+   - Make sure focal point is #1 read
+   - Check foreground, middle ground, background
+   - Check rule of thirds
+   - Figure out lighting direction
+   - Remove line drawing and make sure the image still reads
+   - Add secondary details
 * FZD Design Cinema Ep. 52 - Visual Library
 ** How to Develop your Visual Library
 *** Read Books
