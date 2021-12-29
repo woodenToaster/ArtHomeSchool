@@ -42,6 +42,11 @@
    - Figure out lighting direction
    - Remove line drawing and make sure the image still reads
    - Add secondary details
+* FZD Design Cinema Ep. 5
+** Digital painting in color
+   - Keep a B&W adjustment layer to always make sure your values read
+   - Use photographs to get initial values
+* FZD Design Cinema Ep. 6
 * FZD Design Cinema Ep. 52 - Visual Library
 ** How to Develop your Visual Library
 *** Read Books
@@ -114,7 +119,8 @@
   8. Practice line weight
   9. Cover your wall with drawings
   10. Repeat 1-9 thousands of times
-* FZD Design Cinema Ep. 95 - Form Follows Function
+* FZD Design Cinema Ep. 94 - Form Follows Function
+* FZD Design Cinema Ep. 95 - Form Follows Function Complete Presentation
 ** Design from the inside out (form follows function):
     - Provides a starting point
     - Give a strong visual hook (probably more details)
