@@ -46,7 +46,11 @@
 ** Digital painting in color
    - Keep a B&W adjustment layer to always make sure your values read
    - Use photographs to get initial values
-* FZD Design Cinema Ep. 6
+* FZD Design Cinema Ep. 7
+** Painting procedure
+   - Sillouette
+   - Subject, middleground, foreground, and background on layers to better control values
+   - Add value to sillouette to give it some 3D form
 * FZD Design Cinema Ep. 52 - Visual Library
 ** How to Develop your Visual Library
 *** Read Books
