@@ -404,11 +404,11 @@
 *** Art Parent - Charles Bargue
 *** Inspiration - Alla Prima by Schmid
 * TODO Term 6
-** TODO Intro to Concept Art
+** DONE Intro to Concept Art
 *** Videos
-**** TODO FZD Design Cinema 89
-**** TODO FZD Design Cinema 101
-**** TODO FZD Design Cinema 102
+**** DONE FZD Design Cinema 89
+**** DONE FZD Design Cinema 101
+**** DONE FZD Design Cinema 102
 *** Backup
 **** TODO Andreas Rocha iamag
 *** Art Parent
@@ -448,12 +448,38 @@
    - Environment thumbnails
    - Environment thumbnails from imagination
    - Environment master study
-** TODO Value and Light I
+** TODO Perspective III
+*** Videos
+**** TODO NMA - Linear Perspective Master Course
+**** TODO CGMA - Fundamentals of Architecture Design
+*** Books
+**** TODO How to Draw
+**** TODO How to Render
+**** TODO Framed perspective I and II
+**** TODO Sketching: The Basics
+**** TODO Perspective Sketching
+**** TODO The Complete Guide to Perspective Drawing
+*** Challenge
+**** TODO 100 treasure chests
+*** Assignments
+**** FZD Blog: https://fzdschool.com/blog_posts/for-students-learning-perspective
+**** Art Center perspective homework: https://www.artcenterentertainment.com/perspective-homework
+**** Learn Squared: Intro to Environment Painting (architecture breakdowns)
+**** Quick perspective sketches by eyeball vs. long form plots
+**** Draw through insects
+**** Insects and animals in basic forms (structural drawing)
+**** Orthos, plan/elevation view
+**** Turnarounds (rotate forms)
+**** Architecture sketching and design
+*** Schedule
+**** Week 1
+**** Week 2
+**** Week 3
+**** Week 4
+** TODO Color and Light I
+* TODO Term 7
 ** TODO Composition and Storytelling I
 ** TODO Head drawing III
-* TODO Term 7
-** TODO Color and Light I
-** TODO Perspective III
 ** TODO Anatomy V - Imagination
 * TODO Term 8
 ** TODO Perspective IV
@@ -461,9 +487,9 @@
 ** TODO Environment Design II
 * TODO Term 9
 ** TODO Inking I
-** TODO Character Design
+** TODO Design I
 ** TODO Painting I
 * TODO Term 10
 ** TODO Inking II
+** TODO Character Design
 ** TODO Painting II
-** TODO Digital Art I - Photoshop
