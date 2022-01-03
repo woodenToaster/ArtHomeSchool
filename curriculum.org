@@ -458,7 +458,7 @@
 **** TODO Framed perspective I and II
 **** TODO Sketching: The Basics
 **** TODO Perspective Sketching
-**** TODO The Complete Guide to Perspective Drawing
+**** DONE The Complete Guide to Perspective Drawing
 *** Challenge
 **** TODO 100 treasure chests
 *** Assignments
