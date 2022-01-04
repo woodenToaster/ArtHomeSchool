@@ -1,0 +1,45 @@
+#+TITLE: Fundamentals of Architecture Design
+#+AUTHOR: Chris Hogan
+#+DATE: <2022-01-03 Mon>
+#+STARTUP: nologdone
+
+* Goals
+** Collect good reference
+   - Be creative with search terms
+   - Pull from games and film
+   - Look for essential elements
+** Sketch from reference
+   - Start with basic shapes
+   - Look at ref, then sketch. Don't copy 1:1.
+   - Stay loose
+   - Start with one point and orthos
+   - Pay attention to ideation
+** Sketch from imagination
+   - Start with essential structure
+   - Complexity can always be added on top of essential structure
+   - Write keywords from reference to capture look and feel
+   - Latch on to cool elements and push them farther
+   - "How does this thing work?" Form follows function.
+** Incorporate reference into your work
+** Finalize your designs
+* TODO Asian Architecture
+** TODO One page of sketches from reference and imagination
+** TODO Combine sketches.
+    - Group ones with similar perspective.
+    - Cut, copy, paste, transform
+** TODO Refine 3-4 sketches
+    - Blow up sketch, lower opacity, and draw over
+    - Focus on design. Solve all the problems.
+    - Use correct perspective
+    - Put the subject into a scene
+** TODO Loosely finalize one of your designs
+    - Photo textures
+    - Paint over
+    - Atmospheric scene
+* TODO Indian Architecture
+* TODO Ancient Architecture
+* TODO Classical Architecture
+* TODO Medieval Architecture
+* TODO Renaissance Architecture
+* TODO Modern Architecture
+* TODO Futuristic Architecture

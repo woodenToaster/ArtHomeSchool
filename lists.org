@@ -194,6 +194,7 @@
    - Mallorean
 * Movies/Shows
 ** TODO The Eternals
+** TODO Spiderman: No Way Home
 ** TODO Dead Pool 2
 ** TODO X-men: The last stand
 ** TODO Venom
@@ -203,7 +204,6 @@
 ** TODO New Mutants
 ** TODO The Wolverine
 ** TODO Watchmen
-** TODO Dune
 * Videos
 ** Jama Jurabayev
 ** James Paick - youtube cgma
