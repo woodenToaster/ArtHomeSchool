@@ -6,34 +6,10 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-09 Sun 20:02], for week 2022-W01.
-  | Tags    | Headline                                    | Time    |       |       |      |
-  |---------+---------------------------------------------+---------+-------+-------+------|
-  |         | *Total time*                                | *38:38* |       |       |      |
-  |---------+---------------------------------------------+---------+-------+-------+------|
-  |         | \_  Week 1                                  |         | 38:38 |       |      |
-  |         | \_    <2022-01-03 Mon>                      |         |       | 10:02 |      |
-  | study   | \_      Fundamentals of architecture design |         |       |       | 2:07 |
-  | drawing | \_      Asian architecture sketches         |         |       |       | 7:55 |
-  |         | \_    <2022-01-04 Tue>                      |         |       |  3:00 |      |
-  | drawing | \_      Treasure chests                     |         |       |       | 0:52 |
-  | drawing | \_      Asian architecture designs          |         |       |       | 2:08 |
-  |         | \_    <2022-01-05 Wed>                      |         |       |  3:55 |      |
-  | drawing | \_      Treasure chests                     |         |       |       | 1:26 |
-  | drawing | \_      Asian architecture designs          |         |       |       | 2:29 |
-  |         | \_    <2022-01-06 Thu>                      |         |       |  4:04 |      |
-  | drawing | \_      Treasure chests                     |         |       |       | 1:00 |
-  | drawing | \_      Asian architecture designs          |         |       |       | 3:04 |
-  |         | \_    <2022-01-07 Fri>                      |         |       |  3:53 |      |
-  | drawing | \_      Treasure chests                     |         |       |       | 2:19 |
-  | drawing | \_      Asian architecture designs          |         |       |       | 1:34 |
-  |         | \_    <2022-01-08 Sat>                      |         |       |  7:30 |      |
-  | drawing | \_      Treasure chests                     |         |       |       | 6:11 |
-  | drawing | \_      Asian architecture designs          |         |       |       | 1:19 |
-  |         | \_    <2022-01-09 Sun>                      |         |       |  6:14 |      |
-  | drawing | \_      Treasure chests                     |         |       |       | 1:54 |
-  | drawing | \_      Asian architecture designs          |         |       |       | 3:51 |
-  | study   | \_      Blog                                |         |       |       | 0:29 |
+  #+CAPTION: Clock summary at [2022-01-10 Mon 21:07], for week 2022-W02.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
@@ -124,26 +100,55 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-09 Sun 20:02], for week 2022-W01.
-  | Tags | Headline     | Time   |
-  |------+--------------+--------|
-  |      | *Total time* | *0:00* |
+  #+CAPTION: Clock summary at [2022-01-10 Mon 21:07], for week 2022-W02.
+  | Tags    | Headline                             | Time   |      |      |      |
+  |---------+--------------------------------------+--------+------+------+------|
+  |         | *Total time*                         | *9:52* |      |      |      |
+  |---------+--------------------------------------+--------+------+------+------|
+  |         | \_  Week 2                           |        | 9:52 |      |      |
+  |         | \_    <2022-01-10 Mon>               |        |      | 9:52 |      |
+  | study   | \_      Indian architecture          |        |      |      | 1:18 |
+  | drawing | \_      Treasure chests              |        |      |      | 1:27 |
+  | drawing | \_      Indian architecture sketches |        |      |      | 4:11 |
+  | drawing | \_      Architecture deconstruction  |        |      |      | 0:19 |
+  | drawing | \_      Indian architecture design   |        |      |      | 2:37 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *0h 0m*  |
+  | drawing  | *Tag time* | *8h 34m* |
   |----------+------------+----------|
-  | study    | *Tag time* | *0h 0m*  |
+  | study    | *Tag time* | *1h 18m* |
   |----------+------------+----------|
   | painting | *Tag time* | *0h 0m*  |
   
   #+END:
-*** 
+*** <2022-01-10 Mon>
+**** DONE Indian architecture                                         :study:
+     :LOGBOOK:
+     CLOCK: [2022-01-10 Mon 07:36]--[2022-01-10 Mon 08:54] =>  1:18
+     :END:
+**** DONE Treasure chests                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-10 Mon 08:55]--[2022-01-10 Mon 10:22] =>  1:27
+     :END:
+**** DONE Indian architecture sketches                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-10 Mon 13:23]--[2022-01-10 Mon 16:15] =>  2:52
+     CLOCK: [2022-01-10 Mon 10:22]--[2022-01-10 Mon 11:41] =>  1:19
+     :END:
+**** DONE Architecture deconstruction                               :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-10 Mon 18:11]--[2022-01-10 Mon 18:30] =>  0:19
+     :END:
+**** DONE Indian architecture design                                :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-10 Mon 18:30]--[2022-01-10 Mon 21:07] =>  2:37
+     :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-09 Sun 20:02], for week 2022-W01.
+  #+CAPTION: Clock summary at [2022-01-10 Mon 21:07], for week 2022-W02.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -161,7 +166,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-09 Sun 20:02], for week 2022-W01.
+  #+CAPTION: Clock summary at [2022-01-10 Mon 21:07], for week 2022-W02.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
