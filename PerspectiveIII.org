@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-14 Fri 21:08], for week 2022-W02.
+  #+CAPTION: Clock summary at [2022-01-15 Sat 21:07], for week 2022-W02.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -100,12 +100,12 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-14 Fri 21:08], for week 2022-W02.
+  #+CAPTION: Clock summary at [2022-01-15 Sat 21:07], for week 2022-W02.
   | Tags    | Headline                             | Time    |       |      |      |
   |---------+--------------------------------------+---------+-------+------+------|
-  |         | *Total time*                         | *18:58* |       |      |      |
+  |         | *Total time*                         | *26:46* |       |      |      |
   |---------+--------------------------------------+---------+-------+------+------|
-  |         | \_  Week 2                           |         | 18:58 |      |      |
+  |         | \_  Week 2                           |         | 26:46 |      |      |
   |         | \_    <2022-01-10 Mon>               |         |       | 9:52 |      |
   | study   | \_      Indian architecture          |         |       |      | 1:18 |
   | drawing | \_      Treasure chests              |         |       |      | 1:27 |
@@ -125,14 +125,18 @@
   |         | \_    <2022-01-14 Fri>               |         |       | 1:59 |      |
   | drawing | \_      Treasure chests              |         |       |      | 0:49 |
   | drawing | \_      Perspective insects          |         |       |      | 1:10 |
+  |         | \_    <2022-01-15 Sat>               |         |       | 7:48 |      |
+  | drawing | \_      Treasure chests              |         |       |      | 1:01 |
+  | drawing | \_      Perspective insects          |         |       |      | 5:47 |
+  | study   | \_      Perspective insects          |         |       |      | 1:00 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *17h 40m* |
+  | drawing  | *Tag time* | *24h 28m* |
   |----------+------------+-----------|
-  | study    | *Tag time* | *1h 18m*  |
+  | study    | *Tag time* | *2h 18m*  |
   |----------+------------+-----------|
   | painting | *Tag time* | *0h 0m*   |
   
@@ -201,28 +205,28 @@
      CLOCK: [2022-01-14 Fri 19:58]--[2022-01-14 Fri 21:08] =>  1:10
      :END:
 *** <2022-01-15 Sat>
+**** DONE Treasure chests                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-15 Sat 08:50]--[2022-01-15 Sat 09:51] =>  1:01
+     :END:
+**** DONE Perspective insects                                       :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-15 Sat 19:30]--[2022-01-15 Sat 21:07] =>  1:37
+     CLOCK: [2022-01-15 Sat 14:06]--[2022-01-15 Sat 16:10] =>  2:04
+     CLOCK: [2022-01-15 Sat 09:51]--[2022-01-15 Sat 11:57] =>  2:06
+     :END:
+**** DONE Perspective insects                                         :study: 
+     :LOGBOOK:
+     CLOCK: [2022-01-15 Sat 18:30]--[2022-01-15 Sat 19:30] =>  1:00
+     :END:
+*** <2022-01-16 Sun>
 **** TODO Treasure chests :drawing:
+**** TODO Blog :study:
 ** Week 3
-  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-14 Fri 21:08], for week 2022-W02.
-  | Tags | Headline     | Time   |
-  |------+--------------+--------|
-  |      | *Total time* | *0:00* |
-  #+END:
-  
-  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
-  | Tag      | Headline   | Time (h) |
-  |----------+------------+----------|
-  | drawing  | *Tag time* | *0h 0m*  |
-  |----------+------------+----------|
-  | study    | *Tag time* | *0h 0m*  |
-  |----------+------------+----------|
-  | painting | *Tag time* | *0h 0m*  |
-  
-  #+END:
+   :LOGBOOK:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-14 Fri 21:08], for week 2022-W02.
+  #+CAPTION: Clock summary at [2022-01-15 Sat 21:07], for week 2022-W02.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
