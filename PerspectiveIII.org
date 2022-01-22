@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-20 Thu 19:49], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-21 Fri 20:37], for week 2022-W03.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -100,7 +100,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-20 Thu 19:49], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-21 Fri 20:37], for week 2022-W03.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -211,12 +211,12 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-20 Thu 19:49], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-21 Fri 20:37], for week 2022-W03.
   | Tags    | Headline                               | Time    |       |      |      |
   |---------+----------------------------------------+---------+-------+------+------|
-  |         | *Total time*                           | *16:30* |       |      |      |
+  |         | *Total time*                           | *19:52* |       |      |      |
   |---------+----------------------------------------+---------+-------+------+------|
-  |         | \_  Week 3                             |         | 16:30 |      |      |
+  |         | \_  Week 3                             |         | 19:52 |      |      |
   |         | \_    <2022-01-17 Mon>                 |         |       | 8:35 |      |
   | study   | \_      Dynamic sketching              |         |       |      | 0:13 |
   | drawing | \_      Treasure chests                |         |       |      | 1:18 |
@@ -231,16 +231,19 @@
   | drawing | \_      Ancient Egypt RTS design       |         |       |      | 1:33 |
   |         | \_    <2022-01-20 Thu>                 |         |       | 1:32 |      |
   | drawing | \_      Treasure chests                |         |       |      | 1:32 |
+  |         | \_    <2022-01-21 Fri>                 |         |       | 3:22 |      |
+  | drawing | \_      Treasure chests                |         |       |      | 1:13 |
+  | drawing | \_      Ancient Egypt RTS thumbnails   |         |       |      | 2:09 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
-  | Tag      | Headline   | Time (h)  |
-  |----------+------------+-----------|
-  | drawing  | *Tag time* | *14h 38m* |
-  |----------+------------+-----------|
-  | study    | *Tag time* | *1h 52m*  |
-  |----------+------------+-----------|
-  | painting | *Tag time* | *0h 0m*   |
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *18h 0m* |
+  |----------+------------+----------|
+  | study    | *Tag time* | *1h 52m* |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 0m*  |
   
   #+END:
 *** <2022-01-17 Mon>
@@ -291,10 +294,18 @@
      CLOCK: [2022-01-20 Thu 18:17]--[2022-01-20 Thu 19:49] =>  1:32
      :END:
 *** <2022-01-21 Fri>
-**** TODO Treasure chests :drawing:
+**** DONE Treasure chests                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-21 Fri 18:11]--[2022-01-21 Fri 18:24] =>  0:13
+     CLOCK: [2022-01-21 Fri 07:10]--[2022-01-21 Fri 08:10] =>  1:00
+     :END:
+**** DONE Ancient Egypt RTS thumbnails                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-21 Fri 18:28]--[2022-01-21 Fri 20:37] =>  2:09
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-20 Thu 19:49], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-21 Fri 20:37], for week 2022-W03.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
