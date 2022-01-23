@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-21 Fri 20:37], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-22 Sat 20:41], for week 2022-W03.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -100,7 +100,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-21 Fri 20:37], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-22 Sat 20:41], for week 2022-W03.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -211,12 +211,12 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-21 Fri 20:37], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-22 Sat 20:41], for week 2022-W03.
   | Tags    | Headline                               | Time    |       |      |      |
   |---------+----------------------------------------+---------+-------+------+------|
-  |         | *Total time*                           | *19:52* |       |      |      |
+  |         | *Total time*                           | *27:54* |       |      |      |
   |---------+----------------------------------------+---------+-------+------+------|
-  |         | \_  Week 3                             |         | 19:52 |      |      |
+  |         | \_  Week 3                             |         | 27:54 |      |      |
   |         | \_    <2022-01-17 Mon>                 |         |       | 8:35 |      |
   | study   | \_      Dynamic sketching              |         |       |      | 0:13 |
   | drawing | \_      Treasure chests                |         |       |      | 1:18 |
@@ -234,14 +234,18 @@
   |         | \_    <2022-01-21 Fri>                 |         |       | 3:22 |      |
   | drawing | \_      Treasure chests                |         |       |      | 1:13 |
   | drawing | \_      Ancient Egypt RTS thumbnails   |         |       |      | 2:09 |
+  |         | \_    <2022-01-22 Sat>                 |         |       | 8:02 |      |
+  | drawing | \_      Treasure chests                |         |       |      | 0:44 |
+  | drawing | \_      Ancient Egypt RTS thumbnails   |         |       |      | 4:16 |
+  | study   | \_      Brainstorm CABC                |         |       |      | 3:02 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *18h 0m* |
+  | drawing  | *Tag time* | *23h 0m* |
   |----------+------------+----------|
-  | study    | *Tag time* | *1h 52m* |
+  | study    | *Tag time* | *4h 54m* |
   |----------+------------+----------|
   | painting | *Tag time* | *0h 0m*  |
   
@@ -303,9 +307,23 @@
      :LOGBOOK:
      CLOCK: [2022-01-21 Fri 18:28]--[2022-01-21 Fri 20:37] =>  2:09
      :END:
+*** <2022-01-22 Sat>
+**** DONE Treasure chests                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-22 Sat 08:35]--[2022-01-22 Sat 09:19] =>  0:44
+     :END:
+**** DONE Ancient Egypt RTS thumbnails                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-22 Sat 18:28]--[2022-01-22 Sat 20:41] =>  2:13
+     CLOCK: [2022-01-22 Sat 09:20]--[2022-01-22 Sat 11:23] =>  2:03
+     :END:
+**** DONE Brainstorm CABC                                             :study: 
+     :LOGBOOK:
+     CLOCK: [2022-01-22 Sat 12:00]--[2022-01-22 Sat 15:02] =>  3:02
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-21 Fri 20:37], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-22 Sat 20:41], for week 2022-W03.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
