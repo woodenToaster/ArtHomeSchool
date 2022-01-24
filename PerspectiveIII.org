@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-22 Sat 20:41], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-23 Sun 20:21], for week 2022-W03.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -100,7 +100,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-22 Sat 20:41], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-23 Sun 20:21], for week 2022-W03.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -211,41 +211,46 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-22 Sat 20:41], for week 2022-W03.
-  | Tags    | Headline                               | Time    |       |      |      |
-  |---------+----------------------------------------+---------+-------+------+------|
-  |         | *Total time*                           | *27:54* |       |      |      |
-  |---------+----------------------------------------+---------+-------+------+------|
-  |         | \_  Week 3                             |         | 27:54 |      |      |
-  |         | \_    <2022-01-17 Mon>                 |         |       | 8:35 |      |
-  | study   | \_      Dynamic sketching              |         |       |      | 0:13 |
-  | drawing | \_      Treasure chests                |         |       |      | 1:18 |
-  | study   | \_      Architecture design            |         |       |      | 0:27 |
-  | drawing | \_      Ancient architecture sketching |         |       |      | 6:37 |
-  |         | \_    <2022-01-18 Tue>                 |         |       | 3:40 |      |
-  | drawing | \_      Treasure chests                |         |       |      | 0:58 |
-  | study   | \_      Ancient Egypt RTS design       |         |       |      | 1:12 |
-  | drawing | \_      Ancient Egypt RTS              |         |       |      | 1:30 |
-  |         | \_    <2022-01-19 Wed>                 |         |       | 2:43 |      |
-  | drawing | \_      Treasure chests                |         |       |      | 1:10 |
-  | drawing | \_      Ancient Egypt RTS design       |         |       |      | 1:33 |
-  |         | \_    <2022-01-20 Thu>                 |         |       | 1:32 |      |
-  | drawing | \_      Treasure chests                |         |       |      | 1:32 |
-  |         | \_    <2022-01-21 Fri>                 |         |       | 3:22 |      |
-  | drawing | \_      Treasure chests                |         |       |      | 1:13 |
-  | drawing | \_      Ancient Egypt RTS thumbnails   |         |       |      | 2:09 |
-  |         | \_    <2022-01-22 Sat>                 |         |       | 8:02 |      |
-  | drawing | \_      Treasure chests                |         |       |      | 0:44 |
-  | drawing | \_      Ancient Egypt RTS thumbnails   |         |       |      | 4:16 |
-  | study   | \_      Brainstorm CABC                |         |       |      | 3:02 |
+  #+CAPTION: Clock summary at [2022-01-23 Sun 20:21], for week 2022-W03.
+  | Tags    | Headline                                        | Time    |       |      |      |
+  |---------+-------------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                                    | *33:56* |       |      |      |
+  |---------+-------------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 3                                      |         | 33:56 |      |      |
+  |         | \_    <2022-01-17 Mon>                          |         |       | 8:35 |      |
+  | study   | \_      Dynamic sketching                       |         |       |      | 0:13 |
+  | drawing | \_      Treasure chests                         |         |       |      | 1:18 |
+  | study   | \_      Architecture design                     |         |       |      | 0:27 |
+  | drawing | \_      Ancient architecture sketching          |         |       |      | 6:37 |
+  |         | \_    <2022-01-18 Tue>                          |         |       | 3:40 |      |
+  | drawing | \_      Treasure chests                         |         |       |      | 0:58 |
+  | study   | \_      Ancient Egypt RTS design                |         |       |      | 1:12 |
+  | drawing | \_      Ancient Egypt RTS                       |         |       |      | 1:30 |
+  |         | \_    <2022-01-19 Wed>                          |         |       | 2:43 |      |
+  | drawing | \_      Treasure chests                         |         |       |      | 1:10 |
+  | drawing | \_      Ancient Egypt RTS design                |         |       |      | 1:33 |
+  |         | \_    <2022-01-20 Thu>                          |         |       | 1:32 |      |
+  | drawing | \_      Treasure chests                         |         |       |      | 1:32 |
+  |         | \_    <2022-01-21 Fri>                          |         |       | 3:22 |      |
+  | drawing | \_      Treasure chests                         |         |       |      | 1:13 |
+  | drawing | \_      Ancient Egypt RTS thumbnails            |         |       |      | 2:09 |
+  |         | \_    <2022-01-22 Sat>                          |         |       | 8:02 |      |
+  | drawing | \_      Treasure chests                         |         |       |      | 0:44 |
+  | drawing | \_      Ancient Egypt RTS thumbnails            |         |       |      | 4:16 |
+  | study   | \_      Brainstorm CABC                         |         |       |      | 3:02 |
+  |         | \_    <2022-01-23 Sun>                          |         |       | 6:02 |      |
+  | drawing | \_      Treasure chests                         |         |       |      | 1:09 |
+  | study   | \_      Brainstorm CABC assignment 1 reference  |         |       |      | 2:17 |
+  | drawing | \_      Brainstorm CABC assignment 1 thumbnails |         |       |      | 1:56 |
+  | study   | \_      Blog                                    |         |       |      | 0:40 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *23h 0m* |
+  | drawing  | *Tag time* | *26h 5m* |
   |----------+------------+----------|
-  | study    | *Tag time* | *4h 54m* |
+  | study    | *Tag time* | *7h 51m* |
   |----------+------------+----------|
   | painting | *Tag time* | *0h 0m*  |
   
@@ -321,9 +326,28 @@
      :LOGBOOK:
      CLOCK: [2022-01-22 Sat 12:00]--[2022-01-22 Sat 15:02] =>  3:02
      :END:
+*** <2022-01-23 Sun>
+**** DONE Treasure chests                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-23 Sun 08:52]--[2022-01-23 Sun 10:01] =>  1:09
+     :END:
+**** DONE Brainstorm CABC assignment 1 reference                      :study: 
+     :LOGBOOK:
+     CLOCK: [2022-01-23 Sun 13:07]--[2022-01-23 Sun 14:33] =>  1:26
+     CLOCK: [2022-01-23 Sun 10:58]--[2022-01-23 Sun 11:49] =>  0:51
+     :END:
+**** DONE Brainstorm CABC assignment 1 thumbnails                   :drawing: 
+     :LOGBOOK:
+     CLOCK: [2022-01-23 Sun 18:09]--[2022-01-23 Sun 19:40] =>  1:31
+     CLOCK: [2022-01-23 Sun 14:34]--[2022-01-23 Sun 14:59] =>  0:25
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2022-01-23 Sun 19:41]--[2022-01-23 Sun 20:21] =>  0:40
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-22 Sat 20:41], for week 2022-W03.
+  #+CAPTION: Clock summary at [2022-01-23 Sun 20:21], for week 2022-W03.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -339,3 +363,4 @@
   | painting | *Tag time* | *0h 0m*  |
   
   #+END:
+*** <2022-01-24 Mon>
