@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-26 Wed 21:07], for week 2022-W04.
+  #+CAPTION: Clock summary at [2022-01-28 Fri 21:11], for week 2022-W04.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -100,7 +100,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-26 Wed 21:07], for week 2022-W04.
+  #+CAPTION: Clock summary at [2022-01-28 Fri 21:11], for week 2022-W04.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -211,7 +211,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-26 Wed 21:07], for week 2022-W04.
+  #+CAPTION: Clock summary at [2022-01-28 Fri 21:11], for week 2022-W04.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -319,12 +319,12 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-26 Wed 21:07], for week 2022-W04.
+  #+CAPTION: Clock summary at [2022-01-28 Fri 21:11], for week 2022-W04.
   | Tags    | Headline                                        | Time    |       |      |      |
   |---------+-------------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                    | *14:25* |       |      |      |
+  |         | *Total time*                                    | *20:15* |       |      |      |
   |---------+-------------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 4                                      |         | 14:25 |      |      |
+  |         | \_  Week 4                                      |         | 20:15 |      |      |
   |         | \_    <2022-01-24 Mon>                          |         |       | 8:23 |      |
   | drawing | \_      Treasure chests                         |         |       |      | 1:08 |
   | drawing | \_      Brainstorm CABC assignment 1 thumbnails |         |       |      | 7:15 |
@@ -334,12 +334,18 @@
   |         | \_    <2022-01-26 Wed>                          |         |       | 3:00 |      |
   | drawing | \_      Treasure chests                         |         |       |      | 1:08 |
   | drawing | \_      Brainstorm CABC assignment 1 sketches   |         |       |      | 1:52 |
+  |         | \_    <2022-01-27 Thu>                          |         |       | 2:56 |      |
+  | drawing | \_      Treasure chests                         |         |       |      | 1:00 |
+  | drawing | \_      Brainstorm CABC assignment 1 sketches   |         |       |      | 1:56 |
+  |         | \_    <2022-01-28 Fri>                          |         |       | 2:54 |      |
+  | drawing | \_      Treasure chests                         |         |       |      | 0:16 |
+  | drawing | \_      Brainstorm CABC assignment 1 sketches   |         |       |      | 2:38 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *14h 25m* |
+  | drawing  | *Tag time* | *20h 15m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -375,3 +381,24 @@
      :LOGBOOK:
      CLOCK: [2022-01-26 Wed 19:15]--[2022-01-26 Wed 21:07] =>  1:52
      :END:
+*** <2022-01-27 Thu>
+**** DONE Treasure chests                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-27 Thu 18:00]--[2022-01-27 Thu 19:00] =>  1:00
+     :END:
+**** DONE Brainstorm CABC assignment 1 sketches                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-27 Thu 19:00]--[2022-01-27 Thu 20:56] =>  1:56
+     :END:
+*** <2022-01-28 Fri>
+**** DONE Treasure chests                                           :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-28 Fri 20:55]--[2022-01-28 Fri 21:11] =>  0:16
+     :END:
+**** DONE Brainstorm CABC assignment 1 sketches                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-28 Fri 18:17]--[2022-01-28 Fri 20:55] =>  2:38
+     :END:
+*** <2022-01-29 Sat>
+**** TODO Brainstorm CABC week 2 :study:
+**** TODO Plan next unit :study:
