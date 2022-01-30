@@ -448,19 +448,23 @@
    - Environment thumbnails
    - Environment thumbnails from imagination
    - Environment master study
-** TODO Perspective III
+** DONE Perspective III
 *** Videos
 **** TODO NMA - Linear Perspective Master Course
 **** TODO CGMA - Fundamentals of Architecture Design
+***** DONE Asian
+***** DONE Indo-Islamic
+***** DONE Ancient
 *** Books
-**** TODO How to Draw
+**** DONE How to Draw
 **** TODO How to Render
-**** TODO Framed perspective I and II
+**** DONE Framed perspective I
+**** TODO Framed perspective II
 **** TODO Sketching: The Basics
-**** TODO Perspective Sketching
+**** DONE Perspective Sketching
 **** DONE The Complete Guide to Perspective Drawing
 *** Challenge
-**** TODO 100 treasure chests
+**** DONE 100 treasure chests
 *** Assignments
 **** FZD Blog: https://fzdschool.com/blog_posts/for-students-learning-perspective
 **** Art Center perspective homework: https://www.artcenterentertainment.com/perspective-homework
@@ -476,7 +480,17 @@
 **** Week 2
 **** Week 3
 **** Week 4
-** TODO Color and Light I
+** TODO Value and Light I
+*** Video
+**** TODO Foundation Patreon - Matte Rendering
+**** TODO Foundation Patreon - Basic Rendering I
+*** Book
+**** TODO How to Render - Scott Robertson
+**** TODO James Gurney - Color and Light
+*** Week 1
+*** Week 2
+*** Week 3
+*** Week 4
 * TODO Term 7
 ** TODO Composition and Storytelling I
 ** TODO Head drawing III
