@@ -1,0 +1,94 @@
+#+TITLE: Light and Value I
+#+AUTHOR: Chris Hogan
+#+DATE: <2022-01-31 Mon> to <2022-02-27 Sun>
+#+STARTUP: nologdone
+
+* Log
+** Week 1
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2022-01-31 Mon 20:33], for week 2022-W05.
+  | Tags    | Headline                                      | Time   |      |      |      |
+  |---------+-----------------------------------------------+--------+------+------+------|
+  |         | *Total time*                                  | *9:48* |      |      |      |
+  |---------+-----------------------------------------------+--------+------+------+------|
+  |         | \_  Week 1                                    |        | 9:48 |      |      |
+  |         | \_    <2022-01-31 Mon>                        |        |      | 9:48 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 sketches |        |      |      | 2:46 |
+  | drawing | \_      Brainstorm CABC assignment 2 color    |        |      |      | 7:02 |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *9h 48m* |
+  |----------+------------+----------|
+  | study    | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 0m*  |
+  
+  #+END:
+*** <2022-01-31 Mon>
+**** DONE Brainstorm CABC assignment 2 sketches                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-31 Mon 08:08]--[2022-01-31 Mon 10:54] =>  2:46
+     :END:
+**** DONE Brainstorm CABC assignment 2 color                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-01-31 Mon 17:20]--[2022-01-31 Mon 20:33] =>  3:13
+     CLOCK: [2022-01-31 Mon 13:00]--[2022-01-31 Mon 16:02] =>  3:02
+     CLOCK: [2022-01-31 Mon 10:54]--[2022-01-31 Mon 11:41] =>  0:47
+     :END:
+** Week 2
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2022-01-31 Mon 20:33], for week 2022-W05.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | study    | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 0m*  |
+  
+  #+END:
+** Week 3
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2022-01-31 Mon 20:34], for week 2022-W05.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | study    | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 0m*  |
+  
+  #+END:
+** Week 4
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2022-01-31 Mon 20:34], for week 2022-W05.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | study    | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 0m*  |
+  
+  #+END:
