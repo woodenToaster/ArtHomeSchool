@@ -6,25 +6,27 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-31 Mon 20:33], for week 2022-W05.
-  | Tags    | Headline                                      | Time   |      |      |      |
-  |---------+-----------------------------------------------+--------+------+------+------|
-  |         | *Total time*                                  | *9:48* |      |      |      |
-  |---------+-----------------------------------------------+--------+------+------+------|
-  |         | \_  Week 1                                    |        | 9:48 |      |      |
-  |         | \_    <2022-01-31 Mon>                        |        |      | 9:48 |      |
-  | drawing | \_      Brainstorm CABC assignment 2 sketches |        |      |      | 2:46 |
-  | drawing | \_      Brainstorm CABC assignment 2 color    |        |      |      | 7:02 |
+  #+CAPTION: Clock summary at [2022-02-01 Tue 21:11], for week 2022-W05.
+  | Tags    | Headline                                      | Time    |       |      |      |
+  |---------+-----------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                                  | *12:51* |       |      |      |
+  |---------+-----------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 1                                    |         | 12:51 |      |      |
+  |         | \_    <2022-01-31 Mon>                        |         |       | 9:48 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 sketches |         |       |      | 2:46 |
+  | drawing | \_      Brainstorm CABC assignment 2 color    |         |       |      | 7:02 |
+  |         | \_    <2022-02-01 Tue>                        |         |       | 3:03 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 color    |         |       |      | 3:03 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
-  | Tag      | Headline   | Time (h) |
-  |----------+------------+----------|
-  | drawing  | *Tag time* | *9h 48m* |
-  |----------+------------+----------|
-  | study    | *Tag time* | *0h 0m*  |
-  |----------+------------+----------|
-  | painting | *Tag time* | *0h 0m*  |
+  | Tag      | Headline   | Time (h)  |
+  |----------+------------+-----------|
+  | drawing  | *Tag time* | *12h 51m* |
+  |----------+------------+-----------|
+  | study    | *Tag time* | *0h 0m*   |
+  |----------+------------+-----------|
+  | painting | *Tag time* | *0h 0m*   |
   
   #+END:
 *** <2022-01-31 Mon>
@@ -38,9 +40,14 @@
      CLOCK: [2022-01-31 Mon 13:00]--[2022-01-31 Mon 16:02] =>  3:02
      CLOCK: [2022-01-31 Mon 10:54]--[2022-01-31 Mon 11:41] =>  0:47
      :END:
+*** <2022-02-01 Tue>
+**** DONE Brainstorm CABC assignment 2 color                        :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-02-01 Tue 18:08]--[2022-02-01 Tue 21:11] =>  3:03
+     :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-31 Mon 20:33], for week 2022-W05.
+  #+CAPTION: Clock summary at [2022-02-01 Tue 21:11], for week 2022-W05.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -58,7 +65,7 @@
   #+END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-31 Mon 20:34], for week 2022-W05.
+  #+CAPTION: Clock summary at [2022-02-01 Tue 21:11], for week 2022-W05.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -76,7 +83,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-01-31 Mon 20:34], for week 2022-W05.
+  #+CAPTION: Clock summary at [2022-02-01 Tue 21:11], for week 2022-W05.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
