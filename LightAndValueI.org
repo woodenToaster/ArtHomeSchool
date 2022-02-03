@@ -6,23 +6,25 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-01 Tue 21:11], for week 2022-W05.
-  | Tags    | Headline                                      | Time    |       |      |      |
-  |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                  | *12:51* |       |      |      |
-  |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                                    |         | 12:51 |      |      |
-  |         | \_    <2022-01-31 Mon>                        |         |       | 9:48 |      |
-  | drawing | \_      Brainstorm CABC assignment 2 sketches |         |       |      | 2:46 |
-  | drawing | \_      Brainstorm CABC assignment 2 color    |         |       |      | 7:02 |
-  |         | \_    <2022-02-01 Tue>                        |         |       | 3:03 |      |
-  | drawing | \_      Brainstorm CABC assignment 2 color    |         |       |      | 3:03 |
+  #+CAPTION: Clock summary at [2022-02-02 Wed 21:07], for week 2022-W05.
+  | Tags    | Headline                                       | Time    |       |      |      |
+  |---------+------------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                                   | *15:57* |       |      |      |
+  |---------+------------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 1                                     |         | 15:57 |      |      |
+  |         | \_    <2022-01-31 Mon>                         |         |       | 9:48 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 sketches  |         |       |      | 2:46 |
+  | drawing | \_      Brainstorm CABC assignment 2 color     |         |       |      | 7:02 |
+  |         | \_    <2022-02-01 Tue>                         |         |       | 3:03 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 color     |         |       |      | 3:03 |
+  |         | \_    <2022-02-02 Wed>                         |         |       | 3:06 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 sketching |         |       |      | 3:06 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *12h 51m* |
+  | drawing  | *Tag time* | *15h 57m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -45,9 +47,14 @@
      :LOGBOOK:
      CLOCK: [2022-02-01 Tue 18:08]--[2022-02-01 Tue 21:11] =>  3:03
      :END:
+*** <2022-02-02 Wed>
+**** DONE Brainstorm CABC assignment 2 sketching                    :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-02-02 Wed 18:01]--[2022-02-02 Wed 21:07] =>  3:06
+     :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-01 Tue 21:11], for week 2022-W05.
+  #+CAPTION: Clock summary at [2022-02-02 Wed 21:07], for week 2022-W05.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -65,7 +72,7 @@
   #+END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-01 Tue 21:11], for week 2022-W05.
+  #+CAPTION: Clock summary at [2022-02-02 Wed 21:07], for week 2022-W05.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -83,7 +90,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-01 Tue 21:11], for week 2022-W05.
+  #+CAPTION: Clock summary at [2022-02-02 Wed 21:07], for week 2022-W05.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
