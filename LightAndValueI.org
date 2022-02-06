@@ -6,35 +6,40 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-04 Fri 21:08], for week 2022-W05.
-  | Tags    | Headline                                        | Time    |       |      |      |
-  |---------+-------------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                    | *21:58* |       |      |      |
-  |---------+-------------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 1                                      |         | 21:58 |      |      |
-  |         | \_    <2022-01-31 Mon>                          |         |       | 9:48 |      |
-  | drawing | \_      Brainstorm CABC assignment 2 sketches   |         |       |      | 2:46 |
-  | drawing | \_      Brainstorm CABC assignment 2 color      |         |       |      | 7:02 |
-  |         | \_    <2022-02-01 Tue>                          |         |       | 3:03 |      |
-  | drawing | \_      Brainstorm CABC assignment 2 color      |         |       |      | 3:03 |
-  |         | \_    <2022-02-02 Wed>                          |         |       | 3:06 |      |
-  | drawing | \_      Brainstorm CABC assignment 2 sketching  |         |       |      | 3:06 |
-  |         | \_    <2022-02-03 Thu>                          |         |       | 2:59 |      |
-  | drawing | \_      Brainstorm CABC assignment 2 color      |         |       |      | 2:59 |
-  |         | \_    <2022-02-04 Fri>                          |         |       | 3:02 |      |
-  | drawing | \_      Brainstorm CABC assignment 2 submission |         |       |      | 0:20 |
-  | study   | \_      Foundation Patreon: Basic Rendering     |         |       |      | 0:50 |
-  | drawing | \_      Foundation Patreon: Basic Rendering     |         |       |      | 1:52 |
+  #+CAPTION: Clock summary at [2022-02-05 Sat 20:15], for week 2022-W05.
+  | Tags    | Headline                                         | Time    |       |      |      |
+  |---------+--------------------------------------------------+---------+-------+------+------|
+  |         | *Total time*                                     | *31:56* |       |      |      |
+  |---------+--------------------------------------------------+---------+-------+------+------|
+  |         | \_  Week 1                                       |         | 31:56 |      |      |
+  |         | \_    <2022-01-31 Mon>                           |         |       | 9:48 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 sketches    |         |       |      | 2:46 |
+  | drawing | \_      Brainstorm CABC assignment 2 color       |         |       |      | 7:02 |
+  |         | \_    <2022-02-01 Tue>                           |         |       | 3:03 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 color       |         |       |      | 3:03 |
+  |         | \_    <2022-02-02 Wed>                           |         |       | 3:06 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 sketching   |         |       |      | 3:06 |
+  |         | \_    <2022-02-03 Thu>                           |         |       | 2:59 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 color       |         |       |      | 2:59 |
+  |         | \_    <2022-02-04 Fri>                           |         |       | 3:02 |      |
+  | drawing | \_      Brainstorm CABC assignment 2 submission  |         |       |      | 0:20 |
+  | study   | \_      Foundation Patreon: Basic Rendering      |         |       |      | 0:50 |
+  | drawing | \_      Foundation Patreon: Basic Rendering      |         |       |      | 1:52 |
+  |         | \_    <2022-02-05 Sat>                           |         |       | 9:58 |      |
+  | drawing | \_      Foundation Patreon: Basic Rendering      |         |       |      | 3:18 |
+  | study   | \_      Foundation Patreon: Basic Rendering      |         |       |      | 0:26 |
+  | study   | \_      Brainstorm CABC week 3                   |         |       |      | 3:21 |
+  | study   | \_      Brainstorm CABC assignment 3 research... |         |       |      | 2:53 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
-  | Tag      | Headline   | Time (h) |
-  |----------+------------+----------|
-  | drawing  | *Tag time* | *21h 8m* |
-  |----------+------------+----------|
-  | study    | *Tag time* | *0h 50m* |
-  |----------+------------+----------|
-  | painting | *Tag time* | *0h 0m*  |
+  | Tag      | Headline   | Time (h)  |
+  |----------+------------+-----------|
+  | drawing  | *Tag time* | *24h 26m* |
+  |----------+------------+-----------|
+  | study    | *Tag time* | *7h 30m*  |
+  |----------+------------+-----------|
+  | painting | *Tag time* | *0h 0m*   |
   
   #+END:
 *** <2022-01-31 Mon>
@@ -76,9 +81,26 @@
      :LOGBOOK:
      CLOCK: [2022-02-04 Fri 19:15]--[2022-02-04 Fri 21:07] =>  1:52
      :END:
+*** <2022-02-05 Sat>
+**** DONE Foundation Patreon: Basic Rendering                         :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-02-05 Sat 07:47]--[2022-02-05 Sat 11:05] =>  3:18
+     :END:
+**** DONE Foundation Patreon: Basic Rendering                         :study:
+     :LOGBOOK:
+     CLOCK: [2022-02-05 Sat 11:05]--[2022-02-05 Sat 11:31] =>  0:26
+     :END:
+**** DONE Brainstorm CABC week 3                                      :study:
+     :LOGBOOK:
+     CLOCK: [2022-02-05 Sat 12:00]--[2022-02-05 Sat 15:21] =>  3:21
+     :END:
+**** DONE Brainstorm CABC assignment 3 research and reference         :study:
+     :LOGBOOK:
+     CLOCK: [2022-02-05 Sat 17:22]--[2022-02-05 Sat 20:15] =>  2:53
+     :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-04 Fri 21:08], for week 2022-W05.
+  #+CAPTION: Clock summary at [2022-02-05 Sat 20:15], for week 2022-W05.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -96,7 +118,7 @@
   #+END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-04 Fri 21:08], for week 2022-W05.
+  #+CAPTION: Clock summary at [2022-02-05 Sat 20:15], for week 2022-W05.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -114,7 +136,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-04 Fri 21:08], for week 2022-W05.
+  #+CAPTION: Clock summary at [2022-02-05 Sat 20:15], for week 2022-W05.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
