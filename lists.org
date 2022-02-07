@@ -2,15 +2,16 @@
 #+AUTHOR: Chris Hogan
 
 * Games
-** Divinity 2
 ** Elden Ring
+** Warhammer II
+** Warhammer III
 ** Ghost of Tsushima
 ** Mortal Shell
-** Spider Man: Miles Morales
 ** Grim Dawn
+** Divinity 2
 ** Demon's Souls
 ** Baldur's Gate 3
-** Guardians of the Galaxy
+** Spider Man: Miles Morales
 * Art Supplies
 ** Leads
 *** 2mm
