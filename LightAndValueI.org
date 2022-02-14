@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-12 Sat 22:05], for week 2022-W06.
+  #+CAPTION: Clock summary at [2022-02-13 Sun 20:10], for week 2022-W06.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -91,12 +91,12 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-12 Sat 22:05], for week 2022-W06.
+  #+CAPTION: Clock summary at [2022-02-13 Sun 20:10], for week 2022-W06.
   | Tags    | Headline                                      | Time    |       |      |      |
   |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                                  | *24:24* |       |      |      |
+  |         | *Total time*                                  | *29:07* |       |      |      |
   |---------+-----------------------------------------------+---------+-------+------+------|
-  |         | \_  Week 2                                    |         | 24:24 |      |      |
+  |         | \_  Week 2                                    |         | 29:07 |      |      |
   |         | \_    <2022-02-07 Mon>                        |         |       | 9:28 |      |
   | drawing | \_      Brainstorm CABC assignment 3 sketches |         |       |      | 9:28 |
   |         | \_    <2022-02-08 Tue>                        |         |       | 2:22 |      |
@@ -112,14 +112,18 @@
   | drawing | \_      Brainstorm CABC assignment 3 sketches |         |       |      | 1:32 |
   | drawing | \_      Rendering primitive forms             |         |       |      | 0:54 |
   | drawing | \_      FP Matte rendering                    |         |       |      | 0:35 |
+  |         | \_    <2022-02-13 Sun>                        |         |       | 4:43 |      |
+  | drawing | \_      Rendering primitive forms             |         |       |      | 2:38 |
+  | drawing | \_      Brainstorm CABC assignment 4 sketches |         |       |      | 1:52 |
+  | study   | \_      Blog                                  |         |       |      | 0:13 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *24h 24m* |
+  | drawing  | *Tag time* | *28h 54m* |
   |----------+------------+-----------|
-  | study    | *Tag time* | *0h 0m*   |
+  | study    | *Tag time* | *0h 13m*  |
   |----------+------------+-----------|
   | painting | *Tag time* | *0h 0m*   |
   
@@ -168,9 +172,22 @@
      :LOGBOOK:
      CLOCK: [2022-02-12 Sat 15:52]--[2022-02-12 Sat 16:27] =>  0:35
      :END:
+*** <2022-02-13 Sun>
+**** DONE Rendering primitive forms                                 :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-02-13 Sun 09:08]--[2022-02-13 Sun 11:46] =>  2:38
+     :END:
+**** DONE Brainstorm CABC assignment 4 sketches                     :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-02-13 Sun 13:08]--[2022-02-13 Sun 15:00] =>  1:52
+     :END:
+**** DONE Blog                                                        :study:
+     :LOGBOOK:
+     CLOCK: [2022-02-13 Sun 19:57]--[2022-02-13 Sun 20:10] =>  0:13
+     :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-12 Sat 22:05], for week 2022-W06.
+  #+CAPTION: Clock summary at [2022-02-13 Sun 20:10], for week 2022-W06.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -188,7 +205,7 @@
   #+END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-12 Sat 22:05], for week 2022-W06.
+  #+CAPTION: Clock summary at [2022-02-13 Sun 20:10], for week 2022-W06.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
