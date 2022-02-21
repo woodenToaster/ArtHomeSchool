@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-19 Sat 21:00], for week 2022-W07.
+  #+CAPTION: Clock summary at [2022-02-20 Sun 19:43], for week 2022-W07.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -91,7 +91,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-19 Sat 21:00], for week 2022-W07.
+  #+CAPTION: Clock summary at [2022-02-20 Sun 19:43], for week 2022-W07.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -166,12 +166,12 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-19 Sat 21:00], for week 2022-W07.
+  #+CAPTION: Clock summary at [2022-02-20 Sun 19:43], for week 2022-W07.
   | Tags    | Headline                             | Time    |       |      |      |
   |---------+--------------------------------------+---------+-------+------+------|
-  |         | *Total time*                         | *27:59* |       |      |      |
+  |         | *Total time*                         | *33:49* |       |      |      |
   |---------+--------------------------------------+---------+-------+------+------|
-  |         | \_  Week 3                           |         | 27:59 |      |      |
+  |         | \_  Week 3                           |         | 33:49 |      |      |
   |         | \_    <2022-02-14 Mon>               |         |       | 7:01 |      |
   | drawing | \_      FP Matte Rendering           |         |       |      | 7:01 |
   |         | \_    <2022-02-15 Tue>               |         |       | 2:58 |      |
@@ -186,14 +186,17 @@
   |         | \_    <2022-02-19 Sat>               |         |       | 9:10 |      |
   | drawing | \_      Rendering basic forms        |         |       |      | 5:57 |
   | study   | \_      Brainstorm CABC Week 4       |         |       |      | 3:13 |
+  |         | \_    <2022-02-20 Sun>               |         |       | 5:50 |      |
+  | drawing | \_      Brainstorm CABC Assignment 4 |         |       |      | 5:35 |
+  | study   | \_      Blog                         |         |       |      | 0:15 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *24h 46m* |
+  | drawing  | *Tag time* | *30h 21m* |
   |----------+------------+-----------|
-  | study    | *Tag time* | *3h 13m*  |
+  | study    | *Tag time* | *3h 28m*  |
   |----------+------------+-----------|
   | painting | *Tag time* | *0h 0m*   |
   
@@ -241,9 +244,20 @@
      :LOGBOOK:
      CLOCK: [2022-02-19 Sat 12:00]--[2022-02-19 Sat 15:13] =>  3:13
      :END:
+*** <2022-02-20 Sun>
+**** DONE Brainstorm CABC Assignment 4                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-02-20 Sun 18:06]--[2022-02-20 Sun 19:28] =>  1:22
+     CLOCK: [2022-02-20 Sun 13:19]--[2022-02-20 Sun 14:58] =>  1:39
+     CLOCK: [2022-02-20 Sun 09:21]--[2022-02-20 Sun 11:55] =>  2:34
+     :END:
+**** DONE Blog                                                        :study: 
+     :LOGBOOK:
+     CLOCK: [2022-02-20 Sun 19:28]--[2022-02-20 Sun 19:43] =>  0:15
+     :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-19 Sat 21:00], for week 2022-W07.
+  #+CAPTION: Clock summary at [2022-02-20 Sun 19:43], for week 2022-W07.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
