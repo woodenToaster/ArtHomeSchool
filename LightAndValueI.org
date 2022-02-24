@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-22 Tue 20:59], for week 2022-W08.
+  #+CAPTION: Clock summary at [2022-02-23 Wed 20:52], for week 2022-W08.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -91,7 +91,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-22 Tue 20:59], for week 2022-W08.
+  #+CAPTION: Clock summary at [2022-02-23 Wed 20:52], for week 2022-W08.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -166,7 +166,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-22 Tue 20:59], for week 2022-W08.
+  #+CAPTION: Clock summary at [2022-02-23 Wed 20:52], for week 2022-W08.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -238,22 +238,24 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-02-22 Tue 20:59], for week 2022-W08.
+  #+CAPTION: Clock summary at [2022-02-23 Wed 20:52], for week 2022-W08.
   | Tags    | Headline                             | Time    |       |      |      |
   |---------+--------------------------------------+---------+-------+------+------|
-  |         | *Total time*                         | *10:42* |       |      |      |
+  |         | *Total time*                         | *13:50* |       |      |      |
   |---------+--------------------------------------+---------+-------+------+------|
-  |         | \_  Week 4                           |         | 10:42 |      |      |
+  |         | \_  Week 4                           |         | 13:50 |      |      |
   |         | \_    <2022-02-21 Mon>               |         |       | 7:51 |      |
   | drawing | \_      Brainstorm CABC assignment 4 |         |       |      | 7:51 |
-  |         | \_    <2022-02-2 2 Tue>              |         |       | 2:51 |      |
+  |         | \_    <2022-02-22 Tue>               |         |       | 2:51 |      |
   | drawing | \_      Brainstorm CABC assignment 4 |         |       |      | 2:51 |
+  |         | \_    <2022-02-23 Wed>               |         |       | 3:08 |      |
+  | drawing | \_      Brainstorm CABC assignment 4 |         |       |      | 3:08 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *10h 42m* |
+  | drawing  | *Tag time* | *13h 50m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -267,8 +269,13 @@
      CLOCK: [2022-02-21 Mon 14:03]--[2022-02-21 Mon 15:58] =>  1:55
      CLOCK: [2022-02-21 Mon 08:43]--[2022-02-21 Mon 11:37] =>  2:54
      :END:
-*** <2022-02-2 2 Tue>
+*** <2022-02-22 Tue>
 **** DONE Brainstorm CABC assignment 4                              :drawing:
      :LOGBOOK:
      CLOCK: [2022-02-22 Tue 18:08]--[2022-02-22 Tue 20:59] =>  2:51
+     :END:
+*** <2022-02-23 Wed>
+**** DONE Brainstorm CABC assignment 4                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-02-23 Wed 17:44]--[2022-02-23 Wed 20:52] =>  3:08
      :END:
