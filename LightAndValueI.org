@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-06 Sun 19:49], for week 2022-W09.
+  #+CAPTION: Clock summary at [2022-03-07 Mon 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -91,7 +91,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-06 Sun 19:49], for week 2022-W09.
+  #+CAPTION: Clock summary at [2022-03-07 Mon 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -166,7 +166,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-06 Sun 19:49], for week 2022-W09.
+  #+CAPTION: Clock summary at [2022-03-07 Mon 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -238,7 +238,7 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-06 Sun 19:49], for week 2022-W09.
+  #+CAPTION: Clock summary at [2022-03-07 Mon 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -306,28 +306,10 @@
      :END:
 ** Week 5
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-06 Sun 19:49], for week 2022-W09.
-  | Tags    | Headline                             | Time    |       |      |      |
-  |---------+--------------------------------------+---------+-------+------+------|
-  |         | *Total time*                         | *31:31* |       |      |      |
-  |---------+--------------------------------------+---------+-------+------+------|
-  |         | \_  Week 5                           |         | 31:31 |      |      |
-  |         | \_    <2022-02-28 Mon>               |         |       | 7:28 |      |
-  | drawing | \_      Brainstorm CABC assignment 5 |         |       |      | 7:28 |
-  |         | \_    <2022-03-01 Tue>               |         |       | 2:54 |      |
-  | drawing | \_      Brainstorm CABC assignment 5 |         |       |      | 2:54 |
-  |         | \_    <2022-03-02 Wed>               |         |       | 2:48 |      |
-  | drawing | \_      Brainstorm CABC assignment 5 |         |       |      | 2:48 |
-  |         | \_    <2022-03-03 Thu>               |         |       | 2:51 |      |
-  | drawing | \_      Brainstorm CABC assignment 5 |         |       |      | 2:51 |
-  |         | \_    <2022-03-04 Fri>               |         |       | 1:00 |      |
-  | drawing | \_      Brainstorm CABC assignment 6 |         |       |      | 1:00 |
-  |         | \_    <2022-03-05 Sat>               |         |       | 8:08 |      |
-  | drawing | \_      Brainstorm CABC assignment 6 |         |       |      | 4:52 |
-  | study   | \_      Brainstorm CABC week 6       |         |       |      | 3:16 |
-  |         | \_    <2022-03-06 Sun>               |         |       | 6:22 |      |
-  | drawing | \_      Brainstorm CABC assignment 6 |         |       |      | 5:56 |
-  | study   | \_      Blog                         |         |       |      | 0:26 |
+  #+CAPTION: Clock summary at [2022-03-07 Mon 21:00], for week 2022-W10.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
@@ -391,25 +373,36 @@
      :END:
 ** Week 6
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-06 Sun 19:49], for week 2022-W09.
-  | Tags | Headline     | Time   |
-  |------+--------------+--------|
-  |      | *Total time* | *0:00* |
+  #+CAPTION: Clock summary at [2022-03-07 Mon 21:00], for week 2022-W10.
+  | Tags    | Headline                             | Time   |      |      |      |
+  |---------+--------------------------------------+--------+------+------+------|
+  |         | *Total time*                         | *9:00* |      |      |      |
+  |---------+--------------------------------------+--------+------+------+------|
+  |         | \_  Week 6                           |        | 9:00 |      |      |
+  |         | \_    <2022-03-07 Mon>               |        |      | 9:00 |      |
+  | drawing | \_      Brainstorm CABC assignment 6 |        |      |      | 9:00 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *0h 0m*  |
+  | drawing  | *Tag time* | *9h 0m*  |
   |----------+------------+----------|
   | study    | *Tag time* | *0h 0m*  |
   |----------+------------+----------|
   | painting | *Tag time* | *0h 0m*  |
   
   #+END:
+*** <2022-03-07 Mon>
+**** DONE Brainstorm CABC assignment 6                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-03-07 Mon 18:04]--[2022-03-07 Mon 21:00] =>  2:56
+     CLOCK: [2022-03-07 Mon 13:13]--[2022-03-07 Mon 16:15] =>  3:02
+     CLOCK: [2022-03-07 Mon 08:37]--[2022-03-07 Mon 11:39] =>  3:02
+     :END:
 ** Week 7
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-06 Sun 19:49], for week 2022-W09.
+  #+CAPTION: Clock summary at [2022-03-07 Mon 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -427,7 +420,7 @@
   #+END:
 ** Week 8
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-06 Sun 19:49], for week 2022-W09.
+  #+CAPTION: Clock summary at [2022-03-07 Mon 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
