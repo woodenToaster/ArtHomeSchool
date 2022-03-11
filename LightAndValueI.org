@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-09 Wed 20:47], for week 2022-W10.
+  #+CAPTION: Clock summary at [2022-03-10 Thu 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -91,7 +91,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-09 Wed 20:47], for week 2022-W10.
+  #+CAPTION: Clock summary at [2022-03-10 Thu 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -166,7 +166,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-09 Wed 20:47], for week 2022-W10.
+  #+CAPTION: Clock summary at [2022-03-10 Thu 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -238,7 +238,7 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-09 Wed 20:47], for week 2022-W10.
+  #+CAPTION: Clock summary at [2022-03-10 Thu 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -306,7 +306,7 @@
      :END:
 ** Week 5
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-09 Wed 20:47], for week 2022-W10.
+  #+CAPTION: Clock summary at [2022-03-10 Thu 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -373,24 +373,26 @@
      :END:
 ** Week 6
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-09 Wed 20:47], for week 2022-W10.
+  #+CAPTION: Clock summary at [2022-03-10 Thu 21:00], for week 2022-W10.
   | Tags    | Headline                             | Time    |       |      |      |
   |---------+--------------------------------------+---------+-------+------+------|
-  |         | *Total time*                         | *14:52* |       |      |      |
+  |         | *Total time*                         | *17:42* |       |      |      |
   |---------+--------------------------------------+---------+-------+------+------|
-  |         | \_  Week 6                           |         | 14:52 |      |      |
+  |         | \_  Week 6                           |         | 17:42 |      |      |
   |         | \_    <2022-03-07 Mon>               |         |       | 9:00 |      |
   | drawing | \_      Brainstorm CABC assignment 6 |         |       |      | 9:00 |
   |         | \_    <2022-03-08 Tue>               |         |       | 2:54 |      |
   | drawing | \_      Brainstorm CABC assignment 6 |         |       |      | 2:54 |
   |         | \_    <2022-03-09 Wed>               |         |       | 2:58 |      |
   | drawing | \_      Brainstorm CABC assignment 6 |         |       |      | 2:58 |
+  |         | \_    <2022-03-10 Thu>               |         |       | 2:50 |      |
+  | drawing | \_      Brainstorm CABC assignment 6 |         |       |      | 2:50 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *14h 52m* |
+  | drawing  | *Tag time* | *17h 42m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -414,9 +416,14 @@
      :LOGBOOK:
      CLOCK: [2022-03-09 Wed 17:49]--[2022-03-09 Wed 20:47] =>  2:58
      :END:
+*** <2022-03-10 Thu>
+**** DONE Brainstorm CABC assignment 6                              :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-03-10 Thu 18:10]--[2022-03-10 Thu 21:00] =>  2:50
+     :END:
 ** Week 7
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-09 Wed 20:47], for week 2022-W10.
+  #+CAPTION: Clock summary at [2022-03-10 Thu 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -434,7 +441,7 @@
   #+END:
 ** Week 8
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-09 Wed 20:47], for week 2022-W10.
+  #+CAPTION: Clock summary at [2022-03-10 Thu 21:00], for week 2022-W10.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
