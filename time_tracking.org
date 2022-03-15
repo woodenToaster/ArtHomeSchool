@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t
-#+CAPTION: Clock summary at [2022-02-09 Wed 17:21]
+#+CAPTION: Clock summary at [2022-03-14 Mon 19:44]
 | File                                      | Tags     | Headline                                         | Time      |       |       |      |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
-|                                           | ALL      | *Total time*                                     | *2049:47* |       |       |      |
+|                                           | ALL      | *Total time*                                     | *2203:55* |       |       |      |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
 | AnatomyIII_Legs.org                       |          | *File time*                                      | *136:15*  |       |       |      |
 |                                           |          | Log                                              | 136:15    |       |       |      |
@@ -1402,8 +1402,8 @@
 |                                           | painting | \_      Design project                           |           |       |       | 4:02 |
 |                                           | study    | \_      Blog post                                |           |       |       | 0:36 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
-| LightAndValueI.org                        |          | *File time*                                      | *50:42*   |       |       |      |
-|                                           |          | Log                                              | 50:42     |       |       |      |
+| LightAndValueI.org                        |          | *File time*                                      | *204:50*  |       |       |      |
+|                                           |          | Log                                              | 204:50    |       |       |      |
 |                                           |          | \_  Week 1                                       |           | 38:52 |       |      |
 |                                           |          | \_    <2022-01-31 Mon>                           |           |       |  9:48 |      |
 |                                           | drawing  | \_      Brainstorm CABC assignment 2 sketches    |           |       |       | 2:46 |
@@ -1426,11 +1426,100 @@
 |                                           |          | \_    <2022-02-06 Sun>                           |           |       |  6:56 |      |
 |                                           | drawing  | \_      Brainstorm CABC assignment 3 thumbnails  |           |       |       | 6:21 |
 |                                           | study    | \_      Blog                                     |           |       |       | 0:35 |
-|                                           |          | \_  Week 2                                       |           | 11:50 |       |      |
+|                                           |          | \_  Week 2                                       |           | 29:07 |       |      |
 |                                           |          | \_    <2022-02-07 Mon>                           |           |       |  9:28 |      |
 |                                           | drawing  | \_      Brainstorm CABC assignment 3 sketches    |           |       |       | 9:28 |
 |                                           |          | \_    <2022-02-08 Tue>                           |           |       |  2:22 |      |
 |                                           | drawing  | \_      Brainstorm CABC assignment 3 sketches    |           |       |       | 2:22 |
+|                                           |          | \_    <2022-02-09 Wed>                           |           |       |  2:56 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 3 sketches    |           |       |       | 2:56 |
+|                                           |          | \_    <2022-02-10 Thu>                           |           |       |  2:59 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 3 sketches    |           |       |       | 2:59 |
+|                                           |          | \_    <2022-02-11 Fri>                           |           |       |  3:38 |      |
+|                                           | drawing  | \_      Warmup                                   |           |       |       | 0:45 |
+|                                           | drawing  | \_      Brainstorm CABC assignment 3 sketches    |           |       |       | 2:53 |
+|                                           |          | \_    <2022-02-12 Sat>                           |           |       |  3:01 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 3 sketches    |           |       |       | 1:32 |
+|                                           | drawing  | \_      Rendering primitive forms                |           |       |       | 0:54 |
+|                                           | drawing  | \_      FP Matte rendering                       |           |       |       | 0:35 |
+|                                           |          | \_    <2022-02-13 Sun>                           |           |       |  4:43 |      |
+|                                           | drawing  | \_      Rendering primitive forms                |           |       |       | 2:38 |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4 sketches    |           |       |       | 1:52 |
+|                                           | study    | \_      Blog                                     |           |       |       | 0:13 |
+|                                           |          | \_  Week 3                                       |           | 33:49 |       |      |
+|                                           |          | \_    <2022-02-14 Mon>                           |           |       |  7:01 |      |
+|                                           | drawing  | \_      FP Matte Rendering                       |           |       |       | 7:01 |
+|                                           |          | \_    <2022-02-15 Tue>                           |           |       |  2:58 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4             |           |       |       | 2:58 |
+|                                           |          | \_    <2022-02-16 Wed>                           |           |       |  3:04 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4             |           |       |       | 3:04 |
+|                                           |          | \_    <2022-02-17 Thu>                           |           |       |  3:00 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4             |           |       |       | 1:32 |
+|                                           | drawing  | \_      Rendering basic forms                    |           |       |       | 1:28 |
+|                                           |          | \_    <2022-02-18 Fri>                           |           |       |  2:46 |      |
+|                                           | drawing  | \_      Rendering basic forms                    |           |       |       | 2:46 |
+|                                           |          | \_    <2022-02-19 Sat>                           |           |       |  9:10 |      |
+|                                           | drawing  | \_      Rendering basic forms                    |           |       |       | 5:57 |
+|                                           | study    | \_      Brainstorm CABC Week 4                   |           |       |       | 3:13 |
+|                                           |          | \_    <2022-02-20 Sun>                           |           |       |  5:50 |      |
+|                                           | drawing  | \_      Brainstorm CABC Assignment 4             |           |       |       | 5:35 |
+|                                           | study    | \_      Blog                                     |           |       |       | 0:15 |
+|                                           |          | \_  Week 4                                       |           | 31:27 |       |      |
+|                                           |          | \_    <2022-02-21 Mon>                           |           |       |  7:51 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4             |           |       |       | 7:51 |
+|                                           |          | \_    <2022-02-22 Tue>                           |           |       |  2:51 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4             |           |       |       | 2:51 |
+|                                           |          | \_    <2022-02-23 Wed>                           |           |       |  3:08 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4             |           |       |       | 3:08 |
+|                                           |          | \_    <2022-02-24 Thu>                           |           |       |  2:52 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4             |           |       |       | 2:52 |
+|                                           |          | \_    <2022-02-25 Fri>                           |           |       |  2:56 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4             |           |       |       | 2:56 |
+|                                           |          | \_    <2022-02-26 Sat>                           |           |       |  8:04 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 4             |           |       |       | 2:48 |
+|                                           | study    | \_      Brainstorm CABC week 5                   |           |       |       | 3:00 |
+|                                           | study    | \_      Brainstorm CABC assignment 5 reference   |           |       |       | 2:16 |
+|                                           |          | \_    <2022-02-27 Sun>                           |           |       |  3:45 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 5             |           |       |       | 3:24 |
+|                                           | study    | \_      Blog                                     |           |       |       | 0:21 |
+|                                           |          | \_  Week 5                                       |           | 31:31 |       |      |
+|                                           |          | \_    <2022-02-28 Mon>                           |           |       |  7:28 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 5             |           |       |       | 7:28 |
+|                                           |          | \_    <2022-03-01 Tue>                           |           |       |  2:54 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 5             |           |       |       | 2:54 |
+|                                           |          | \_    <2022-03-02 Wed>                           |           |       |  2:48 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 5             |           |       |       | 2:48 |
+|                                           |          | \_    <2022-03-03 Thu>                           |           |       |  2:51 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 5             |           |       |       | 2:51 |
+|                                           |          | \_    <2022-03-04 Fri>                           |           |       |  1:00 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 6             |           |       |       | 1:00 |
+|                                           |          | \_    <2022-03-05 Sat>                           |           |       |  8:08 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 6             |           |       |       | 4:52 |
+|                                           | study    | \_      Brainstorm CABC week 6                   |           |       |       | 3:16 |
+|                                           |          | \_    <2022-03-06 Sun>                           |           |       |  6:22 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 6             |           |       |       | 5:56 |
+|                                           | study    | \_      Blog                                     |           |       |       | 0:26 |
+|                                           |          | \_  Week 6                                       |           | 32:55 |       |      |
+|                                           |          | \_    <2022-03-07 Mon>                           |           |       |  9:00 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 6             |           |       |       | 9:00 |
+|                                           |          | \_    <2022-03-08 Tue>                           |           |       |  2:54 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 6             |           |       |       | 2:54 |
+|                                           |          | \_    <2022-03-09 Wed>                           |           |       |  2:58 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 6             |           |       |       | 2:58 |
+|                                           |          | \_    <2022-03-10 Thu>                           |           |       |  2:50 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 6             |           |       |       | 2:50 |
+|                                           |          | \_    <2022-03-11 Fri>                           |           |       |  2:59 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 6             |           |       |       | 2:59 |
+|                                           |          | \_    <2022-03-12 Sat>                           |           |       |  7:53 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 6             |           |       |       | 2:37 |
+|                                           | study    | \_      Brainstorm CABC week 7                   |           |       |       | 2:53 |
+|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 2:23 |
+|                                           |          | \_    <2022-03-13 Sun>                           |           |       |  4:21 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 4:08 |
+|                                           | study    | \_      Blog                                     |           |       |       | 0:13 |
+|                                           |          | \_  Week 7                                       |           |  7:09 |       |      |
+|                                           |          | \_    <2022-03-14 Mon>                           |           |       |  7:09 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 7:09 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
 | PerspectiveI.org                          |          | *File time*                                      | *97:43*   |       |       |      |
 |                                           |          | Log                                              | 97:43     |       |       |      |
