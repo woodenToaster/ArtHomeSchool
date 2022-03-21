@@ -482,8 +482,8 @@
 **** Week 4
 ** TODO Value and Light I
 *** Video
-**** TODO Foundation Patreon - Matte Rendering
-**** TODO Foundation Patreon - Basic Rendering I
+**** DONE Foundation Patreon - Matte Rendering
+**** DONE Foundation Patreon - Basic Rendering I
 *** Book
 **** TODO How to Render - Scott Robertson
 **** TODO James Gurney - Color and Light
