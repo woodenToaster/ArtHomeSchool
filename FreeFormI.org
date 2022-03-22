@@ -1,0 +1,43 @@
+#+TITLE: Free Form I
+#+AUTHOR: Chris Hogan
+#+DATE: <2022-03-21 Mon> to <2022-03-27 Sun>
+#+STARTUP: nologdone
+
+* Log
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2022-03-21 Mon 20:45], for week 2022-W12.
+  | Tags    | Headline                                 | Time   |      |      |      |
+  |---------+------------------------------------------+--------+------+------+------|
+  |         | *Total time*                             | *9:03* |      |      |      |
+  |---------+------------------------------------------+--------+------+------+------|
+  |         | Log                                      | 9:03   |      |      |      |
+  |         | \_  Week 1                               |        | 9:03 |      |      |
+  |         | \_    <2022-03-21 Mon>                   |        |      | 9:03 |      |
+  | study   | \_      FP - Sketching for Environment 1 |        |      |      | 1:51 |
+  | drawing | \_      FP - Sketching for Environment 1 |        |      |      | 7:12 |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *7h 12m* |
+  |----------+------------+----------|
+  | study    | *Tag time* | *1h 51m* |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 0m*  |
+  
+  #+END:
+
+** Week 1
+*** <2022-03-21 Mon>
+**** DONE FP - Sketching for Environment 1                            :study:
+     :LOGBOOK:
+     CLOCK: [2022-03-21 Mon 08:21]--[2022-03-21 Mon 10:12] =>  1:51
+     :END:
+**** DONE FP - Sketching for Environment 1                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-03-21 Mon 18:02]--[2022-03-21 Mon 20:45] =>  2:43
+     CLOCK: [2022-03-21 Mon 16:23]--[2022-03-21 Mon 16:40] =>  0:17
+     CLOCK: [2022-03-21 Mon 13:17]--[2022-03-21 Mon 16:01] =>  2:44
+     CLOCK: [2022-03-21 Mon 10:12]--[2022-03-21 Mon 11:40] =>  1:28
+     :END:
