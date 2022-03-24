@@ -5,29 +5,31 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-22 Tue 21:09], for week 2022-W12.
+  #+CAPTION: Clock summary at [2022-03-23 Wed 21:42], for week 2022-W12.
   | Tags    | Headline                                 | Time    |       |      |      |
   |---------+------------------------------------------+---------+-------+------+------|
-  |         | *Total time*                             | *12:01* |       |      |      |
+  |         | *Total time*                             | *15:01* |       |      |      |
   |---------+------------------------------------------+---------+-------+------+------|
-  |         | Log                                      | 12:01   |       |      |      |
-  |         | \_  Week 1                               |         | 12:01 |      |      |
+  |         | Log                                      | 15:01   |       |      |      |
+  |         | \_  Week 1                               |         | 15:01 |      |      |
   |         | \_    <2022-03-21 Mon>                   |         |       | 9:03 |      |
   | study   | \_      FP - Sketching for Environment 1 |         |       |      | 1:51 |
   | drawing | \_      FP - Sketching for Environment 1 |         |       |      | 7:12 |
   |         | \_    <2022-03-22 Tue>                   |         |       | 2:58 |      |
   | drawing | \_      FP - Sketching for Environment 1 |         |       |      | 2:43 |
   | study   | \_      FP - Sketching for Environment 2 |         |       |      | 0:15 |
+  |         | \_    <2022-03-23 Wed>                   |         |       | 3:00 |      |
+  | drawing | \_      FP - Sketching for Environment 1 |         |       |      | 3:00 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
-  | Tag      | Headline   | Time (h) |
-  |----------+------------+----------|
-  | drawing  | *Tag time* | *9h 55m* |
-  |----------+------------+----------|
-  | study    | *Tag time* | *2h 6m*  |
-  |----------+------------+----------|
-  | painting | *Tag time* | *0h 0m*  |
+  | Tag      | Headline   | Time (h)  |
+  |----------+------------+-----------|
+  | drawing  | *Tag time* | *12h 55m* |
+  |----------+------------+-----------|
+  | study    | *Tag time* | *2h 6m*   |
+  |----------+------------+-----------|
+  | painting | *Tag time* | *0h 0m*   |
   
   #+END:
 
@@ -52,4 +54,9 @@
 **** DONE FP - Sketching for Environment 2                            :study:
      :LOGBOOK:
      CLOCK: [2022-03-22 Tue 20:54]--[2022-03-22 Tue 21:09] =>  0:15
+     :END:
+*** <2022-03-23 Wed>
+**** DONE FP - Sketching for Environment 1                          :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-03-23 Wed 18:42]--[2022-03-23 Wed 21:42] =>  3:00
      :END:
