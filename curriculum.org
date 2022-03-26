@@ -403,7 +403,7 @@
 **** DONE Bargue Drawing Course
 *** Art Parent - Charles Bargue
 *** Inspiration - Alla Prima by Schmid
-* TODO Term 6
+* DONE Term 6
 ** DONE Intro to Concept Art
 *** Videos
 **** DONE FZD Design Cinema 89
@@ -493,6 +493,18 @@
 *** Week 4
 * TODO Term 7
 ** TODO Environment Design I
+*** Videos
+**** DONE Foundation Patreon - Sketching for Environments 1
+**** TODO Foundation Patreon - Sketching for Environments 2
+*** Book
+*** Backup
+*** Art Parent
+*** Challenge
+*** Inspiration
+*** Week 1
+*** Week 2
+*** Week 3
+*** Week 4
 ** TODO Composition and Storytelling I
 ** TODO Head drawing III
 * TODO Term 8
