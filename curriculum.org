@@ -496,6 +496,13 @@
 *** Videos
 **** DONE Foundation Patreon - Sketching for Environments 1
 **** TODO Foundation Patreon - Sketching for Environments 2
+**** TODO FZD Design Cinema - Environment Thumbnails
+**** TODO Schoolism - Environment Design with Nathan Fowkes
+**** TODO Art Camp 3 - Noah Bradley
+**** TODO Environment Concept Design - Noah Bradley
+**** TODO Environment Design Course - James Paick
+**** TODO Environment Design Basics - James Paick
+**** TODO Environment Design CGMA - James Paick
 *** Book
 *** Backup
 *** Art Parent
