@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-31 Thu 20:52], for week 2022-W13.
+  #+CAPTION: Clock summary at [2022-04-01 Fri 21:05], for week 2022-W13.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -90,12 +90,12 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-03-31 Thu 20:52], for week 2022-W13.
+  #+CAPTION: Clock summary at [2022-04-01 Fri 21:05], for week 2022-W13.
   | Tags     | Headline                                   | Time    |       |      |      |
   |----------+--------------------------------------------+---------+-------+------+------|
-  |          | *Total time*                               | *17:01* |       |      |      |
+  |          | *Total time*                               | *19:53* |       |      |      |
   |----------+--------------------------------------------+---------+-------+------+------|
-  |          | \_  Week 2                                 |         | 17:01 |      |      |
+  |          | \_  Week 2                                 |         | 19:53 |      |      |
   |          | \_    <2022-03-28 Mon>                     |         |       | 8:37 |      |
   | study    | \_      CGMA Environment Design 1 - Week 1 |         |       |      | 3:01 |
   | painting | \_      CGMA Environment Design 1 - Week 1 |         |       |      | 5:36 |
@@ -105,16 +105,18 @@
   | painting | \_      CGMA Environment Design 1 - Week 1 |         |       |      | 2:56 |
   |          | \_    <2022-03-31 Thu>                     |         |       | 2:58 |      |
   | painting | \_      CGMA Environment Design 1 - Week 1 |         |       |      | 2:58 |
+  |          | \_    <2022-04-01 Fri>                     |         |       | 2:52 |      |
+  | painting | \_      CGMA Environment Design 1 - Week 1 |         |       |      | 2:52 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting")
-  | Tag      | Headline   | Time (h) |
-  |----------+------------+----------|
-  | drawing  | *Tag time* | *0h 0m*  |
-  |----------+------------+----------|
-  | study    | *Tag time* | *3h 1m*  |
-  |----------+------------+----------|
-  | painting | *Tag time* | *14h 0m* |
+  | Tag      | Headline   | Time (h)  |
+  |----------+------------+-----------|
+  | drawing  | *Tag time* | *0h 0m*   |
+  |----------+------------+-----------|
+  | study    | *Tag time* | *3h 1m*   |
+  |----------+------------+-----------|
+  | painting | *Tag time* | *16h 52m* |
   
   #+END:
 
@@ -145,4 +147,9 @@
 **** DONE CGMA Environment Design 1 - Week 1                       :painting:
      :LOGBOOK:
      CLOCK: [2022-03-31 Thu 17:54]--[2022-03-31 Thu 20:52] =>  2:58
+     :END:
+*** <2022-04-01 Fri>
+**** DONE CGMA Environment Design 1 - Week 1                       :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-01 Fri 18:13]--[2022-04-01 Fri 21:05] =>  2:52
      :END:
