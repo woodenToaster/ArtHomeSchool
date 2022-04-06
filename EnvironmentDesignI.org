@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-04 Mon 22:00], for week 2022-W14.
+  #+CAPTION: Clock summary at [2022-04-05 Tue 22:02], for week 2022-W14.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -90,7 +90,7 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-04 Mon 22:00], for week 2022-W14.
+  #+CAPTION: Clock summary at [2022-04-05 Tue 22:02], for week 2022-W14.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -172,44 +172,62 @@
 
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-04 Mon 22:00], for week 2022-W14.
-  | Tags     | Headline                                 | Time    |       |      |
-  |----------+------------------------------------------+---------+-------+------|
-  |          | *Total time*                             | *13:15* |       |      |
-  |----------+------------------------------------------+---------+-------+------|
-  |          | \_  Week 3                               |         | 13:15 |      |
-  | 3D       | \_    Blender tutorial                   |         |       | 4:14 |
-  | study    | \_    CGMA Environment Design 1 - Week 2 |         |       | 2:29 |
-  | painting | \_    CGMA Environment Design 1 - Week 2 |         |       | 6:32 |
+  #+CAPTION: Clock summary at [2022-04-05 Tue 22:02], for week 2022-W14.
+  | Tags     | Headline                                   | Time    |       |       |      |
+  |----------+--------------------------------------------+---------+-------+-------+------|
+  |          | *Total time*                               | *17:49* |       |       |      |
+  |----------+--------------------------------------------+---------+-------+-------+------|
+  |          | \_  Week 3                                 |         | 17:49 |       |      |
+  |          | \_    <2022-04-04 Mon>                     |         |       | 13:15 |      |
+  | 3D       | \_      Blender tutorial                   |         |       |       | 4:14 |
+  | study    | \_      CGMA Environment Design 1 - Week 2 |         |       |       | 2:29 |
+  | painting | \_      CGMA Environment Design 1 - Week 2 |         |       |       | 6:32 |
+  |          | \_    <2022-04-05 Tue>                     |         |       |  4:34 |      |
+  | 3D       | \_      Blender tutorial                   |         |       |       | 1:39 |
+  | drawing  | \_      Polishing Urithiru design          |         |       |       | 2:55 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *0h 0m*  |
+  | drawing  | *Tag time* | *2h 55m* |
   |----------+------------+----------|
   | study    | *Tag time* | *2h 29m* |
   |----------+------------+----------|
   | painting | *Tag time* | *6h 32m* |
   |----------+------------+----------|
-  | 3D       | *Tag time* | *4h 14m* |
+  | 3D       | *Tag time* | *5h 53m* |
   
   #+END:
-*** DONE Blender tutorial                                                :3D:
-    :LOGBOOK:
-    CLOCK: [2022-04-04 Mon 21:18]--[2022-04-04 Mon 22:00] =>  0:42
-    CLOCK: [2022-04-04 Mon 16:17]--[2022-04-04 Mon 18:07] =>  1:50
-    CLOCK: [2022-04-04 Mon 12:43]--[2022-04-04 Mon 13:12] =>  0:29
-    CLOCK: [2022-04-04 Mon 07:27]--[2022-04-04 Mon 08:40] =>  1:13
-    :END:
-*** DONE CGMA Environment Design 1 - Week 2                           :study: 
-    :LOGBOOK:
-    CLOCK: [2022-04-04 Mon 08:40]--[2022-04-04 Mon 11:09] =>  2:29
-    :END:
-*** DONE CGMA Environment Design 1 - Week 2                        :painting: 
-    :LOGBOOK:
-    CLOCK: [2022-04-04 Mon 20:39]--[2022-04-04 Mon 21:17] =>  0:38
-    CLOCK: [2022-04-04 Mon 18:07]--[2022-04-04 Mon 20:24] =>  2:17
-    CLOCK: [2022-04-04 Mon 13:14]--[2022-04-04 Mon 16:13] =>  2:59
-    CLOCK: [2022-04-04 Mon 11:10]--[2022-04-04 Mon 11:48] =>  0:38
-    :END:
+
+*** <2022-04-04 Mon>
+**** DONE Blender tutorial                                               :3D:
+     :LOGBOOK:
+     CLOCK: [2022-04-04 Mon 21:18]--[2022-04-04 Mon 22:00] =>  0:42
+     CLOCK: [2022-04-04 Mon 16:17]--[2022-04-04 Mon 18:07] =>  1:50
+     CLOCK: [2022-04-04 Mon 12:43]--[2022-04-04 Mon 13:12] =>  0:29
+     CLOCK: [2022-04-04 Mon 07:27]--[2022-04-04 Mon 08:40] =>  1:13
+     :END:
+**** DONE CGMA Environment Design 1 - Week 2                          :study: 
+     :LOGBOOK:
+     CLOCK: [2022-04-04 Mon 08:40]--[2022-04-04 Mon 11:09] =>  2:29
+     :END:
+**** DONE CGMA Environment Design 1 - Week 2                       :painting: 
+     :LOGBOOK:
+     CLOCK: [2022-04-04 Mon 20:39]--[2022-04-04 Mon 21:17] =>  0:38
+     CLOCK: [2022-04-04 Mon 18:07]--[2022-04-04 Mon 20:24] =>  2:17
+     CLOCK: [2022-04-04 Mon 13:14]--[2022-04-04 Mon 16:13] =>  2:59
+     CLOCK: [2022-04-04 Mon 11:10]--[2022-04-04 Mon 11:48] =>  0:38
+     :END:
+
+*** <2022-04-05 Tue>
+**** DONE Blender tutorial                                               :3D:
+     :LOGBOOK:
+     CLOCK: [2022-04-05 Tue 21:08]--[2022-04-05 Tue 22:02] =>  0:54
+     CLOCK: [2022-04-05 Tue 16:33]--[2022-04-05 Tue 17:18] =>  0:45
+     :END:
+**** DONE Polishing Urithiru design                                 :drawing:
+     :LOGBOOK:
+     CLOCK: [2022-04-05 Tue 18:07]--[2022-04-05 Tue 21:02] =>  2:55
+     :END:
+
