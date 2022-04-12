@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t
-#+CAPTION: Clock summary at [2022-03-14 Mon 19:44]
+#+CAPTION: Clock summary at [2022-04-11 Mon 15:36]
 | File                                      | Tags     | Headline                                         | Time      |       |       |      |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
-|                                           | ALL      | *Total time*                                     | *2203:55* |       |       |      |
+|                                           | ALL      | *Total time*                                     | *2350:04* |       |       |      |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
 | AnatomyIII_Legs.org                       |          | *File time*                                      | *136:15*  |       |       |      |
 |                                           |          | Log                                              | 136:15    |       |       |      |
@@ -657,6 +657,79 @@
 |                                           |          | \_    <2021-10-10 Sun>                           |           |       |  3:52 |      |
 |                                           | drawing  | \_      Clothed figure from photo                |           |       |       | 3:28 |
 |                                           | study    | \_      Blog                                     |           |       |       | 0:24 |
+|-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
+| EnvironmentDesignI.org                    |          | *File time*                                      | *121:50*  |       |       |      |
+|                                           |          | Log                                              | 121:50    |       |       |      |
+|                                           |          | \_  Week 1                                       |           | 32:19 |       |      |
+|                                           |          | \_    <2022-03-21 Mon>                           |           |       |  9:03 |      |
+|                                           | study    | \_      FP - Sketching for Environment 1         |           |       |       | 1:51 |
+|                                           | drawing  | \_      FP - Sketching for Environment 1         |           |       |       | 7:12 |
+|                                           |          | \_    <2022-03-22 Tue>                           |           |       |  2:58 |      |
+|                                           | drawing  | \_      FP - Sketching for Environment 1         |           |       |       | 2:43 |
+|                                           | study    | \_      FP - Sketching for Environment 2         |           |       |       | 0:15 |
+|                                           |          | \_    <2022-03-23 Wed>                           |           |       |  3:00 |      |
+|                                           | drawing  | \_      FP - Sketching for Environment 1         |           |       |       | 3:00 |
+|                                           |          | \_    <2022-03-24 Thu>                           |           |       |  2:22 |      |
+|                                           | drawing  | \_      FP - Sketching for Environment 1         |           |       |       | 1:28 |
+|                                           | study    | \_      FP - Sketching for Environment 2         |           |       |       | 0:33 |
+|                                           | drawing  | \_      FP - Sketching for Environment 2         |           |       |       | 0:21 |
+|                                           |          | \_    <2022-03-25 Fri>                           |           |       |  1:58 |      |
+|                                           | drawing  | \_      FP - Sketching for Environment 2         |           |       |       | 1:58 |
+|                                           |          | \_    <2022-03-26 Sat>                           |           |       |  7:23 |      |
+|                                           | drawing  | \_      FP - Sketching for Environment 2         |           |       |       | 3:50 |
+|                                           | study    | \_      Planning next unit                       |           |       |       | 3:33 |
+|                                           |          | \_    <2022-03-27 Sun>                           |           |       |  5:35 |      |
+|                                           | drawing  | \_      FP - Sketching for Environment 2         |           |       |       | 4:58 |
+|                                           | study    | \_      blog                                     |           |       |       | 0:37 |
+|                                           |          | \_  Week 2                                       |           | 38:14 |       |      |
+|                                           |          | \_    <2022-03-28 Mon>                           |           |       |  8:37 |      |
+|                                           | study    | \_      CGMA Environment Design 1 - Week 1       |           |       |       | 3:01 |
+|                                           | painting | \_      CGMA Environment Design 1 - Week 1       |           |       |       | 5:36 |
+|                                           |          | \_    <2022-03-29 Tue>                           |           |       |  2:30 |      |
+|                                           | painting | \_      CGMA Environment Design 1 - Week 1       |           |       |       | 2:30 |
+|                                           |          | \_    <2022-03-30 Wed>                           |           |       |  2:56 |      |
+|                                           | painting | \_      CGMA Environment Design 1 - Week 1       |           |       |       | 2:56 |
+|                                           |          | \_    <2022-03-31 Thu>                           |           |       |  2:58 |      |
+|                                           | painting | \_      CGMA Environment Design 1 - Week 1       |           |       |       | 2:58 |
+|                                           |          | \_    <2022-04-01 Fri>                           |           |       |  2:52 |      |
+|                                           | painting | \_      CGMA Environment Design 1 - Week 1       |           |       |       | 2:52 |
+|                                           |          | \_    <2022-04-02 Sat>                           |           |       |  9:55 |      |
+|                                           | study    | \_      Reference gathering                      |           |       |       | 2:17 |
+|                                           | drawing  | \_      Urithiru design                          |           |       |       | 7:38 |
+|                                           |          | \_    <2022-04-03 Sun>                           |           |       |  8:26 |      |
+|                                           | drawing  | \_      Urithiru design                          |           |       |       | 6:10 |
+|                                           | 3D       | \_      Blender tutorial                         |           |       |       | 1:27 |
+|                                           | study    | \_      Blog                                     |           |       |       | 0:49 |
+|                                           |          | \_  Week 3                                       |           | 48:27 |       |      |
+|                                           |          | \_    <2022-04-04 Mon>                           |           |       | 13:15 |      |
+|                                           | 3D       | \_      Blender tutorial                         |           |       |       | 4:14 |
+|                                           | study    | \_      CGMA Environment Design 1 - Week 2       |           |       |       | 2:29 |
+|                                           | painting | \_      CGMA Environment Design 1 - Week 2       |           |       |       | 6:32 |
+|                                           |          | \_    <2022-04-05 Tue>                           |           |       |  4:34 |      |
+|                                           | 3D       | \_      Blender tutorial                         |           |       |       | 1:39 |
+|                                           | drawing  | \_      Polishing Urithiru design                |           |       |       | 2:55 |
+|                                           |          | \_    <2022-04-06 Wed>                           |           |       |  4:15 |      |
+|                                           | drawing  | \_      Polishing Urithiru design                |           |       |       | 3:04 |
+|                                           | 3D       | \_      Modeling Urithiru design                 |           |       |       | 1:11 |
+|                                           |          | \_    <2022-04-07 Thu>                           |           |       |  4:23 |      |
+|                                           | 3D       | \_      Blender tutorial                         |           |       |       | 1:22 |
+|                                           | drawing  | \_      Polishing Urithiru design                |           |       |       | 3:01 |
+|                                           |          | \_    <2022-04-08 Fri>                           |           |       |  3:45 |      |
+|                                           | painting | \_      Polishing Urithiru design                |           |       |       | 3:08 |
+|                                           | 3D       | \_      Blender tutorial                         |           |       |       | 0:37 |
+|                                           |          | \_    <2022-04-09 Sat>                           |           |       | 10:01 |      |
+|                                           | 3D       | \_      Blender tutorial                         |           |       |       | 1:59 |
+|                                           | painting | \_      Polishing Urithiru image                 |           |       |       | 8:02 |
+|                                           |          | \_    <2022-04-10 Sun>                           |           |       |  8:14 |      |
+|                                           | painting | \_      Landscape thumbnails                     |           |       |       | 1:43 |
+|                                           | study    | \_      FP Interior layout design                |           |       |       | 1:37 |
+|                                           | 3D       | \_      Blender tutorial                         |           |       |       | 1:16 |
+|                                           | painting | \_      Environment painting                     |           |       |       | 3:00 |
+|                                           | study    | \_      Blog                                     |           |       |       | 0:38 |
+|                                           |          | \_  Week 4                                       |           |  2:50 |       |      |
+|                                           |          | \_    <2022-04-11 Mon>                           |           |       |  2:50 |      |
+|                                           | drawing  | \_      Scott Robertson perspective              |           |       |       | 0:54 |
+|                                           | painting | \_      Rendering boxes                          |           |       |       | 1:56 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
 | FZDDesignCinema.org                       |          | *File time*                                      | *0:00*    |       |       |      |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
@@ -1402,8 +1475,8 @@
 |                                           | painting | \_      Design project                           |           |       |       | 4:02 |
 |                                           | study    | \_      Blog post                                |           |       |       | 0:36 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
-| LightAndValueI.org                        |          | *File time*                                      | *204:50*  |       |       |      |
-|                                           |          | Log                                              | 204:50    |       |       |      |
+| LightAndValueI.org                        |          | *File time*                                      | *229:09*  |       |       |      |
+|                                           |          | Log                                              | 229:09    |       |       |      |
 |                                           |          | \_  Week 1                                       |           | 38:52 |       |      |
 |                                           |          | \_    <2022-01-31 Mon>                           |           |       |  9:48 |      |
 |                                           | drawing  | \_      Brainstorm CABC assignment 2 sketches    |           |       |       | 2:46 |
@@ -1517,9 +1590,23 @@
 |                                           |          | \_    <2022-03-13 Sun>                           |           |       |  4:21 |      |
 |                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 4:08 |
 |                                           | study    | \_      Blog                                     |           |       |       | 0:13 |
-|                                           |          | \_  Week 7                                       |           |  7:09 |       |      |
-|                                           |          | \_    <2022-03-14 Mon>                           |           |       |  7:09 |      |
-|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 7:09 |
+|                                           |          | \_  Week 7                                       |           | 31:28 |       |      |
+|                                           |          | \_    <2022-03-14 Mon>                           |           |       |  9:13 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 9:13 |
+|                                           |          | \_    <2022-03-15 Tue>                           |           |       |  2:58 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 2:58 |
+|                                           |          | \_    <2022-03-16 Wed>                           |           |       |  3:46 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 3:46 |
+|                                           |          | \_    <2022-03-17 Thu>                           |           |       |  3:29 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 3:29 |
+|                                           |          | \_    <2022-03-18 Fri>                           |           |       |  2:56 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 2:56 |
+|                                           |          | \_    <2022-03-19 Sat>                           |           |       |  5:05 |      |
+|                                           | drawing  | \_      Brainstorm CABC assignment 7             |           |       |       | 1:50 |
+|                                           | study    | \_      Brainstorm week 8                        |           |       |       | 3:15 |
+|                                           | study    | \_    Planning next unit                         |           |       |  1:16 |      |
+|                                           | drawing  | \_    Shading curved surfaces                    |           |       |  2:03 |      |
+|                                           | study    | \_    Blog                                       |           |       |  0:42 |      |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
 | PerspectiveI.org                          |          | *File time*                                      | *97:43*   |       |       |      |
 |                                           |          | Log                                              | 97:43     |       |       |      |
