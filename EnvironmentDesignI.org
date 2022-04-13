@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-11 Mon 20:51], for week 2022-W15.
+  #+CAPTION: Clock summary at [2022-04-12 Tue 22:07], for week 2022-W15.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -90,7 +90,7 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-11 Mon 20:51], for week 2022-W15.
+  #+CAPTION: Clock summary at [2022-04-12 Tue 22:07], for week 2022-W15.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -172,7 +172,7 @@
 
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-  #+CAPTION: Clock summary at [2022-04-11 Mon 20:51]
+  #+CAPTION: Clock summary at [2022-04-12 Tue 22:07]
   | Tags     | Headline                                   | Time    |       |       |      |
   |----------+--------------------------------------------+---------+-------+-------+------|
   |          | *Total time*                               | *48:27* |       |       |      |
@@ -315,27 +315,29 @@
 
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-11 Mon 20:51], for week 2022-W15.
-  | Tags     | Headline                            | Time   |      |      |      |
-  |----------+-------------------------------------+--------+------+------+------|
-  |          | *Total time*                        | *9:52* |      |      |      |
-  |----------+-------------------------------------+--------+------+------+------|
-  |          | \_  Week 4                          |        | 9:52 |      |      |
-  |          | \_    <2022-04-11 Mon>              |        |      | 9:52 |      |
-  | drawing  | \_      Scott Robertson perspective |        |      |      | 0:54 |
-  | painting | \_      Rendering boxes             |        |      |      | 8:58 |
+  #+CAPTION: Clock summary at [2022-04-12 Tue 22:07], for week 2022-W15.
+  | Tags     | Headline                            | Time    |       |      |      |
+  |----------+-------------------------------------+---------+-------+------+------|
+  |          | *Total time*                        | *13:25* |       |      |      |
+  |----------+-------------------------------------+---------+-------+------+------|
+  |          | \_  Week 4                          |         | 13:25 |      |      |
+  |          | \_    <2022-04-11 Mon>              |         |       | 9:52 |      |
+  | drawing  | \_      Scott Robertson perspective |         |       |      | 0:54 |
+  | painting | \_      Rendering boxes             |         |       |      | 8:58 |
+  |          | \_    <2022-04-12 Tue>              |         |       | 3:33 |      |
+  | painting | \_      Rendering boxes             |         |       |      | 3:33 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
-  | Tag      | Headline   | Time (h) |
-  |----------+------------+----------|
-  | drawing  | *Tag time* | *0h 54m* |
-  |----------+------------+----------|
-  | study    | *Tag time* | *0h 0m*  |
-  |----------+------------+----------|
-  | painting | *Tag time* | *8h 58m* |
-  |----------+------------+----------|
-  | 3D       | *Tag time* | *0h 0m*  |
+  | Tag      | Headline   | Time (h)  |
+  |----------+------------+-----------|
+  | drawing  | *Tag time* | *0h 54m*  |
+  |----------+------------+-----------|
+  | study    | *Tag time* | *0h 0m*   |
+  |----------+------------+-----------|
+  | painting | *Tag time* | *12h 31m* |
+  |----------+------------+-----------|
+  | 3D       | *Tag time* | *0h 0m*   |
   
   #+END:
 
@@ -349,4 +351,9 @@
      CLOCK: [2022-04-11 Mon 18:01]--[2022-04-11 Mon 20:51] =>  2:50
      CLOCK: [2022-04-11 Mon 12:36]--[2022-04-11 Mon 16:48] =>  4:12
      CLOCK: [2022-04-11 Mon 09:43]--[2022-04-11 Mon 11:39] =>  1:56
+     :END:
+*** <2022-04-12 Tue>
+**** DONE Rendering boxes                                          :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-12 Tue 18:34]--[2022-04-12 Tue 22:07] =>  3:33
      :END:
