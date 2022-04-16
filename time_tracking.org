@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t
-#+CAPTION: Clock summary at [2022-04-11 Mon 15:36]
+#+CAPTION: Clock summary at [2022-04-15 Fri 18:33]
 | File                                      | Tags     | Headline                                         | Time      |       |       |      |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
-|                                           | ALL      | *Total time*                                     | *2350:04* |       |       |      |
+|                                           | ALL      | *Total time*                                     | *2369:48* |       |       |      |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
 | AnatomyIII_Legs.org                       |          | *File time*                                      | *136:15*  |       |       |      |
 |                                           |          | Log                                              | 136:15    |       |       |      |
@@ -658,8 +658,8 @@
 |                                           | drawing  | \_      Clothed figure from photo                |           |       |       | 3:28 |
 |                                           | study    | \_      Blog                                     |           |       |       | 0:24 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
-| EnvironmentDesignI.org                    |          | *File time*                                      | *121:50*  |       |       |      |
-|                                           |          | Log                                              | 121:50    |       |       |      |
+| EnvironmentDesignI.org                    |          | *File time*                                      | *141:34*  |       |       |      |
+|                                           |          | Log                                              | 141:34    |       |       |      |
 |                                           |          | \_  Week 1                                       |           | 32:19 |       |      |
 |                                           |          | \_    <2022-03-21 Mon>                           |           |       |  9:03 |      |
 |                                           | study    | \_      FP - Sketching for Environment 1         |           |       |       | 1:51 |
@@ -726,10 +726,17 @@
 |                                           | 3D       | \_      Blender tutorial                         |           |       |       | 1:16 |
 |                                           | painting | \_      Environment painting                     |           |       |       | 3:00 |
 |                                           | study    | \_      Blog                                     |           |       |       | 0:38 |
-|                                           |          | \_  Week 4                                       |           |  2:50 |       |      |
-|                                           |          | \_    <2022-04-11 Mon>                           |           |       |  2:50 |      |
+|                                           |          | \_  Week 4                                       |           | 22:34 |       |      |
+|                                           |          | \_    <2022-04-11 Mon>                           |           |       |  9:52 |      |
 |                                           | drawing  | \_      Scott Robertson perspective              |           |       |       | 0:54 |
-|                                           | painting | \_      Rendering boxes                          |           |       |       | 1:56 |
+|                                           | painting | \_      Rendering boxes                          |           |       |       | 8:58 |
+|                                           |          | \_    <2022-04-12 Tue>                           |           |       |  3:33 |      |
+|                                           | painting | \_      Rendering extruded boxes                 |           |       |       | 3:33 |
+|                                           |          | \_    <2022-04-13 Wed>                           |           |       |  4:40 |      |
+|                                           | 3D       | \_      Blender tutorial                         |           |       |       | 0:43 |
+|                                           | painting | \_      Rendering extruded boxes                 |           |       |       | 3:57 |
+|                                           |          | \_    <2022-04-14 Thu>                           |           |       |  4:29 |      |
+|                                           | painting | \_      Rendering extruded boxes                 |           |       |       | 4:29 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|
 | FZDDesignCinema.org                       |          | *File time*                                      | *0:00*    |       |       |      |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+------|

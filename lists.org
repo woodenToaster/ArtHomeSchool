@@ -97,9 +97,10 @@
 *** DONE Force: Drawing Human Anatomy
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
+*** Drawing perspective: how to see it and how to apply it - Brehm
 *** Sketching: The Basics
 *** Creative Perspective for Artists and Illustrators - Ernest Watson
-*** Framed Perspective Vol I - Marcos mateu-Mestre
+*** DONE Framed Perspective Vol I - Marcos mateu-Mestre
 *** Framed Perspective Vol II - Marcos mateu-Mestre
 *** DONE How to Draw - Scott Robertson
 *** DONE Perpective Drawing Handbook - Joseph D'Amelio

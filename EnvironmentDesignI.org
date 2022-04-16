@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-14 Thu 22:02], for week 2022-W15.
+  #+CAPTION: Clock summary at [2022-04-15 Fri 21:49], for week 2022-W15.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -90,7 +90,7 @@
 
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-14 Thu 22:02], for week 2022-W15.
+  #+CAPTION: Clock summary at [2022-04-15 Fri 21:49], for week 2022-W15.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -172,7 +172,7 @@
 
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
-  #+CAPTION: Clock summary at [2022-04-14 Thu 22:02]
+  #+CAPTION: Clock summary at [2022-04-15 Fri 21:49]
   | Tags     | Headline                                   | Time    |       |       |      |
   |----------+--------------------------------------------+---------+-------+-------+------|
   |          | *Total time*                               | *48:27* |       |       |      |
@@ -315,12 +315,12 @@
 
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-14 Thu 22:02], for week 2022-W15.
+  #+CAPTION: Clock summary at [2022-04-15 Fri 21:49], for week 2022-W15.
   | Tags     | Headline                            | Time    |       |      |      |
   |----------+-------------------------------------+---------+-------+------+------|
-  |          | *Total time*                        | *22:34* |       |      |      |
+  |          | *Total time*                        | *25:56* |       |      |      |
   |----------+-------------------------------------+---------+-------+------+------|
-  |          | \_  Week 4                          |         | 22:34 |      |      |
+  |          | \_  Week 4                          |         | 25:56 |      |      |
   |          | \_    <2022-04-11 Mon>              |         |       | 9:52 |      |
   | drawing  | \_      Scott Robertson perspective |         |       |      | 0:54 |
   | painting | \_      Rendering boxes             |         |       |      | 8:58 |
@@ -331,6 +331,9 @@
   | painting | \_      Rendering extruded boxes    |         |       |      | 3:57 |
   |          | \_    <2022-04-14 Thu>              |         |       | 4:29 |      |
   | painting | \_      Rendering extruded boxes    |         |       |      | 4:29 |
+  |          | \_    <2022-04-15 Fri>              |         |       | 3:22 |      |
+  | painting | \_      Rendering extruded boxes    |         |       |      | 2:44 |
+  | painting | \_      Rendering spheres           |         |       |      | 0:38 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -340,7 +343,7 @@
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | painting | *Tag time* | *20h 57m* |
+  | painting | *Tag time* | *24h 19m* |
   |----------+------------+-----------|
   | 3D       | *Tag time* | *0h 43m*  |
   
@@ -378,4 +381,13 @@
      CLOCK: [2022-04-14 Thu 18:05]--[2022-04-14 Thu 22:02] =>  3:57
      CLOCK: [2022-04-14 Thu 17:11]--[2022-04-14 Thu 17:16] =>  0:05
      CLOCK: [2022-04-14 Thu 16:32]--[2022-04-14 Thu 16:59] =>  0:27
+     :END:
+*** <2022-04-15 Fri>
+**** DONE Rendering extruded boxes                                 :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-15 Fri 18:26]--[2022-04-15 Fri 21:10] =>  2:44
+     :END:
+**** DONE Rendering spheres                                        :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-15 Fri 21:11]--[2022-04-15 Fri 21:49] =>  0:38
      :END:
