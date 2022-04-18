@@ -1197,6 +1197,9 @@
 **** Sunday - 7 hours
 * Third Year (<2022-05-31 Tue> to <2023-05-31 Wed>)
 ** Portfolio
+** All FZD assignments
+   :LOGBOOK:
+   CLOCK: [2022-04-17 Sun 18:00]--[2022-04-17 Sun 20:33] =>  2:33
+   :END:
 ** Digital Painting
-** Complete graphic novel
 
