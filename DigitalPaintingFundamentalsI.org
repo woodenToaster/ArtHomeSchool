@@ -6,30 +6,10 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-17 Sun 20:46], for week 2022-W15.
-  | Tags     | Headline                            | Time    |       |      |      |
-  |----------+-------------------------------------+---------+-------+------+------|
-  |          | *Total time*                        | *44:30* |       |      |      |
-  |----------+-------------------------------------+---------+-------+------+------|
-  |          | \_  Week 4                          |         | 44:30 |      |      |
-  |          | \_    <2022-04-11 Mon>              |         |       | 9:52 |      |
-  | drawing  | \_      Scott Robertson perspective |         |       |      | 0:54 |
-  | painting | \_      Rendering boxes             |         |       |      | 8:58 |
-  |          | \_    <2022-04-12 Tue>              |         |       | 3:33 |      |
-  | painting | \_      Rendering extruded boxes    |         |       |      | 3:33 |
-  |          | \_    <2022-04-13 Wed>              |         |       | 4:40 |      |
-  | 3D       | \_      Blender tutorial            |         |       |      | 0:43 |
-  | painting | \_      Rendering extruded boxes    |         |       |      | 3:57 |
-  |          | \_    <2022-04-14 Thu>              |         |       | 4:29 |      |
-  | painting | \_      Rendering extruded boxes    |         |       |      | 4:29 |
-  |          | \_    <2022-04-15 Fri>              |         |       | 3:22 |      |
-  | painting | \_      Rendering extruded boxes    |         |       |      | 2:44 |
-  | painting | \_      Rendering spheres           |         |       |      | 0:38 |
-  |          | \_    <2022-04-16 Sat>              |         |       | 9:38 |      |
-  | painting | \_      Rendering spheres           |         |       |      | 9:38 |
-  |          | \_    <2022-04-17 Sun>              |         |       | 8:56 |      |
-  | painting | \_      Rendering spheres           |         |       |      | 8:43 |
-  | study    | \_      Blog                        |         |       |      | 0:13 |
+  #+CAPTION: Clock summary at [2022-04-18 Mon 21:58], for week 2022-W16.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -109,42 +89,36 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-17 Sun 20:46], for week 2022-W15.
-  | Tags     | Headline                            | Time    |       |      |      |
-  |----------+-------------------------------------+---------+-------+------+------|
-  |          | *Total time*                        | *44:30* |       |      |      |
-  |----------+-------------------------------------+---------+-------+------+------|
-  |          | \_  Week 4                          |         | 44:30 |      |      |
-  |          | \_    <2022-04-11 Mon>              |         |       | 9:52 |      |
-  | drawing  | \_      Scott Robertson perspective |         |       |      | 0:54 |
-  | painting | \_      Rendering boxes             |         |       |      | 8:58 |
-  |          | \_    <2022-04-12 Tue>              |         |       | 3:33 |      |
-  | painting | \_      Rendering extruded boxes    |         |       |      | 3:33 |
-  |          | \_    <2022-04-13 Wed>              |         |       | 4:40 |      |
-  | 3D       | \_      Blender tutorial            |         |       |      | 0:43 |
-  | painting | \_      Rendering extruded boxes    |         |       |      | 3:57 |
-  |          | \_    <2022-04-14 Thu>              |         |       | 4:29 |      |
-  | painting | \_      Rendering extruded boxes    |         |       |      | 4:29 |
-  |          | \_    <2022-04-15 Fri>              |         |       | 3:22 |      |
-  | painting | \_      Rendering extruded boxes    |         |       |      | 2:44 |
-  | painting | \_      Rendering spheres           |         |       |      | 0:38 |
-  |          | \_    <2022-04-16 Sat>              |         |       | 9:38 |      |
-  | painting | \_      Rendering spheres           |         |       |      | 9:38 |
-  |          | \_    <2022-04-17 Sun>              |         |       | 8:56 |      |
-  | painting | \_      Rendering spheres           |         |       |      | 8:43 |
-  | study    | \_      Blog                        |         |       |      | 0:13 |
+  #+CAPTION: Clock summary at [2022-04-18 Mon 21:58], for week 2022-W16.
+  | Tags     | Headline                  | Time    |       |       |      |
+  |----------+---------------------------+---------+-------+-------+------|
+  |          | *Total time*              | *11:13* |       |       |      |
+  |----------+---------------------------+---------+-------+-------+------|
+  |          | \_  Week 2                |         | 11:13 |       |      |
+  |          | \_    <2022-04-18 Mon>    |         |       | 11:13 |      |
+  | painting | \_      Rendering spheres |         |       |       | 7:42 |
+  | painting | \_      Organic forms     |         |       |       | 3:31 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *0h 54m*  |
+  | drawing  | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | study    | *Tag time* | *0h 13m*  |
+  | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | painting | *Tag time* | *42h 40m* |
+  | painting | *Tag time* | *11h 13m* |
   |----------+------------+-----------|
-  | 3D       | *Tag time* | *0h 43m*  |
+  | 3D       | *Tag time* | *0h 0m*   |
   
   #+END:
 *** <2022-04-18 Mon>
+**** DONE Rendering spheres                                        :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-18 Mon 13:26]--[2022-04-18 Mon 16:59] =>  3:33
+     CLOCK: [2022-04-18 Mon 07:35]--[2022-04-18 Mon 11:44] =>  4:09
+     :END:
+**** DONE Organic forms                                            :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-18 Mon 18:26]--[2022-04-18 Mon 21:57] =>  3:31
+     :END:
