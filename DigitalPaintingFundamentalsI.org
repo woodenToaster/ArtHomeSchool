@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-21 Thu 21:41], for week 2022-W16.
+  #+CAPTION: Clock summary at [2022-04-22 Fri 22:28], for week 2022-W16.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -89,12 +89,12 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-21 Thu 21:41], for week 2022-W16.
+  #+CAPTION: Clock summary at [2022-04-22 Fri 22:28], for week 2022-W16.
   | Tags     | Headline                  | Time    |       |       |      |
   |----------+---------------------------+---------+-------+-------+------|
-  |          | *Total time*              | *23:18* |       |       |      |
+  |          | *Total time*              | *27:55* |       |       |      |
   |----------+---------------------------+---------+-------+-------+------|
-  |          | \_  Week 2                |         | 23:18 |       |      |
+  |          | \_  Week 2                |         | 27:55 |       |      |
   |          | \_    <2022-04-18 Mon>    |         |       | 11:13 |      |
   | painting | \_      Rendering spheres |         |       |       | 7:42 |
   | painting | \_      Organic forms     |         |       |       | 3:31 |
@@ -104,6 +104,9 @@
   | painting | \_      Organic forms     |         |       |       | 4:11 |
   |          | \_    <2022-04-21 Thu>    |         |       |  3:58 |      |
   | painting | \_      Organic forms     |         |       |       | 3:58 |
+  |          | \_    <2022-04-22 Fri>    |         |       |  4:37 |      |
+  | painting | \_      Organic forms     |         |       |       | 2:38 |
+  | painting | \_      Block animals     |         |       |       | 1:59 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -113,7 +116,7 @@
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | painting | *Tag time* | *23h 18m* |
+  | painting | *Tag time* | *27h 55m* |
   |----------+------------+-----------|
   | 3D       | *Tag time* | *0h 0m*   |
   
@@ -146,3 +149,14 @@
      CLOCK: [2022-04-21 Thu 19:20]--[2022-04-21 Thu 21:41] =>  2:21
      CLOCK: [2022-04-21 Thu 17:33]--[2022-04-21 Thu 19:10] =>  1:37
      :END:
+*** <2022-04-22 Fri>
+**** DONE Organic forms                                            :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-22 Fri 17:49]--[2022-04-22 Fri 20:27] =>  2:38
+     :END:
+**** DONE Block animals                                            :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-22 Fri 20:28]--[2022-04-22 Fri 22:27] =>  1:59
+     :END:
+*** <2022-04-23 Sat>
+**** TODO Block animals :painting:
