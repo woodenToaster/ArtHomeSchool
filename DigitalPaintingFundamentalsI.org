@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-24 Sun 20:42], for week 2022-W16.
+  #+CAPTION: Clock summary at [2022-04-25 Mon 21:59], for week 2022-W17.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -89,30 +89,10 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-24 Sun 20:42], for week 2022-W16.
-  | Tags     | Headline                       | Time    |       |       |      |
-  |----------+--------------------------------+---------+-------+-------+------|
-  |          | *Total time*                   | *46:57* |       |       |      |
-  |----------+--------------------------------+---------+-------+-------+------|
-  |          | \_  Week 2                     |         | 46:57 |       |      |
-  |          | \_    <2022-04-18 Mon>         |         |       | 11:13 |      |
-  | painting | \_      Rendering spheres      |         |       |       | 7:42 |
-  | painting | \_      Organic forms          |         |       |       | 3:31 |
-  |          | \_    <2022-04-19 Tue>         |         |       |  3:56 |      |
-  | painting | \_      Organic forms          |         |       |       | 3:56 |
-  |          | \_    <2022-04-20 Wed>         |         |       |  4:11 |      |
-  | painting | \_      Organic forms          |         |       |       | 4:11 |
-  |          | \_    <2022-04-21 Thu>         |         |       |  3:58 |      |
-  | painting | \_      Organic forms          |         |       |       | 3:58 |
-  |          | \_    <2022-04-22 Fri>         |         |       |  4:37 |      |
-  | painting | \_      Organic forms          |         |       |       | 2:38 |
-  | painting | \_      Block animals          |         |       |       | 1:59 |
-  |          | \_    <2022-04-23 Sat>         |         |       |  9:44 |      |
-  | painting | \_      Block animals          |         |       |       | 9:43 |
-  |          | \_    <2022-04-24 Sun>         |         |       |  9:18 |      |
-  | painting | \_      Block animals          |         |       |       | 7:44 |
-  | study    | \_      Rendering matte sphere |         |       |       | 1:17 |
-  | study    | \_      Blog                   |         |       |       | 0:17 |
+  #+CAPTION: Clock summary at [2022-04-25 Mon 21:59], for week 2022-W17.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -194,30 +174,15 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-24 Sun 20:42], for week 2022-W16.
-  | Tags     | Headline                       | Time    |       |       |      |
-  |----------+--------------------------------+---------+-------+-------+------|
-  |          | *Total time*                   | *46:57* |       |       |      |
-  |----------+--------------------------------+---------+-------+-------+------|
-  |          | \_  Week 2                     |         | 46:57 |       |      |
-  |          | \_    <2022-04-18 Mon>         |         |       | 11:13 |      |
-  | painting | \_      Rendering spheres      |         |       |       | 7:42 |
-  | painting | \_      Organic forms          |         |       |       | 3:31 |
-  |          | \_    <2022-04-19 Tue>         |         |       |  3:56 |      |
-  | painting | \_      Organic forms          |         |       |       | 3:56 |
-  |          | \_    <2022-04-20 Wed>         |         |       |  4:11 |      |
-  | painting | \_      Organic forms          |         |       |       | 4:11 |
-  |          | \_    <2022-04-21 Thu>         |         |       |  3:58 |      |
-  | painting | \_      Organic forms          |         |       |       | 3:58 |
-  |          | \_    <2022-04-22 Fri>         |         |       |  4:37 |      |
-  | painting | \_      Organic forms          |         |       |       | 2:38 |
-  | painting | \_      Block animals          |         |       |       | 1:59 |
-  |          | \_    <2022-04-23 Sat>         |         |       |  9:44 |      |
-  | painting | \_      Block animals          |         |       |       | 9:43 |
-  |          | \_    <2022-04-24 Sun>         |         |       |  9:18 |      |
-  | painting | \_      Block animals          |         |       |       | 7:44 |
-  | study    | \_      Rendering matte sphere |         |       |       | 1:17 |
-  | study    | \_      Blog                   |         |       |       | 0:17 |
+  #+CAPTION: Clock summary at [2022-04-25 Mon 21:59], for week 2022-W17.
+  | Tags     | Headline               | Time    |       |       |       |
+  |----------+------------------------+---------+-------+-------+-------|
+  |          | *Total time*           | *11:48* |       |       |       |
+  |----------+------------------------+---------+-------+-------+-------|
+  |          | \_  Week 3             |         | 11:48 |       |       |
+  |          | \_    <2022-04-25 Mon> |         |       | 11:48 |       |
+  | painting | \_      Block animals  |         |       |       |  1:42 |
+  | painting | \_      Block vehicles |         |       |       | 10:06 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -225,10 +190,21 @@
   |----------+------------+-----------|
   | drawing  | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | study    | *Tag time* | *1h 34m*  |
+  | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | painting | *Tag time* | *45h 22m* |
+  | painting | *Tag time* | *11h 48m* |
   |----------+------------+-----------|
   | 3D       | *Tag time* | *0h 0m*   |
   
   #+END:
+*** <2022-04-25 Mon>
+**** DONE Block animals                                            :painting: 
+     :LOGBOOK:
+     CLOCK: [2022-04-25 Mon 07:45]--[2022-04-25 Mon 09:27] =>  1:42
+     :END:
+**** DONE Block vehicles                                           :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-25 Mon 18:03]--[2022-04-25 Mon 21:59] =>  3:56
+     CLOCK: [2022-04-25 Mon 13:03]--[2022-04-25 Mon 17:00] =>  3:57
+     CLOCK: [2022-04-25 Mon 09:28]--[2022-04-25 Mon 11:41] =>  2:13
+     :END:
