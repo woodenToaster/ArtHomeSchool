@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-29 Fri 21:12], for week 2022-W17.
+  #+CAPTION: Clock summary at [2022-04-30 Sat 20:57], for week 2022-W17.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -89,7 +89,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-29 Fri 21:12], for week 2022-W17.
+  #+CAPTION: Clock summary at [2022-04-30 Sat 20:57], for week 2022-W17.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -174,12 +174,12 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-04-29 Fri 21:12], for week 2022-W17.
+  #+CAPTION: Clock summary at [2022-04-30 Sat 20:57], for week 2022-W17.
   | Tags     | Headline               | Time    |       |       |       |
   |----------+------------------------+---------+-------+-------+-------|
-  |          | *Total time*           | *22:10* |       |       |       |
+  |          | *Total time*           | *23:47* |       |       |       |
   |----------+------------------------+---------+-------+-------+-------|
-  |          | \_  Week 3             |         | 22:10 |       |       |
+  |          | \_  Week 3             |         | 23:47 |       |       |
   |          | \_    <2022-04-25 Mon> |         |       | 11:48 |       |
   | painting | \_      Block animals  |         |       |       |  1:42 |
   | painting | \_      Block vehicles |         |       |       | 10:06 |
@@ -191,6 +191,8 @@
   | painting | \_      Block vehicles |         |       |       |  1:08 |
   |          | \_    <2022-04-29 Fri> |         |       |  1:22 |       |
   |          | \_      Block vehicles |         |       |       |  1:22 |
+  |          | \_    <2022-04-30 Sat> |         |       |  1:37 |       |
+  | painting | \_      Block vehicles |         |       |       |  1:37 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -200,7 +202,7 @@
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | painting | *Tag time* | *20h 48m* |
+  | painting | *Tag time* | *22h 25m* |
   |----------+------------+-----------|
   | 3D       | *Tag time* | *0h 0m*   |
   
@@ -235,4 +237,10 @@
 **** DONE Block vehicles
      :LOGBOOK:
      CLOCK: [2022-04-29 Fri 14:59]--[2022-04-29 Fri 16:21] =>  1:22
+     :END:
+*** <2022-04-30 Sat>
+**** DONE Block vehicles                                           :painting:
+     :LOGBOOK:
+     CLOCK: [2022-04-30 Sat 15:16]--[2022-04-30 Sat 16:42] =>  1:26
+     CLOCK: [2022-04-30 Sat 10:21]--[2022-04-30 Sat 10:32] =>  0:11
      :END:
