@@ -1,12 +1,12 @@
 #+TITLE: Digital Painting Fundamentals I
 #+AUTHOR: Chris Hogan
-#+DATE: <2022-04-11 Mon> to ?
+#+DATE: <2022-04-11 Mon> to <2022-05-08 Sun>
 #+STARTUP: nologdone
 
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-04 Wed 21:57], for week 2022-W18.
+  #+CAPTION: Clock summary at [2022-05-05 Thu 22:00], for week 2022-W18.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -89,7 +89,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-04 Wed 21:57], for week 2022-W18.
+  #+CAPTION: Clock summary at [2022-05-05 Thu 22:00], for week 2022-W18.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -174,7 +174,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-04 Wed 21:57], for week 2022-W18.
+  #+CAPTION: Clock summary at [2022-05-05 Thu 22:00], for week 2022-W18.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -241,18 +241,20 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-04 Wed 21:57], for week 2022-W18.
+  #+CAPTION: Clock summary at [2022-05-05 Thu 22:00], for week 2022-W18.
   | Tags     | Headline               | Time    |       |      |      |
   |----------+------------------------+---------+-------+------+------|
-  |          | *Total time*           | *10:19* |       |      |      |
+  |          | *Total time*           | *14:12* |       |      |      |
   |----------+------------------------+---------+-------+------+------|
-  |          | \_  Week 4             |         | 10:19 |      |      |
+  |          | \_  Week 4             |         | 14:12 |      |      |
   |          | \_    <2022-05-02 Mon> |         |       | 2:03 |      |
   | painting | \_      Block humans   |         |       |      | 2:03 |
   |          | \_    <2022-05-03 Tue> |         |       | 4:27 |      |
   | painting | \_      Block humans   |         |       |      | 4:27 |
   |          | \_    <2022-05-04 Wed> |         |       | 3:49 |      |
   | painting | \_      Block humans   |         |       |      | 3:49 |
+  |          | \_    <2022-05-05 Thu> |         |       | 3:53 |      |
+  | painting | \_      Block humans   |         |       |      | 3:53 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -262,7 +264,7 @@
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | painting | *Tag time* | *10h 19m* |
+  | painting | *Tag time* | *14h 12m* |
   |----------+------------+-----------|
   | 3D       | *Tag time* | *0h 0m*   |
   
@@ -283,4 +285,10 @@
      :LOGBOOK:
      CLOCK: [2022-05-04 Wed 20:24]--[2022-05-04 Wed 21:57] =>  1:33
      CLOCK: [2022-05-04 Wed 17:48]--[2022-05-04 Wed 20:04] =>  2:16
+     :END:
+*** <2022-05-05 Thu>
+**** DONE Block humans                                             :painting:
+     :LOGBOOK:
+     CLOCK: [2022-05-05 Thu 21:47]--[2022-05-05 Thu 22:00] =>  0:13
+     CLOCK: [2022-05-05 Thu 17:46]--[2022-05-05 Thu 21:26] =>  3:40
      :END:
