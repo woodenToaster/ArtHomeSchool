@@ -6,7 +6,7 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-05 Thu 22:00], for week 2022-W18.
+  #+CAPTION: Clock summary at [2022-05-06 Fri 21:54], for week 2022-W18.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -89,7 +89,7 @@
      :END:
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-05 Thu 22:00], for week 2022-W18.
+  #+CAPTION: Clock summary at [2022-05-06 Fri 21:54], for week 2022-W18.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -174,7 +174,7 @@
      :END:
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-05 Thu 22:00], for week 2022-W18.
+  #+CAPTION: Clock summary at [2022-05-06 Fri 21:54], for week 2022-W18.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -241,12 +241,12 @@
      :END:
 ** Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-05 Thu 22:00], for week 2022-W18.
+  #+CAPTION: Clock summary at [2022-05-06 Fri 21:54], for week 2022-W18.
   | Tags     | Headline               | Time    |       |      |      |
   |----------+------------------------+---------+-------+------+------|
-  |          | *Total time*           | *14:12* |       |      |      |
+  |          | *Total time*           | *18:01* |       |      |      |
   |----------+------------------------+---------+-------+------+------|
-  |          | \_  Week 4             |         | 14:12 |      |      |
+  |          | \_  Week 4             |         | 18:01 |      |      |
   |          | \_    <2022-05-02 Mon> |         |       | 2:03 |      |
   | painting | \_      Block humans   |         |       |      | 2:03 |
   |          | \_    <2022-05-03 Tue> |         |       | 4:27 |      |
@@ -255,18 +255,20 @@
   | painting | \_      Block humans   |         |       |      | 3:49 |
   |          | \_    <2022-05-05 Thu> |         |       | 3:53 |      |
   | painting | \_      Block humans   |         |       |      | 3:53 |
+  |          | \_    <2022-05-06 Fri> |         |       | 3:49 |      |
+  | painting | \_      Block humans   |         |       |      | 3:49 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
-  | Tag      | Headline   | Time (h)  |
-  |----------+------------+-----------|
-  | drawing  | *Tag time* | *0h 0m*   |
-  |----------+------------+-----------|
-  | study    | *Tag time* | *0h 0m*   |
-  |----------+------------+-----------|
-  | painting | *Tag time* | *14h 12m* |
-  |----------+------------+-----------|
-  | 3D       | *Tag time* | *0h 0m*   |
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | study    | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | painting | *Tag time* | *18h 1m* |
+  |----------+------------+----------|
+  | 3D       | *Tag time* | *0h 0m*  |
   
   #+END:
 *** <2022-05-02 Mon>
@@ -291,4 +293,9 @@
      :LOGBOOK:
      CLOCK: [2022-05-05 Thu 21:47]--[2022-05-05 Thu 22:00] =>  0:13
      CLOCK: [2022-05-05 Thu 17:46]--[2022-05-05 Thu 21:26] =>  3:40
+     :END:
+*** <2022-05-06 Fri>
+**** DONE Block humans                                             :painting:
+     :LOGBOOK:
+     CLOCK: [2022-05-06 Fri 18:05]--[2022-05-06 Fri 21:54] =>  3:49
      :END:
