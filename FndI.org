@@ -1,0 +1,72 @@
+#+Title: Brainstorm School FND I
+#+Author: Chris Hogan
+#+Date: <2022-05-15 Sun> -- <2022-07-17 Sun>
+
+* Week 1 <2022-05-15 Sun>
+** Artists
+   - Kate Selkie
+   - Franklin Booth
+** Objectives
+   - Line confidence
+   - Process
+   - See perspective
+     - Free hand
+     - Doesn't have to be perfect
+   - Drawing in 3D (volume)
+   - Break down different subject matter
+   - Apply technical skill
+   - Learn how to learn
+** Lecture Notes
+   - Optional homework: have fun drawing
+     - Good draftmanship doesn't make you a good artist or designer
+   - Keep personal goal in mind to maintain focus
+   - TODO: Note down when you feel frustrated.
+   - Faber Castell fineliners
+     - Xs, s, f
+   - Derwent grey fineliner (pencil substitute)
+   - Toned marker, 2 - 4
+   - 8.5 x 11 sketchbook 75 lb artists loft (Michaels)
+   - Zebra brush pens
+   - Pentel stylo (fineliner brush pen hybrid)
+   - Big pen for blocking in shadows
+*** Process
+    - No pencil, ruler, eraser, ballpoint
+    - Grey fineliners and copics for construction lines
+    - Vary fineliner size to vary line weight
+    - Break down subject into basic shapes
+*** Principles of Sketching
+    - Line: quality and accuracy
+    - Perspective: visualizing objects sitting in the same space
+    - Form and volume (3D)
+    - Modification: organic vs rigid body
+    - Form sensitivity: details, textures
+    - Rendering: show form and perspective, show light and shadow
+    - Proportion: dont' try to study simultaneously with everything else
+    - Design: choices, communicating clearly instead of just copying
+*** Homework
+**** 1 page of lines, circles and ellipses
+**** 1 page diagonals and curves
+**** 1 page of organic forms and disections
+**** 1 page of boxes from observation
+**** 1 page of boxes from sketchfab or imagination
+**** 8-10  2" x 2" Textures, half from life
+     - Still thinking about form (depth, overlap)
+     - How will they be applied to a surface?
+     - What distance will they be drawn at?
+     - Vary material and distance (zoomed in, zoomed out)
+     - Crop reference and copy, then invent from shapes
+     - Use line, shape, and in between with hatching.
+     - 3 values, white, black, and 50%
+***** 1. Structure
+      - xs pen
+      - Focus on clear shadow edges
+      - Short, broken lines
+      - Don't completely close off shapes in frame
+      - Find shapes instead of framing
+      - Build your own library of shapes from the texture
+      - Create your own interpretation of the texture
+***** 2. Darkest value
+      - Fill in darkest values 
+***** 3. 50% value
+      - Fill in 50% value
+      - Vary hatching lines

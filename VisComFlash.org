@@ -1,0 +1,43 @@
+#+Title: Vis Comm Basics
+#+Author: Chris Hogan
+#+Date: <2022-05-15 Sun> to <2022-06-12 Sun>
+
+* Week 1 - <2022-05-15 Sun>
+  - charles-lin@live.com
+  - Visualizing in 3D
+  - Plot perfect square enough times until you can eyeball it
+  - TODO: Check out Centaur World
+** Syllabus
+   - Week 1 :: Proportions
+     - Simplifying forms
+   - Week 2 :: Bugs
+     - Proportional breakdown
+   - Week 3 :: Large Animals
+     - Organic forms
+     - Surface transition
+   - Week 4 :: Hard Surface (cars)
+     - Details and scale
+   - Week 5 :: Sci-Fi
+** TODO A3 sheet of parallel straight lines
+   - let pen rest at end of line
+   - Do it as professionally as you would if you were getting paid for it
+** TODO Handwriting exercise
+   - Fill 3 A3 pages with text. All letters must be exactly the same
+** TODO Perspective vehicles
+   - Choose a blocky vehicle (tractor)
+   - Create inventory list of basic 6-8 parts as simple forms
+   - Proportions
+     - Identify keystone object: unit of proportion
+     - List out proportions in terms of keystone object
+     - Draw object in plan (side) view in proportion
+   - Drawing
+     - Consider camera (POV)
+     - Decide on position of HL and VPs
+     - Set up a grid
+     - Plot in proportional (orthogonal) grid
+       - center plane
+       - extrude one side and mirror it to the other
+     - Clean up
+     - Add line weight (thicker for closer objects)
+     - Thicken lines that make contact with the ground
+       

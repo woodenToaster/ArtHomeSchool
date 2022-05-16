@@ -492,7 +492,7 @@
 *** Week 3
 *** Week 4
 * TODO Term 7
-** TODO Environment Design I
+** DONE Environment Design I
 *** Videos
 **** DONE Foundation Patreon - Sketching for Environments 1
 **** TODO Foundation Patreon - Sketching for Environments 2
@@ -512,8 +512,9 @@
 *** Week 2
 *** Week 3
 *** Week 4
-** TODO Composition and Storytelling I
-** TODO Head drawing III
+** DONE Digital Painting Fundamentals I
+*** DONE FZD Digital Painting assignments
+** TODO Brainstorm School Summer '22
 * TODO Term 8
 ** TODO Perspective IV
 ** TODO Environment Design II
