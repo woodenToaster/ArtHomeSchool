@@ -2,15 +2,16 @@
 #+AUTHOR: Chris Hogan
 #+DATE: <2022-05-17 Mon> to <2022-06-12 Sun>
 #+STARTUP: nologdone
+#+Startup: showeverything
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-19 Thu 21:59], for week 2022-W20.
+  #+CAPTION: Clock summary at [2022-05-20 Fri 21:42], for week 2022-W20.
   | Tags    | Headline                    | Time    |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | *Total time*                | *24:05* |       |       |
+  |         | *Total time*                | *28:03* |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | Week 1                      | 24:05   |       |       |
+  |         | Week 1                      | 28:03   |       |       |
   |         | \_  <2022-05-16 Mon>        |         | 11:20 |       |
   | drawing | \_    FND I week 1 homework |         |       | 11:20 |
   |         | \_  <2022-05-17 Tue>        |         |  3:54 |       |
@@ -19,12 +20,14 @@
   | drawing | \_    Vis Com               |         |       |  4:31 |
   |         | \_  <2022-05-19 Thu>        |         |  4:20 |       |
   | drawing | \_    Vis Com               |         |       |  4:20 |
+  |         | \_  <2022-05-20 Fri>        |         |  3:58 |       |
+  | drawing | \_    Vis Com               |         |       |  3:58 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *24h 5m* |
+  | drawing  | *Tag time* | *28h 3m* |
   |----------+------------+----------|
   | study    | *Tag time* | *0h 0m*  |
   |----------+------------+----------|
@@ -58,4 +61,10 @@
 *** DONE Vis Com                                                    :drawing:
     :LOGBOOK:
     CLOCK: [2022-05-19 Thu 17:39]--[2022-05-19 Thu 21:59] =>  4:20
+    :END:
+
+** <2022-05-20 Fri>
+*** DONE Vis Com                                                    :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-05-20 Fri 17:44]--[2022-05-20 Fri 21:42] =>  3:58
     :END:

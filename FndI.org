@@ -1,6 +1,7 @@
 #+Title: Brainstorm School FND I
 #+Author: Chris Hogan
 #+Date: <2022-05-15 Sun> -- <2022-07-17 Sun>
+#+Startup: showeverything
 
 * Week 1 <2022-05-15 Sun>
 ** Artists
