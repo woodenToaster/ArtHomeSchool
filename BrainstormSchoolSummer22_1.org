@@ -2,16 +2,15 @@
 #+AUTHOR: Chris Hogan
 #+DATE: <2022-05-17 Mon> to <2022-06-12 Sun>
 #+STARTUP: nologdone
-#+Startup: showeverything
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-20 Fri 21:42], for week 2022-W20.
+  #+CAPTION: Clock summary at [2022-05-21 Sat 21:49], for week 2022-W20.
   | Tags    | Headline                    | Time    |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | *Total time*                | *28:03* |       |       |
+  |         | *Total time*                | *38:56* |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | Week 1                      | 28:03   |       |       |
+  |         | Week 1                      | 38:56   |       |       |
   |         | \_  <2022-05-16 Mon>        |         | 11:20 |       |
   | drawing | \_    FND I week 1 homework |         |       | 11:20 |
   |         | \_  <2022-05-17 Tue>        |         |  3:54 |       |
@@ -22,18 +21,20 @@
   | drawing | \_    Vis Com               |         |       |  4:20 |
   |         | \_  <2022-05-20 Fri>        |         |  3:58 |       |
   | drawing | \_    Vis Com               |         |       |  3:58 |
+  |         | \_  <2022-05-21 Sat>        |         | 10:53 |       |
+  | drawing | \_    Vis Com               |         |       | 10:53 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
-  | Tag      | Headline   | Time (h) |
-  |----------+------------+----------|
-  | drawing  | *Tag time* | *28h 3m* |
-  |----------+------------+----------|
-  | study    | *Tag time* | *0h 0m*  |
-  |----------+------------+----------|
-  | painting | *Tag time* | *0h 0m*  |
-  |----------+------------+----------|
-  | 3D       | *Tag time* | *0h 0m*  |
+  | Tag      | Headline   | Time (h)  |
+  |----------+------------+-----------|
+  | drawing  | *Tag time* | *38h 56m* |
+  |----------+------------+-----------|
+  | study    | *Tag time* | *0h 0m*   |
+  |----------+------------+-----------|
+  | painting | *Tag time* | *0h 0m*   |
+  |----------+------------+-----------|
+  | 3D       | *Tag time* | *0h 0m*   |
   
   #+END:
 
@@ -67,4 +68,12 @@
 *** DONE Vis Com                                                    :drawing:
     :LOGBOOK:
     CLOCK: [2022-05-20 Fri 17:44]--[2022-05-20 Fri 21:42] =>  3:58
+    :END:
+
+** <2022-05-21 Sat>
+*** DONE Vis Com                                                    :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-05-21 Sat 17:31]--[2022-05-21 Sat 21:49] =>  4:18
+    CLOCK: [2022-05-21 Sat 13:21]--[2022-05-21 Sat 16:22] =>  3:01
+    CLOCK: [2022-05-21 Sat 07:36]--[2022-05-21 Sat 11:10] =>  3:34
     :END:

@@ -1198,5 +1198,17 @@
 * Third Year (<2022-05-31 Tue> to <2023-05-31 Wed>)
 ** Portfolio
 ** All FZD assignments
-** Digital Painting
+** Brainstorm
+*** Fall 22
+    - WB1
+    - DC1
+    - AD1
+*** Spring 23
+    - ENT1
+    - AD2
+    - WB2
+*** Summer 23
+    - WB3
+    - WB Blender
+    - PD Env
 
