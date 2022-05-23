@@ -503,20 +503,15 @@
 **** TODO Environment Design Course - James Paick
 **** TODO Environment Design Basics - James Paick
 **** TODO Environment Design CGMA - James Paick
-*** Book
-*** Backup
-*** Art Parent
-*** Challenge
-*** Inspiration
-*** Week 1
-*** Week 2
-*** Week 3
-*** Week 4
 ** DONE Digital Painting Fundamentals I
 *** DONE FZD Digital Painting assignments
-** TODO Brainstorm School Summer '22
+** TODO Brainstorm School Summer '22 part 1
+*** TODO FND 1
+*** TODO VisCom Basics
 * TODO Term 8
-** TODO Perspective IV
+** TODO Brainstorm School Summer '22 part 2
+*** TODO FND 1
+*** TODO Perspective Boot camp
 ** TODO Environment Design II
 ** TODO Anatomy V - Imagination
 * TODO Term 9

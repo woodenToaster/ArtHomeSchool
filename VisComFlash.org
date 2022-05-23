@@ -42,3 +42,42 @@
      - Add line weight (thicker for closer objects)
      - Thicken lines that make contact with the ground
        
+* Week 2 <2022-05-22 Sun>
+  - Viscom
+    - Sense of volume, 3D, penmanship
+    - Do both precise and loose drawings
+  - Studies
+    - Visual library
+  - Design
+    - Sense of aesthetics
+    - Proportions
+  - Bugs (intermediate subject)
+  - Attractive design: Big, medium, small for all elements
+  - TODO Analyze art you like for big, medium, small
+  - Insects break down into 3 components
+    - head
+    - thorax
+    - abdomen
+  - Spiders break down into
+    - mandibles
+    - head
+    - abdomen
+** Process
+   - Establish a checklist
+     - Select subject matter (don't spend more than 10 minutes)
+     - Select camera (think about the POV you want)
+     - Create an inventory
+     - Block in elements. 2 options:
+       - Mid-plane extrusion
+       - Block in shapes, and cut in
+     - Line weight
+       - Constructions lines vs. object lines
+     - Shadows
+       - cast shadow on ground plane
+         - requires ground plane, draw through, max width and length
+       - cast shadow on self
+     - Flat colors
+     - Set 1,2,3 values
+   - Perspective ground plane
+   - Anchor lines for limbs
+   - Make presentation nice

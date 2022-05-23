@@ -71,3 +71,49 @@
 ***** 3. 50% value
       - Fill in 50% value
       - Vary hatching lines
+
+* Week 2 <2022-05-22 Sun>
+** Critique
+   - Connect shadows
+   - Think about overall light direction
+   - Lose lines in light (oversaturate)
+** Basic Forms
+   - Study planes as an approach to boxes in perspective
+   - Box: bigger face is less convergance, and vice versa
+   - Draw boxes on a ground plane.
+** Modifications
+   - Different color for modifications
+   - Addition
+   - Subtraction
+   - Exploded views
+   - Intersections
+   - Rounded corners
+   - Everything by hand and eyeballed.
+** Rendering
+   - Material is icing on the base form
+   - highlight: points closest to light (make minimal)
+   - cast shadow and form shadow
+   - halftone
+   - Ambient occlusion
+** Surfacing
+   - Brightest plane: least detail, area of rest
+   - Balanced: detailed (like texture study)
+   - Darkest: less detail
+   - Thin lines for structure of texture
+   - Keep perspective in mind
+   - 3D (break edges)
+   - Big brush pens for darkest face, hatch the rest
+   - Can tone down with marker
+   - Think about overall gradient from light
+   - Balanced side: fill in shadows based on light direction
+     - hatch like texture thumbnails
+** Subjects
+*** Abstract organics
+    - corral, deadwood, rocks
+*** Rocks
+    - Start with perspective box, carve into general shape
+    - Focus on plane changes, amount of detail
+    - Reference with at least 2 visible planes
+    - Contours where the form is really jagged
+    - Read rendering in pen and ink
+    - Try some rocks from imagination
