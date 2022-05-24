@@ -109,7 +109,7 @@
      - hatch like texture thumbnails
 ** Subjects
 *** Abstract organics
-    - corral, deadwood, rocks
+    - coral, deadwood, rocks
 *** Rocks
     - Start with perspective box, carve into general shape
     - Focus on plane changes, amount of detail
