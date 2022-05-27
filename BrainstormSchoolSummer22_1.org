@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-25 Wed 21:55], for week 2022-W21.
+  #+CAPTION: Clock summary at [2022-05-26 Thu 21:56], for week 2022-W21.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -86,27 +86,31 @@
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-25 Wed 21:55], for week 2022-W21.
-  | Tags    | Headline                    | Time    |       |      |
-  |---------+-----------------------------+---------+-------+------|
-  |         | *Total time*                | *19:51* |       |      |
-  |---------+-----------------------------+---------+-------+------|
-  |         | Week 2                      | 19:51   |       |      |
-  |         | \_  <2022-05-23 Mon>        |         | 11:47 |      |
-  | drawing | \_    Warmup                |         |       | 0:52 |
-  | drawing | \_    FND I week 2 homework |         |       | 7:52 |
-  | drawing | \_    Vis Com               |         |       | 3:03 |
-  |         | \_  <2022-05-24 Tue>        |         |  4:01 |      |
-  | drawing | \_    FND I week 2 homework |         |       | 4:01 |
-  |         | \_  <2022-05-25 Wed>        |         |  4:03 |      |
-  | drawing | \_    warmup                |         |       | 0:25 |
-  | drawing | \_    FND I week 2 homework |         |       | 3:38 |
+  #+CAPTION: Clock summary at [2022-05-26 Thu 21:56], for week 2022-W21.
+  | Tags    | Headline                             | Time    |       |      |
+  |---------+--------------------------------------+---------+-------+------|
+  |         | *Total time*                         | *23:56* |       |      |
+  |---------+--------------------------------------+---------+-------+------|
+  |         | Week 2                               | 23:56   |       |      |
+  |         | \_  <2022-05-23 Mon>                 |         | 11:47 |      |
+  | drawing | \_    Warmup                         |         |       | 0:52 |
+  | drawing | \_    FND I week 2 homework          |         |       | 7:52 |
+  | drawing | \_    Vis Com                        |         |       | 3:03 |
+  |         | \_  <2022-05-24 Tue>                 |         |  4:01 |      |
+  | drawing | \_    FND I week 2 homework          |         |       | 4:01 |
+  |         | \_  <2022-05-25 Wed>                 |         |  4:03 |      |
+  | drawing | \_    warmup                         |         |       | 0:25 |
+  | drawing | \_    FND I week 2 homework          |         |       | 3:38 |
+  |         | \_  <2022-05-26 Thu>                 |         |  4:05 |      |
+  | drawing | \_    warmup                         |         |       | 0:26 |
+  | drawing | \_    FND I week 2 homework          |         |       | 3:14 |
+  | drawing | \_    Vis Com Basics week 2 homework |         |       | 0:25 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *19h 51m* |
+  | drawing  | *Tag time* | *23h 56m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -144,5 +148,19 @@
     :LOGBOOK:
     CLOCK: [2022-05-25 Wed 20:37]--[2022-05-25 Wed 21:55] =>  1:18
     CLOCK: [2022-05-25 Wed 18:03]--[2022-05-25 Wed 20:23] =>  2:20
+    :END:
+** <2022-05-26 Thu>
+*** DONE warmup                                                     :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-05-26 Thu 17:34]--[2022-05-26 Thu 18:00] =>  0:26
+    :END:
+*** DONE FND I week 2 homework                                      :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-05-26 Thu 19:20]--[2022-05-26 Thu 21:29] =>  2:09
+    CLOCK: [2022-05-26 Thu 18:00]--[2022-05-26 Thu 19:05] =>  1:05
+    :END:
+*** DONE Vis Com Basics week 2 homework                             :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-05-26 Thu 21:31]--[2022-05-26 Thu 21:56] =>  0:25
     :END:
 ** 
