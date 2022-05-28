@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-26 Thu 21:56], for week 2022-W21.
+  #+CAPTION: Clock summary at [2022-05-27 Fri 21:56], for week 2022-W21.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -86,12 +86,12 @@
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-26 Thu 21:56], for week 2022-W21.
+  #+CAPTION: Clock summary at [2022-05-27 Fri 21:56], for week 2022-W21.
   | Tags    | Headline                             | Time    |       |      |
   |---------+--------------------------------------+---------+-------+------|
-  |         | *Total time*                         | *23:56* |       |      |
+  |         | *Total time*                         | *27:48* |       |      |
   |---------+--------------------------------------+---------+-------+------|
-  |         | Week 2                               | 23:56   |       |      |
+  |         | Week 2                               | 27:48   |       |      |
   |         | \_  <2022-05-23 Mon>                 |         | 11:47 |      |
   | drawing | \_    Warmup                         |         |       | 0:52 |
   | drawing | \_    FND I week 2 homework          |         |       | 7:52 |
@@ -105,12 +105,14 @@
   | drawing | \_    warmup                         |         |       | 0:26 |
   | drawing | \_    FND I week 2 homework          |         |       | 3:14 |
   | drawing | \_    Vis Com Basics week 2 homework |         |       | 0:25 |
+  |         | \_  <2022-05-27 Fri>                 |         |  3:52 |      |
+  | drawing | \_    Vis Com Basics week 2 homework |         |       | 3:52 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *23h 56m* |
+  | drawing  | *Tag time* | *27h 48m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -162,5 +164,10 @@
 *** DONE Vis Com Basics week 2 homework                             :drawing:
     :LOGBOOK:
     CLOCK: [2022-05-26 Thu 21:31]--[2022-05-26 Thu 21:56] =>  0:25
+    :END:
+** <2022-05-27 Fri>
+*** DONE Vis Com Basics week 2 homework                             :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-05-27 Fri 18:04]--[2022-05-27 Fri 21:56] =>  3:52
     :END:
 ** 
