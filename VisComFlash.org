@@ -81,3 +81,17 @@
    - Perspective ground plane
    - Anchor lines for limbs
    - Make presentation nice
+* Week 3 <2022-05-29 Sun>
+  - Blocky animal first, then more refined
+  - Play up the unique characteristics of the animal
+  - Ground shadow: rotate canvas and shift draw straight lines
+** Blocky Process
+   - Inventory
+   - Proportion
+   - POV and camera
+** More realistic process
+   - Block in main forms and proportions lightly
+   - pull the blocked in forms into perspective
+   - still drawing through and capturing symmetry
+   - always maintain the center line
+   - always shift the perspective when studying from reference

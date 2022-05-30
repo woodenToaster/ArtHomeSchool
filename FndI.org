@@ -117,3 +117,75 @@
     - Contours where the form is really jagged
     - Read rendering in pen and ink
     - Try some rocks from imagination
+* Week 3 <2022-05-29 Sun>
+** Critique
+   - Connect light shapes as well as shadow shapes
+   - More texture lines near edge of form does double duty as shadow
+   - Flat, consistent hatching lines can flatten out textures. Vary direction.
+** Lecture
+*** Rock formations
+    - Break up large rock formations into smaller
+    - Group smaller forms instead of drawing each one
+    - Design the reference before beginning to draw
+*** Plants
+**** Groups
+     - Trees
+     - Grass
+     - Foilage
+**** Form heavy objects
+     - cacti
+     - mushrooms
+     - fruits and veg
+**** Sheets
+     - Petals
+     - leaves
+**** Process
+***** thumbnails
+      - silhouettes and groups
+      - Add ground plane for trees in perspective
+***** structure
+***** line
+      - form sensitivity
+      - subdivide groups
+***** rendering
+      - 2 value study on thumbnail (brush pen)
+      - find terminator
+      - Block in darkest shadows
+      - render shadow (texture, form, value)
+      - half tone (fine pen, less texture, stay near terminator)
+      - leaves (decide what kind of marks to use for each leaf type)
+***** highlights
+      - wrap shapes where light is
+      - try white pencil
+*** Organic modifications
+    - tapered, twisted, folded cylinders
+    - overlapping form comes to front
+    - get perspective of each object to make overlap easier
+    - melting boxes
+    - xyz section drawing (free hand)
+    - google imperfect vegetable ads
+*** Fruit
+    - Get sense of the volume with contour lines
+    - Start with basic forms and carve in/out
+*** Flowers
+    - Sheets (pedals) are planes
+    - Start with overall forms
+    - work from closest to camera to farthest away (auto overlap)
+    - block in 2d shapes of pedals with thin pen
+    - can group farthest pedals
+    - line (form sensitivity)
+** Homework
+   - Try to draw from life
+   - Include ref in discord
+   - Try to thumbnail from a different angel than you're seeing it
+   - Draw pot when drawing potted plants
+*** 1 page cylinders from life
+*** 2 pages organic modifications
+    - keep form intact (countours)
+    - try rotations (optional)
+*** 7 pages of plants
+    - 3 from life
+    - groups, forms, and sheets
+    - thumbnail, perspective, different angles
+      
+      
