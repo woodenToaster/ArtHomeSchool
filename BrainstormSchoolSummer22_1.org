@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-29 Sun 19:26], for week 2022-W21.
+  #+CAPTION: Clock summary at [2022-05-30 Mon 21:58], for week 2022-W22.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -86,36 +86,10 @@
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-29 Sun 19:26], for week 2022-W21.
-  | Tags    | Headline                             | Time    |       |      |
-  |---------+--------------------------------------+---------+-------+------|
-  |         | *Total time*                         | *49:08* |       |      |
-  |---------+--------------------------------------+---------+-------+------|
-  |         | Week 2                               | 49:08   |       |      |
-  |         | \_  <2022-05-23 Mon>                 |         | 11:47 |      |
-  | drawing | \_    Warmup                         |         |       | 0:52 |
-  | drawing | \_    FND I week 2 homework          |         |       | 7:52 |
-  | drawing | \_    Vis Com                        |         |       | 3:03 |
-  |         | \_  <2022-05-24 Tue>                 |         |  4:01 |      |
-  | drawing | \_    FND I week 2 homework          |         |       | 4:01 |
-  |         | \_  <2022-05-25 Wed>                 |         |  4:03 |      |
-  | drawing | \_    warmup                         |         |       | 0:25 |
-  | drawing | \_    FND I week 2 homework          |         |       | 3:38 |
-  |         | \_  <2022-05-26 Thu>                 |         |  4:05 |      |
-  | drawing | \_    warmup                         |         |       | 0:26 |
-  | drawing | \_    FND I week 2 homework          |         |       | 3:14 |
-  | drawing | \_    Vis Com Basics week 2 homework |         |       | 0:25 |
-  |         | \_  <2022-05-27 Fri>                 |         |  3:52 |      |
-  | drawing | \_    Vis Com Basics week 2 homework |         |       | 3:52 |
-  |         | \_  <2022-05-28 Sat>                 |         | 10:58 |      |
-  | drawing | \_    Vis Com Basics week 2 homework |         |       | 8:11 |
-  | drawing | \_    Vis Com                        |         |       | 2:47 |
-  |         | \_  <2022-05-29 Sun>                 |         | 10:22 |      |
-  | drawing | \_    Vis Com                        |         |       | 3:38 |
-  | study   | \_    FND I week 3                   |         |       | 3:14 |
-  | drawing | \_    FND I week 3 homework          |         |       | 1:12 |
-  | study   | \_    Blog                           |         |       | 0:18 |
-  | study   | \_    VisCom Basics week 3           |         |       | 2:00 |
+  #+CAPTION: Clock summary at [2022-05-30 Mon 21:58], for week 2022-W22.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -210,4 +184,35 @@
 *** DONE VisCom Basics week 3                                         :study:
     :LOGBOOK:
     CLOCK: [2022-05-29 Sun 20:00]--[2022-05-29 Sun 22:00] =>  2:00
+    :END:
+* Week 3
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
+  #+CAPTION: Clock summary at [2022-05-30 Mon 21:58], for week 2022-W22.
+  | Tags    | Headline                    | Time    |       |       |
+  |---------+-----------------------------+---------+-------+-------|
+  |         | *Total time*                | *10:54* |       |       |
+  |---------+-----------------------------+---------+-------+-------|
+  |         | Week 3                      | 10:54   |       |       |
+  |         | \_  <2022-05-30 Mon>        |         | 10:54 |       |
+  | drawing | \_    FND 1 week 3 homework |         |       | 10:54 |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+  | Tag      | Headline   | Time (h)  |
+  |----------+------------+-----------|
+  | drawing  | *Tag time* | *10h 54m* |
+  |----------+------------+-----------|
+  | study    | *Tag time* | *0h 0m*   |
+  |----------+------------+-----------|
+  | painting | *Tag time* | *0h 0m*   |
+  |----------+------------+-----------|
+  | 3D       | *Tag time* | *0h 0m*   |
+  
+  #+END:
+** <2022-05-30 Mon>
+*** DONE FND 1 week 3 homework                                      :drawing: 
+    :LOGBOOK:
+    CLOCK: [2022-05-30 Mon 17:25]--[2022-05-30 Mon 20:50] =>  3:25
+    CLOCK: [2022-05-30 Mon 12:30]--[2022-05-30 Mon 16:00] =>  3:30
+    CLOCK: [2022-05-30 Mon 07:29]--[2022-05-30 Mon 11:28] =>  3:59
     :END:
