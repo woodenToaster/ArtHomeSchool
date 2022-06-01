@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-30 Mon 21:58], for week 2022-W22.
+  #+CAPTION: Clock summary at [2022-05-31 Tue 21:56], for week 2022-W22.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -86,7 +86,7 @@
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-30 Mon 21:58], for week 2022-W22.
+  #+CAPTION: Clock summary at [2022-05-31 Tue 21:56], for week 2022-W22.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -187,26 +187,28 @@
     :END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-05-30 Mon 21:58], for week 2022-W22.
+  #+CAPTION: Clock summary at [2022-05-31 Tue 21:56], for week 2022-W22.
   | Tags    | Headline                    | Time    |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | *Total time*                | *10:54* |       |       |
+  |         | *Total time*                | *15:09* |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | Week 3                      | 10:54   |       |       |
+  |         | Week 3                      | 15:09   |       |       |
   |         | \_  <2022-05-30 Mon>        |         | 10:54 |       |
   | drawing | \_    FND 1 week 3 homework |         |       | 10:54 |
+  |         | \_  <2022-05-31 Tue>        |         |  4:15 |       |
+  | drawing | \_    FND I week 3 homework |         |       |  4:15 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
-  | Tag      | Headline   | Time (h)  |
-  |----------+------------+-----------|
-  | drawing  | *Tag time* | *10h 54m* |
-  |----------+------------+-----------|
-  | study    | *Tag time* | *0h 0m*   |
-  |----------+------------+-----------|
-  | painting | *Tag time* | *0h 0m*   |
-  |----------+------------+-----------|
-  | 3D       | *Tag time* | *0h 0m*   |
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *15h 9m* |
+  |----------+------------+----------|
+  | study    | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | 3D       | *Tag time* | *0h 0m*  |
   
   #+END:
 ** <2022-05-30 Mon>
@@ -215,4 +217,9 @@
     CLOCK: [2022-05-30 Mon 17:25]--[2022-05-30 Mon 20:50] =>  3:25
     CLOCK: [2022-05-30 Mon 12:30]--[2022-05-30 Mon 16:00] =>  3:30
     CLOCK: [2022-05-30 Mon 07:29]--[2022-05-30 Mon 11:28] =>  3:59
+    :END:
+** <2022-05-31 Tue>
+*** DONE FND I week 3 homework                                      :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-05-31 Tue 17:00]--[2022-05-31 Tue 21:15] =>  4:15
     :END:
