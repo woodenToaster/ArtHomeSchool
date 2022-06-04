@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-02 Thu 22:00], for week 2022-W22.
+  #+CAPTION: Clock summary at [2022-06-03 Fri 22:15], for week 2022-W22.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -86,7 +86,7 @@
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-02 Thu 22:00], for week 2022-W22.
+  #+CAPTION: Clock summary at [2022-06-03 Fri 22:15], for week 2022-W22.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -187,12 +187,12 @@
     :END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-02 Thu 22:00], for week 2022-W22.
+  #+CAPTION: Clock summary at [2022-06-03 Fri 22:15], for week 2022-W22.
   | Tags    | Headline                            | Time    |       |       |
   |---------+-------------------------------------+---------+-------+-------|
-  |         | *Total time*                        | *23:52* |       |       |
+  |         | *Total time*                        | *27:57* |       |       |
   |---------+-------------------------------------+---------+-------+-------|
-  |         | Week 3                              | 23:52   |       |       |
+  |         | Week 3                              | 27:57   |       |       |
   |         | \_  <2022-05-30 Mon>                |         | 10:54 |       |
   | drawing | \_    FND 1 week 3 homework         |         |       | 10:54 |
   |         | \_  <2022-05-31 Tue>                |         |  4:15 |       |
@@ -202,12 +202,14 @@
   | drawing | \_    VisCom Basics week 3 homework |         |       |  0:41 |
   |         | \_  <2022-06-02 Thu>                |         |  4:13 |       |
   | drawing | \_    VisCom Basics week 3 homework |         |       |  4:13 |
+  |         | \_  <2022-06-03 Fri>                |         |  4:05 |       |
+  | drawing | \_    VisCom Basics week 3 homework |         |       |  4:05 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *23h 52m* |
+  | drawing  | *Tag time* | *27h 57m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -244,4 +246,9 @@
     :LOGBOOK:
     CLOCK: [2022-06-02 Thu 21:37]--[2022-06-02 Thu 22:00] =>  0:23
     CLOCK: [2022-06-02 Thu 17:30]--[2022-06-02 Thu 21:20] =>  3:50
+    :END:
+** <2022-06-03 Fri>
+*** DONE VisCom Basics week 3 homework                              :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-06-03 Fri 18:10]--[2022-06-03 Fri 22:15] =>  4:05
     :END:
