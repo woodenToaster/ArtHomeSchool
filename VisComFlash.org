@@ -95,3 +95,6 @@
    - still drawing through and capturing symmetry
    - always maintain the center line
    - always shift the perspective when studying from reference
+* Week 4 <2022-06-05 Sun>
+  - To go from simple curves to complex forms is just more boxes (higher resolution) 
+  - Create a perfect cube cheat sheet

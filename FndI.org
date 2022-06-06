@@ -187,5 +187,53 @@
     - 3 from life
     - groups, forms, and sheets
     - thumbnail, perspective, different angles
-      
-      
+* Week 4 <2022-06-05 Sun>
+** Critique
+   - Design light and dark groups better
+   - Use more variety in hatching
+** Lecture
+*** Artists
+    - Sergio Toppi
+*** Rotations
+*** Skeletal Forms
+    - Think of a skeleton as a rig or the structure
+    - Approach as subject matter (complex organic form)
+    - Rotate and draw 3d models of single bones
+    - Proportions aren't the main focus right now
+**** Process
+     - Break down each major form into a simple shape
+     - Get comfortable rotating these simple shapes
+     - Get ref from as many angles as possible
+     - Start with skull
+     - Attach spine to skull
+     - Rib cage (not a simple cylinder)
+     - Pelvis (just a plane)
+     - Group the limbs with sticks
+     - Draw the simplified skeleton from a different POV
+*** Skulls
+    - Cranium
+    - Orbit
+    - Nasal bone and maxilla
+    - Mandible
+    - Zygomatic arch
+    - L for length and height proportion
+    - Cross of brow and nasal bone determines perspective
+    - Start with basic shape in perspective, then carve out the form
+*** Skeletons
+    - spine
+    - rib cage
+    - pelivs
+    - legs
+    - Start with simplified stick figure
+    - Focus on rib frequency rather than counting them out
+*** Homework
+    - 2 pages of rotations (10-15 per page)
+      - 1 from sketchfab (cube)
+      - 1 from life
+    - 4 pages of skulls
+      - side view, 3/4, view, other POVs
+      - Render at least 1
+    - 6 pages of skeletons and other bones
+      - 1 to 4 per page
+      - Render at least 1
+    - Design an original creature skeleton
