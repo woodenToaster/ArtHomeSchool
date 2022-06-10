@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-08 Wed 22:00], for week 2022-W23.
+  #+CAPTION: Clock summary at [2022-06-09 Thu 21:53], for week 2022-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -86,7 +86,7 @@
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-08 Wed 22:00], for week 2022-W23.
+  #+CAPTION: Clock summary at [2022-06-09 Thu 21:53], for week 2022-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -187,7 +187,7 @@
     :END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-08 Wed 22:00], for week 2022-W23.
+  #+CAPTION: Clock summary at [2022-06-09 Thu 21:53], for week 2022-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -265,24 +265,26 @@
     :END:
 * Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-08 Wed 22:00], for week 2022-W23.
+  #+CAPTION: Clock summary at [2022-06-09 Thu 21:53], for week 2022-W23.
   | Tags    | Headline                           | Time    |       |       |
   |---------+------------------------------------+---------+-------+-------|
-  |         | *Total time*                       | *20:27* |       |       |
+  |         | *Total time*                       | *24:46* |       |       |
   |---------+------------------------------------+---------+-------+-------|
-  |         | Week 4                             | 20:27   |       |       |
+  |         | Week 4                             | 24:46   |       |       |
   |         | \_  <2022-06-06 Mon>               |         | 12:05 |       |
   | drawing | \_    VisCom Flash week 4 homework |         |       | 12:05 |
   |         | \_  <2022-06-07 Tue>               |         |  3:56 |       |
   | drawing | \_    FND I week 4 homework        |         |       |  3:56 |
   |         | \_  <2022-06-08 Wed>               |         |  4:26 |       |
   | drawing | \_    FND I week 4 homework        |         |       |  4:26 |
+  |         | \_  <2022-06-09 Thu>               |         |  4:19 |       |
+  | drawing | \_    FND I week 4 homework        |         |       |  4:19 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *20h 27m* |
+  | drawing  | *Tag time* | *24h 46m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -309,4 +311,7 @@
     CLOCK: [2022-06-08 Wed 17:34]--[2022-06-08 Wed 22:00] =>  4:26
     :END:
 ** <2022-06-09 Thu>
-*** TODO FND I week 4 homework :drawing:
+*** DONE FND I week 4 homework                                      :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-06-09 Thu 17:34]--[2022-06-09 Thu 21:53] =>  4:19
+    :END:
