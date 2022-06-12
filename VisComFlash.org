@@ -98,3 +98,4 @@
 * Week 4 <2022-06-05 Sun>
   - To go from simple curves to complex forms is just more boxes (higher resolution) 
   - Create a perfect cube cheat sheet
+* Week 5 <2022-06-12 Sun>
