@@ -99,3 +99,7 @@
   - To go from simple curves to complex forms is just more boxes (higher resolution) 
   - Create a perfect cube cheat sheet
 * Week 5 <2022-06-12 Sun>
+  - ? Freelance vs full time
+  - Get volume of design with basic shapes, then refine the shapes
+    - gamedevmap
+    - reddit for jobs

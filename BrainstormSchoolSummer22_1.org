@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-11 Sat 21:20], for week 2022-W23.
+  #+CAPTION: Clock summary at [2022-06-12 Sun 19:45], for week 2022-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -86,7 +86,7 @@
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-11 Sat 21:20], for week 2022-W23.
+  #+CAPTION: Clock summary at [2022-06-12 Sun 19:45], for week 2022-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -187,7 +187,7 @@
     :END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-11 Sat 21:20], for week 2022-W23.
+  #+CAPTION: Clock summary at [2022-06-12 Sun 19:45], for week 2022-W23.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -265,12 +265,12 @@
     :END:
 * Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-11 Sat 21:20], for week 2022-W23.
+  #+CAPTION: Clock summary at [2022-06-12 Sun 19:45], for week 2022-W23.
   | Tags    | Headline                           | Time    |       |       |
   |---------+------------------------------------+---------+-------+-------|
-  |         | *Total time*                       | *38:19* |       |       |
+  |         | *Total time*                       | *48:09* |       |       |
   |---------+------------------------------------+---------+-------+-------|
-  |         | Week 4                             | 38:19   |       |       |
+  |         | Week 4                             | 48:09   |       |       |
   |         | \_  <2022-06-06 Mon>               |         | 12:05 |       |
   | drawing | \_    VisCom Flash week 4 homework |         |       | 12:05 |
   |         | \_  <2022-06-07 Tue>               |         |  3:56 |       |
@@ -283,14 +283,18 @@
   | drawing | \_    FND I week 4 homework        |         |       |  3:03 |
   |         | \_  <2022-06-11 Sat>               |         | 10:30 |       |
   | drawing | \_    FND I week 4 homework        |         |       | 10:30 |
+  |         | \_  <2022-06-12 Sun>               |         |  9:50 |       |
+  | drawing | \_    VisCom flash week 4 homework |         |       |  7:16 |
+  | study   | \_    VisCom flash week 5          |         |       |  2:00 |
+  | study   | \_    Blog                         |         |       |  0:34 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *38h 19m* |
+  | drawing  | *Tag time* | *45h 35m* |
   |----------+------------+-----------|
-  | study    | *Tag time* | *0h 0m*   |
+  | study    | *Tag time* | *2h 34m*  |
   |----------+------------+-----------|
   | painting | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -333,6 +337,17 @@
     CLOCK: [2022-06-11 Sat 08:00]--[2022-06-11 Sat 12:01] =>  4:01
     :END:
 ** <2022-06-12 Sun>
-*** TODO VisCom flash week 4 homework :drawing:
-*** TODO VisCom flash week 5 :study:
-*** TODO Blog :study:
+*** DONE VisCom flash week 4 homework                               :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-06-12 Sun 18:03]--[2022-06-12 Sun 19:11] =>  1:08
+    CLOCK: [2022-06-12 Sun 12:39]--[2022-06-12 Sun 14:59] =>  2:20
+    CLOCK: [2022-06-12 Sun 08:11]--[2022-06-12 Sun 11:59] =>  3:48
+    :END:
+*** DONE VisCom flash week 5                                          :study:
+    :LOGBOOK:
+    CLOCK: [2022-06-12 Sun 20:00]--[2022-06-12 Sun 22:00] =>  2:00
+    :END:
+*** DONE Blog                                                         :study:
+    :LOGBOOK:
+    CLOCK: [2022-06-12 Sun 19:11]--[2022-06-12 Sun 19:45] =>  0:34
+    :END:
