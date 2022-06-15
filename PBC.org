@@ -1,0 +1,65 @@
+#+TITLE: Brainstorm School Summer '22 PBC
+#+AUTHOR: Chris Hogan
+#+DATE: <2022-06-14 Mon> to <2022-07-03 Sun>
+#+STARTUP: nologdone
+
+* Week 1
+** Nero pencil (charcoal and wax)
+** TODO Put introduction in discord
+*** art goals
+*** hopes for this class
+** Course Structure
+   - Feel free to come and go (long class!)
+   - Ask questions.
+   - Perspective isn't as useful as it used to be
+   - Traditional materials
+     - colored pencils
+     - tracing paper
+     - Krita better suited to drawing than photoshop
+** Warmups
+   - Focus on body movements, not result
+   - Keep wrist straight
+   - Split warmups up among several days
+   - connect 2 points
+     - "hand loose" distance
+     - slide elbow
+     - go over each line 3 times
+     - find sweet spot between accuracy and confidence
+   - draw circles
+     - make boxes within horizontal lines
+     - put hatch marks in center of each quadrant
+     - start light, go around 5 or 6 times, darkening down
+     - pencil works better
+   - ellipses
+     - vertical lines a knuckle apart
+     - same strategy as circles
+     - no tilting, no lopsided, no pinching
+   - line quality
+     - need thin to thick tool
+     - thinnest, lightest possible to thickest heaviest possible
+     - long, even transition
+     - thick to thin
+     - thin to thick
+     - thin thick thin
+     - thick thin thick
+** 1-point perspective
+   - perspective less helpful for objects off grid
+   - put VP roughly in center
+   - each object on a layer can simplify complicated images
+   - cleaner intersections are more reliable
+   - thinner line weight for objects close and towards the light.
+** 2-point perspective
+   - wide aspect ratio is better for homework
+   - different color for each VP
+** Subdividing and cloning
+   - project height
+   - project width
+   - clone an object
+   - clone into different space
+   - subdividing
+** Inclined planes
+   - horizon in middle
+   - construction method
+   - ? project widths from ground plane to inclined planes
+** Combining forms
+
