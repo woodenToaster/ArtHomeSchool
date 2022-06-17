@@ -5,12 +5,12 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-15 Wed 22:03], for week 2022-W24.
+  #+CAPTION: Clock summary at [2022-06-16 Thu 22:10], for week 2022-W24.
   | Tags     | Headline                              | Time    |       |      |
   |----------+---------------------------------------+---------+-------+------|
-  |          | *Total time*                          | *23:17* |       |      |
+  |          | *Total time*                          | *27:32* |       |      |
   |----------+---------------------------------------+---------+-------+------|
-  |          | Week 1                                | 23:17   |       |      |
+  |          | Week 1                                | 27:32   |       |      |
   |          | \_  <2022-06-13 Mon>                  |         | 10:43 |      |
   | drawing  | \_    VisCom Flash week 4 homework    |         |       | 3:06 |
   | drawing  | \_    FND I week 4 homework           |         |       | 2:09 |
@@ -21,14 +21,17 @@
   | drawing  | \_    PBC week 1 homework             |         |       | 3:53 |
   |          | \_  <2022-06-15 Wed>                  |         |  3:41 |      |
   | drawing  | \_    PBC week 1 homework             |         |       | 3:41 |
+  |          | \_  <2022-06-16 Thu>                  |         |  4:15 |      |
+  | study    | \_    2 year retrospective            |         |       | 0:44 |
+  | drawing  | \_    PBC week 1 homework             |         |       | 3:31 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *17h 43m* |
+  | drawing  | *Tag time* | *21h 14m* |
   |----------+------------+-----------|
-  | study    | *Tag time* | *5h 0m*   |
+  | study    | *Tag time* | *5h 44m*  |
   |----------+------------+-----------|
   | painting | *Tag time* | *0h 34m*  |
   |----------+------------+-----------|
@@ -74,4 +77,14 @@
     :LOGBOOK:
     CLOCK: [2022-06-15 Wed 21:46]--[2022-06-15 Wed 22:03] =>  0:17
     CLOCK: [2022-06-15 Wed 17:54]--[2022-06-15 Wed 21:18] =>  3:24
+    :END:
+** <2022-06-16 Thu>
+*** DONE 2 year retrospective                                         :study:
+    :LOGBOOK:
+    CLOCK: [2022-06-16 Thu 17:30]--[2022-06-16 Thu 18:14] =>  0:44
+    :END:
+*** DONE PBC week 1 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-06-16 Thu 20:37]--[2022-06-16 Thu 22:10] =>  1:33
+    CLOCK: [2022-06-16 Thu 18:15]--[2022-06-16 Thu 20:13] =>  1:58
     :END:
