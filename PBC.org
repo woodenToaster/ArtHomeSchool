@@ -5,7 +5,7 @@
 
 * Week 1
 ** Nero pencil (charcoal and wax)
-** TODO Put introduction in discord
+** DONE Put introduction in discord
 *** art goals
 *** hopes for this class
 ** Course Structure
@@ -62,4 +62,6 @@
    - construction method
    - ? project widths from ground plane to inclined planes
 ** Combining forms
+
+* Week 2
 

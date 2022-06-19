@@ -5,12 +5,12 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-06-17 Fri 21:42], for week 2022-W24.
+  #+CAPTION: Clock summary at [2022-06-18 Sat 21:44], for week 2022-W24.
   | Tags     | Headline                              | Time    |       |      |
   |----------+---------------------------------------+---------+-------+------|
-  |          | *Total time*                          | *31:30* |       |      |
+  |          | *Total time*                          | *40:24* |       |      |
   |----------+---------------------------------------+---------+-------+------|
-  |          | Week 1                                | 31:30   |       |      |
+  |          | Week 1                                | 40:24   |       |      |
   |          | \_  <2022-06-13 Mon>                  |         | 10:43 |      |
   | drawing  | \_    VisCom Flash week 4 homework    |         |       | 3:06 |
   | drawing  | \_    FND I week 4 homework           |         |       | 2:09 |
@@ -26,18 +26,21 @@
   | drawing  | \_    PBC week 1 homework             |         |       | 3:31 |
   |          | \_  <2022-06-17 Fri>                  |         |  3:58 |      |
   | drawing  | \_    PBC week 1 homework             |         |       | 3:58 |
+  |          | \_  <2022-06-18 Sat>                  |         |  8:54 |      |
+  | drawing  | \_    FND week 1 homework             |         |       | 4:01 |
+  | drawing  | \_    FZD perspective week 2          |         |       | 4:53 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
-  | Tag      | Headline   | Time (h)  |
-  |----------+------------+-----------|
-  | drawing  | *Tag time* | *25h 12m* |
-  |----------+------------+-----------|
-  | study    | *Tag time* | *5h 44m*  |
-  |----------+------------+-----------|
-  | painting | *Tag time* | *0h 34m*  |
-  |----------+------------+-----------|
-  | 3D       | *Tag time* | *0h 0m*   |
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *34h 6m* |
+  |----------+------------+----------|
+  | study    | *Tag time* | *5h 44m* |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 34m* |
+  |----------+------------+----------|
+  | 3D       | *Tag time* | *0h 0m*  |
   
   #+END:
 
@@ -94,5 +97,16 @@
 *** DONE PBC week 1 homework                                        :drawing:
     :LOGBOOK:
     CLOCK: [2022-06-17 Fri 17:44]--[2022-06-17 Fri 21:42] =>  3:58
+    :END:
+** <2022-06-18 Sat>
+*** DONE FND week 1 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-06-18 Sat 08:02]--[2022-06-18 Sat 12:03] =>  4:01
+    :END:
+*** DONE FZD perspective week 2                                     :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-06-18 Sat 17:23]--[2022-06-18 Sat 19:08] =>  1:45
+    CLOCK: [2022-06-18 Sat 16:07]--[2022-06-18 Sat 16:12] =>  0:05
+    CLOCK: [2022-06-18 Sat 13:01]--[2022-06-18 Sat 16:04] =>  3:03
     :END:
 
