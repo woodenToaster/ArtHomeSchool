@@ -505,9 +505,9 @@
 **** TODO Environment Design CGMA - James Paick
 ** DONE Digital Painting Fundamentals I
 *** DONE FZD Digital Painting assignments
-** TODO Brainstorm School Summer '22 part 1
-*** TODO FND 1
-*** TODO VisCom Basics
+** DONE Brainstorm School Summer '22 part 1
+*** DONE FND 1
+*** DONE VisCom Basics
 * TODO Term 8
 ** TODO Brainstorm School Summer '22 part 2
 *** TODO FND 1

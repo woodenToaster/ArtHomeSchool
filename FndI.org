@@ -237,3 +237,52 @@
       - 1 to 4 per page
       - Render at least 1
     - Design an original creature skeleton
+* Week 5 <2022-06-19 Sun>
+** Critique
+   - Round the ribs more
+   - Remember perspective recession with eye sockets
+** Lecture
+   - For assignments this week, aim for understanding. "How does this work?"
+   1. components (side view)
+   2. mass and volume
+   3. perspective
+   4. proportions
+   5. weight
+   6. surfacing
+   7. movement
+*** Side views
+    - focus on components, proportions, and features
+    - Repeat side views like thumbnails
+    - no detail
+    - reptiles: angular on top and round on bottom
+*** 3/4 views
+    - construction is 3D
+    - more volume towards head and less towards tail (fish)
+    - Start angular and work towards organic when necessary
+    - understand form in thumbnails before attempting final drawing
+    - draw through to place back legs
+*** Feature studies (face, feet, tail, texture)
+    - study proportions and shapes
+    - lean into animal's specific characteristics
+    - Use hatching in opposite direction to distinguish shadow from local value
+*** Motion
+    - Start with sphere and center line
+    - Use videos for reference
+*** Fully rendered
+    - draw bigger
+    - compose multiple fish in the same scene with correct perspective
+** Homework
+*** TODO Design assignments first
+    - Focus on basic forms and perspective
+    - Even split among birds, reptiles, fish
+    - 3 pages of movement thumbnails
+      - simple
+      - show volume
+      - no rendering
+    - 2 pages rendered
+      - feature studies
+      - side views
+    - Design a creature
+      - mix animals
+      - prehistoric animals
+      - any medium
