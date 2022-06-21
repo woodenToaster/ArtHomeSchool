@@ -272,7 +272,8 @@
     - draw bigger
     - compose multiple fish in the same scene with correct perspective
 ** Homework
-*** TODO Design assignments first
+*** DONE Design assignments first
+    CLOSED: [2022-06-20 Mon 12:56]
     - Focus on basic forms and perspective
     - Even split among birds, reptiles, fish
     - 3 pages of movement thumbnails
