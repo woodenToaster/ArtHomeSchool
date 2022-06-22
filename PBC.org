@@ -64,4 +64,45 @@
 ** Combining forms
 
 * Week 2
+** Warmups
+   - lines at every angle with static page
+     - practice angles that are hardest
+   - connect 3 dots with a smooth curve
+     - curve apex at middle dot
+     - go over three times
+   - ellipses
+     - 3 columns
+     - start with circle, reduce degree 5-10% per ellipse
+     - fat to thin and thin to fat
+   - connected curves
+     - draw first curve, go over 3 times
+     - start back from end of first curve and append an S curve
+     - focus on seamless connection
+     - vary ratio of sides, deep/shallow, orientation
+** Cone of Vision
+   - Sometimes you want distortion, most of the time you don't
+** Pyramids
+   - standard
+   - truncated
+   - normal roof
+   - roof with corners tilted in/out
+   - tiered
+     - over 3 steps, use 3D
+** Curves on rectilinear forms
+   - 3 points, middle is peak
+   - transfer points from one face to another
+   - map out curves with pencil
+** Perfect squares
+   - cut angle in half to find roughtly 45 degree measuring line
+     - not 100% accurate
+** Ellipses
+   - X gives 4 points, then find half way point of each diagonal and come back a bit
+   - Digital method: perfect circle on separate layer. Transform it to align the corners to a perfect square
+** Architecture Breakdowns
+   - Trace photo before starting to understand the forms
+   - leave out unneeded measuring lines
+   - use symmetrical scaling to scale some thickness into the roof
+** Homework
+   - cylinders
+     - do a few the long way
 
