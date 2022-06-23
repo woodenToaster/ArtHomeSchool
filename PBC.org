@@ -106,3 +106,5 @@
    - cylinders
      - do a few the long way
 
+* Week 3
+
