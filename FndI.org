@@ -287,3 +287,26 @@
       - mix animals
       - prehistoric animals
       - any medium
+* Week 6 <2022-06-26 Sun>
+** Critique
+   - Next week work on rotating and posing animals from imagination
+** Lecture
+   - Learn proportions intuitively and from observation rather than measuring
+   - Take simple side view shapes and draw them in 3/4 view
+   - Draw in different perspective from photo
+   - Draw in ground plane
+   - Make feet and toes feel like they're resting on the ground plane
+   - Don't hide any body parts with grass
+   - Pose from imagination using reference
+     - start with marine animals
+     - move to animals on ground plane
+** Homework
+   - 10 pages of animals
+   - 2 pages posed from imagination
+     - simplify
+     - any animal (fish are easiest)
+   - 1 page push rendering
+   - 7 pages of animals in motion
+   - Draw pets!
+   - Optional: add some eviornment or make a scene with multiple animals
+     - check out museum displays
