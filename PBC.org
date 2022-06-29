@@ -3,7 +3,7 @@
 #+DATE: <2022-06-14 Mon> to <2022-07-03 Sun>
 #+STARTUP: nologdone
 
-* Week 1
+* Week 1 <2022-06-14 Tue>
 ** Nero pencil (charcoal and wax)
 ** DONE Put introduction in discord
 *** art goals
@@ -62,8 +62,8 @@
    - construction method
    - ? project widths from ground plane to inclined planes
 ** Combining forms
-
-* Week 2
+   
+* Week 2 <2022-06-21 Tue>
 ** Warmups
    - lines at every angle with static page
      - practice angles that are hardest
@@ -106,5 +106,63 @@
    - cylinders
      - do a few the long way
 
-* Week 3
+* Week 3 <2022-06-28 Tue>
+** Warmups
+*** Practicing accurate angles
+    - draw a vertical line
+    - estimate half way point
+    - draw 90 degree angle
+    - go over it 3 times
+    - bisect horizontal line for 2 45 degree angle
+    - repeat again for 22.5 degree angles
+    - Check with a protractor
+    - Repeat exercise but start at outside and draw towards center point
+    - Fill spokes with ellipses or circles
+    - Can vary initial direction (up, down, left, right)
+*** Complex subdivisions
+    - start with midpoints
+    - adjust to get correct division
+    - do with straight lines and circles
+    - try odd numbered rectangular grid (e.g., 3x5)
+*** Ellipse in planes
+    - draw a perspective plane
+    - find center and center of each side
+    - draw ellipse crossing bisection points
+    - can also estimate midpoints with tick mark
+*** Receding ellipses
+    - draw a long plane in perspective
+    - estimate a perfect square
+    - duplicate it back in perspective
+    - draw ellipses in each square
+    - do vertical and horizontal planes
+*** Ellipses on cube faces
+** Lecture
+*** Arched cutaways
+    - put perfect square half on a block and draw an ellipse
+    - project through to the other side
+    - eyeballing back side saves a lot of time
+*** Spheres
+    - practical method
+      - horizontal square plane
+      - fit ellipse into plane
+*** Domes
+    - For horizontal, make a sphere, then erase bottom half
+    - For vertical, can place in long box for elongated domes
+*** Rotations
+    - 90 degrees at station point to create sets of VPs
+    - Check out Dan Beardshaw's youtube channel on rotations
+*** 3-point Perspective
+*** Brewer Grids
+    - start with desired angles of convergence
+    - for vertical lines, start at center, then progressively add slightly tilted line on each side
+** Homework
+   - draw on brewer grid (except for spheres)
+   - vehicles
+     - stick to blocky vehicles
+     - start with simple breakdown (inventory)
+     - don't focus on proportion
+     - longer lines ensure more accuracy
+     - use 3 axes as minimal grid
+   - at least 1 full sphere construction 
+
 
