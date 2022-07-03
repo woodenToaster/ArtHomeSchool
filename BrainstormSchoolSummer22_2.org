@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 block: 2022-W24 :tags t
-  #+CAPTION: Clock summary at [2022-07-01 Fri 21:39], for Friday, July 01, 2022.
+  #+CAPTION: Clock summary at [2022-07-02 Sat 21:27], for Saturday, July 02, 2022.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -105,7 +105,7 @@
     :END:
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-01 Fri 21:39], for week 2022-W26.
+  #+CAPTION: Clock summary at [2022-07-02 Sat 21:27], for week 2022-W26.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -195,12 +195,12 @@
     :END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-01 Fri 21:39], for week 2022-W26.
+  #+CAPTION: Clock summary at [2022-07-02 Sat 21:27], for week 2022-W26.
   | Tags    | Headline                    | Time    |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | *Total time*                | *31:50* |       |       |
+  |         | *Total time*                | *41:57* |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | Week 3                      | 31:50   |       |       |
+  |         | Week 3                      | 41:57   |       |       |
   |         | \_  <2022-06-27 Mon>        |         | 11:28 |       |
   | drawing | \_    FND I week 6 homework |         |       | 11:28 |
   |         | \_  <2022-06-28 Tue>        |         |  8:12 |       |
@@ -212,12 +212,16 @@
   | drawing | \_    PBC week 3 homework   |         |       |  3:50 |
   |         | \_  <2022-07-01 Fri>        |         |  4:19 |       |
   | drawing | \_    PBC week 3 homework   |         |       |  4:19 |
+  |         | \_  <2022-07-02 Sat>        |         | 10:07 |       |
+  | drawing | \_    FND I week 6 homework |         |       |  7:21 |
+  | drawing | \_    PBC week 3 homework   |         |       |  1:22 |
+  | drawing | \_    Legs                  |         |       |  1:24 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *27h 20m* |
+  | drawing  | *Tag time* | *37h 27m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *4h 30m*  |
   |----------+------------+-----------|
@@ -257,5 +261,21 @@
 *** DONE PBC week 3 homework                                        :drawing:
     :LOGBOOK:
     CLOCK: [2022-07-01 Fri 17:20]--[2022-07-01 Fri 21:39] =>  4:19
+    :END:
+** <2022-07-02 Sat>
+*** DONE FND I week 6 homework                                      :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-07-02 Sat 17:56]--[2022-07-02 Sat 18:22] =>  0:26
+    CLOCK: [2022-07-02 Sat 15:14]--[2022-07-02 Sat 16:14] =>  1:00
+    CLOCK: [2022-07-02 Sat 12:17]--[2022-07-02 Sat 14:35] =>  2:18
+    CLOCK: [2022-07-02 Sat 08:02]--[2022-07-02 Sat 11:39] =>  3:37
+    :END:
+*** DONE PBC week 3 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-07-02 Sat 18:22]--[2022-07-02 Sat 19:44] =>  1:22
+    :END:
+*** DONE Legs                                                       :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-07-02 Sat 20:00]--[2022-07-02 Sat 21:24] =>  1:24
     :END:
 
