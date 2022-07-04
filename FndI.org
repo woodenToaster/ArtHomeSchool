@@ -1,7 +1,7 @@
 #+Title: Brainstorm School FND I
 #+Author: Chris Hogan
 #+Date: <2022-05-15 Sun> -- <2022-07-17 Sun>
-#+Startup: showeverything
+#+Startup: nologdone
 
 * Week 1 <2022-05-15 Sun>
 ** Artists
@@ -310,3 +310,27 @@
    - Draw pets!
    - Optional: add some eviornment or make a scene with multiple animals
      - check out museum displays
+* Week 7 <2022-07-03 Sun>
+** Critique
+   - Fuse shapes together (arm-body attachment)
+   - Add scapular piece to arm
+   - Ridge for eyes instead of wrapping around head
+** Lecture
+   - Start with orthographic views
+   - Draw some boxes in different viewpoints and grid them
+   - Fit the object into the boxes (or extrude from a plane)
+   - Find center lines for extra help
+   - Guess the center first to practice finding it freehand
+   - Double up lines for detail
+   - Try lots of different materials
+   - Rotate sketchfab ref and rotate still images from imagination
+   - Thinner lines on interior for soft/rounded changes/edges
+** Homework
+   - 10 pages of hard surface props with boxes, cylinders, and planes
+   - 7 pages from direct observation
+     - draw same subject from multiple angles (1 or 2 subjects per page)
+     - can try posing from imagination
+   - 1 page invent a prop and rotate
+   - 2 pages from sketchfab or photo reference
+     - multiple angles per object
+* Week 8
