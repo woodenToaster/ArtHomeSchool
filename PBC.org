@@ -166,3 +166,42 @@
    - at least 1 full sphere construction 
 
 
+
+* Week 4 <2022-07-05 Tue>
+** Warmups
+    - straight lines (go over 3 times), even space between them
+      - make a square out of 2 horizontal lines
+      - draw large circle in the square
+      - the point is trying to control a large circle
+      - draw small circles within the large
+      - four corner pieces should be same size
+    - fit a curve into a box
+      - corners should be similar
+      - drop midpoint down and draw another similar curve
+      - repeat
+      - place three dots and connect
+    - same curve exercise but without the initial structure
+    - do other symmetric shapes within shapes
+      - correct each shape before moving to next level
+      - focus on even distances between each shape
+    - free hand compound forms
+      - ~3 shapes per form
+      - a cutaway is also a shape
+** Lecture
+   - Mirrored planes
+     - establish convergence with 2 lines
+     - mirror width over the center line
+     - zoom out to help eyeball angles and distances
+   - Angled mirrored planes
+     - make center plane
+     - make angled plane
+     - clone width of front and back to created mirrored plane
+     - can also extend agles to center line
+   - Angled, slanted mirrored planes
+     - center plane
+     - mirror all 4 points
+   - Mirrored curves
+   - Extrude mirrored curves
+     - digitally, warp the curve into each side of a box and connect
+   - Section drawing
+** Homework
