@@ -206,6 +206,7 @@
 ** TODO The Wolverine
 ** TODO Watchmen
 * Videos
+** Mike Azevedo color in photoshop (artstation)
 ** Jama Jurabayev
 ** James Paick - youtube cgma
 ** Andreas Rocha - youtube environment paintings MTG
@@ -1200,6 +1201,11 @@
 ** Portfolio
 ** All FZD assignments
 ** Brainstorm
+*** Spring 22
+    - CABC
+*** Summer 22
+    - FND1
+    - PBC
 *** Fall 22
     - WB1
     - DC1

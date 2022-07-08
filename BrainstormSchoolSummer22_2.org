@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 block: 2022-W24 :tags t
-  #+CAPTION: Clock summary at [2022-07-06 Wed 21:48], for Wednesday, July 06, 2022.
+  #+CAPTION: Clock summary at [2022-07-07 Thu 21:55], for Thursday, July 07, 2022.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -105,7 +105,7 @@
     :END:
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-06 Wed 21:48], for week 2022-W27.
+  #+CAPTION: Clock summary at [2022-07-07 Thu 21:55], for week 2022-W27.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -195,7 +195,7 @@
     :END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-06 Wed 21:48], for week 2022-W27.
+  #+CAPTION: Clock summary at [2022-07-07 Thu 21:55], for week 2022-W27.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -277,12 +277,12 @@
     :END:
 * Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-06 Wed 21:48], for week 2022-W27.
+  #+CAPTION: Clock summary at [2022-07-07 Thu 21:55], for week 2022-W27.
   | Tags    | Headline                    | Time    |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | *Total time*                | *22:27* |       |       |
+  |         | *Total time*                | *26:25* |       |       |
   |---------+-----------------------------+---------+-------+-------|
-  |         | Week 4                      | 22:27   |       |       |
+  |         | Week 4                      | 26:25   |       |       |
   |         | \_  <2022-07-04 Mon>        |         | 10:56 |       |
   | drawing | \_    FND I week 7 homework |         |       | 10:56 |
   |         | \_  <2022-07-05 Tue>        |         |  7:52 |       |
@@ -291,12 +291,14 @@
   | drawing | \_    FND I week 7 homework |         |       |  0:51 |
   |         | \_  <2022-07-06 Wed>        |         |  3:39 |       |
   | drawing | \_    PBC week 4 homework   |         |       |  3:39 |
+  |         | \_  <2022-07-07 Thu>        |         |  3:58 |       |
+  | drawing | \_    PBC week 4 homework   |         |       |  3:58 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *18h 17m* |
+  | drawing  | *Tag time* | *22h 15m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *4h 10m*  |
   |----------+------------+-----------|
@@ -331,5 +333,10 @@
 *** DONE PBC week 4 homework                                        :drawing:
     :LOGBOOK:
     CLOCK: [2022-07-06 Wed 18:09]--[2022-07-06 Wed 21:48] =>  3:39
+    :END:
+** <2022-07-07 Thu>
+*** DONE PBC week 4 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-07-07 Thu 17:57]--[2022-07-07 Thu 21:55] =>  3:58
     :END:
 
