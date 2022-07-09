@@ -1,0 +1,6 @@
+#+TITLE: Interior Concept Design - Syn Studio - Summer '22
+#+AUTHOR: Chris Hogan
+#+DATE: <2022-07-09 Mon> to <2022-08-10 Sun>
+#+STARTUP: nologdone
+
+* Week 1
