@@ -3,4 +3,110 @@
 #+DATE: <2022-07-09 Mon> to <2022-08-10 Sun>
 #+STARTUP: nologdone
 
+* Project: Medieval Chandler
+** 5 W-questions
+*** Who
+    - Chandler
+    - Name ::
+    - Age ::
+    - Personality Traits ::
+    - Physical Characteristics ::
+*** What
+    - Candle making shop and storefront
+*** When
+    - Middle Ages 1456
+*** Where
+    - London, England :: Worshipful Company of Tallow Chandlers
+*** Why
+    - Candles are the primary source of light at night
+** Description
+   - Candles can be made from tallow (rendered beef fat) or beesewax
+   - Heat the wax in a cauldron
+   - Cotton wicks were dipped in wax
+   - Hang up to dry
+** Inventory
+   - tallow
+   - beesewax
+   - animal fat
+   - cauldron for heating tallow or beesewax
+   - wics
+   - cotton
+   - spinners to make cotton into wics
+   - lanterns
+   - sconces
+   - fire
+   - wood for fire
+   - racks for drying and dipping
+   - storefront window
+** Problems to Solve
+   - Show what life was like for a medieval chandler
+   - How were the wics made?
+** Keywords
+   - Workshop
+** Mood
+   - modest
+
 * Week 1
+** Lecture
+   - Topics
+     - Medieval fantasy
+       - no magic solutions
+       - focus on function
+     - Period pieces
+       - victorian
+       - retro
+     - Present time
+     - Futuristic (not recommended)
+   - How to start
+     - who what when where why
+     - mind map from here off each question
+     - FZD Design Cinema 109
+   - End goals (3 values)
+     - Design value
+       - did it solve the problem?
+     - Art value
+       - Does it look good?
+       - Is it presentable?
+       - Does it communicate clearly?
+     - Entertainment value
+       - Is it interesting and fun?
+   - Designing Interiors
+     - Good base
+       - should be interesting
+       - no box
+     - essentials
+       - basic furniture
+       - generic
+       - built-in
+     - sound
+       - material change
+     - light
+     - animation
+     - story telling
+       - character
+       - culture
+   - Reminders
+     - Think of x,y, and z space
+     - Exploration
+     - Need a main function
+       - clear
+       - interesting
+     - Feature
+       - Primary object of interest
+     - Focal points
+       - primary (most interesting)
+       - secondary (balance the primary FP)
+     - Composition
+       - Rule of thirds
+       - triangle composition connects 3 FPs
+       - Keep eye in the frame
+     - Lighting
+       - contrast
+         - value and hue
+   - Reference board
+     - Make most important images the largest
+     - Outline most important pieces if the whole image doesn't apply
+** Homework
+*** TODO Reference board
+*** TODO Thumbnail sketches (at least 3)
+    - must be readable
