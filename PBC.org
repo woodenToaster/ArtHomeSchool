@@ -166,7 +166,6 @@
    - at least 1 full sphere construction 
 
 
-
 * Week 4 <2022-07-05 Tue>
 ** Warmups
     - straight lines (go over 3 times), even space between them
@@ -204,4 +203,8 @@
    - Extrude mirrored curves
      - digitally, warp the curve into each side of a box and connect
    - Section drawing
+** Homework
+* Week 5 <2022-07-12 Tue>
+** Warmups
+** Lecture
 ** Homework
