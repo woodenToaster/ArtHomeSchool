@@ -14,7 +14,7 @@
 *** What
     - Candle making shop and storefront
 *** When
-    - Middle Ages 1456
+    - 1462
 *** Where
     - London, England :: Worshipful Company of Tallow Chandlers
 *** Why
@@ -45,7 +45,7 @@
    - Workshop
 ** Mood
    - modest
-
+     
 * Week 1
 ** Lecture
    - Topics
