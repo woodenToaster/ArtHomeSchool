@@ -46,7 +46,8 @@
 ** Mood
    - modest
      
-* Week 1
+
+* Week 1 <2022-07-09 Sat>
 ** Lecture
    - Topics
      - Medieval fantasy
@@ -110,3 +111,21 @@
 *** TODO Reference board
 *** TODO Thumbnail sketches (at least 3)
     - must be readable
+* Week 2 <2022-07-16 Sat>
+** Critique
+   - base too blocky on 1
+   - label everything
+   - 2nd floor fireplace doesn't work
+   - more interesting footprint 
+     - design in top view with basic shapes (circle, triangle, square)
+   - decide on focal point
+   - single function
+   - label sketches 1,2,3...
+   - need to understand the props
+   - don't block important designs with walls
+   - composition
+   - flow of eye
+   - rotate some objects so not everything is 90 degrees
+   - "What does a ... have/need?"
+** Homework
+   - 3 more sketches, taking feedback into account

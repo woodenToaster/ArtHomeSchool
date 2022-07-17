@@ -216,68 +216,68 @@
    - fit curves into a rectangle
    - fit curves into a perspective plane, with and without mirroring points
 ** Lecture
-  - Composition
-  - Every aspect should be different from every other aspect
-  - Make no two intervals the same
-  - Make a composition checklist
-    - value
-    - color
-    - shape
-    - line weight
-  - Structure
-    - physical spacing
-    - dimensions
-    - geometry
-  - Shape
-    - structure plus subject matter
-  - Templates
-    - Edgar Payne
-    - Choose one and try to make a piece based on it
-  - FG
-    - establish scale and viewer position
-  - MG
-    - main subject matter
-  - BG
-    - context
-  - Visual Flow
-    - eye movement through the image
-    - start a piece with a visual flow map
-  - Scale in Environments
-    - Think of the categories as a hierarchy of importance
-    - Big
-      - simple
-      - 3d
-      - structural
-      - 3 to 5 large forms
-      - zoom out to help identify these
-    - Medium
-      - piece or component of a big form
-      - 3d
-      - structural
-      - 10 to 20
-    - Small
-      - textures
-      - details
-      - decorations
-      - anything flat
-      - 40 and above
-      - lack of small details is what makes a piece look empty
-        - separates a perspective drawing from a "real" drawing
-  - Draw in the order big, medium, small
-    - Lay in everything as boxes
-    - Use perspective for large and medium
-  - Draw window details out flat and then distort them into perspective
-  - Build a library of 2D assets for details
-  - Draw floor plan view and distort into perspective floor plane
-    - works well with rotated objects
-  - Camera angle exercise
-    - Rotate camera of a reference image
-    - Can use handmade grid, 3d grid, or floor plan method
-    - Frame after blocking in big and medium shapes.
-      - Focus on pleasing composition with frame
-  - Start with photo block-in, then adapt to your own world/idea
-    - Trace big forms from photo
-    - Choose different setting/reference for medium and small shapes
+*** Composition
+   - Every aspect should be different from every other aspect
+   - Make no two intervals the same
+   - Make a composition checklist
+     - value
+     - color
+     - shape
+     - line weight
+   - Structure
+     - physical spacing
+     - dimensions
+     - geometry
+   - Shape
+     - structure plus subject matter
+   - Templates
+     - Edgar Payne
+     - Choose one and try to make a piece based on it
+   - FG
+     - establish scale and viewer position
+   - MG
+     - main subject matter
+   - BG
+     - context
+   - Visual Flow
+     - eye movement through the image
+     - start a piece with a visual flow map
+   - Scale in Environments
+     - Think of the categories as a hierarchy of importance
+     - Big
+       - simple
+       - 3d
+       - structural
+       - 3 to 5 large forms
+       - zoom out to help identify these
+     - Medium
+       - piece or component of a big form
+       - 3d
+       - structural
+       - 10 to 20
+     - Small
+       - textures
+       - details
+       - decorations
+       - anything flat
+       - 40 and above
+       - lack of small details is what makes a piece look empty
+         - separates a perspective drawing from a "real" drawing
+   - Draw in the order big, medium, small
+     - Lay in everything as boxes
+     - Use perspective for large and medium
+   - Draw window details out flat and then distort them into perspective
+   - Build a library of 2D assets for details
+   - Draw floor plan view and distort into perspective floor plane
+     - works well with rotated objects
+   - Camera angle exercise
+     - Rotate camera of a reference image
+     - Can use handmade grid, 3d grid, or floor plan method
+     - Frame after blocking in big and medium shapes.
+       - Focus on pleasing composition with frame
+   - Start with photo block-in, then adapt to your own world/idea
+     - Trace big forms from photo
+     - Choose different setting/reference for medium and small shapes
 ** Homework
    - shot exercise
    - Check out floating complex curve video
