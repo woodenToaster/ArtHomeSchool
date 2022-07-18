@@ -367,3 +367,28 @@
     - Convert to pure black and white
     - Dodge in midtones to get rid of page texture
     - Bring back highlights (optional)
+* Week 9 <2022-07-17 Sun>
+** Critique
+   - Render some vehicles for final
+** Lecture
+   - broken lines for features
+   - start with small lines and build up slowly using line economy
+   - progression for faces
+     - basic block
+     - loomis
+     - realistic 3d model
+     - portrait 3 value study (black and grey on white paper)
+** Homework
+   - finish final project
+     - min 6 pages
+   - 2 pages of rotations
+     - 1 of different heads
+     - 1 with same heads
+   - 1 page rendered portraits
+   - ballpoint pen is okay this week
+   - focus on proportions, feature placement, and symmetry, not likeness
+   - check out portraits by sergio toppi and leyendecker
+   
+* Week 10
+** Critique
+** Lecture
