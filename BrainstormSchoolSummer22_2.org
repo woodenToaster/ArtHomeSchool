@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 block: 2022-W24 :tags t
-  #+CAPTION: Clock summary at [2022-07-19 Tue 22:05], for Tuesday, July 19, 2022.
+  #+CAPTION: Clock summary at [2022-07-20 Wed 21:59], for Wednesday, July 20, 2022.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -105,7 +105,7 @@
     :END:
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-19 Tue 22:05], for week 2022-W29.
+  #+CAPTION: Clock summary at [2022-07-20 Wed 21:59], for week 2022-W29.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -195,7 +195,7 @@
     :END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-19 Tue 22:05], for week 2022-W29.
+  #+CAPTION: Clock summary at [2022-07-20 Wed 21:59], for week 2022-W29.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -277,7 +277,7 @@
     :END:
 * Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-19 Tue 22:05], for week 2022-W29.
+  #+CAPTION: Clock summary at [2022-07-20 Wed 21:59], for week 2022-W29.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -374,7 +374,7 @@
     :END:
 * Week 5
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-19 Tue 22:05], for week 2022-W29.
+  #+CAPTION: Clock summary at [2022-07-20 Wed 21:59], for week 2022-W29.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -463,23 +463,25 @@
     :END:
 * Week 6
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2022-07-19 Tue 22:05], for week 2022-W29.
+  #+CAPTION: Clock summary at [2022-07-20 Wed 21:59], for week 2022-W29.
   | Tags    | Headline                  | Time    |       |       |
   |---------+---------------------------+---------+-------+-------|
-  |         | *Total time*              | *16:20* |       |       |
+  |         | *Total time*              | *20:17* |       |       |
   |---------+---------------------------+---------+-------+-------|
-  |         | Week 6                    | 16:20   |       |       |
+  |         | Week 6                    | 20:17   |       |       |
   |         | \_  <2022-07-18 Mon>      |         | 11:50 |       |
   | drawing | \_    PBC week 5          |         |       | 11:50 |
   |         | \_  <2022-07-19 Tue>      |         |  4:30 |       |
   | drawing | \_    PBC week 5          |         |       |  0:45 |
   |         | \_    ICD week 2 :drawing |         |       |  3:45 |
+  |         | \_  <2022-07-20 Wed>      |         |  3:57 |       |
+  | drawing | \_    ICD week 2          |         |       |  3:57 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *12h 35m* |
+  | drawing  | *Tag time* | *16h 32m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
@@ -503,5 +505,10 @@
 *** DONE ICD week 2 :drawing
     :LOGBOOK:
     CLOCK: [2022-07-19 Tue 18:20]--[2022-07-19 Tue 22:05] =>  3:45
+    :END:
+** <2022-07-20 Wed>
+*** DONE ICD week 2                                                 :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-07-20 Wed 18:02]--[2022-07-20 Wed 21:59] =>  3:57
     :END:
 
