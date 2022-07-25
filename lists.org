@@ -34,7 +34,7 @@
 *** Fundamentals of drawing - Mogilevtsev
 *** Drawing Lessons from the Great Masters - Robert Hale
 *** Vilppu Drawing Manual - Glenn Vilppu
-*** Imaginative Realism - James Gurney
+*** DONE Imaginative Realism - James Gurney
 *** The Natural Way to Draw - Kimon Nicolaides (for developing the sensitivity of an artist)
 *** Andrew Loomis
 **** Fun With a Pencil
@@ -98,7 +98,8 @@
 *** DONE Force: Drawing Human Anatomy
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
-*** Drawing perspective: how to see it and how to apply it - Brehm
+*** Space drawing: perspective - Dongho Kim
+*** DONE Drawing perspective: how to see it and how to apply it - Brehm
 *** Sketching: The Basics
 *** Creative Perspective for Artists and Illustrators - Ernest Watson
 *** DONE Framed Perspective Vol I - Marcos mateu-Mestre
@@ -108,19 +109,19 @@
 *** DONE Perspective Made Easy - Earnest Norling
 ** Ink
 *** Rendering in pen and ink - Guptill
-*** Pen and Ink Drawing - Alphonso Dunn (Library)
+*** DONE Pen and Ink Drawing - Alphonso Dunn (Library)
 *** DONE Pen and Ink Techniques - Frank Lohan
 *** DONE The DC Guide to Inking comics
 *** DONE The Complete Art of Comic Book Inking - Gary Martin
 ** Light and Value
-*** Color and Light (geared torward painting) - James Gurney
+*** DONE Color and Light (geared torward painting) - James Gurney
 *** Dynamic Light and Shading - Burne Hogarth 
-*** How to Render - Robertson
+*** DONE How to Render - Robertson
 *** Light for Visual Artists - Yot
 *** Lessons on Shading - Sparkes
 ** Painting
 *** The Painterly Approach - Bob Rohm
-*** The Simple Secret to Better Painting - Gregg Albert
+*** DONE The Simple Secret to Better Painting - Gregg Albert
 *** Fundamentals of painting - Mogilevtsev
 *** Hawthorne on Painting
 *** DONE Alla Prima - Richard Schmid
@@ -150,13 +151,11 @@
 *** Linchpin - Seth Goden
     - Art and business mix
 *** The Practice: Shipping Creative Work - Seth Goden
-*** Practicing: A Musician's Return to Music - Glenn Kurtz (library)
 *** Osprey Medieval reference books
 *** The Skilled Huntsman
 *** Concept Art Books
 *** Antifragile
 *** The Mind Map Book
-*** The Artist's Way
 *** Eternal Truths for Every Artist
 *** Fishing for Elephants
 *** The Surrender Experiment - Alan Singer
@@ -167,6 +166,8 @@
 *** Mastery: Greene
 *** Mindworks - Gary van Warmerdam
 *** Chasing Love - Ray Bradberry
+*** DONE The Artist's Way
+*** DONE Practicing: A Musician's Return to Music - Glenn Kurtz (library)
 *** DONE Deep Work - Cal Newport
 *** DONE The Creative Habit - Twyla Tharp
 *** DONE The Talent Code
@@ -176,6 +177,10 @@
 *** DONE The Happiness Trap (depression)
 *** DONE The Art Spirit - Robert Henri (Hoopla)
 *** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
+* Ref
+** Pixelquid.com - 3d photos
+** unsplash
+** met museum
 * Fiction
 ** The Once and Future King - T.H. White
    - Inspired the sword and the stone
