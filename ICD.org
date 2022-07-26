@@ -1,0 +1,169 @@
+#+TITLE: Interior Concept Design - Syn Studio - Summer '22
+#+AUTHOR: Chris Hogan
+#+DATE: <2022-07-09 Mon> to <2022-08-10 Sun>
+#+STARTUP: nologdone
+
+* Project: Medieval Chandler
+** 5 W-questions
+*** Who
+    - Chandler
+    - Name ::
+    - Age ::
+    - Personality Traits ::
+    - Physical Characteristics ::
+*** What
+    - Candle making shop and storefront
+*** When
+    - 1462
+*** Where
+    - London, England :: Worshipful Company of Tallow Chandlers
+*** Why
+    - Candles are the primary source of light at night
+** Description
+   - Candles can be made from tallow (rendered beef fat) or beesewax
+   - Heat the wax in a cauldron
+   - Cotton wicks were dipped in wax
+   - Hang up to dry
+** Inventory
+   - tallow
+   - beesewax
+   - animal fat
+   - cauldron for heating tallow or beesewax
+   - wics
+   - cotton
+   - spinners to make cotton into wics
+   - lanterns
+   - sconces
+   - fire
+   - wood for fire
+   - racks for drying and dipping
+   - storefront window
+** Problems to Solve
+   - Show what life was like for a medieval chandler
+   - How were the wics made?
+** Keywords
+   - Workshop
+** Mood
+   - modest
+     
+
+* Week 1 <2022-07-09 Sat>
+** Lecture
+   - Topics
+     - Medieval fantasy
+       - no magic solutions
+       - focus on function
+     - Period pieces
+       - victorian
+       - retro
+     - Present time
+     - Futuristic (not recommended)
+   - How to start
+     - who what when where why
+     - mind map from here off each question
+     - FZD Design Cinema 109
+   - End goals (3 values)
+     - Design value
+       - did it solve the problem?
+     - Art value
+       - Does it look good?
+       - Is it presentable?
+       - Does it communicate clearly?
+     - Entertainment value
+       - Is it interesting and fun?
+   - Designing Interiors
+     - Good base
+       - should be interesting
+       - no box
+     - essentials
+       - basic furniture
+       - generic
+       - built-in
+     - sound
+       - material change
+     - light
+     - animation
+     - story telling
+       - character
+       - culture
+   - Reminders
+     - Think of x,y, and z space
+     - Exploration
+     - Need a main function
+       - clear
+       - interesting
+     - Feature
+       - Primary object of interest
+     - Focal points
+       - primary (most interesting)
+       - secondary (balance the primary FP)
+     - Composition
+       - Rule of thirds
+       - triangle composition connects 3 FPs
+       - Keep eye in the frame
+     - Lighting
+       - contrast
+         - value and hue
+   - Reference board
+     - Make most important images the largest
+     - Outline most important pieces if the whole image doesn't apply
+** Homework
+*** TODO Reference board
+*** TODO Thumbnail sketches (at least 3)
+    - must be readable
+* Week 2 <2022-07-16 Sat>
+** Critique
+   - base too blocky on 1
+   - label everything
+   - 2nd floor fireplace doesn't work
+   - more interesting footprint 
+     - design in top view with basic shapes (circle, triangle, square)
+   - decide on focal point
+   - single function
+   - label sketches 1,2,3...
+   - need to understand the props
+   - don't block important designs with walls
+   - composition
+   - flow of eye
+   - rotate some objects so not everything is 90 degrees
+   - "What does a ... have/need?"
+** Homework
+   - 3 more sketches, taking feedback into account
+* Week 3 <2022-07-23 Sat>
+** Critique
+*** Other students
+    - don't block pathways or entrances with objects
+    - condense room into more compact space so you have fewer blank spots
+    - foreground objects get higher priority
+    - no repetition of furniture
+    - keep 3d modeler in mind. They must be able to understand everything.
+    - minimize straight lines
+*** Me
+    - MAKE NO TWO INTERVALS THE SAME!!!
+      - analyze everthing in the image with this rule in mind
+    - 1
+      - improve layout of candle racks in sales area
+      - candle shelves are too basic
+      - more candle variation
+      - partition areas of the room better
+      - keep customers out of shop
+      - move back stairs further away from front
+      - ref for windows and wall materials
+      - split focal points around. currently weighted to the left
+    - 2
+      - organic wall cutaway
+      - racks more flush to wall
+      - front desk is too long straight line.
+      - break siloutte with candles
+      - props for sales area
+      - make space smaller
+      - need to counter focal point
+    - 3
+      - big, medium, small candles
+      - copy paste, but do slight mods on each paste
+      - flag and shop name on exterior
+        
+** Homework
+   - start 3d
+   - can I combine the composition of #3 with elements from #1?
+   - reference every prop
