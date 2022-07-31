@@ -47,6 +47,60 @@
    - modest
      
 
+* TODO List
+** 3D
+   - [X] dipper handle
+   - [X] dry racks
+   - [ ] scraper
+   - [ ] medieval spinning wheel
+   - [X] candle holders on wall
+   - [X] table candles
+   - [X] crest
+   - [X] carpet
+   - [X] door mat
+   - [X] broom
+   - [X] barrels
+   - [X] step stool (small ladder)
+   - [X] pole arm
+   - [X] books
+   - [X] ink and quill
+   - [X] shutters for windows
+   - [ ] redo right dipper candles
+** Drawing
+   - [ ] floor wax
+** Design
+   - [ ] how does dipper go up and down?
+   - [ ] dipper ropes
+   - [ ] chimney
+   - [ ] outdoor chimney
+   - [ ] candle varieties
+   - [ ] stone stairs
+   - [ ] right dipper
+** Things to check
+   - [ ] height of everything
+   - [ ] is there a walk path?
+   - [X] adjust shop window height
+   - [X] try 24 mm lens
+
+* One Rule of Composition Checklist
+** Value
+   - not too much contrast
+   - Big, medium, small
+** Color
+   - Big, medium, small
+** Shape
+   - Big, medium, small
+** Drawing
+   - Line weight
+   - Level of detail
+** Composition
+   - Focal points
+   - Eye movement
+   - 1st, 2nd, and 3rd level details
+   - path of movement
+   - no tangents
+
+
 * Week 1 <2022-07-09 Sat>
 ** Lecture
    - Topics
@@ -167,3 +221,21 @@
    - start 3d
    - can I combine the composition of #3 with elements from #1?
    - reference every prop
+
+* Week 4 <2022-07-30 Sat>
+** Critique
+   - Try 24 mm
+   - Don't turn in raw 3D. Sketch as much as possible to communicate idea.
+   - Design focal points first, then other details if there's time
+   - Check for walkable pathway through the scene
+   - Check for tangents
+   - Have clusters of details instead of filling in evenly
+   - Variation in chimney design
+   - zoom out
+** Homework
+   - Continue 3D
+   - Design focal points, then everything else as time permits
+* Week 5
+** Questions
+   - Do you render at a high resolution, or scale up in photoshop?
+   - What to do about shadows and light direction?
