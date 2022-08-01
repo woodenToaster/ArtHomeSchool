@@ -51,8 +51,6 @@
 ** 3D
    - [X] dipper handle
    - [X] dry racks
-   - [ ] scraper
-   - [ ] medieval spinning wheel
    - [X] candle holders on wall
    - [X] table candles
    - [X] crest
@@ -65,22 +63,59 @@
    - [X] books
    - [X] ink and quill
    - [X] shutters for windows
-   - [ ] redo right dipper candles
+   - [X] redo right dipper candles
+   - [X] price board
+   - [X] hanging candles in shop area
+   - [X] slot where shop shutters close
+   - [X] shallow dish for wicks
+   - [X] cutting board for tallow
+   - [X] spokes for candle wheel
+   - [X] redo wheel candles
+   - [X] rotate cauldron to show handles
+   - [X] add decorative element to vat
+   - [X] decorate central pillar
+   - [X] add fireplace hole
+   - [X] medieval spinning wheel
+   - [X] axe angle
+   - [X] shield lines not visible in render
+   - [X] stagger height of candle racks in shop
+   - [X] candles hanging in shop window
+   - [X] candles on shop table
+   - [X] pole arm
+   - [X] fireplace tools
+     - [X] poker
+     - [X] shovel
+     - [X] tongs
+   - [ ] fireplace
+     - [ ] vents in fireplace
+     - [ ] move external fireplace hole down
+   - [-] dipper
+     - [X] resize dipper pillars
+     - [ ] decorate dipper pillars
+     - [ ] dipper ropes and gears
+   - [ ] wicks
+   - [ ] scraper
+   - [ ] dust pan
 ** Drawing
    - [ ] floor wax
+   - [ ] dipper straps
+   - [ ] candle variations
 ** Design
    - [ ] how does dipper go up and down?
-   - [ ] dipper ropes
    - [ ] chimney
-   - [ ] outdoor chimney
-   - [ ] candle varieties
+   - [X] outdoor chimney
+   - [X] candle varieties
    - [ ] stone stairs
-   - [ ] right dipper
+   - [X] right dipper
+   - [ ] what goes in the dome?
+   - [ ] dome support
 ** Things to check
    - [ ] height of everything
    - [ ] is there a walk path?
    - [X] adjust shop window height
    - [X] try 24 mm lens
+** Potential problems
+   - [ ] hanging candles are blocking the path up the steps
 
 * One Rule of Composition Checklist
 ** Value

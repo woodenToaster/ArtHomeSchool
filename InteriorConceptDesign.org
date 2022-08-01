@@ -5,12 +5,12 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W30 :tags t
-  #+CAPTION: Clock summary at [2022-07-30 Sat 22:01], for week 2022-W30.
+  #+CAPTION: Clock summary at [2022-07-31 Sun 21:17], for week 2022-W30.
   | Tags    | Headline                    | Time    |       |      |
   |---------+-----------------------------+---------+-------+------|
-  |         | *Total time*                | *38:50* |       |      |
+  |         | *Total time*                | *47:18* |       |      |
   |---------+-----------------------------+---------+-------+------|
-  |         | Week 1                      | 38:50   |       |      |
+  |         | Week 1                      | 47:18   |       |      |
   |         | \_  <2022-07-25 Mon>        |         | 11:25 |      |
   | 3D      | \_    ICD week 3            |         |       | 8:56 |
   | drawing | \_    ICD week 3            |         |       | 2:29 |
@@ -31,18 +31,22 @@
   | study   | \_    ICD week 4            |         |       | 3:10 |
   | 3D      | \_    ICD week 4            |         |       | 5:23 |
   | drawing | \_    ICD week 4            |         |       | 1:29 |
+  |         | \_  <2022-07-31 Sun>        |         |  8:28 |      |
+  | 3D      | \_    ICD week 4            |         |       | 7:04 |
+  | drawing | \_    ICD week 4            |         |       | 0:57 |
+  | study   | \_    blog                  |         |       | 0:27 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *8h 8m*   |
+  | drawing  | *Tag time* | *9h 5m*   |
   |----------+------------+-----------|
-  | study    | *Tag time* | *4h 31m*  |
+  | study    | *Tag time* | *4h 58m*  |
   |----------+------------+-----------|
   | painting | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | 3D       | *Tag time* | *26h 11m* |
+  | 3D       | *Tag time* | *33h 15m* |
   
   #+END:
 
@@ -115,4 +119,20 @@
     :LOGBOOK:
     CLOCK: [2022-07-30 Sat 21:04]--[2022-07-30 Sat 22:01] =>  0:57
     CLOCK: [2022-07-30 Sat 14:21]--[2022-07-30 Sat 14:53] =>  0:32
+    :END:
+** <2022-07-31 Sun>
+*** DONE ICD week 4                                                      :3D:
+    :LOGBOOK:
+    CLOCK: [2022-07-31 Sun 18:25]--[2022-07-31 Sun 19:51] =>  1:26
+    CLOCK: [2022-07-31 Sun 12:30]--[2022-07-31 Sun 14:56] =>  2:26
+    CLOCK: [2022-07-31 Sun 09:54]--[2022-07-31 Sun 12:00] =>  2:06
+    CLOCK: [2022-07-31 Sun 07:56]--[2022-07-31 Sun 09:02] =>  1:06
+    :END:
+*** DONE ICD week 4                                                 :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-07-31 Sun 19:53]--[2022-07-31 Sun 20:50] =>  0:57
+    :END:
+*** DONE blog                                                         :study:
+    :LOGBOOK:
+    CLOCK: [2022-07-31 Sun 20:50]--[2022-07-31 Sun 21:17] =>  0:27
     :END:
