@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W30 :tags t
-  #+CAPTION: Clock summary at [2022-07-31 Sun 21:17], for week 2022-W30.
+  #+CAPTION: Clock summary at [2022-08-01 Mon 22:00], for week 2022-W30.
   | Tags    | Headline                    | Time    |       |      |
   |---------+-----------------------------+---------+-------+------|
   |         | *Total time*                | *47:18* |       |      |
@@ -135,4 +135,42 @@
 *** DONE blog                                                         :study:
     :LOGBOOK:
     CLOCK: [2022-07-31 Sun 20:50]--[2022-07-31 Sun 21:17] =>  0:27
+    :END:
+
+* Week 2
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W31 :tags t
+  #+CAPTION: Clock summary at [2022-08-01 Mon 22:00], for week 2022-W31.
+  | Tags    | Headline             | Time   |      |      |
+  |---------+----------------------+--------+------+------|
+  |         | *Total time*         | *5:58* |      |      |
+  |---------+----------------------+--------+------+------|
+  |         | Week 2               | 5:58   |      |      |
+  |         | \_  <2022-08-01 Mon> |        | 5:58 |      |
+  | 3D      | \_    ICD week 4     |        |      | 4:41 |
+  | drawing | \_    ICD week 4     |        |      | 1:17 |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *1h 17m* |
+  |----------+------------+----------|
+  | study    | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | 3D       | *Tag time* | *4h 41m* |
+  
+  #+END:
+
+** <2022-08-01 Mon>
+*** DONE ICD week 4                                                      :3D:
+    :LOGBOOK:
+    CLOCK: [2022-08-01 Mon 17:54]--[2022-08-01 Mon 20:43] =>  2:49
+    CLOCK: [2022-08-01 Mon 15:31]--[2022-08-01 Mon 16:16] =>  0:45
+    CLOCK: [2022-08-01 Mon 07:44]--[2022-08-01 Mon 08:51] =>  1:07
+    :END:
+*** DONE ICD week 4                                                 :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-08-01 Mon 20:43]--[2022-08-01 Mon 22:00] =>  1:17
     :END:
