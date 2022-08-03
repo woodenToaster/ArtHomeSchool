@@ -111,11 +111,13 @@
 ** Things to check
    - [ ] height of everything
    - [ ] is there a walk path?
+   - [ ] try more of a bird's eye view
    - [X] adjust shop window height
    - [X] try 24 mm lens
 ** Potential problems
    - [ ] hanging candles are blocking the path up the steps
    - [ ] what goes in the dome?
+   - [ ] can't get both the store front and the details of FP 1
 
 * One Rule of Composition Checklist
 ** Value
@@ -274,3 +276,4 @@
 ** Questions
    - Do you render at a high resolution, or scale up in photoshop?
    - What to do about shadows and light direction?
+   - Best render settings for a base to draw over?
