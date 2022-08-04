@@ -118,7 +118,7 @@
    - [ ] hanging candles are blocking the path up the steps
    - [ ] what goes in the dome?
    - [ ] can't get both the store front and the details of FP 1
-
+     
 * One Rule of Composition Checklist
 ** Value
    - not too much contrast
