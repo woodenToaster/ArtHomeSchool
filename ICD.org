@@ -96,18 +96,20 @@
    - [X] wicks
    - [X] scraper
    - [X] dust pan
+   - [X] fix wax bucket texture
+   - [X] fix materials on candle dipper holders
 ** Drawing
    - [X] floor wax
    - [X] dipper straps
    - [ ] candle variations
 ** Design
-   - [ ] chimney
-   - [ ] dome support
-   - [ ] stone stairs
+   - [X] chimney
+   - [X] stone stairs
    - [X] outdoor chimney
    - [X] candle varieties
    - [X] right dipper
    - [X] how does dipper go up and down?
+   - [ ] dome support
 ** Things to check
    - [ ] height of everything
    - [ ] is there a walk path?
