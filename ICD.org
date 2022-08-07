@@ -112,15 +112,22 @@
    - [ ] dome support
 ** Things to check
    - [ ] height of everything
-   - [ ] is there a walk path?
-   - [ ] try more of a bird's eye view
+   - [X] is there a walk path?
+   - [X] try more of a bird's eye view
    - [X] adjust shop window height
    - [X] try 24 mm lens
 ** Potential problems
    - [ ] hanging candles are blocking the path up the steps
    - [ ] what goes in the dome?
    - [ ] can't get both the store front and the details of FP 1
-     
+** Schedule
+   - week 6 :: final 3D model and line drawing
+   - week 7 :: painting
+   - week 8 :: painting
+   - week 9 :: painting
+   - week 10 :: presentation
+
+
 * One Rule of Composition Checklist
 ** Value
    - not too much contrast
@@ -274,8 +281,43 @@
 ** Homework
    - Continue 3D
    - Design focal points, then everything else as time permits
-* Week 5
+* Week 5 <2022-08-06 Sat>
+** Critique
+   - sometimes things need to be scaled up to read well in the piece
+   - Linework shows inent and can hide rendering trouble
+   - Too high contrast
+   - transition stone to wood
+   - fix roof
+   - dome and floor merge together
+   - design candle holder beams
+   - more interesting dipper structure
+   - wood was hard to cut straight, curled logs
+   - material change to break up areas of the same material
+** Homework
+   - [X] remove all materials
+   - [X] make a plan for the final 5 classes
+   - [ ] one rule of composition checklist
+   - [-] modeling
+     - [X] roof
+     - [X] front roof corner piece
+     - [X] try 16x9 at 300 dpi 4800x2700 = 1.77
+     - [X] design candle holder beams
+     - [X] reduce number of candles and increase thickness
+     - [ ] more interesting dipper stucture
+     - [ ] make dipper bigger
+     - [ ] chimney
+     - [ ] windows to light the FPs instead of candles?
+     - [ ] break up long stretches of same materials
+     - [ ] separate dome and floor
+   - [ ] line drawing
+     - [ ] wood beams should be misshapen
+     - [ ] test with freestyle render
+     - [ ] transition stone to wood
+     - [ ] base
+     - [ ] line weight FP
+     - [ ] details FP out
 ** Questions
-   - Do you render at a high resolution, or scale up in photoshop?
-   - What to do about shadows and light direction?
-   - Best render settings for a base to draw over?
+   - [X] Do you render at a high resolution, or scale up in photoshop?
+   - [X] What to do about shadows and light direction?
+   - [X] Best render settings for a base to draw over?
+   - [X] sketchup -> linework -> painting vs. blender render with materials
