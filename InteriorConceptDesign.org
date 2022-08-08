@@ -3,9 +3,13 @@
 #+DATE: <2022-07-24 Mon> to <2022-09-11 Sun>
 #+STARTUP: nologdone
 
+prior 42
+w1 41
+w2 32
+
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W30 :tags t
-  #+CAPTION: Clock summary at [2022-08-06 Sat 21:53], for week 2022-W30.
+  #+CAPTION: Clock summary at [2022-08-07 Sun 21:03], for week 2022-W30.
   | Tags    | Headline                    | Time    |       |      |
   |---------+-----------------------------+---------+-------+------|
   |         | *Total time*                | *47:18* |       |      |
@@ -139,12 +143,12 @@
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W31 :tags t
-  #+CAPTION: Clock summary at [2022-08-06 Sat 21:53], for week 2022-W31.
+  #+CAPTION: Clock summary at [2022-08-07 Sun 21:03], for week 2022-W31.
   | Tags    | Headline                             | Time    |       |      |
   |---------+--------------------------------------+---------+-------+------|
-  |         | *Total time*                         | *37:29* |       |      |
+  |         | *Total time*                         | *47:15* |       |      |
   |---------+--------------------------------------+---------+-------+------|
-  |         | Week 2                               | 37:29   |       |      |
+  |         | Week 2                               | 47:15   |       |      |
   |         | \_  <2022-08-01 Mon>                 |         |  5:58 |      |
   | 3D      | \_    ICD week 4                     |         |       | 4:41 |
   | drawing | \_    ICD week 4                     |         |       | 1:17 |
@@ -166,18 +170,22 @@
   | study   | \_    ICD week 5                     |         |       | 3:10 |
   | 3D      | \_    ICD week 5                     |         |       | 6:57 |
   | drawing | \_    ICD week 5                     |         |       | 0:48 |
+  |         | \_  <2022-08-07 Sun>                 |         |  9:46 |      |
+  | 3D      | \_    ICD week 5                     |         |       | 7:36 |
+  | drawing | \_    ICD week 5                     |         |       | 1:43 |
+  | study   | \_    Blog                           |         |       | 0:27 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *8h 32m*  |
+  | drawing  | *Tag time* | *10h 15m* |
   |----------+------------+-----------|
-  | study    | *Tag time* | *9h 43m*  |
+  | study    | *Tag time* | *10h 10m* |
   |----------+------------+-----------|
   | painting | *Tag time* | *0h 0m*   |
   |----------+------------+-----------|
-  | 3D       | *Tag time* | *19h 14m* |
+  | 3D       | *Tag time* | *26h 50m* |
   
   #+END:
 
@@ -251,3 +259,40 @@
     :LOGBOOK:
     CLOCK: [2022-08-06 Sat 21:05]--[2022-08-06 Sat 21:53] =>  0:48
     :END:
+** <2022-08-07 Sun>
+*** DONE ICD week 5                                                      :3D:
+    :LOGBOOK:
+    CLOCK: [2022-08-07 Sun 17:35]--[2022-08-07 Sun 18:49] =>  1:14
+    CLOCK: [2022-08-07 Sun 12:38]--[2022-08-07 Sun 15:00] =>  2:22
+    CLOCK: [2022-08-07 Sun 07:59]--[2022-08-07 Sun 11:59] =>  4:00
+    :END:
+*** DONE ICD week 5                                                 :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-08-07 Sun 18:49]--[2022-08-07 Sun 20:32] =>  1:43
+    :END:
+*** DONE Blog                                                         :study:
+    :LOGBOOK:
+    CLOCK: [2022-08-07 Sun 20:32]--[2022-08-07 Sun 20:59] =>  0:27
+    :END:
+
+* Week 3
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W32 :tags t
+  #+CAPTION: Clock summary at [2022-08-07 Sun 21:03], for week 2022-W32.
+  | Tags | Headline     | Time   |
+  |------+--------------+--------|
+  |      | *Total time* | *0:00* |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | study    | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | painting | *Tag time* | *0h 0m*  |
+  |----------+------------+----------|
+  | 3D       | *Tag time* | *0h 0m*  |
+  
+  #+END:
+

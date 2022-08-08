@@ -101,7 +101,6 @@
 ** Drawing
    - [X] floor wax
    - [X] dipper straps
-   - [ ] candle variations
 ** Design
    - [X] chimney
    - [X] stone stairs
@@ -109,7 +108,6 @@
    - [X] candle varieties
    - [X] right dipper
    - [X] how does dipper go up and down?
-   - [ ] dome support
 ** Things to check
    - [ ] height of everything
    - [X] is there a walk path?
@@ -296,28 +294,63 @@
 ** Homework
    - [X] remove all materials
    - [X] make a plan for the final 5 classes
-   - [ ] one rule of composition checklist
-   - [-] modeling
+   - [X] one rule of composition checklist
+   - [X] modeling
      - [X] roof
      - [X] front roof corner piece
      - [X] try 16x9 at 300 dpi 4800x2700 = 1.77
      - [X] design candle holder beams
      - [X] reduce number of candles and increase thickness
-     - [ ] more interesting dipper stucture
-     - [ ] make dipper bigger
-     - [ ] chimney
-     - [ ] windows to light the FPs instead of candles?
-     - [ ] break up long stretches of same materials
+     - [X] thicker candles
+     - [X] design candle holder bars
+     - [X] design sign
+     - [X] windows to light the FPs instead of candles?
+     - [X] more interesting dipper stucture
+     - [X] make dipper bigger
+     - [X] design chimney
+     - [X] fireplace mantle objects
+     - [X] dome is a little empty
+     - [X] center support beam?
+   - [-] line drawing
+     - [X] test with freestyle render
+     - [ ] dome support?
+     - [ ] chop diagonal of front wall off?
+     - [ ] process
+       - [ ] first pass is even line weight. No interior details
+       - [ ] add line weight
+         - [ ] front to back
+         - [ ] FP to unimportant
+         - [ ] darken connections
+         - [ ] darken sides away from light
+         - [ ] ambient occlusion 
+       - [ ] Do a pass in red to plan details
+       - [ ] Add details
+         - [ ] Start at focal points (heaviest) and fade out 
+       - [ ] Another pass in red
+     - [ ] candle variations
      - [ ] separate dome and floor
-   - [ ] line drawing
      - [ ] wood beams should be misshapen
-     - [ ] test with freestyle render
+     - [ ] break up long stretches of same materials
      - [ ] transition stone to wood
-     - [ ] base
-     - [ ] line weight FP
-     - [ ] details FP out
+     - [ ] ropes and more interest in dipper (FP)
+     - [ ] Francois
 ** Questions
    - [X] Do you render at a high resolution, or scale up in photoshop?
    - [X] What to do about shadows and light direction?
    - [X] Best render settings for a base to draw over?
-   - [X] sketchup -> linework -> painting vs. blender render with materials
+   - [X] sketchup -> linework -> painting vs. sblender render with materials
+* Week 6
+** Critique
+** Homework
+* Week 7
+** Critique
+** Homework
+* Week 8
+** Critique
+** Homework
+* Week 9
+** Critique
+** Homework
+* Week 10
+** Critique
+** Homework
