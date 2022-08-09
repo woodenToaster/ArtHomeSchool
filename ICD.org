@@ -311,12 +311,16 @@
      - [X] fireplace mantle objects
      - [X] dome is a little empty
      - [X] center support beam?
+   - [X] Textures
+     - [X] barrels
+     - [X] buckets
+     - [X] outdoor grill
    - [-] line drawing
      - [X] test with freestyle render
      - [ ] dome support?
      - [ ] chop diagonal of front wall off?
-     - [ ] process
-       - [ ] first pass is even line weight. No interior details
+     - [-] process
+       - [X] first pass is even line weight. No interior details
        - [ ] add line weight
          - [ ] front to back
          - [ ] FP to unimportant
@@ -328,9 +332,10 @@
          - [ ] Start at focal points (heaviest) and fade out 
        - [ ] Another pass in red
      - [ ] candle variations
-     - [ ] separate dome and floor
-     - [ ] wood beams should be misshapen
-     - [ ] break up long stretches of same materials
+     - [X] separate dome and floor
+     - [X] wood beams should be misshapen
+     - [X] move brazier and enlarge
+     - [X] break up long stretches of same materials
      - [ ] transition stone to wood
      - [ ] ropes and more interest in dipper (FP)
      - [ ] Francois
