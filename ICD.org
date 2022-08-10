@@ -317,13 +317,12 @@
      - [X] outdoor grill
    - [-] line drawing
      - [X] test with freestyle render
-     - [ ] dome support?
-     - [ ] chop diagonal of front wall off?
      - [-] process
        - [X] first pass is even line weight. No interior details
-       - [ ] add line weight
-         - [ ] front to back
-         - [ ] FP to unimportant
+       - [X] foilage
+       - [-] add line weight
+         - [X] front to back
+         - [X] FP to unimportant
          - [ ] darken connections
          - [ ] darken sides away from light
          - [ ] ambient occlusion 
@@ -336,7 +335,9 @@
      - [X] wood beams should be misshapen
      - [X] move brazier and enlarge
      - [X] break up long stretches of same materials
+     - [ ] chop diagonal of front wall off?
      - [ ] transition stone to wood
+     - [ ] dome support?
      - [ ] ropes and more interest in dipper (FP)
      - [ ] Francois
 ** Questions
