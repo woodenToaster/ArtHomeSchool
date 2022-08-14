@@ -345,9 +345,19 @@
    - [X] What to do about shadows and light direction?
    - [X] Best render settings for a base to draw over?
    - [X] sketchup -> linework -> painting vs. sblender render with materials
-* Week 6
+* Week 6 <2022-08-13 Sat>
 ** Critique
+   - 1,2, 3 detail - 1 (big) and 2(medium) in a clump, 3 (small) farther away
+   - overlap candles on sales table
+   - overlap details
+   - reference wax (it looks like cloth right now)
+   - handle consistency (knife, axe, tools, fork)
+   - shadow - darker, more saturated, cooler
+   - light - lighter, less saturated, warmer
 ** Homework
+   - make drawing changes
+   - base colors in blender
+   - plan lighting in blender
 * Week 7
 ** Critique
 ** Homework
