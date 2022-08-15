@@ -115,11 +115,10 @@
    - [X] adjust shop window height
    - [X] try 24 mm lens
 ** Potential problems
-   - [ ] hanging candles are blocking the path up the steps
-   - [ ] what goes in the dome?
+   - [X] hanging candles are blocking the path up the steps
+   - [X] what goes in the dome?
    - [ ] can't get both the store front and the details of FP 1
 ** Schedule
-   - week 6 :: final 3D model and line drawing
    - week 7 :: painting
    - week 8 :: painting
    - week 9 :: painting
@@ -347,13 +346,14 @@
    - [X] sketchup -> linework -> painting vs. sblender render with materials
 * Week 6 <2022-08-13 Sat>
 ** Critique
-   - 1,2, 3 detail - 1 (big) and 2(medium) in a clump, 3 (small) farther away
-   - overlap candles on sales table
-   - overlap details
+   - [ ] 1,2, 3 detail - 1 (big) and 2(medium) in a clump, 3 (small) farther away
+     - [ ] bushes
+     - [ ] wax drops
+   - [X] overlap candles on sales table
+   - [X] handle consistency (knife, axe, tools, fork)
    - reference wax (it looks like cloth right now)
-   - handle consistency (knife, axe, tools, fork)
-   - shadow - darker, more saturated, cooler
-   - light - lighter, less saturated, warmer
+   - shadow - darker, more saturated, cooler (warm light) or warmer (cool light)
+   - light - lighter, less saturated, warmer (warm light) or cooler (cool light)
 ** Homework
    - make drawing changes
    - base colors in blender
