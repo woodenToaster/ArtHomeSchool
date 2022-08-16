@@ -347,17 +347,18 @@
 * Week 6 <2022-08-13 Sat>
 ** Critique
    - [ ] 1,2, 3 detail - 1 (big) and 2(medium) in a clump, 3 (small) farther away
-     - [ ] bushes
-     - [ ] wax drops
    - [X] overlap candles on sales table
    - [X] handle consistency (knife, axe, tools, fork)
    - reference wax (it looks like cloth right now)
    - shadow - darker, more saturated, cooler (warm light) or warmer (cool light)
    - light - lighter, less saturated, warmer (warm light) or cooler (cool light)
 ** Homework
-   - make drawing changes
-   - base colors in blender
-   - plan lighting in blender
+   - [ ] make drawing changes
+     - [ ] bushes
+     - [ ] wax drops
+   - [ ] base colors in blender
+   - [ ] plan lighting in blender
+   - [ ] paint
 * Week 7
 ** Critique
 ** Homework
