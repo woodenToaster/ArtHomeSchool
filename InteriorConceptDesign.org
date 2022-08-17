@@ -12,7 +12,7 @@ total: 139
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W30 :tags t
-  #+CAPTION: Clock summary at [2022-08-15 Mon 20:58], for week 2022-W30.
+  #+CAPTION: Clock summary at [2022-08-16 Tue 21:54], for week 2022-W30.
   | Tags    | Headline                    | Time    |       |      |
   |---------+-----------------------------+---------+-------+------|
   |         | *Total time*                | *47:18* |       |      |
@@ -146,7 +146,7 @@ total: 139
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W31 :tags t
-  #+CAPTION: Clock summary at [2022-08-15 Mon 20:58], for week 2022-W31.
+  #+CAPTION: Clock summary at [2022-08-16 Tue 21:54], for week 2022-W31.
   | Tags    | Headline                             | Time    |       |      |
   |---------+--------------------------------------+---------+-------+------|
   |         | *Total time*                         | *47:15* |       |      |
@@ -280,7 +280,7 @@ total: 139
 
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W32 :tags t
-  #+CAPTION: Clock summary at [2022-08-15 Mon 20:58], for week 2022-W32.
+  #+CAPTION: Clock summary at [2022-08-16 Tue 21:54], for week 2022-W32.
   | Tags     | Headline               | Time    |       |       |
   |----------+------------------------+---------+-------+-------|
   |          | *Total time*           | *29:25* |       |       |
@@ -377,15 +377,18 @@ total: 139
     :END:
 * Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W33 :tags t
-  #+CAPTION: Clock summary at [2022-08-15 Mon 20:58], for week 2022-W33.
+  #+CAPTION: Clock summary at [2022-08-16 Tue 21:54], for week 2022-W33.
   | Tags     | Headline             | Time    |       |      |
   |----------+----------------------+---------+-------+------|
-  |          | *Total time*         | *10:34* |       |      |
+  |          | *Total time*         | *13:50* |       |      |
   |----------+----------------------+---------+-------+------|
-  |          | Week 4               | 10:34   |       |      |
+  |          | Week 4               | 13:50   |       |      |
   |          | \_  <2022-08-15 Mon> |         | 10:34 |      |
   | 3D       | \_    ICD week 6     |         |       | 1:20 |
   | painting | \_    ICD week 6     |         |       | 9:14 |
+  |          | \_  <2022-08-16 Tue> |         |  3:16 |      |
+  | painting | \_    ICD week 6     |         |       | 1:48 |
+  | 3D       | \_    ICD week 6     |         |       | 1:28 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -395,9 +398,9 @@ total: 139
   |----------+------------+----------|
   | study    | *Tag time* | *0h 0m*  |
   |----------+------------+----------|
-  | painting | *Tag time* | *9h 14m* |
+  | painting | *Tag time* | *11h 2m* |
   |----------+------------+----------|
-  | 3D       | *Tag time* | *1h 20m* |
+  | 3D       | *Tag time* | *2h 48m* |
   
   #+END:
 ** <2022-08-15 Mon>
@@ -410,4 +413,14 @@ total: 139
     CLOCK: [2022-08-15 Mon 18:06]--[2022-08-15 Mon 20:58] =>  2:52
     CLOCK: [2022-08-15 Mon 12:33]--[2022-08-15 Mon 16:15] =>  3:42
     CLOCK: [2022-08-15 Mon 09:00]--[2022-08-15 Mon 11:40] =>  2:40
+    :END:
+** <2022-08-16 Tue>
+*** DONE ICD week 6                                                :painting:
+    :LOGBOOK:
+    CLOCK: [2022-08-16 Tue 18:20]--[2022-08-16 Tue 18:32] =>  0:12
+    CLOCK: [2022-08-16 Tue 20:00]--[2022-08-16 Tue 21:36] =>  1:36
+    :END:
+*** DONE ICD week 6                                                      :3D:
+    :LOGBOOK:
+    CLOCK: [2022-08-16 Tue 18:32]--[2022-08-16 Tue 20:00] =>  1:28
     :END:
