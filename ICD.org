@@ -361,7 +361,21 @@
    - [ ] paint
 * Week 7 <2022-08-20 Sat>
 ** Critique
-** Homework
+   - drawing
+     - [X] knife handle too thick
+     - [X] make wheel separate line work from spokes
+     - [X] thickness transition and rivets on metal bases
+     - [X] tangent on center pole base with stair
+     - [X] fix bushes
+     - [X] fix wax clumps
+   - painting
+     - [ ] more neutral candle color
+     - [ ] texture to break up solid colors
+     - [ ] make wheel more interesting (ropes)
+     - [ ] fill in boxes
+     - [ ] more subtle variety in candle color
+     - [ ] can use blue as accent color
+     - [ ] spinning wheel and cotton bale are same color
 * Week 8
 ** Critique
 ** Homework
