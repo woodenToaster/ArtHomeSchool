@@ -369,11 +369,12 @@
      - [X] fix bushes
      - [X] fix wax clumps
    - painting
-     - [ ] more neutral candle color
-     - [ ] texture to break up solid colors
+     - [X] more neutral candle color
+     - [X] repaint chimney
+     - [X] texture to break up solid colors
+     - [X] more subtle variety in candle color
      - [ ] make wheel more interesting (ropes)
      - [ ] fill in boxes
-     - [ ] more subtle variety in candle color
      - [ ] can use blue as accent color
      - [ ] spinning wheel and cotton bale are same color
 * Week 8
