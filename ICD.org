@@ -373,10 +373,12 @@
      - [X] repaint chimney
      - [X] texture to break up solid colors
      - [X] more subtle variety in candle color
-     - [ ] make wheel more interesting (ropes)
-     - [ ] fill in boxes
-     - [ ] can use blue as accent color
-     - [ ] spinning wheel and cotton bale are same color
+     - [X] make wheel more interesting (ropes)
+     - [X] fill in boxes
+     - [X] spinning wheel and cotton bale are same color
+     - [X] can use blue as accent color
+     - [X] wood pile
+     - [ ] more timber bracing
 * Week 8
 ** Critique
 ** Homework
