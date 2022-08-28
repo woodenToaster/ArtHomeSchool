@@ -117,13 +117,10 @@
 ** Potential problems
    - [X] hanging candles are blocking the path up the steps
    - [X] what goes in the dome?
-   - [ ] can't get both the store front and the details of FP 1
+   - [X] can't get both the store front and the details of FP 1
 ** Schedule
-   - week 7 :: painting
-   - week 8 :: painting
    - week 9 :: painting
    - week 10 :: presentation
-
 
 * One Rule of Composition Checklist
 ** Value
@@ -378,13 +375,25 @@
      - [X] spinning wheel and cotton bale are same color
      - [X] can use blue as accent color
      - [X] wood pile
-     - [ ] more timber bracing
-* Week 8
+* Week 8 <2022-08-27 Sat>
 ** Critique
-** Homework
+   - [ ] bushes don't look like plants. add some leaf texture
+   - [ ] barrel overhangs. extend floor
+   - [X] candle light is too saturated
+   - [ ] overlap grass on building
+   - [ ] prop on left of store front
+   - [ ] hard to tell which direction the light is coming from. add shadows
+   - [ ] shadows on center wood pillar
+   - [ ] fire in the chimney
+   - [ ] clean up grass
+   - [X] fix dirt color
+   - [ ] differentiate candles in vat from wood
+   - [ ] rework wax
+   - [ ] something with life that animates
+   - [ ] wood grain by candle holders
+   - [ ] thicker wick, add line weight
+   - [ ] artstation thumbnail
 * Week 9
 ** Critique
-** Homework
 * Week 10
 ** Critique
-** Homework
