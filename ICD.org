@@ -377,21 +377,22 @@
      - [X] wood pile
 * Week 8 <2022-08-27 Sat>
 ** Critique
-   - [ ] bushes don't look like plants. add some leaf texture
-   - [ ] barrel overhangs. extend floor
+   - [X] bushes don't look like plants. add some leaf texture
+   - [X] barrel overhangs. extend floor
    - [X] candle light is too saturated
-   - [ ] overlap grass on building
-   - [ ] prop on left of store front
-   - [ ] hard to tell which direction the light is coming from. add shadows
-   - [ ] shadows on center wood pillar
-   - [ ] fire in the chimney
-   - [ ] clean up grass
+   - [X] overlap grass on building
+   - [X] fire in the chimney
+   - [X] clean up grass
    - [X] fix dirt color
-   - [ ] differentiate candles in vat from wood
-   - [ ] rework wax
+   - [X] differentiate candles in vat from wood
+   - [X] wood grain by candle holders
+   - [X] thicker wick, add line weight
+   - [X] shadows on center wood pillar
+   - [ ] prop on left of store front
    - [ ] something with life that animates
-   - [ ] wood grain by candle holders
-   - [ ] thicker wick, add line weight
+   - [ ] hard to tell which direction the light is coming from. add shadows
+   - [ ] rework light
+   - [ ] rework wax
    - [ ] artstation thumbnail
 * Week 9
 ** Critique
