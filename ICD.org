@@ -47,6 +47,29 @@
    - modest
      
 
+* Project: Medieval Cordwainer (Cobbler)
+** 5 W-questions
+*** Who
+    - Cordwainer
+    - Name ::
+    - Age ::
+    - Personality Traits ::
+    - Physical Characteristics ::
+*** What
+    - Making fancy shoes from leather
+*** When
+    - 1462
+*** Where
+    - London, England :: Worshipful Company of Cordwainers
+*** Why
+    - Candles are the primary source of light at night
+** Description
+** Inventory
+** Problems to Solve
+** Keywords
+** Mood
+     
+
 * TODO List
 ** 3D
    - [X] dipper handle
@@ -388,12 +411,12 @@
    - [X] wood grain by candle holders
    - [X] thicker wick, add line weight
    - [X] shadows on center wood pillar
-   - [ ] prop on left of store front
-   - [ ] something with life that animates
-   - [ ] hard to tell which direction the light is coming from. add shadows
-   - [ ] rework light
+   - [X] hard to tell which direction the light is coming from. add shadows
+   - [X] prop on left of store front
+   - [X] something with life that animates
+   - [X] rework light
+   - [X] artstation thumbnail
    - [ ] rework wax
-   - [ ] artstation thumbnail
 * Week 9
 ** Critique
 * Week 10
