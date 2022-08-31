@@ -14,7 +14,7 @@ total: 179
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W30 :tags t
-  #+CAPTION: Clock summary at [2022-08-29 Mon 21:23], for week 2022-W30.
+  #+CAPTION: Clock summary at [2022-08-30 Tue 21:49], for week 2022-W30.
   | Tags    | Headline                    | Time    |       |      |
   |---------+-----------------------------+---------+-------+------|
   |         | *Total time*                | *47:18* |       |      |
@@ -148,7 +148,7 @@ total: 179
 
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W31 :tags t
-  #+CAPTION: Clock summary at [2022-08-29 Mon 21:23], for week 2022-W31.
+  #+CAPTION: Clock summary at [2022-08-30 Tue 21:49], for week 2022-W31.
   | Tags    | Headline                             | Time    |       |      |
   |---------+--------------------------------------+---------+-------+------|
   |         | *Total time*                         | *47:15* |       |      |
@@ -282,7 +282,7 @@ total: 179
 
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W32 :tags t
-  #+CAPTION: Clock summary at [2022-08-29 Mon 21:23], for week 2022-W32.
+  #+CAPTION: Clock summary at [2022-08-30 Tue 21:49], for week 2022-W32.
   | Tags     | Headline               | Time    |       |       |
   |----------+------------------------+---------+-------+-------|
   |          | *Total time*           | *29:25* |       |       |
@@ -379,7 +379,7 @@ total: 179
     :END:
 * Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W33 :tags t
-  #+CAPTION: Clock summary at [2022-08-29 Mon 21:23], for week 2022-W33.
+  #+CAPTION: Clock summary at [2022-08-30 Tue 21:49], for week 2022-W33.
   | Tags     | Headline                 | Time    |       |      |
   |----------+--------------------------+---------+-------+------|
   |          | *Total time*             | *23:58* |       |      |
@@ -468,7 +468,7 @@ total: 179
     :END:
 * Week 5
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W34 :tags t
-  #+CAPTION: Clock summary at [2022-08-29 Mon 21:23], for week 2022-W34.
+  #+CAPTION: Clock summary at [2022-08-30 Tue 21:49], for week 2022-W34.
   | Tags     | Headline                 | Time    |      |      |
   |----------+--------------------------+---------+------+------|
   |          | *Total time*             | *24:04* |      |      |
@@ -574,23 +574,26 @@ total: 179
     :END:
 * Week 6
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W35 :tags t
-  #+CAPTION: Clock summary at [2022-08-29 Mon 21:23], for week 2022-W35.
-  | Tags     | Headline                   | Time   |      |      |
-  |----------+----------------------------+--------+------+------|
-  |          | *Total time*               | *8:17* |      |      |
-  |----------+----------------------------+--------+------+------|
-  |          | Week 6                     | 8:17   |      |      |
-  |          | \_  <2022-08-29 Mon>       |        | 8:17 |      |
-  | painting | \_    ICD week 8           |        |      | 6:24 |
-  | study    | \_    ICD week 8 project 2 |        |      | 1:53 |
+  #+CAPTION: Clock summary at [2022-08-30 Tue 21:49], for week 2022-W35.
+  | Tags     | Headline                   | Time    |      |      |
+  |----------+----------------------------+---------+------+------|
+  |          | *Total time*               | *11:54* |      |      |
+  |----------+----------------------------+---------+------+------|
+  |          | Week 6                     | 11:54   |      |      |
+  |          | \_  <2022-08-29 Mon>       |         | 8:17 |      |
+  | painting | \_    ICD week 8           |         |      | 6:24 |
+  | study    | \_    ICD week 8 project 2 |         |      | 1:53 |
+  |          | \_  <2022-08-30 Tue>       |         | 3:37 |      |
+  | study    | \_    ICD week 8 project 2 |         |      | 0:36 |
+  | drawing  | \_    ICD week 8 project 2 |         |      | 3:01 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h) |
   |----------+------------+----------|
-  | drawing  | *Tag time* | *0h 0m*  |
+  | drawing  | *Tag time* | *3h 1m*  |
   |----------+------------+----------|
-  | study    | *Tag time* | *1h 53m* |
+  | study    | *Tag time* | *2h 29m* |
   |----------+------------+----------|
   | painting | *Tag time* | *6h 24m* |
   |----------+------------+----------|
@@ -607,4 +610,13 @@ total: 179
 *** DONE ICD week 8 project 2                                         :study:
     :LOGBOOK:
     CLOCK: [2022-08-29 Mon 19:30]--[2022-08-29 Mon 21:23] =>  1:53
+    :END:
+** <2022-08-30 Tue>
+*** DONE ICD week 8 project 2                                         :study:
+    :LOGBOOK:
+    CLOCK: [2022-08-30 Tue 18:12]--[2022-08-30 Tue 18:48] =>  0:36
+    :END:
+*** DONE ICD week 8 project 2                                       :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-08-30 Tue 18:48]--[2022-08-30 Tue 21:49] =>  3:01
     :END:
