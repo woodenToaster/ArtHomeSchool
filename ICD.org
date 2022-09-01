@@ -68,7 +68,6 @@
 ** Problems to Solve
 ** Keywords
 ** Mood
-     
 
 * TODO List
 ** 3D
@@ -132,7 +131,7 @@
    - [X] right dipper
    - [X] how does dipper go up and down?
 ** Things to check
-   - [ ] height of everything
+   - [X] height of everything
    - [X] is there a walk path?
    - [X] try more of a bird's eye view
    - [X] adjust shop window height
@@ -141,9 +140,6 @@
    - [X] hanging candles are blocking the path up the steps
    - [X] what goes in the dome?
    - [X] can't get both the store front and the details of FP 1
-** Schedule
-   - week 9 :: painting
-   - week 10 :: presentation
 
 * One Rule of Composition Checklist
 ** Value
