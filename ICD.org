@@ -62,12 +62,44 @@
 *** Where
     - London, England :: Worshipful Company of Cordwainers
 *** Why
-    - Candles are the primary source of light at night
+    - Making shoes for the nobility
 ** Description
 ** Inventory
+   - shoes in various states of completion
+   - boots
+   - pattens
+   - leather bands
+   - cordovan leather pieces
+   - rolls of leather
+   - benches
+   - tools
+   - apron
+   - store front
+   - shoe horns
+   - hammer
+   - stove/fireplace
+   - shears
+   - cabinets
+   - tables
+   - stools
+   - brushes
+   - fire pit
+   - candles
+   - sales display
+   - earthenware
+   - bottle of oils
+   - halbred head knife
+   - baskets
+   - water jugs
+   - crest
+   - bellows
+   - pots
 ** Problems to Solve
 ** Keywords
+   - fancy
+   - quality
 ** Mood
+   - hectic
 
 * TODO List
 ** 3D
