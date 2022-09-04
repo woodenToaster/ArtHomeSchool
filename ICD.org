@@ -46,61 +46,6 @@
 ** Mood
    - modest
      
-
-* Project: Medieval Cordwainer (Cobbler)
-** 5 W-questions
-*** Who
-    - Cordwainer
-    - Name ::
-    - Age ::
-    - Personality Traits ::
-    - Physical Characteristics ::
-*** What
-    - Making fancy shoes from leather
-*** When
-    - 1462
-*** Where
-    - London, England :: Worshipful Company of Cordwainers
-*** Why
-    - Making shoes for the nobility
-** Description
-** Inventory
-   - shoes in various states of completion
-   - boots
-   - pattens
-   - leather bands
-   - cordovan leather pieces
-   - rolls of leather
-   - benches
-   - tools
-   - apron
-   - store front
-   - shoe horns
-   - hammer
-   - stove/fireplace
-   - shears
-   - cabinets
-   - tables
-   - stools
-   - brushes
-   - fire pit
-   - candles
-   - sales display
-   - earthenware
-   - bottle of oils
-   - halbred head knife
-   - baskets
-   - water jugs
-   - crest
-   - bellows
-   - pots
-** Problems to Solve
-** Keywords
-   - fancy
-   - quality
-** Mood
-   - hectic
-
 * TODO List
 ** 3D
    - [X] dipper handle
@@ -172,6 +117,67 @@
    - [X] hanging candles are blocking the path up the steps
    - [X] what goes in the dome?
    - [X] can't get both the store front and the details of FP 1
+
+
+* Project: Medieval Cordwainer (Cobbler)
+** 5 W-questions
+*** Who
+    - Cordwainer
+    - Name ::
+    - Age ::
+    - Personality Traits ::
+    - Physical Characteristics ::
+*** What
+    - Making fancy shoes from leather
+*** When
+    - 1462
+*** Where
+    - London, England :: Worshipful Company of Cordwainers
+*** Why
+    - Making shoes for the nobility
+** Description
+** Inventory
+   - ankle shoes
+   - poulaine (stuffed with moss or hair to hold the point)
+   - boots
+   - socks?
+   - laces
+   - lasts (wooden blocks in the shape of a foot)
+   - pattens
+   - leather bands
+   - cordovan leather pieces
+   - rolls of leather
+   - benches
+   - tools
+   - apron
+   - store front
+   - shoe horns
+   - hammer
+   - stove/fireplace
+   - shears
+   - cabinets
+   - tables
+   - stools
+   - brushes
+   - fire pit
+   - candles
+   - sales display
+   - earthenware
+   - bottle of oils
+   - halbred head knife
+   - baskets
+   - water jugs
+   - crest
+   - bellows
+   - pots
+** Functions
+   - 
+** Keywords
+   - fancy
+   - quality
+** Mood
+   - hectic
+
 
 * One Rule of Composition Checklist
 ** Value
@@ -445,7 +451,17 @@
    - [X] rework light
    - [X] artstation thumbnail
    - [ ] rework wax
-* Week 9
+* Week 9 <2022-09-03 Sat>
 ** Critique
+   - [X] communicate wick boxes better
+   - [X] some random, and some clear indication for bushes
+   - [X] 1 2 3 read on every object
+   - [X] cast shadows on every object
+   - [X] more contrast arond candle flames
+   - [X] finish wood pile
+   - try different designs instead of putting same things in every sketch
+   - don't do an open room with assests hugging walls and something in middle
+   - house outline is too random and jagged
+   - 2 floor designs are more effective
 * Week 10
 ** Critique

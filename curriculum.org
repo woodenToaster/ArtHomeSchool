@@ -491,7 +491,7 @@
 *** Week 2
 *** Week 3
 *** Week 4
-* TODO Term 7
+* DONE Term 7
 ** DONE Environment Design I
 *** Videos
 **** DONE Foundation Patreon - Sketching for Environments 1
@@ -508,18 +508,16 @@
 ** DONE Brainstorm School Summer '22 part 1
 *** DONE FND 1
 *** DONE VisCom Basics
-* TODO Term 8
-** TODO Brainstorm School Summer '22 part 2
-*** TODO FND 1
-*** TODO Perspective Boot camp
-** TODO Environment Design II
-** TODO Anatomy V - Imagination
+* DONE Term 8
+** DONE Brainstorm School Summer '22 part 2
+** DONE Interior Concept Design I
+** DONE Interior Concept Design II
 * TODO Term 9
-** TODO Inking I
-** TODO Design I
-** TODO Painting I
+** TODO Brainstorm Fall '22 I
+** TODO Brainstorm Fall '22 II
+** TODO Portfolio I
 * TODO Term 10
-** TODO Inking II
-** TODO Character Design
-** TODO Painting II
+** TODO Brainstorm Spring '23 I
+** TODO Brainstorm Spring '23 II
+** TODO Portfolio II
    

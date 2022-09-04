@@ -1206,20 +1206,20 @@
 ** Portfolio
 ** All FZD assignments
 ** Brainstorm
-*** Spring 22
+*** DONE Spring 22
     - CABC
-*** Summer 22
+*** DONE Summer 22
     - FND1
     - PBC
-*** Fall 22
+*** TODO Fall 22
     - WB1
     - DC1
     - AD1
-*** Spring 23
+*** TODO Spring 23
     - ENT1
     - AD2
     - WB2
-*** Summer 23
+*** TODO Summer 23
     - WB3
     - WB Blender
     - PD Env
