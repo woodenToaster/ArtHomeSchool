@@ -12,23 +12,12 @@
 ** Demon's Souls
 ** Baldur's Gate 3
 ** Spider Man: Miles Morales
+** Assassin's Creed Valhalla
 * Art Supplies
 ** Pilot Futayaku double sided brush pen
 ** Zebra Rubber 80 R-8000 pen
-** Leads
-*** 2mm
-**** 4B
-*** 0.5 mm
-**** 2B
-**** B
-*** 0.3 mm
-**** B
-** Drawing board
-** General's G314 draughting pencil
-** Copic (or prismacolor) grey toned markers
 ** Stillman and Birn Zeta Series sketchbook
 ** white ink
-** Point divider
 * Art Books
 ** General
 *** Fundamentals of drawing - Mogilevtsev
@@ -145,6 +134,7 @@
 *** Composition - Cyril Pearce
 *** DONE Wally Wood - 22 panels that always work
 * Inspirational Books
+*** 12 Rules for Life - Jordan Peterson
 *** Psychology of Performance - Eddie O'Connor (Hoopla)
 *** Digital Minimalism - Cal Newport
 *** Real Artists Don't Starve - Jeff Goins
@@ -199,18 +189,9 @@
    - Bulgariad
    - Mallorean
 * Movies/Shows
-** TODO The Eternals
-** TODO Spiderman: No Way Home
-** TODO Dead Pool 2
-** TODO X-men: The last stand
-** TODO Venom
-** TODO Venom 2
-** TODO Amazing Spiderman 1
-** TODO Amazing Spiderman 2
-** TODO New Mutants
-** TODO The Wolverine
-** TODO Watchmen
 * Videos
+** Foundation Patreon
+** Evolve Artist
 ** Mike Azevedo color in photoshop (artstation)
 ** Jama Jurabayev
 ** James Paick - youtube cgma
@@ -220,9 +201,8 @@
 ** Sadie Valeri Atelier online
 ** Grand Central Atelier online classes
 ** Sean Gordon Murphy demos (youtube)
-** Trent Kaniuaga youtube (FZD student?)
 ** Charles Lin tutorials (FZD student)
-** TODO drawabox
+** DONE drawabox
 *** DONE Lesson 1
 *** DONE Lesson 2
 *** DONE Lesson 3
@@ -233,7 +213,7 @@
 *** DONE 250 boxes
 *** DONE 250 cylinders
 *** DONE 25 wheels
-*** TODO 100 treasure chests
+*** DONE 100 treasure chests
 ** Ctrl+paint
 ** Lucidpixul
 ** Moderndayjames
@@ -301,9 +281,9 @@
 **** DONE Arms
 **** DONE Legs
 *** DONE Figure Drawing
-** The Drawing Database
-** Jimmy Reyes
-** The Process
+** The Drawing Database (youtube)
+** Jimmy Reyes - inking
+** The Process (youtube) - inking
 ** Dorian Iton - Light on Form
 ** Ron Lemen - Color wheel exercises
 ** FZD Design Cinema
@@ -325,26 +305,6 @@
 ** DONE Neil Gaimon: Make Good Art
 ** DONE Marshall Vandruff Perspective
 ** DONE drawmixpaint.com
-* Comics
-** Berserk
-** Sandman
-** Frank Miller
-*** Sin City vol 4
-*** Ronin
-** Alan Moore
-   - From Hell
-   - Saga of the Swamp Thing (hoopla)
-   - Mister Miracle
-** Transmetropolitan
-** Y: The Last Man
-** Black Hole - Charles Burns (Urbana Library)
-** 100 Bullets
-** Maus
-** Happy
-** The Deadman Collection - Niel Adams
-** Daytripper
-** This One Summer
-** East of West
 * Art to Study
 ** Comics
 *** Avengers 18 - Leneil Yu, awesome heads
@@ -407,7 +367,7 @@
     - Uncanny X-Men
     - King Conan
 *** Brian Hitch (perspective)
-** Fine Art and Illustration
+** Traditional
 *** Charles Dana Gibson
 *** Joseph Clemont Coll
 *** Franklin Booth
@@ -418,8 +378,10 @@
 *** Leon Bonnat
 *** Howard Pyle
 *** Dean Cornwell
-** Fantasy Illustration
+** Digital
 *** Spectrum books (library)
+*** Greg Rutkowski
+    
 * Exercises
 ** Watts Drawing Fundamentals Phase I
 *** Abstract Warmup
@@ -444,13 +406,6 @@
    - Start with some thumbnails from reference
    - Take the best ones and turn them into a new idea by combining other reference
    - Turn into a finished drawing
-* Scanner Entries
-** TODO Multi art form work
-** TODO Retirement Plan
-** TODO Gesture from imagination with Finch mannequins
-** TODO Half learning, half drawing for fun
-** TODO Gesture a whole book
-** TODO Draw from reference from memory from walk
 * Drawing Regimen (first 5 months)
 ** June 2020
 *** <2020-06-15 Mon>

@@ -463,5 +463,9 @@
    - don't do an open room with assests hugging walls and something in middle
    - house outline is too random and jagged
    - 2 floor designs are more effective
-* Week 10
+* Week 10 <2022-09-10 Sat>
 ** Critique
+   - sales person needs table and chair
+   - eye is drawn to text
+   - variation on boxy tables
+   - paint light effects on surfaces instead of airbrushing
