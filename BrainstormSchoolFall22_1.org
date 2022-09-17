@@ -5,12 +5,12 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W37 :tags t
-  #+CAPTION: Clock summary at [2022-09-15 Thu 20:01], for week 2022-W37.
+  #+CAPTION: Clock summary at [2022-09-16 Fri 21:14], for week 2022-W37.
   | Tags     | Headline                | Time   |      |      |
   |----------+-------------------------+--------+------+------|
-  |          | *Total time*            | *6:05* |      |      |
+  |          | *Total time*            | *6:47* |      |      |
   |----------+-------------------------+--------+------+------|
-  |          | Week 1                  | 6:05   |      |      |
+  |          | Week 1                  | 6:47   |      |      |
   |          | \_  <2022-09-12 Mon>    |        | 2:05 |      |
   | painting | \_    making brushes    |        |      | 2:05 |
   |          | \_  <2022-09-13 Tue>    |        | 1:32 |      |
@@ -19,6 +19,9 @@
   | painting | \_    photoshop brushes |        |      | 1:57 |
   |          | \_  <2022-09-15 Thu>    |        | 0:31 |      |
   | painting | \_    master study      |        |      | 0:31 |
+  |          | \_  <2022-09-16 Fri>    |        | 0:42 |      |
+  | painting | \_    DC1 brushes       |        |      | 0:27 |
+  | study    | \_    DC1 prep          |        |      | 0:15 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -26,9 +29,9 @@
   |----------+------------+----------|
   | drawing  | *Tag time* | *0h 0m*  |
   |----------+------------+----------|
-  | study    | *Tag time* | *0h 0m*  |
+  | study    | *Tag time* | *0h 15m* |
   |----------+------------+----------|
-  | painting | *Tag time* | *6h 5m*  |
+  | painting | *Tag time* | *6h 32m* |
   |----------+------------+----------|
   | 3D       | *Tag time* | *0h 0m*  |
   
@@ -53,9 +56,18 @@
     :LOGBOOK:
     CLOCK: [2022-09-15 Thu 19:30]--[2022-09-15 Thu 20:01] =>  0:31
     :END:
+** <2022-09-16 Fri>
+*** DONE DC1 brushes                                               :painting:
+    :LOGBOOK:
+    CLOCK: [2022-09-16 Fri 20:32]--[2022-09-16 Fri 20:59] =>  0:27
+    :END:
+*** DONE DC1 prep                                                     :study:
+    :LOGBOOK:
+    CLOCK: [2022-09-16 Fri 20:59]--[2022-09-16 Fri 21:14] =>  0:15
+    :END:
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W38 :tags t
-  #+CAPTION: Clock summary at [2022-09-15 Thu 20:01], for week 2022-W38.
+  #+CAPTION: Clock summary at [2022-09-16 Fri 21:14], for week 2022-W38.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -75,7 +87,7 @@
   #+END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W39 :tags t
-  #+CAPTION: Clock summary at [2022-09-15 Thu 20:01], for week 2022-W39.
+  #+CAPTION: Clock summary at [2022-09-16 Fri 21:14], for week 2022-W39.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -95,7 +107,7 @@
   #+END:
 * Week 4
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W40 :tags t
-  #+CAPTION: Clock summary at [2022-09-15 Thu 20:01], for week 2022-W40.
+  #+CAPTION: Clock summary at [2022-09-16 Fri 21:14], for week 2022-W40.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
@@ -115,7 +127,7 @@
   #+END:
 * Week 5
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W41 :tags t
-  #+CAPTION: Clock summary at [2022-09-15 Thu 20:01], for week 2022-W41.
+  #+CAPTION: Clock summary at [2022-09-16 Fri 21:14], for week 2022-W41.
   | Tags | Headline     | Time   |
   |------+--------------+--------|
   |      | *Total time* | *0:00* |
