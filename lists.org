@@ -89,7 +89,7 @@
 ** Perspective
 *** Space drawing: perspective - Dongho Kim
 *** DONE Drawing perspective: how to see it and how to apply it - Brehm
-*** Sketching: The Basics
+*** DONE Sketching: The Basics
 *** Creative Perspective for Artists and Illustrators - Ernest Watson
 *** DONE Framed Perspective Vol I - Marcos mateu-Mestre
 *** Framed Perspective Vol II - Marcos mateu-Mestre
@@ -97,7 +97,7 @@
 *** DONE Perpective Drawing Handbook - Joseph D'Amelio
 *** DONE Perspective Made Easy - Earnest Norling
 ** Ink
-*** Rendering in pen and ink - Guptill
+*** DONE Rendering in pen and ink - Guptill
 *** DONE Pen and Ink Drawing - Alphonso Dunn (Library)
 *** DONE Pen and Ink Techniques - Frank Lohan
 *** DONE The DC Guide to Inking comics
@@ -125,14 +125,16 @@
 *** Color and Composition for Film - Hans Bacher and Sanatan Suryavanashi
 *** Universal Principles of Design - Lidwell, Holden, Butler
 *** Drawing and Designing with Confidence - Lin
-*** Composition of Outdoor Painting - Edgar Payne
-*** Framed Ink
+*** TODO Composition of Outdoor Painting - Edgar Payne
+*** TODO Framed Ink
 *** Framed Ink 2
 *** DONE How Pictures Work - Bang
 *** Vision and Art - Margaret Livingstone
 *** Pictorial Composition - Poore
 *** Composition - Cyril Pearce
 *** DONE Wally Wood - 22 panels that always work
+** Design
+*** TODO Design of Everyday Things - Donald Norman
 * Inspirational Books
 *** 12 Rules for Life - Jordan Peterson
 *** Psychology of Performance - Eddie O'Connor (Hoopla)
