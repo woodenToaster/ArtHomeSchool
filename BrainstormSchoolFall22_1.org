@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W37 :tags t
-  #+CAPTION: Clock summary at [2022-09-30 Fri 21:12], for week 2022-W37.
+  #+CAPTION: Clock summary at [2022-10-04 Tue 21:45], for week 2022-W37.
   | Tags     | Headline                | Time    |      |      |
   |----------+-------------------------+---------+------+------|
   |          | *Total time*            | *23:27* |      |      |
@@ -102,7 +102,7 @@
     :END:
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W38 :tags t
-  #+CAPTION: Clock summary at [2022-09-30 Fri 21:12], for week 2022-W38.
+  #+CAPTION: Clock summary at [2022-10-04 Tue 21:45], for week 2022-W38.
   | Tags     | Headline                  | Time    |       |       |
   |----------+---------------------------+---------+-------+-------|
   |          | *Total time*              | *52:07* |       |       |
@@ -202,12 +202,12 @@
     :END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W39 :tags t
-  #+CAPTION: Clock summary at [2022-09-30 Fri 21:12], for week 2022-W39.
+  #+CAPTION: Clock summary at [2022-10-04 Tue 21:45], for week 2022-W39.
   | Tags     | Headline                             | Time    |       |      |
   |----------+--------------------------------------+---------+-------+------|
-  |          | *Total time*                         | *23:54* |       |      |
+  |          | *Total time*                         | *35:59* |       |      |
   |----------+--------------------------------------+---------+-------+------|
-  |          | Week 3                               | 23:54   |       |      |
+  |          | Week 3                               | 35:59   |       |      |
   |          | \_  <2022-09-26 Mon>                 |         | 11:31 |      |
   | study    | \_    AD1 week 2 gathering reference |         |       | 1:13 |
   | drawing  | \_    AD1 week 2 homework            |         |       | 2:45 |
@@ -226,16 +226,25 @@
   | drawing  | \_    WB1 week 2 homework            |         |       | 1:00 |
   |          | \_  <2022-09-30 Fri>                 |         |  1:12 |      |
   | drawing  | \_    AD1 week 2 homework            |         |       | 1:12 |
+  |          | \_  <2022-10-01 Sat>                 |         |  8:10 |      |
+  | drawing  | \_    AD1 week 2 homework            |         |       | 1:21 |
+  | drawing  | \_    WB1 week 2 homework            |         |       | 0:49 |
+  | study    | \_    AD1 week 3                     |         |       | 3:28 |
+  | study    | \_    WB1 week 3                     |         |       | 2:32 |
+  |          | \_  <2022-10-02 Sun>                 |         |  3:55 |      |
+  | painting | \_    DC1 week 2 homework            |         |       | 0:25 |
+  | study    | \_    DC1 week 3                     |         |       | 3:01 |
+  | study    | \_    blog                           |         |       | 0:29 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *14h 38m* |
+  | drawing  | *Tag time* | *16h 48m* |
   |----------+------------+-----------|
-  | study    | *Tag time* | *3h 28m*  |
+  | study    | *Tag time* | *12h 58m* |
   |----------+------------+-----------|
-  | painting | *Tag time* | *5h 48m*  |
+  | painting | *Tag time* | *6h 13m*  |
   |----------+------------+-----------|
   | 3D       | *Tag time* | *0h 0m*   |
   
@@ -298,3 +307,109 @@
     :LOGBOOK:
     CLOCK: [2022-09-30 Fri 20:00]--[2022-09-30 Fri 21:12] =>  1:12
     :END:
+** <2022-10-01 Sat>
+*** DONE AD1 week 2 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-10-01 Sat 08:40]--[2022-10-01 Sat 10:01] =>  1:21
+    :END:
+*** DONE WB1 week 2 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-10-01 Sat 10:04]--[2022-10-01 Sat 10:53] =>  0:49
+    :END:
+*** DONE AD1 week 3                                                   :study:
+    :LOGBOOK:
+    CLOCK: [2022-10-01 Sat 11:56]--[2022-10-01 Sat 15:24] =>  3:28
+    :END:
+*** DONE WB1 week 3                                                   :study:
+    :LOGBOOK:
+    CLOCK: [2022-10-01 Sat 16:00]--[2022-10-01 Sat 18:32] =>  2:32
+    :END:
+** <2022-10-02 Sun>
+*** DONE DC1 week 2 homework                                       :painting:
+    :LOGBOOK:
+    CLOCK: [2022-10-02 Sun 11:20]--[2022-10-02 Sun 11:45] =>  0:25
+    :END:
+*** DONE DC1 week 3                                                   :study:
+    :LOGBOOK:
+    CLOCK: [2022-10-02 Sun 11:59]--[2022-10-02 Sun 15:00] =>  3:01
+    :END:
+*** DONE blog                                                         :study:
+    :LOGBOOK:
+    CLOCK: [2022-10-02 Sun 20:36]--[2022-10-02 Sun 21:05] =>  0:29
+    :END:
+* Week 4
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W40 :tags t
+  #+CAPTION: Clock summary at [2022-10-04 Tue 21:45], for week 2022-W40.
+  | Tags     | Headline                             | Time    |      |      |
+  |----------+--------------------------------------+---------+------+------|
+  |          | *Total time*                         | *16:22* |      |      |
+  |----------+--------------------------------------+---------+------+------|
+  |          | Week 4                               | 16:22   |      |      |
+  |          | \_  <2022-10-03 Mon>                 |         | 7:31 |      |
+  | study    | \_    WB1 week 2                     |         |      | 0:07 |
+  | study    | \_    AD1 week 3 gathering reference |         |      | 0:28 |
+  | drawing  | \_    AD1 week 3 homework            |         |      | 1:24 |
+  | drawing  | \_    WB1 week 3 homework            |         |      | 2:41 |
+  | painting | \_    DC1 week 3 homework            |         |      | 2:51 |
+  |          | \_  <2022-10-04 Tue>                 |         | 8:51 |      |
+  | study    | \_    WB1 week 2                     |         |      | 0:09 |
+  | drawing  | \_    AD1 week 3 homework            |         |      | 3:21 |
+  | drawing  | \_    WB1 week 3 homework            |         |      | 1:49 |
+  | painting | \_    DC1 week 3 homework            |         |      | 3:32 |
+  #+END:
+  
+  #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+  | Tag      | Headline   | Time (h) |
+  |----------+------------+----------|
+  | drawing  | *Tag time* | *9h 15m* |
+  |----------+------------+----------|
+  | study    | *Tag time* | *0h 44m* |
+  |----------+------------+----------|
+  | painting | *Tag time* | *6h 23m* |
+  |----------+------------+----------|
+  | 3D       | *Tag time* | *0h 0m*  |
+  
+  #+END:
+** <2022-10-03 Mon>
+*** DONE WB1 week 2                                                   :study:
+    :LOGBOOK:
+    CLOCK: [2022-10-03 Mon 07:22]--[2022-10-03 Mon 07:29] =>  0:07
+    :END:
+*** DONE AD1 week 3 gathering reference                               :study:
+    :LOGBOOK:
+    CLOCK: [2022-10-03 Mon 07:48]--[2022-10-03 Mon 08:16] =>  0:28
+    :END:
+*** DONE AD1 week 3 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-10-03 Mon 10:22]--[2022-10-03 Mon 11:09] =>  0:47
+    CLOCK: [2022-10-03 Mon 08:16]--[2022-10-03 Mon 08:53] =>  0:37
+    :END:
+*** DONE WB1 week 3 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-10-03 Mon 13:21]--[2022-10-03 Mon 16:02] =>  2:41
+    :END:
+*** DONE DC1 week 3 homework                                       :painting:
+    :LOGBOOK:
+    CLOCK: [2022-10-03 Mon 20:40]--[2022-10-03 Mon 21:52] =>  1:12
+    CLOCK: [2022-10-03 Mon 18:21]--[2022-10-03 Mon 20:00] =>  1:39
+    :END:
+** <2022-10-04 Tue>
+*** DONE WB1 week 2                                                   :study:
+    :LOGBOOK:
+    CLOCK: [2022-10-04 Tue 06:55]--[2022-10-04 Tue 07:04] =>  0:09
+    :END:
+*** DONE AD1 week 3 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-10-04 Tue 08:16]--[2022-10-04 Tue 11:37] =>  3:21
+    :END:
+*** DONE WB1 week 3 homework                                        :drawing:
+    :LOGBOOK:
+    CLOCK: [2022-10-04 Tue 15:24]--[2022-10-04 Tue 16:15] =>  0:51
+    CLOCK: [2022-10-04 Tue 14:20]--[2022-10-04 Tue 14:50] =>  0:30
+    CLOCK: [2022-10-04 Tue 13:18]--[2022-10-04 Tue 13:46] =>  0:28
+    :END:
+*** DONE DC1 week 3 homework                                       :painting:
+    :LOGBOOK:
+    CLOCK: [2022-10-04 Tue 18:13]--[2022-10-04 Tue 21:45] =>  3:32
+    :END:
+** 
