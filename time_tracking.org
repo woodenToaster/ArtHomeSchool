@@ -1,13 +1,13 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t :block untilnow
-#+CAPTION: Clock summary at [2022-09-02 Fri 20:24], for now.
-| File                                      | Tags     | Headline                                         | Time      |       |       |       |
+#+CAPTION: Clock summary at [2022-10-13 Thu 21:45], for now.
+| File                                      | Tags     | Headline                                         |      Time |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-|                                           | ALL      | *Total time*                                     | *3232:18* |       |       |       |
+|                                           | ALL      | *Total time*                                     | *3463:24* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| AnatomyIII_Legs.org                       |          | *File time*                                      | *136:15*  |       |       |       |
-|                                           |          | Log                                              | 136:15    |       |       |       |
+| AnatomyIII_Legs.org                       |          | *File time*                                      |  *136:15* |       |       |       |
+|                                           |          | Log                                              |    136:15 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 34:41 |       |       |
 |                                           |          | \_    <2021-06-21 Mon>                           |           |       |  8:26 |       |
 |                                           | drawing  | \_      Proko legs                               |           |       |       |  4:32 |
@@ -119,8 +119,8 @@
 |                                           | drawing  | \_      Original page                            |           |       |       |  1:19 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:17 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| AnatomyII_Arms.org                        |          | *File time*                                      | *126:03*  |       |       |       |
-|                                           |          | Log                                              | 126:03    |       |       |       |
+| AnatomyII_Arms.org                        |          | *File time*                                      |  *126:03* |       |       |       |
+|                                           |          | Log                                              |    126:03 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 26:15 |       |       |
 |                                           |          | \_    <2021-05-24 Mon>                           |           |       |  4:47 |       |
 |                                           | drawing  | \_      Digital warmup                           |           |       |       |  0:33 |
@@ -250,8 +250,8 @@
 |                                           | drawing  | \_      Original page                            |           |       |       |  0:50 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:56 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| AnatomyIV_Bridgman.org                    |          | *File time*                                      | *105:22*  |       |       |       |
-|                                           |          | Log                                              | 105:22    |       |       |       |
+| AnatomyIV_Bridgman.org                    |          | *File time*                                      |  *105:22* |       |       |       |
+|                                           |          | Log                                              |    105:22 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 29:22 |       |       |
 |                                           |          | \_    <2021-08-16 Mon>                           |           |       |  7:22 |       |
 |                                           | study    | \_      Watts on Bridgman                        |           |       |       |  1:18 |
@@ -338,8 +338,8 @@
 |                                           | drawing  | \_      Bridgman legs                            |           |       |       |  3:33 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:34 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| AnatomyI_Torso.org                        |          | *File time*                                      | *136:38*  |       |       |       |
-|                                           |          | Log                                              | 136:38    |       |       |       |
+| AnatomyI_Torso.org                        |          | *File time*                                      |  *136:38* |       |       |       |
+|                                           |          | Log                                              |    136:38 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 32:20 |       |       |
 |                                           |          | \_    <2021-02-15 Mon>                           |           |       |  4:17 |       |
 |                                           | drawing  | \_      Copy Finch                               |           |       |       |  0:47 |
@@ -481,8 +481,8 @@
 |                                           | study    | \_      Blog                                     |           |       |       |  0:50 |
 |                                           | study    | \_      Unit plan                                |           |       |       |  0:20 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| BargueDrawingI.org                        |          | *File time*                                      | *100:45*  |       |       |       |
-|                                           |          | Log                                              | 100:45    |       |       |       |
+| BargueDrawingI.org                        |          | *File time*                                      |  *100:45* |       |       |       |
+|                                           |          | Log                                              |    100:45 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 27:15 |       |       |
 |                                           |          | \_    <2021-11-08 Mon>                           |           |       |  3:01 |       |
 |                                           | drawing  | \_      Value scale in graphite                  |           |       |       |  3:01 |
@@ -569,8 +569,138 @@
 |                                           | study    | \_      FZD Design Cinema 89                     |           |       |       |  1:06 |
 |                                           | study    | \_      Blog post                                |           |       |       |  0:24 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| BrainstormSchoolSummer22_1.org            |          | *File time*                                      | *193:22*  |       |       |       |
-|                                           |          | Week 1                                           | 49:05     |       |       |       |
+| BrainstormSchoolFall22_1.org              |          | *File time*                                      |  *209:55* |       |       |       |
+|                                           |          | Week 1                                           |     23:27 |       |       |       |
+|                                           |          | \_  <2022-09-12 Mon>                             |           |  2:05 |       |       |
+|                                           | painting | \_    making brushes                             |           |       |  2:05 |       |
+|                                           |          | \_  <2022-09-13 Tue>                             |           |  1:32 |       |       |
+|                                           | painting | \_    master study                               |           |       |  1:32 |       |
+|                                           |          | \_  <2022-09-14 Wed>                             |           |  1:57 |       |       |
+|                                           | painting | \_    photoshop brushes                          |           |       |  1:57 |       |
+|                                           |          | \_  <2022-09-15 Thu>                             |           |  0:31 |       |       |
+|                                           | painting | \_    master study                               |           |       |  0:31 |       |
+|                                           |          | \_  <2022-09-16 Fri>                             |           |  0:42 |       |       |
+|                                           | painting | \_    DC1 brushes                                |           |       |  0:27 |       |
+|                                           | study    | \_    DC1 prep                                   |           |       |  0:15 |       |
+|                                           |          | \_  <2022-09-17 Sat>                             |           |  7:45 |       |       |
+|                                           | study    | \_    AD1 week 1                                 |           |       |  3:32 |       |
+|                                           | study    | \_    WB1 week 1                                 |           |       |  3:00 |       |
+|                                           | drawing  | \_    AD1 week 1                                 |           |       |  1:13 |       |
+|                                           |          | \_  <2022-09-18 Sun>                             |           |  8:55 |       |       |
+|                                           | drawing  | \_    AD1 week 1                                 |           |       |  5:21 |       |
+|                                           | study    | \_    DC1 week 1                                 |           |       |  3:18 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:16 |       |
+|                                           |          | Week 2                                           |     52:07 |       |       |       |
+|                                           |          | \_  <2022-09-19 Mon>                             |           |  9:32 |       |       |
+|                                           | drawing  | \_    WB1 week 1 homework                        |           |       |  9:32 |       |
+|                                           |          | \_  <2022-09-20 Tue>                             |           | 10:36 |       |       |
+|                                           |          | \_    AD1 week 1 homework                        |           |       | 10:36 |       |
+|                                           |          | \_  <2022-09-21 Wed>                             |           |  8:33 |       |       |
+|                                           | painting | \_    DC1 week 1 homework                        |           |       |  8:33 |       |
+|                                           |          | \_  <2022-09-22 Thu>                             |           |  2:54 |       |       |
+|                                           | drawing  | \_    AD1 week 1 homework                        |           |       |  2:54 |       |
+|                                           |          | \_  <2022-09-23 Fri>                             |           |  3:59 |       |       |
+|                                           | drawing  | \_    AD1 week 1 homework                        |           |       |  3:59 |       |
+|                                           |          | \_  <2022-09-24 Sat>                             |           |  9:09 |       |       |
+|                                           | drawing  | \_    WB1 week 1 homework                        |           |       |  3:35 |       |
+|                                           | study    | \_    AD1 week 2                                 |           |       |  3:18 |       |
+|                                           | study    | \_    WB1 week 2                                 |           |       |  2:16 |       |
+|                                           |          | \_  <2022-09-25 Sun>                             |           |  7:24 |       |       |
+|                                           | painting | \_    DC1 week 1 homework                        |           |       |  3:42 |       |
+|                                           | study    | \_    DC1 week 2                                 |           |       |  3:19 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:23 |       |
+|                                           |          | Week 3                                           |     35:59 |       |       |       |
+|                                           |          | \_  <2022-09-26 Mon>                             |           | 11:31 |       |       |
+|                                           | study    | \_    AD1 week 2 gathering reference             |           |       |  1:13 |       |
+|                                           | drawing  | \_    AD1 week 2 homework                        |           |       |  2:45 |       |
+|                                           | study    | \_    WB1 week 1 feedback                        |           |       |  1:09 |       |
+|                                           | study    | \_    WB1 week 2 gathering reference             |           |       |  0:48 |       |
+|                                           | drawing  | \_    WB1 week 2 homework                        |           |       |  1:57 |       |
+|                                           | painting | \_    DC1 week 2 homework                        |           |       |  3:39 |       |
+|                                           |          | \_  <2022-09-27 Tue>                             |           |  9:27 |       |       |
+|                                           | study    | \_    WB1 week 1 feedback                        |           |       |  0:18 |       |
+|                                           | drawing  | \_    AD1 week 2 homework                        |           |       |  4:09 |       |
+|                                           | drawing  | \_    WB1 week 2 homework                        |           |       |  3:35 |       |
+|                                           | painting | \_    DC1 week 2 homework                        |           |       |  1:25 |       |
+|                                           |          | \_  <2022-09-28 Wed>                             |           |  0:44 |       |       |
+|                                           | painting | \_    DC1 week 2 homework                        |           |       |  0:44 |       |
+|                                           |          | \_  <2022-09-29 Thu>                             |           |  1:00 |       |       |
+|                                           | drawing  | \_    WB1 week 2 homework                        |           |       |  1:00 |       |
+|                                           |          | \_  <2022-09-30 Fri>                             |           |  1:12 |       |       |
+|                                           | drawing  | \_    AD1 week 2 homework                        |           |       |  1:12 |       |
+|                                           |          | \_  <2022-10-01 Sat>                             |           |  8:10 |       |       |
+|                                           | drawing  | \_    AD1 week 2 homework                        |           |       |  1:21 |       |
+|                                           | drawing  | \_    WB1 week 2 homework                        |           |       |  0:49 |       |
+|                                           | study    | \_    AD1 week 3                                 |           |       |  3:28 |       |
+|                                           | study    | \_    WB1 week 3                                 |           |       |  2:32 |       |
+|                                           |          | \_  <2022-10-02 Sun>                             |           |  3:55 |       |       |
+|                                           | painting | \_    DC1 week 2 homework                        |           |       |  0:25 |       |
+|                                           | study    | \_    DC1 week 3                                 |           |       |  3:01 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:29 |       |
+|                                           |          | Week 4                                           |     63:46 |       |       |       |
+|                                           |          | \_  <2022-10-03 Mon>                             |           |  7:31 |       |       |
+|                                           | study    | \_    WB1 week 2                                 |           |       |  0:07 |       |
+|                                           | study    | \_    AD1 week 3 gathering reference             |           |       |  0:28 |       |
+|                                           | drawing  | \_    AD1 week 3 homework                        |           |       |  1:24 |       |
+|                                           | drawing  | \_    WB1 week 3 homework                        |           |       |  2:41 |       |
+|                                           | painting | \_    DC1 week 3 homework                        |           |       |  2:51 |       |
+|                                           |          | \_  <2022-10-04 Tue>                             |           |  8:51 |       |       |
+|                                           | study    | \_    WB1 week 2                                 |           |       |  0:09 |       |
+|                                           | drawing  | \_    AD1 week 3 homework                        |           |       |  3:21 |       |
+|                                           | drawing  | \_    WB1 week 3 homework                        |           |       |  1:49 |       |
+|                                           | painting | \_    DC1 week 3 homework                        |           |       |  3:32 |       |
+|                                           |          | \_  <2022-10-05 Wed>                             |           | 10:25 |       |       |
+|                                           | study    | \_    WB1 week 2                                 |           |       |  0:24 |       |
+|                                           | drawing  | \_    AD1 week 3 homework                        |           |       |  3:44 |       |
+|                                           | study    | \_    AD1 week 3 gathering reference             |           |       |  0:31 |       |
+|                                           | drawing  | \_    WB1 week 3 homework                        |           |       |  2:45 |       |
+|                                           | painting | \_    DC1 week 3 homework                        |           |       |  3:01 |       |
+|                                           |          | \_  <2022-10-06 Thu>                             |           | 11:39 |       |       |
+|                                           | study    | \_    WB1 week 2                                 |           |       |  0:17 |       |
+|                                           | drawing  | \_    AD1 week 3 homework                        |           |       |  4:16 |       |
+|                                           | drawing  | \_    WB1 week 3 homework                        |           |       |  3:44 |       |
+|                                           | painting | \_    DC1 week 3 homework                        |           |       |  3:22 |       |
+|                                           |          | \_  <2022-10-07 Fri>                             |           | 10:41 |       |       |
+|                                           | study    | \_    WB1 week 2                                 |           |       |  0:24 |       |
+|                                           | drawing  | \_    AD1 week 3 homework                        |           |       |  4:27 |       |
+|                                           | drawing  | \_    WB1 week 3 homework                        |           |       |  2:47 |       |
+|                                           | drawing  | \_    DC1 week 3 homework                        |           |       |  3:03 |       |
+|                                           |          | \_  <2022-10-08 Sat>                             |           |  6:46 |       |       |
+|                                           | drawing  | \_    AD1 week 3 homework                        |           |       |  1:24 |       |
+|                                           | drawing  | \_    WB1 week 3 homework                        |           |       |  1:54 |       |
+|                                           | study    | \_    AD1 week 4                                 |           |       |  3:11 |       |
+|                                           | study    | \_    WB1 week 3                                 |           |       |  0:17 |       |
+|                                           |          | \_  <2022-10-09 Sun>                             |           |  7:53 |       |       |
+|                                           | painting | \_    DC1 week 3 homework                        |           |       |  2:02 |       |
+|                                           | study    | \_    DC1 week 4                                 |           |       |  3:15 |       |
+|                                           | study    | \_    WB1 week 4                                 |           |       |  2:25 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:11 |       |
+|                                           |          | Week 5                                           |     34:36 |       |       |       |
+|                                           |          | \_  <2022-10-10 Mon>                             |           |  4:29 |       |       |
+|                                           | study    | \_    WB1 week 4                                 |           |       |  0:35 |       |
+|                                           | study    | \_    AD1 reference gathering                    |           |       |  1:04 |       |
+|                                           | drawing  | \_    AD1 week 4 homework                        |           |       |  2:00 |       |
+|                                           | drawing  | \_    WB1 week 4 homework                        |           |       |  0:50 |       |
+|                                           |          | \_  <2022-10-11 Tue>                             |           | 10:36 |       |       |
+|                                           | study    | \_    WB1 week 4                                 |           |       |  0:30 |       |
+|                                           | study    | \_    AD1 week 4 reference gathering             |           |       |  0:50 |       |
+|                                           | drawing  | \_    AD1 week 4 homework                        |           |       |  3:20 |       |
+|                                           | drawing  | \_    WB1 week 4 homework                        |           |       |  3:12 |       |
+|                                           | study    | \_    DC1 week 4 gathering reference             |           |       |  0:23 |       |
+|                                           | painting | \_    DC1 week 4 homework                        |           |       |  2:21 |       |
+|                                           |          | \_  <2022-10-12 Wed>                             |           |  7:34 |       |       |
+|                                           | study    | \_    WB1 week 4                                 |           |       |  0:19 |       |
+|                                           | drawing  | \_    WB1 week 4 homework                        |           |       |  2:59 |       |
+|                                           | drawing  | \_    AD1 week 4 homework                        |           |       |  0:45 |       |
+|                                           | painting | \_    DC1 week 4 homework                        |           |       |  3:31 |       |
+|                                           |          | \_  <2022-10-13 Thu>                             |           | 11:57 |       |       |
+|                                           | study    | \_    WB1 week 4                                 |           |       |  0:23 |       |
+|                                           | drawing  | \_    AD1 week 4 homework                        |           |       |  4:08 |       |
+|                                           | drawing  | \_    WB1 week 4 homework                        |           |       |  3:52 |       |
+|                                           | study    | \_    DC1 week 4 homework                        |           |       |  3:34 |       |
+|-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
+| BrainstormSchoolSummer22_1.org            |          | *File time*                                      |  *193:22* |       |       |       |
+|                                           |          | Week 1                                           |     49:05 |       |       |       |
 |                                           |          | \_  <2022-05-16 Mon>                             |           | 11:20 |       |       |
 |                                           | drawing  | \_    FND I week 1 homework                      |           |       | 11:20 |       |
 |                                           |          | \_  <2022-05-17 Tue>                             |           |  3:54 |       |       |
@@ -588,7 +718,7 @@
 |                                           | study    | \_    FND I                                      |           |       |  3:28 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:28 |       |
 |                                           | study    | \_    VisCom Basics                              |           |       |  2:00 |       |
-|                                           |          | Week 2                                           | 49:08     |       |       |       |
+|                                           |          | Week 2                                           |     49:08 |       |       |       |
 |                                           |          | \_  <2022-05-23 Mon>                             |           | 11:47 |       |       |
 |                                           | drawing  | \_    Warmup                                     |           |       |  0:52 |       |
 |                                           | drawing  | \_    FND I week 2 homework                      |           |       |  7:52 |       |
@@ -613,7 +743,7 @@
 |                                           | drawing  | \_    FND I week 3 homework                      |           |       |  1:12 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:18 |       |
 |                                           | study    | \_    VisCom Basics week 3                       |           |       |  2:00 |       |
-|                                           |          | Week 3                                           | 47:00     |       |       |       |
+|                                           |          | Week 3                                           |     47:00 |       |       |       |
 |                                           |          | \_  <2022-05-30 Mon>                             |           | 10:54 |       |       |
 |                                           | drawing  | \_    FND 1 week 3 homework                      |           |       | 10:54 |       |
 |                                           |          | \_  <2022-05-31 Tue>                             |           |  4:15 |       |       |
@@ -632,7 +762,7 @@
 |                                           | study    | \_    FND I week 4                               |           |       |  3:03 |       |
 |                                           | study    | \_    VisCom Flash week 4                        |           |       |  2:00 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:18 |       |
-|                                           |          | Week 4                                           | 48:09     |       |       |       |
+|                                           |          | Week 4                                           |     48:09 |       |       |       |
 |                                           |          | \_  <2022-06-06 Mon>                             |           | 12:05 |       |       |
 |                                           | drawing  | \_    VisCom Flash week 4 homework               |           |       | 12:05 |       |
 |                                           |          | \_  <2022-06-07 Tue>                             |           |  3:56 |       |       |
@@ -650,8 +780,8 @@
 |                                           | study    | \_    VisCom flash week 5                        |           |       |  2:00 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:34 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| BrainstormSchoolSummer22_2.org            |          | *File time*                                      | *302:40*  |       |       |       |
-|                                           |          | Week 1                                           | 49:47     |       |       |       |
+| BrainstormSchoolSummer22_2.org            |          | *File time*                                      |  *302:40* |       |       |       |
+|                                           |          | Week 1                                           |     49:47 |       |       |       |
 |                                           |          | \_  <2022-06-13 Mon>                             |           | 10:43 |       |       |
 |                                           | drawing  | \_    VisCom Flash week 4 homework               |           |       |  3:06 |       |
 |                                           | drawing  | \_    FND I week 4 homework                      |           |       |  2:09 |       |
@@ -674,7 +804,7 @@
 |                                           | drawing  | \_    FZD perspective week 2                     |           |       |  5:52 |       |
 |                                           | study    | \_    FND 1 week 5                               |           |       |  3:01 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:30 |       |
-|                                           |          | Week 2                                           | 53:02     |       |       |       |
+|                                           |          | Week 2                                           |     53:02 |       |       |       |
 |                                           |          | \_  <2022-06-20 Mon>                             |           | 11:37 |       |       |
 |                                           | drawing  | \_    FND I homework                             |           |       | 11:37 |       |
 |                                           |          | \_  <2022-06-21 Tue>                             |           |  8:35 |       |       |
@@ -696,7 +826,7 @@
 |                                           | drawing  | \_    PBC week 2 homework                        |           |       |  5:02 |       |
 |                                           | study    | \_    FND Week 6                                 |           |       |  3:04 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:29 |       |
-|                                           |          | Week 3                                           | 49:36     |       |       |       |
+|                                           |          | Week 3                                           |     49:36 |       |       |       |
 |                                           |          | \_  <2022-06-27 Mon>                             |           | 11:28 |       |       |
 |                                           | drawing  | \_    FND I week 6 homework                      |           |       | 11:28 |       |
 |                                           |          | \_  <2022-06-28 Tue>                             |           |  8:12 |       |       |
@@ -716,7 +846,7 @@
 |                                           | drawing  | \_    FZD perspective week 2                     |           |       |  3:57 |       |
 |                                           | study    | \_    FND I week 7                               |           |       |  3:00 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:42 |       |
-|                                           |          | Week 4                                           | 50:00     |       |       |       |
+|                                           |          | Week 4                                           |     50:00 |       |       |       |
 |                                           |          | \_  <2022-07-04 Mon>                             |           | 10:56 |       |       |
 |                                           | drawing  | \_    FND I week 7 homework                      |           |       | 10:56 |       |
 |                                           |          | \_  <2022-07-05 Tue>                             |           |  7:52 |       |       |
@@ -740,7 +870,7 @@
 |                                           | study    | \_    FND I week 8                               |           |       |  3:00 |       |
 |                                           | drawing  | \_    ICD week 1                                 |           |       |  1:10 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:37 |       |
-|                                           |          | Week 5                                           | 52:14     |       |       |       |
+|                                           |          | Week 5                                           |     52:14 |       |       |       |
 |                                           |          | \_  <2022-07-11 Mon>                             |           | 11:17 |       |       |
 |                                           | drawing  | \_    FND I week 8                               |           |       | 11:17 |       |
 |                                           |          | \_  <2022-07-12 Tue>                             |           |  8:20 |       |       |
@@ -762,7 +892,7 @@
 |                                           | drawing  | \_    PBC week 5                                 |           |       |  5:52 |       |
 |                                           | study    | \_    FND I week 9                               |           |       |  3:01 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:26 |       |
-|                                           |          | Week 6                                           | 48:01     |       |       |       |
+|                                           |          | Week 6                                           |     48:01 |       |       |       |
 |                                           |          | \_  <2022-07-18 Mon>                             |           | 11:50 |       |       |
 |                                           | drawing  | \_    PBC week 5                                 |           |       | 11:50 |       |
 |                                           |          | \_  <2022-07-19 Tue>                             |           |  4:30 |       |       |
@@ -783,10 +913,10 @@
 |                                           | study    | \_    FND I week 9                               |           |       |  3:09 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:39 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| CGMA_FundamentalsOfArchitectureDesign.org |          | *File time*                                      | *0:00*    |       |       |       |
+| CGMA_FundamentalsOfArchitectureDesign.org |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| ClothedFigureDrawing.org                  |          | *File time*                                      | *96:21*   |       |       |       |
-|                                           |          | Log                                              | 96:21     |       |       |       |
+| ClothedFigureDrawing.org                  |          | *File time*                                      |   *96:21* |       |       |       |
+|                                           |          | Log                                              |     96:21 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 29:26 |       |       |
 |                                           |          | \_    <2021-09-13 Mon>                           |           |       |  6:27 |       |
 |                                           | study    | \_      Plan the unit                            |           |       |       |  0:47 |
@@ -872,8 +1002,8 @@
 |                                           | drawing  | \_      Clothed figure from photo                |           |       |       |  3:28 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:24 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| DigitalPaintingFundamentalsI.org          |          | *File time*                                      | *200:16*  |       |       |       |
-|                                           |          | Log                                              | 200:16    |       |       |       |
+| DigitalPaintingFundamentalsI.org          |          | *File time*                                      |  *200:16* |       |       |       |
+|                                           |          | Log                                              |    200:16 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 44:30 |       |       |
 |                                           |          | \_    <2022-04-11 Mon>                           |           |       |  9:52 |       |
 |                                           | drawing  | \_      Scott Robertson perspective              |           |       |       |  0:54 |
@@ -966,8 +1096,8 @@
 |                                           | study    | \_      Blog                                     |           |       |       |  0:35 |
 |                                           | study    | \_      VizCom Flash - Week 1                    |           |       |       |  2:00 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| EnvironmentDesignI.org                    |          | *File time*                                      | *119:00*  |       |       |       |
-|                                           |          | Log                                              | 119:00    |       |       |       |
+| EnvironmentDesignI.org                    |          | *File time*                                      |  *119:00* |       |       |       |
+|                                           |          | Log                                              |    119:00 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 32:19 |       |       |
 |                                           |          | \_    <2022-03-21 Mon>                           |           |       |  9:03 |       |
 |                                           | study    | \_      FP - Sketching for Environment 1         |           |       |       |  1:51 |
@@ -1035,13 +1165,13 @@
 |                                           | painting | \_      Environment painting                     |           |       |       |  3:00 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:38 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| FZDDesignCinema.org                       |          | *File time*                                      | *0:00*    |       |       |       |
+| FZDDesignCinema.org                       |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| FigureDrawingI.org                        |          | *File time*                                      | *96:00*   |       |       |       |
-|                                           | drawing  | Log                                              | 96:00     |       |       |       |
+| FigureDrawingI.org                        |          | *File time*                                      |   *96:00* |       |       |       |
+|                                           | drawing  | Log                                              |     96:00 |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| FigureDrawingII.org                       |          | *File time*                                      | *134:56*  |       |       |       |
-|                                           |          | Log                                              | 134:56    |       |       |       |
+| FigureDrawingII.org                       |          | *File time*                                      |  *134:56* |       |       |       |
+|                                           |          | Log                                              |    134:56 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 34:21 |       |       |
 |                                           |          | \_    <2021-01-18 Mon>                           |           |       |  6:19 |       |
 |                                           | drawing  | \_      Copy from Frazetta's Icon                |           |       |       |  0:46 |
@@ -1212,8 +1342,8 @@
 |                                           | study    | \_      Next unit plan                           |           |       |       |  1:41 |
 |                                           | study    | \_      Blog post                                |           |       |       |  0:32 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| FigureDrawingIII.org                      |          | *File time*                                      | *96:04*   |       |       |       |
-|                                           |          | Log                                              | 96:04     |       |       |       |
+| FigureDrawingIII.org                      |          | *File time*                                      |   *96:04* |       |       |       |
+|                                           |          | Log                                              |     96:04 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 34:02 |       |       |
 |                                           |          | \_    <2021-04-26 Mon>                           |           |       |  8:46 |       |
 |                                           | drawing  | \_      Pencil still life                        |           |       |       |  1:03 |
@@ -1325,8 +1455,8 @@
 |                                           | drawing  | \_      Copy comic page                          |           |       |       |  4:45 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:33 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| FigureDrawingIV.org                       |          | *File time*                                      | *104:18*  |       |       |       |
-|                                           |          | Log                                              | 104:18    |       |       |       |
+| FigureDrawingIV.org                       |          | *File time*                                      |  *104:18* |       |       |       |
+|                                           |          | Log                                              |    104:18 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 28:51 |       |       |
 |                                           |          | \_    <2021-07-19 Mon>                           |           |       |  7:56 |       |
 |                                           | drawing  | \_      Gesture drawing                          |           |       |       |  4:42 |
@@ -1408,10 +1538,8 @@
 |                                           | drawing  | \_      Original page                            |           |       |       |  1:44 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:31 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| FndI.org                                  |          | *File time*                                      | *0:00*    |       |       |       |
-|-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| HeadDrawingI.org                          |          | *File time*                                      | *123:33*  |       |       |       |
-|                                           |          | Log                                              | 123:33    |       |       |       |
+| HeadDrawingI.org                          |          | *File time*                                      |  *123:33* |       |       |       |
+|                                           |          | Log                                              |    123:33 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 32:29 |       |       |
 |                                           |          | \_    <2020-12-07 Mon>                           |           |       |  3:52 |       |
 |                                           | drawing  | \_      Drawing for fun - heads                  |           |       |       |  0:43 |
@@ -1543,8 +1671,8 @@
 |                                           | study    | \_      Watts Head Drawing Phase II - Male Cast  |           |       |       |  0:21 |
 |                                           |          | \_      Blog entry                               |           |       |       |  0:52 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| HeadDrawingII.org                         |          | *File time*                                      | *106:44*  |       |       |       |
-|                                           |          | Log                                              | 106:44    |       |       |       |
+| HeadDrawingII.org                         |          | *File time*                                      |  *106:44* |       |       |       |
+|                                           |          | Log                                              |    106:44 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 30:04 |       |       |
 |                                           |          | \_    <2021-03-29 Mon>                           |           |       |  7:44 |       |
 |                                           | prep     | \_      Build brush holder                       |           |       |       |  1:28 |
@@ -1694,10 +1822,10 @@
 |                                           | drawing  | \_      Head Phase III - 1 hour                  |           |       |       |  2:07 |
 |                                           | study    | \_      Blog post                                |           |       |       |  0:31 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| ICD.org                                   |          | *File time*                                      | *0:00*    |       |       |       |
+| ICD.org                                   |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| InteriorConceptDesign.org                 |          | *File time*                                      | *188:46*  |       |       |       |
-|                                           |          | Week 1                                           | 47:18     |       |       |       |
+| InteriorConceptDesign.org                 |          | *File time*                                      |  *209:57* |       |       |       |
+|                                           |          | Week 1                                           |     47:18 |       |       |       |
 |                                           |          | \_  <2022-07-25 Mon>                             |           | 11:25 |       |       |
 |                                           | 3D       | \_    ICD week 3                                 |           |       |  8:56 |       |
 |                                           | drawing  | \_    ICD week 3                                 |           |       |  2:29 |       |
@@ -1722,7 +1850,7 @@
 |                                           | 3D       | \_    ICD week 4                                 |           |       |  7:04 |       |
 |                                           | drawing  | \_    ICD week 4                                 |           |       |  0:57 |       |
 |                                           | study    | \_    blog                                       |           |       |  0:27 |       |
-|                                           |          | Week 2                                           | 47:15     |       |       |       |
+|                                           |          | Week 2                                           |     47:15 |       |       |       |
 |                                           |          | \_  <2022-08-01 Mon>                             |           |  5:58 |       |       |
 |                                           | 3D       | \_    ICD week 4                                 |           |       |  4:41 |       |
 |                                           | drawing  | \_    ICD week 4                                 |           |       |  1:17 |       |
@@ -1748,7 +1876,7 @@
 |                                           | 3D       | \_    ICD week 5                                 |           |       |  7:36 |       |
 |                                           | drawing  | \_    ICD week 5                                 |           |       |  1:43 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:27 |       |
-|                                           |          | Week 3                                           | 29:25     |       |       |       |
+|                                           |          | Week 3                                           |     29:25 |       |       |       |
 |                                           |          | \_  <2022-08-08 Mon>                             |           | 11:20 |       |       |
 |                                           | drawing  | \_    ICD week 5                                 |           |       | 11:20 |       |
 |                                           |          | \_  <2022-08-09 Tue>                             |           |  9:33 |       |       |
@@ -1767,7 +1895,7 @@
 |                                           |          | \_  <2022-08-14 Sun>                             |           |  2:15 |       |       |
 |                                           | drawing  | \_    ICD week 6                                 |           |       |  1:54 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:21 |       |
-|                                           |          | Week 4                                           | 23:58     |       |       |       |
+|                                           |          | Week 4                                           |     23:58 |       |       |       |
 |                                           |          | \_  <2022-08-15 Mon>                             |           | 10:34 |       |       |
 |                                           | 3D       | \_    ICD week 6                                 |           |       |  1:20 |       |
 |                                           | painting | \_    ICD week 6                                 |           |       |  9:14 |       |
@@ -1785,7 +1913,7 @@
 |                                           |          | \_  <2022-08-21 Sun>                             |           |  0:46 |       |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:16 |       |
 |                                           | drawing  | \_    portrait sketching                         |           |       |  0:30 |       |
-|                                           |          | Week 5                                           | 24:04     |       |       |       |
+|                                           |          | Week 5                                           |     24:04 |       |       |       |
 |                                           |          | \_  <2022-08-22 Mon>                             |           |  0:38 |       |       |
 |                                           | drawing  | \_    Automatic drawing                          |           |       |  0:38 |       |
 |                                           |          | \_  <2022-08-23 Tue>                             |           |  2:18 |       |       |
@@ -1806,7 +1934,7 @@
 |                                           |          | \_  <2022-08-28 Sun>                             |           |  2:53 |       |       |
 |                                           | painting | \_    ICD week 8                                 |           |       |  2:34 |       |
 |                                           | study    | \_    blog                                       |           |       |  0:19 |       |
-|                                           |          | Week 6                                           | 16:46     |       |       |       |
+|                                           |          | Week 6                                           |     26:03 |       |       |       |
 |                                           |          | \_  <2022-08-29 Mon>                             |           |  8:17 |       |       |
 |                                           | painting | \_    ICD week 8                                 |           |       |  6:24 |       |
 |                                           | study    | \_    ICD week 8 project 2                       |           |       |  1:53 |       |
@@ -1817,9 +1945,37 @@
 |                                           | drawing  | \_    ICD week 8 project 2                       |           |       |  1:58 |       |
 |                                           |          | \_  <2022-09-01 Thu>                             |           |  2:54 |       |       |
 |                                           | drawing  | \_    ICD week 8 project 2                       |           |       |  2:54 |       |
+|                                           |          | \_  <2022-09-02 Fri>                             |           |  2:45 |       |       |
+|                                           | drawing  | \_    ICD week 8 project 2                       |           |       |  2:45 |       |
+|                                           |          | \_  <2022-09-03 Sat>                             |           |  4:51 |       |       |
+|                                           | study    | \_    ICD week 9                                 |           |       |  3:00 |       |
+|                                           | painting | \_    ICD week 9                                 |           |       |  1:13 |       |
+|                                           | drawing  | \_    ICD week 9 project 2                       |           |       |  0:22 |       |
+|                                           | study    | \_    ICD week 9 project 2                       |           |       |  0:16 |       |
+|                                           |          | \_  <2022-09-04 Sun>                             |           |  1:41 |       |       |
+|                                           | drawing  | \_    ICD week 9 project 2                       |           |       |  1:23 |       |
+|                                           | study    | \_    Blog                                       |           |       |  0:18 |       |
+|                                           |          | Week 7                                           |     11:54 |       |       |       |
+|                                           |          | \_  <2022-09-05 Mon>                             |           |  1:18 |       |       |
+|                                           | drawing  | \_    ICD week 9 project 2                       |           |       |  0:10 |       |
+|                                           | 3D       | \_    ICD week 9 project 2                       |           |       |  1:08 |       |
+|                                           |          | \_  <2022-09-06 Tue>                             |           |  1:30 |       |       |
+|                                           | 3D       | \_    ICD week 9 project 2                       |           |       |  1:30 |       |
+|                                           |          | \_  <2022-09-07 Wed>                             |           |  1:07 |       |       |
+|                                           | 3D       | \_    ICD week 9 project 2                       |           |       |  1:07 |       |
+|                                           |          | \_  <2022-09-08 Thu>                             |           |  0:57 |       |       |
+|                                           | 3D       | \_    ICD week 9 project 2                       |           |       |  0:57 |       |
+|                                           |          | \_  <2022-09-09 Fri>                             |           |  1:38 |       |       |
+|                                           | drawing  | \_    ICD week 9 project 2                       |           |       |  1:38 |       |
+|                                           |          | \_  <2022-09-10 Sat>                             |           |  3:39 |       |       |
+|                                           | study    | \_    ICD week 10                                |           |       |  3:15 |       |
+|                                           | painting | \_    master study                               |           |       |  0:24 |       |
+|                                           |          | \_  <2022-09-11 Sun>                             |           |  1:45 |       |       |
+|                                           | painting | \_    master study                               |           |       |  1:29 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:16 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| IntroToConceptArt.org                     |          | *File time*                                      | *151:24*  |       |       |       |
-|                                           |          | Log                                              | 151:24    |       |       |       |
+| IntroToConceptArt.org                     |          | *File time*                                      |  *151:24* |       |       |       |
+|                                           |          | Log                                              |    151:24 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 35:13 |       |       |
 |                                           |          | \_    <2021-12-06 Mon>                           |           |       | 10:02 |       |
 |                                           | study    | \_      FZD 101                                  |           |       |       |  1:45 |
@@ -1905,8 +2061,8 @@
 |                                           | painting | \_      Design project                           |           |       |       |  4:02 |
 |                                           | study    | \_      Blog post                                |           |       |       |  0:36 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| LightAndValueI.org                        |          | *File time*                                      | *229:09*  |       |       |       |
-|                                           |          | Log                                              | 229:09    |       |       |       |
+| LightAndValueI.org                        |          | *File time*                                      |  *229:09* |       |       |       |
+|                                           |          | Log                                              |    229:09 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 38:52 |       |       |
 |                                           |          | \_    <2022-01-31 Mon>                           |           |       |  9:48 |       |
 |                                           | drawing  | \_      Brainstorm CABC assignment 2 sketches    |           |       |       |  2:46 |
@@ -2038,10 +2194,8 @@
 |                                           | drawing  | \_    Shading curved surfaces                    |           |       |  2:03 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:42 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| PBC.org                                   |          | *File time*                                      | *0:00*    |       |       |       |
-|-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| PerspectiveI.org                          |          | *File time*                                      | *97:43*   |       |       |       |
-|                                           |          | Log                                              | 97:43     |       |       |       |
+| PerspectiveI.org                          |          | *File time*                                      |   *97:43* |       |       |       |
+|                                           |          | Log                                              |     97:43 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 19:08 |       |       |
 |                                           |          | \_    <2020-11-09 Mon>                           |           |       |  2:41 |       |
 |                                           |          | \_      cylinders 20 min                         |           |       |       |  0:20 |
@@ -2176,8 +2330,8 @@
 |                                           |          | \_    <2020-12-06 Sun>                           |           |       |  2:31 |       |
 |                                           | drawing  | \_      Drawabox lesson 7                        |           |       |       |  2:31 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| PerspectiveII.org                         |          | *File time*                                      | *132:15*  |       |       |       |
-|                                           |          | Log                                              | 132:15    |       |       |       |
+| PerspectiveII.org                         |          | *File time*                                      |  *132:15* |       |       |       |
+|                                           |          | Log                                              |    132:15 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 35:18 |       |       |
 |                                           |          | \_    <2021-01-04 Mon>                           |           |       |  4:28 |       |
 |                                           | drawing  | \_      Drawing from Imagination - Castles       |           |       |       |  0:46 |
@@ -2319,8 +2473,8 @@
 |                                           | study    | \_      NMA Linear Perspective -                 |           |       |       |  0:30 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:42 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| PerspectiveIII.org                        |          | *File time*                                      | *136:24*  |       |       |       |
-|                                           |          | Log                                              | 136:24    |       |       |       |
+| PerspectiveIII.org                        |          | *File time*                                      |  *136:24* |       |       |       |
+|                                           |          | Log                                              |    136:24 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 38:38 |       |       |
 |                                           |          | \_    <2022-01-03 Mon>                           |           |       | 10:02 |       |
 |                                           | study    | \_      Fundamentals of architecture design      |           |       |       |  2:07 |
@@ -2425,8 +2579,8 @@
 |                                           | drawing  | \_      Warmup                                   |           |       |       |  2:21 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:31 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| Term5Unit2.org                            |          | *File time*                                      | *118:20*  |       |       |       |
-|                                           |          | Log                                              | 118:20    |       |       |       |
+| Term5Unit2.org                            |          | *File time*                                      |  *118:20* |       |       |       |
+|                                           |          | Log                                              |    118:20 |       |       |       |
 |                                           |          | \_  Week 1                                       |           | 35:10 |       |       |
 |                                           |          | \_    <2021-10-11 Mon>                           |           |       |  8:01 |       |
 |                                           | drawing  | \_      Drawing for gouache portrait             |           |       |       |  2:59 |
@@ -2524,17 +2678,17 @@
 |                                           | drawing  | \_      Original art                             |           |       |       |  1:08 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:23 |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| VisComFlash.org                           |          | *File time*                                      | *0:00*    |       |       |       |
+| VisComFlash.org                           |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| clip_studio_cheatsheet.org                |          | *File time*                                      | *0:00*    |       |       |       |
+| clip_studio_cheatsheet.org                |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| curriculum.org                            |          | *File time*                                      | *0:00*    |       |       |       |
+| curriculum.org                            |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| drawmixpaint.org                          |          | *File time*                                      | *0:00*    |       |       |       |
+| drawmixpaint.org                          |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| lists.org                                 |          | *File time*                                      | *0:00*    |       |       |       |
+| lists.org                                 |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| time_tracking.org                         |          | *File time*                                      | *0:00*    |       |       |       |
+| time_tracking.org                         |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| writing.org                               |          | *File time*                                      | *0:00*    |       |       |       |
+| writing.org                               |          | *File time*                                      |    *0:00* |       |       |       |
 #+END:
