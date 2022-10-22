@@ -194,6 +194,17 @@
    - Mallorean
 * Movies/Shows
 * Videos
+** Maciej Kuciara - Intro to Env Painting - learn squared oc.club
+** Anthony Eftekhar
+   - https://online-courses.club/3d-concept-art-with-anthony-eftekhari/
+   - Composition and staging (downloaded)
+** Erindale - Blender geometry nodes expert
+   - youtube
+   - gumroad
+** Jan Urschel - blender
+   - procedural landscapes
+   - procedural cityscapes
+** Kevin Jick - Blender japanese stilt city
 ** Foundation Patreon
 ** Evolve Artist
 ** Mike Azevedo color in photoshop (artstation)
@@ -1163,7 +1174,6 @@
 **** Sunday - 7 hours
 * Third Year (<2022-05-31 Tue> to <2023-05-31 Wed>)
 ** Portfolio
-** All FZD assignments
 ** Brainstorm
 *** DONE Spring 22
     - CABC
@@ -1182,4 +1192,7 @@
     - WB3
     - WB Blender
     - PD Env
+* Black Friday 2022
+  - DSLR camera
+  - nvidia graphics card
 
