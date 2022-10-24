@@ -175,6 +175,7 @@
 ** Pixelquid.com - 3d photos
 ** unsplash
 ** met museum
+** LearnFromMasters youtube
 * Fiction
 ** The Once and Future King - T.H. White
    - Inspired the sword and the stone
@@ -393,6 +394,8 @@
 *** Leon Bonnat
 *** Howard Pyle
 *** Dean Cornwell
+*** Paul Bonner
+*** Adrian Smith
 ** Concept
 *** Spectrum books (library)
 *** Greg Rutkowski
