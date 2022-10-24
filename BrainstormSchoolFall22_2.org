@@ -11,12 +11,12 @@ Total: 94 h 10 min
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W42 :tags t
-  #+CAPTION: Clock summary at [2022-10-23 Sun 15:54], for week 2022-W42.
+  #+CAPTION: Clock summary at [2022-10-23 Sun 20:15], for week 2022-W42.
   | Tags     | Headline                                   | Time    |       |      |
   |----------+--------------------------------------------+---------+-------+------|
-  |          | *Total time*                               | *54:26* |       |      |
+  |          | *Total time*                               | *56:36* |       |      |
   |----------+--------------------------------------------+---------+-------+------|
-  |          | Week 1                                     | 54:26   |       |      |
+  |          | Week 1                                     | 56:36   |       |      |
   |          | \_  <2022-10-17 Mon>                       |         |  9:56 |      |
   | drawing  | \_    AD1 week 4 homework                  |         |       | 4:02 |
   | drawing  | \_    WB1 week 4 homework                  |         |       | 3:44 |
@@ -38,8 +38,8 @@ Total: 94 h 10 min
   |          | \_  <2022-10-22 Sat>                       |         |  7:00 |      |
   | study    | \_    AD1 week 5                           |         |       | 3:30 |
   | study    | \_    WB1 week 5                           |         |       | 3:30 |
-  |          | \_  <2022-10-23 Sun>                       |         |  6:11 |      |
-  | drawing  | \_    AD1 week 5 homework                  |         |       | 0:41 |
+  |          | \_  <2022-10-23 Sun>                       |         |  8:21 |      |
+  | drawing  | \_    AD1 week 5 homework                  |         |       | 2:51 |
   | study    | \_    Maciej Intro to Environment painting |         |       | 2:28 |
   | study    | \_    DC1 week 5                           |         |       | 3:02 |
   #+END:
@@ -47,7 +47,7 @@ Total: 94 h 10 min
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
   | Tag      | Headline   | Time (h)  |
   |----------+------------+-----------|
-  | drawing  | *Tag time* | *25h 25m* |
+  | drawing  | *Tag time* | *27h 35m* |
   |----------+------------+-----------|
   | study    | *Tag time* | *14h 28m* |
   |----------+------------+-----------|
@@ -135,6 +135,7 @@ Total: 94 h 10 min
 ** <2022-10-23 Sun>
 *** DONE AD1 week 5 homework                                        :drawing:
     :LOGBOOK:
+    CLOCK: [2022-10-23 Sun 18:05]--[2022-10-23 Sun 20:15] =>  2:10
     CLOCK: [2022-10-23 Sun 07:51]--[2022-10-23 Sun 08:32] =>  0:41
     :END:
 *** DONE Maciej Intro to Environment painting                         :study:
