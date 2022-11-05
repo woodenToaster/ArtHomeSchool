@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t :block untilnow
-#+CAPTION: Clock summary at [2022-10-26 Wed 11:34], for now.
+#+CAPTION: Clock summary at [2022-11-04 Fri 21:38], for now.
 | File                                      | Tags     | Headline                                         |      Time |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-|                                           | ALL      | *Total time*                                     | *3575:23* |       |       |       |
+|                                           | ALL      | *Total time*                                     | *3657:46* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | AnatomyIII_Legs.org                       |          | *File time*                                      |  *136:15* |       |       |       |
 |                                           |          | Log                                              |    136:15 |       |       |       |
@@ -716,7 +716,7 @@
 |                                           | painting | \_    DC1 week 4 homework                        |           |       |  2:02 |       |
 |                                           | study    | \_    blog                                       |           |       |  0:18 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| BrainstormSchoolFall22_2.org              |          | *File time*                                      |   *83:24* |       |       |       |
+| BrainstormSchoolFall22_2.org              |          | *File time*                                      |  *165:47* |       |       |       |
 |                                           |          | Week 1                                           |     56:51 |       |       |       |
 |                                           |          | \_  <2022-10-17 Mon>                             |           |  9:56 |       |       |
 |                                           | drawing  | \_    AD1 week 4 homework                        |           |       |  4:02 |       |
@@ -744,7 +744,7 @@
 |                                           | study    | \_    Maciej Intro to Environment painting       |           |       |  2:28 |       |
 |                                           | study    | \_    DC1 week 5                                 |           |       |  3:02 |       |
 |                                           | study    | \_    blog                                       |           |       |  0:15 |       |
-|                                           |          | Week 2                                           |     26:33 |       |       |       |
+|                                           |          | Week 2                                           |     65:17 |       |       |       |
 |                                           |          | \_  <2022-10-24 Mon>                             |           | 11:18 |       |       |
 |                                           | drawing  | \_    AD1 week 5 homework                        |           |       |  4:02 |       |
 |                                           | drawing  | \_    WB1 week 5 homework                        |           |       |  3:54 |       |
@@ -753,8 +753,48 @@
 |                                           | drawing  | \_    AD1 week 5 homework                        |           |       |  4:18 |       |
 |                                           | drawing  | \_    WB1 week 5 homework                        |           |       |  3:28 |       |
 |                                           | painting | \_    DC1 week 5 homework                        |           |       |  3:24 |       |
-|                                           |          | \_  <2022-10-26 Wed>                             |           |  4:05 |       |       |
+|                                           |          | \_  <2022-10-26 Wed>                             |           |  9:00 |       |       |
 |                                           | drawing  | \_    AD1 week 5 homework                        |           |       |  4:05 |       |
+|                                           | drawing  | \_    WB1 week 5 homework                        |           |       |  2:31 |       |
+|                                           | painting | \_    DC1 week 5 homework                        |           |       |  2:24 |       |
+|                                           |          | \_  <2022-10-27 Thu>                             |           | 10:15 |       |       |
+|                                           | drawing  | \_    AD1 week 5 homework                        |           |       |  3:02 |       |
+|                                           | study    | \_    AD1 week 5 homework                        |           |       |  1:26 |       |
+|                                           | drawing  | \_    WB1 week 5 homework                        |           |       |  2:46 |       |
+|                                           | painting | \_    DC1 week 5 homework                        |           |       |  3:01 |       |
+|                                           |          | \_  <2022-10-28 Fri>                             |           |  8:33 |       |       |
+|                                           | study    | \_    AD1 week 5 homework                        |           |       |  8:33 |       |
+|                                           |          | \_  <2022-10-29 Sat>                             |           |  8:04 |       |       |
+|                                           | study    | \_    AD1 week 5 homework                        |           |       |  1:21 |       |
+|                                           | study    | \_    AD1 week 6                                 |           |       |  3:26 |       |
+|                                           | study    | \_    WB1 week 6                                 |           |       |  3:17 |       |
+|                                           |          | \_  <2022-10-30 Sun>                             |           |  6:57 |       |       |
+|                                           | painting | \_    DC1 week 5 homework                        |           |       |  2:22 |       |
+|                                           | study    | \_    DC1 week 6                                 |           |       |  3:25 |       |
+|                                           | study    | \_    Portfolio update                           |           |       |  0:57 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:13 |       |
+|                                           |          | Week 3                                           |     43:39 |       |       |       |
+|                                           |          | \_  <2022-10-31 Mon>                             |           | 11:17 |       |       |
+|                                           | study    | \_    AD1 week 6 reference gathering             |           |       |  0:58 |       |
+|                                           | drawing  | \_    AD1 week 6 homework                        |           |       |  3:02 |       |
+|                                           | study    | \_    WB1 week 6 reference gathering             |           |       |  2:11 |       |
+|                                           | drawing  | \_    WB1 week 6 homework                        |           |       |  1:33 |       |
+|                                           | painting | \_    DC1 week 6 homework                        |           |       |  3:33 |       |
+|                                           |          | \_  <2022-11-01 Tue>                             |           |  3:55 |       |       |
+|                                           | drawing  | \_    AD1 week 6 homework                        |           |       |  3:55 |       |
+|                                           |          | \_  <2022-11-02 Wed>                             |           |  9:44 |       |       |
+|                                           | drawing  | \_    AD1 week 6 homework                        |           |       |  2:15 |       |
+|                                           | study    | \_    AD1 week 6 reference gathering             |           |       |  1:06 |       |
+|                                           | drawing  | \_    WB1 week 6 homework                        |           |       |  3:45 |       |
+|                                           | painting | \_    DC1 week 6 homework                        |           |       |  2:38 |       |
+|                                           |          | \_  <2022-11-03 Thu>                             |           |  8:21 |       |       |
+|                                           | drawing  | \_    AD1 week 6 homework                        |           |       |  4:00 |       |
+|                                           | drawing  | \_    WB1 week 6 homework                        |           |       |  2:00 |       |
+|                                           | painting | \_    DC1 week 6 homework                        |           |       |  2:21 |       |
+|                                           |          | \_  <2022-11-04 Fri>                             |           | 10:22 |       |       |
+|                                           | drawing  | \_    AD1 week 6 homework                        |           |       |  4:00 |       |
+|                                           | drawing  | \_    WB1 week 6 homework                        |           |       |  3:18 |       |
+|                                           | painting | \_    DC1 week 6 homework                        |           |       |  3:04 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | BrainstormSchoolSummer22_1.org            |          | *File time*                                      |  *193:22* |       |       |       |
 |                                           |          | Week 1                                           |     49:05 |       |       |       |
