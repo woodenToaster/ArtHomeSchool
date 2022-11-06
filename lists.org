@@ -1189,8 +1189,8 @@
     - AD1
 *** TODO Spring 23
     - ENT1
-    - AD2
     - WB2
+    - WB: Story driven visual game design
 *** TODO Summer 23
     - WB3
     - WB Blender
@@ -1198,4 +1198,50 @@
 * Black Friday 2022
   - DSLR camera
   - nvidia graphics card
+  - wacom art pen
+  - blick
+  - ghost of tsushima
+* Fall 2022 semester break
+** Portfolio
+   - 5 to 10 finished pieces in the Dark Souls Ring project
+   - >= 50% of my time
+** Blender
+   - for concept art
+   - geometry nodes
+   - python scripting
+** Plein air
+   - one gouache painting per day
+** Videos
+*** Landscape Painting
+**** Noah Bradley
+     - Art Camp 3, Landscapes
+**** Watts
+     - Landscape Painting I
+*** Blender environments
+**** Anthony Eftekhari
+     - 3D concept art
+     - composition and staging
+**** Pedro Blanco
+     - Scifi Environment Design
+**** Kevin Jick
+     - Japanese Stilt city
+**** Florent Lebrun
+     - Blender
+**** Jama
+     - Blender
+*** Digital Painting
+**** Greg Rutkowski
+     - Paint like the masters
+** Schedule
+*** Morning
+    - 4 hr :: portfolio
+*** Afternoon
+    - 1 hr :: plein air
+    - 3 hr :: portfolio
+*** Evening
+    - 1 hr :: course video
+    - 1 hr :: blender python scripting
+    - 2 hr :: implement video
+    
+   
 
