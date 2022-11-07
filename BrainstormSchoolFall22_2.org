@@ -5,7 +5,7 @@
 
 * Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W42 :tags t
-  #+CAPTION: Clock summary at [2022-11-05 Sat 19:41], for week 2022-W42.
+  #+CAPTION: Clock summary at [2022-11-06 Sun 18:43], for week 2022-W42.
   | Tags     | Headline                                   | Time    |       |      |
   |----------+--------------------------------------------+---------+-------+------|
   |          | *Total time*                               | *56:51* |       |      |
@@ -147,7 +147,7 @@
     :END:
 * Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W43 :tags t
-  #+CAPTION: Clock summary at [2022-11-05 Sat 19:41], for week 2022-W43.
+  #+CAPTION: Clock summary at [2022-11-06 Sun 18:43], for week 2022-W43.
   | Tags     | Headline                  | Time    |       |      |
   |----------+---------------------------+---------+-------+------|
   |          | *Total time*              | *65:17* |       |      |
@@ -292,12 +292,12 @@
     :END:
 * Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W44 :tags t
-  #+CAPTION: Clock summary at [2022-11-05 Sat 19:41], for week 2022-W44.
+  #+CAPTION: Clock summary at [2022-11-06 Sun 18:43], for week 2022-W44.
   | Tags     | Headline                             | Time    |       |      |
   |----------+--------------------------------------+---------+-------+------|
-  |          | *Total time*                         | *54:29* |       |      |
+  |          | *Total time*                         | *59:58* |       |      |
   |----------+--------------------------------------+---------+-------+------|
-  |          | Week 3                               | 54:29   |       |      |
+  |          | Week 3                               | 59:58   |       |      |
   |          | \_  <2022-10-31 Mon>                 |         | 11:17 |      |
   | study    | \_    AD1 week 6 reference gathering |         |       | 0:58 |
   | drawing  | \_    AD1 week 6 homework            |         |       | 3:02 |
@@ -324,6 +324,10 @@
   | drawing  | \_    WB1 week 6 homework            |         |       | 1:11 |
   | study    | \_    AD1 week 7                     |         |       | 4:40 |
   | study    | \_    WB1 week 7                     |         |       | 2:37 |
+  |          | \_  <2022-11-06 Sun>                 |         |  5:29 |      |
+  | study    | \_    WB1 week 7                     |         |       | 1:16 |
+  | study    | \_    DC1 week 7                     |         |       | 3:40 |
+  | study    | \_    blog                           |         |       | 0:33 |
   #+END:
   
   #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -331,7 +335,7 @@
   |----------+------------+-----------|
   | drawing  | *Tag time* | *31h 21m* |
   |----------+------------+-----------|
-  | study    | *Tag time* | *11h 32m* |
+  | study    | *Tag time* | *17h 1m*  |
   |----------+------------+-----------|
   | painting | *Tag time* | *11h 36m* |
   |----------+------------+-----------|
@@ -428,6 +432,38 @@
     CLOCK: [2022-11-05 Sat 16:40]--[2022-11-05 Sat 19:17] =>  2:37
     :END:
 ** <2022-11-06 Sun>
-*** TODO DC1 week 7 :study:
-*** TODO blog :study:
+*** DONE WB1 week 7                                                   :study:
+    :LOGBOOK:
+    CLOCK: [2022-11-06 Sun 09:57]--[2022-11-06 Sun 10:52] =>  0:55
+    CLOCK: [2022-11-06 Sun 08:35]--[2022-11-06 Sun 08:56] =>  0:21
+    :END:
+*** DONE DC1 week 7                                                   :study:
+    :LOGBOOK:
+    CLOCK: [2022-11-06 Sun 11:58]--[2022-11-06 Sun 15:26] =>  3:28
+    CLOCK: [2022-11-06 Sun 09:45]--[2022-11-06 Sun 09:57] =>  0:12
+    :END:
+*** DONE blog                                                         :study:
+    :LOGBOOK:
+    CLOCK: [2022-11-06 Sun 18:10]--[2022-11-06 Sun 18:43] =>  0:33
+    :END:
+* Week 4
+ #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W45 :tags t
+ #+CAPTION: Clock summary at [2022-11-06 Sun 18:43], for week 2022-W45.
+ | Tags | Headline     | Time   |
+ |------+--------------+--------|
+ |      | *Total time* | *0:00* |
+ #+END:
 
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+| Tag      | Headline   | Time (h) |
+|----------+------------+----------|
+| drawing  | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| study    | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| painting | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| 3D       | *Tag time* | *0h 0m*  |
+
+#+END:
+** 
