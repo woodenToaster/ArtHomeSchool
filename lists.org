@@ -194,6 +194,11 @@
    - Bulgariad
    - Mallorean
 * Movies/Shows
+** TODO Kung Fu Hustle
+** TODO Avatar
+** TODO Prisoners
+** TODO Sicario
+** TODO 1917
 * Videos
 ** Maciej Kuciara - Intro to Env Painting - learn squared oc.club
 ** Anthony Eftekhar
