@@ -1,7 +1,7 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t :block untilnow
-#+CAPTION: Clock summary at [2022-11-16 Wed 21:15], for now.
+#+CAPTION: Clock summary at [2022-11-17 Thu 07:31], for now.
 | File                                      | Tags     | Headline                                         |      Time |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 |                                           | ALL      | *Total time*                                     | *3767:51* |       |       |       |
@@ -2844,3 +2844,4 @@
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | writing.org                               |          | *File time*                                      |    *0:00* |       |       |       |
 #+END:
+
