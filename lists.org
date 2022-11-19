@@ -2,7 +2,7 @@
 #+AUTHOR: Chris Hogan
 
 * Games
-** Elden Ring
+** Cyberpunk 2077
 ** Warhammer II
 ** Warhammer III
 ** Ghost of Tsushima
@@ -13,6 +13,7 @@
 ** Baldur's Gate 3
 ** Spider Man: Miles Morales
 ** Assassin's Creed Valhalla
+
 * Art Supplies
 ** Pilot Futayaku double sided brush pen
 ** Zebra Rubber 80 R-8000 pen
