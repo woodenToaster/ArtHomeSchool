@@ -2,6 +2,9 @@
 #+AUTHOR: Chris Hogan
 
 * Games
+** God of War ragnorok
+** Horizon zero dawn
+** Horizon forbidden west
 ** Cyberpunk 2077
 ** Warhammer II
 ** Warhammer III
@@ -195,11 +198,14 @@
    - Bulgariad
    - Mallorean
 * Movies/Shows
-** TODO Kung Fu Hustle
-** TODO Avatar
-** TODO Prisoners
-** TODO Sicario
-** TODO 1917
+** Mandelorian
+** Wolf of Wallstreet
+** Westworld
+** Kung Fu Hustle
+** Avatar
+** Prisoners
+** Sicario
+** 1917
 * Videos
 ** Maciej Kuciara - Intro to Env Painting - learn squared oc.club
 ** Anthony Eftekhar
