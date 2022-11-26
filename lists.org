@@ -1207,14 +1207,6 @@
     - WB3
     - WB Blender
     - PD Env
-* Black Friday 2022
-  - DSLR camera
-  - nvidia graphics card
-  - wacom art pen
-  - blick
-  - 3dcoat
-  - foundation patreon
-  - gumroad
 * Fall 2022 semester break
 ** Portfolio
    - 5 to 10 finished pieces in the Dark Souls Ring project
