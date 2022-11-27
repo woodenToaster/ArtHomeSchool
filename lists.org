@@ -198,6 +198,8 @@
    - Bulgariad
    - Mallorean
 * Movies/Shows
+** 7 Samurai
+** Ivan's Childhood
 ** Mandelorian
 ** Wolf of Wallstreet
 ** Westworld
