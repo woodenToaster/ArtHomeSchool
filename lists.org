@@ -1211,7 +1211,7 @@
     - PD Env
 * Fall 2022 semester break
 ** Portfolio
-   - 5 to 10 finished pieces in the Dark Souls Ring project
+   - 10 finished pieces in the Dark Souls Ring project
    - >= 50% of my time
 ** Blender
    - for concept art
@@ -1219,6 +1219,8 @@
    - python scripting
 ** Plein air
    - one gouache painting per day
+** 3D Cloat
+   - for concept art
 ** Videos
 *** Landscape Painting
 **** Noah Bradley
@@ -1240,6 +1242,11 @@
 *** Digital Painting
 **** Greg Rutkowski
      - Paint like the masters
+*** 3D Coat
+**** Norris intro to 3D coat
+**** Norris 3D coat 1
+**** Norris 3D coat 2
+**** Norris 3D coat and blender
 ** Schedule
 *** Morning
     - 4 hr :: portfolio
