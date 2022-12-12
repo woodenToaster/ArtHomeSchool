@@ -16,6 +16,7 @@
 ** Baldur's Gate 3
 ** Spider Man: Miles Morales
 ** Assassin's Creed Valhalla
+** Assassin's Creed Ezio collection
 
 * Art Supplies
 ** Pilot Futayaku double sided brush pen
@@ -1197,7 +1198,7 @@
 *** DONE Summer 22
     - FND1
     - PBC
-*** TODO Fall 22
+*** DONE Fall 22
     - WB1
     - DC1
     - AD1
