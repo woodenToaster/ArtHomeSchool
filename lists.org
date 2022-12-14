@@ -1261,8 +1261,10 @@
 * 2022 gifts
 ** TODO Wife
 ** TODO Wes and Michelle
-** TODO Asher
-** TODO Mom
+** DONE Asher
+CLOSED: [2022-12-12 Mon 07:59]
+** DONE Mom
+CLOSED: [2022-12-12 Mon 07:59]
 ** TODO Chris and Gabrielle
 ** TODO Inlaws
 
