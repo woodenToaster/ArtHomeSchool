@@ -199,11 +199,11 @@
    - Bulgariad
    - Mallorean
 * Movies/Shows
+** Interstellar
 ** 7 Samurai
 ** Ivan's Childhood
 ** Mandelorian
 ** Wolf of Wallstreet
-** Westworld
 ** Kung Fu Hustle
 ** Avatar
 ** Prisoners
