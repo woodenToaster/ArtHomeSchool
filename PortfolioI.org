@@ -5,27 +5,29 @@
 
 * Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W50 :tags t
-#+CAPTION: Clock summary at [2022-12-15 Thu 21:18], for week 2022-W50.
-| Tags    | Headline             | Time   |      |      |
-|---------+----------------------+--------+------+------|
-|         | *Total time*         | *9:59* |      |      |
-|---------+----------------------+--------+------+------|
-|         | Week 1               | 9:59   |      |      |
-|         | \_  <2022-12-12 Mon> |        | 1:57 |      |
-| drawing | \_    Art wod        |        |      | 1:57 |
-|         | \_  <2022-12-13 Tue> |        | 3:06 |      |
-| study   | \_    Art wod        |        |      | 1:01 |
-| drawing | \_    Art wod        |        |      | 2:05 |
-|         | \_  <2022-12-14 Wed> |        | 2:23 |      |
-| drawing | \_    Art wod        |        |      | 2:23 |
-|         | \_  <2022-12-15 Thu> |        | 2:33 |      |
-| drawing | \_    Art wod        |        |      | 2:33 |
+#+CAPTION: Clock summary at [2022-12-16 Fri 21:52], for week 2022-W50.
+| Tags    | Headline             | Time    |      |      |
+|---------+----------------------+---------+------+------|
+|         | *Total time*         | *10:59* |      |      |
+|---------+----------------------+---------+------+------|
+|         | Week 1               | 10:59   |      |      |
+|         | \_  <2022-12-12 Mon> |         | 1:57 |      |
+| drawing | \_    Art wod        |         |      | 1:57 |
+|         | \_  <2022-12-13 Tue> |         | 3:06 |      |
+| study   | \_    Art wod        |         |      | 1:01 |
+| drawing | \_    Art wod        |         |      | 2:05 |
+|         | \_  <2022-12-14 Wed> |         | 2:23 |      |
+| drawing | \_    Art wod        |         |      | 2:23 |
+|         | \_  <2022-12-15 Thu> |         | 2:33 |      |
+| drawing | \_    Art wod        |         |      | 2:33 |
+|         | \_  <2022-12-16 Fri> |         | 1:00 |      |
+| drawing | \_    Art wod        |         |      | 1:00 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
 | Tag      | Headline   | Time (h) |
 |----------+------------+----------|
-| drawing  | *Tag time* | *8h 58m* |
+| drawing  | *Tag time* | *9h 58m* |
 |----------+------------+----------|
 | study    | *Tag time* | *1h 1m*  |
 |----------+------------+----------|
@@ -64,4 +66,9 @@ CLOCK: [2022-12-14 Wed 10:58]--[2022-12-14 Wed 11:37] =>  0:39
 CLOCK: [2022-12-15 Thu 19:55]--[2022-12-15 Thu 21:17] =>  1:22
 CLOCK: [2022-12-15 Thu 15:20]--[2022-12-15 Thu 15:55] =>  0:35
 CLOCK: [2022-12-15 Thu 08:46]--[2022-12-15 Thu 09:22] =>  0:36
+:END:
+** <2022-12-16 Fri>
+*** DONE Art wod                                                    :drawing:
+:LOGBOOK:
+CLOCK: [2022-12-16 Fri 20:51]--[2022-12-16 Fri 21:51] =>  1:00
 :END:
