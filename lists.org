@@ -1267,4 +1267,7 @@ CLOSED: [2022-12-12 Mon 07:59]
 CLOSED: [2022-12-12 Mon 07:59]
 ** TODO Chris and Gabrielle
 ** TODO Inlaws
+* Design Questions
+** Have I seen something like this before?
+** What would make this cooler?
 
