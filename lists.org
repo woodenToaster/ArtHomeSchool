@@ -8,7 +8,6 @@
 ** Cyberpunk 2077
 ** Warhammer II
 ** Warhammer III
-** Ghost of Tsushima
 ** Mortal Shell
 ** Grim Dawn
 ** Divinity 2
@@ -16,8 +15,7 @@
 ** Baldur's Gate 3
 ** Spider Man: Miles Morales
 ** Assassin's Creed Valhalla
-** Assassin's Creed Ezio collection
-
+** Assassin's Creed Origins
 * Art Supplies
 ** Pilot Futayaku double sided brush pen
 ** Zebra Rubber 80 R-8000 pen
@@ -144,12 +142,13 @@
 *** TODO Design of Everyday Things - Donald Norman
 * Inspirational Books
 *** 12 Rules for Life - Jordan Peterson
+*** Mastery: Greene
+*** The Practice: Shipping Creative Work - Seth Goden
 *** Psychology of Performance - Eddie O'Connor (Hoopla)
 *** Digital Minimalism - Cal Newport
 *** Real Artists Don't Starve - Jeff Goins
 *** Linchpin - Seth Goden
     - Art and business mix
-*** The Practice: Shipping Creative Work - Seth Goden
 *** Osprey Medieval reference books
 *** The Skilled Huntsman
 *** Concept Art Books
@@ -162,7 +161,6 @@
 *** The War of Art
 *** Feeling Good (depression) (hoopla)
 *** Drawing from the Right Side of the Brain - Betty Edwards
-*** Mastery: Greene
 *** Mindworks - Gary van Warmerdam
 *** Chasing Love - Ray Bradberry
 *** DONE The Artist's Way
@@ -187,14 +185,10 @@
    - Arthurian legend
 ** The Dragonbone Chair - Tad Williams
 ** Neuromancer
-** Robert E. Howard
 ** Pillars of the Earth - Ken Follett
    - Traces the entire lives of people in the 12th century building a cathedral
-** Brandon Sanderson
-*** TODO Way of Kings
 ** Michael Moorecock - Elric books
 ** The Malazan Book of the Fallen - Steven Erikson
-** I am Legend
 ** David Eddings
    - Bulgariad
    - Mallorean
@@ -415,30 +409,6 @@
 *** Spectrum books (library)
 *** Greg Rutkowski
 *** Betsinski
-* Exercises
-** Watts Drawing Fundamentals Phase I
-*** Abstract Warmup
-    - Long lines, ovals, and abstract curvy lines one on top of the other (10 or 15 minutes)
-*** Value Scales
-    - Values from 0 (black) to 10 (paper)
-*** Basic Shapes
-    - Draw shaded cubes, cyllinders, spheres, cones.
-** Watts Drawing Fundamentals Phase II
-*** Negative Space
-    - Draw a still life while focusing on drawing negative space.
-*** Value Scale
-    - Draw a still life using only 2 values: dark and light.
-* Long Exercises
-** TODO Jim Lee style sketches: 1) Gesture. 2) Micron 08 outline. 3) Brush.
-** TODO Copy a whole page
-** TODO Draw the same panel every day for a week
-** TODO Draw a whole script to an existing comic
-** TODO Illustrate an existing story (Poe, Dostoevsky)
-** TODO Bring director's cut pencil into clip studio and ink it.
-** TODO Concept design
-   - Start with some thumbnails from reference
-   - Take the best ones and turn them into a new idea by combining other reference
-   - Turn into a finished drawing
 * Drawing Regimen (first 5 months)
 ** June 2020
 *** <2020-06-15 Mon>
@@ -1211,23 +1181,12 @@
     - WB Blender
     - PD Env
 * Fall 2022 semester break
-** Portfolio
-   - 10 finished pieces in the Dark Souls Ring project
-   - >= 50% of my time
 ** Blender
    - for concept art
    - geometry nodes
    - python scripting
-** Plein air
-   - one gouache painting per day
 ** 3D Cloat
-   - for concept art
 ** Videos
-*** Landscape Painting
-**** Noah Bradley
-     - Art Camp 3, Landscapes
-**** Watts
-     - Landscape Painting I
 *** Blender environments
 **** Anthony Eftekhari
      - 3D concept art
@@ -1259,13 +1218,7 @@
     - 1 hr :: blender python scripting
     - 2 hr :: implement video
 * 2022 gifts
-** TODO Wife
 ** TODO Wes and Michelle
-** DONE Asher
-CLOSED: [2022-12-12 Mon 07:59]
-** DONE Mom
-CLOSED: [2022-12-12 Mon 07:59]
-** TODO Chris and Gabrielle
 ** TODO Inlaws
 * Design Questions
 ** Have I seen something like this before?

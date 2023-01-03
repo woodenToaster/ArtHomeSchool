@@ -129,4 +129,18 @@ CLOCK: [2022-12-18 Sun 20:30]--[2022-12-18 Sun 20:49] =>  0:19
 CLOCK: [2022-12-19 Mon 20:16]--[2022-12-19 Mon 21:39] =>  1:23
 CLOCK: [2022-12-19 Mon 10:32]--[2022-12-19 Mon 11:33] =>  1:01
 :END:
+* Week 3
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W01 :tags t
+#+CAPTION:
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+#+END:
+** <2023-01-02 Mon>
+*** DONE Tarnhelm design                                            :drawing:
+:LOGBOOK:
+CLOCK: [2023-01-02 Mon 14:13]--[2023-01-02 Mon 15:37] =>  1:24
+CLOCK: [2023-01-02 Mon 07:20]--[2023-01-02 Mon 09:20] =>  2:00
+:END:
+
 
