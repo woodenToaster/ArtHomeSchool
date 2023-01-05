@@ -171,4 +171,7 @@ CLOCK: [2023-01-03 Tue 07:26]--[2023-01-03 Tue 08:45] =>  1:19
 :LOGBOOK:
 CLOCK: [2023-01-03 Tue 08:45]--[2023-01-03 Tue 09:30] =>  0:45
 :END:
+** <2023-01-04 Wed>
+*** TODO Tarnhelm design :drawing:
+*** TODO portfolio :study:
 
