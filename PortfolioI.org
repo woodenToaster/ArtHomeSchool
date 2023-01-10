@@ -187,4 +187,12 @@ CLOCK: [2023-01-07 Sat 10:50]--[2023-01-07 Sat 11:10] =>  0:20
 CLOCK: [2023-01-07 Sat 09:29]--[2023-01-07 Sat 10:08] =>  0:39
 CLOCK: [2023-01-07 Sat 08:13]--[2023-01-07 Sat 09:16] =>  1:03
 :END:
+* Week 4
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W02 :tags t
+#+CAPTION:
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+#+END:
+** 
 
