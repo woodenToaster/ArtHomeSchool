@@ -5,7 +5,7 @@
 
 * Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W50 :tags t
-#+CAPTION: Clock summary at [2023-01-10 Tue 20:48], for week 2022-W50.
+#+CAPTION: Clock summary at [2023-01-11 Wed 20:23], for week 2022-W50.
 | Tags    | Headline             | Time    |      |      |
 |---------+----------------------+---------+------+------|
 |         | *Total time*         | *13:56* |      |      |
@@ -100,7 +100,7 @@ CLOCK: [2022-12-18 Sun 20:30]--[2022-12-18 Sun 20:49] =>  0:19
 
 * Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2022-W51 :tags t
-#+CAPTION: Clock summary at [2023-01-10 Tue 20:48], for week 2022-W51.
+#+CAPTION: Clock summary at [2023-01-11 Wed 20:23], for week 2022-W51.
 | Tags    | Headline             | Time   |      |      |
 |---------+----------------------+--------+------+------|
 |         | *Total time*         | *2:24* |      |      |
@@ -131,7 +131,7 @@ CLOCK: [2022-12-19 Mon 10:32]--[2022-12-19 Mon 11:33] =>  1:01
 :END:
 * Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W01 :tags t
-#+CAPTION: Clock summary at [2023-01-10 Tue 20:48], for week 2023-W01.
+#+CAPTION: Clock summary at [2023-01-11 Wed 20:23], for week 2023-W01.
 | Tags    | Headline                | Time    |      |      |
 |---------+-------------------------+---------+------+------|
 |         | *Total time*            | *13:30* |      |      |
@@ -189,14 +189,16 @@ CLOCK: [2023-01-07 Sat 08:13]--[2023-01-07 Sat 09:16] =>  1:03
 :END:
 * Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W02 :tags t
-#+CAPTION: Clock summary at [2023-01-10 Tue 20:48], for week 2023-W02.
+#+CAPTION: Clock summary at [2023-01-11 Wed 20:23], for week 2023-W02.
 | Tags  | Headline             | Time   |      |      |
 |-------+----------------------+--------+------+------|
-|       | *Total time*         | *2:13* |      |      |
+|       | *Total time*         | *4:41* |      |      |
 |-------+----------------------+--------+------+------|
-|       | Week 4               | 2:13   |      |      |
+|       | Week 4               | 4:41   |      |      |
 |       | \_  <2023-01-10 Tue> |        | 2:13 |      |
 | study | \_    Portfolio      |        |      | 2:13 |
+|       | \_  <2023-01-11 Wed> |        | 2:28 |      |
+| 3D    | \_    Tarnhelm       |        |      | 2:28 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -208,7 +210,7 @@ CLOCK: [2023-01-07 Sat 08:13]--[2023-01-07 Sat 09:16] =>  1:03
 |----------+------------+----------|
 | painting | *Tag time* | *0h 0m*  |
 |----------+------------+----------|
-| 3D       | *Tag time* | *0h 0m*  |
+| 3D       | *Tag time* | *2h 28m* |
 
 #+END:
 ** <2023-01-10 Tue>
@@ -218,5 +220,9 @@ CLOCK: [2023-01-10 Tue 09:40]--[2023-01-10 Tue 10:33] =>  0:53
 CLOCK: [2023-01-10 Tue 07:30]--[2023-01-10 Tue 08:50] =>  1:20
 :END:
 ** <2023-01-11 Wed>
-*** TODO Tarnhelm :3D:
+*** DONE Tarnhelm                                                        :3D:
+:LOGBOOK:
+CLOCK: [2023-01-11 Wed 09:33]--[2023-01-11 Wed 10:46] =>  1:13
+CLOCK: [2023-01-11 Wed 07:39]--[2023-01-11 Wed 08:54] =>  1:15
+:END:
 
