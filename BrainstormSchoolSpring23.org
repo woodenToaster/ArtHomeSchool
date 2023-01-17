@@ -1,0 +1,53 @@
+#+TITLE: Brainstorm School Spring '23
+#+AUTHOR: Chris Hogan
+#+DATE: <2023-01-16 Mon> to <2023-03-26 Sun>
+#+STARTUP: nologdone
+
+* Week 1
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W03 :tags t
+#+CAPTION: Clock summary at [2023-01-16 Mon 21:44], for week 2023-W03.
+| Tags     | Headline                   | Time    |       |      |
+|----------+----------------------------+---------+-------+------|
+|          | *Total time*               | *10:04* |       |      |
+|----------+----------------------------+---------+-------+------|
+|          | Week 1                     | 10:04   |       |      |
+|          | \_  <2023-01-16 Mon>       |         | 10:04 |      |
+| study    | \_    reference gathering  |         |       | 0:23 |
+| drawing  | \_    architecture studies |         |       | 3:19 |
+| painting | \_    architecture studies |         |       | 2:16 |
+| 3D       | \_    architecture studies |         |       | 4:06 |
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+| Tag      | Headline   | Time (h) |
+|----------+------------+----------|
+| drawing  | *Tag time* | *3h 19m* |
+|----------+------------+----------|
+| study    | *Tag time* | *0h 23m* |
+|----------+------------+----------|
+| painting | *Tag time* | *2h 16m* |
+|----------+------------+----------|
+| 3D       | *Tag time* | *4h 6m*  |
+
+#+END:
+** <2023-01-16 Mon>
+*** DONE reference gathering                                          :study:
+:LOGBOOK:
+CLOCK: [2023-01-16 Mon 07:21]--[2023-01-16 Mon 07:44] =>  0:23
+:END:
+*** DONE architecture studies                                       :drawing:
+:LOGBOOK:
+CLOCK: [2023-01-16 Mon 20:50]--[2023-01-16 Mon 21:44] =>  0:54
+CLOCK: [2023-01-16 Mon 09:23]--[2023-01-16 Mon 10:45] =>  1:22
+CLOCK: [2023-01-16 Mon 07:44]--[2023-01-16 Mon 08:47] =>  1:03
+:END:
+*** DONE architecture studies                                      :painting:
+:LOGBOOK:
+CLOCK: [2023-01-16 Mon 19:44]--[2023-01-16 Mon 20:50] =>  1:06
+CLOCK: [2023-01-16 Mon 18:11]--[2023-01-16 Mon 19:21] =>  1:10
+:END:
+*** DONE architecture studies                                            :3D:
+:LOGBOOK:
+CLOCK: [2023-01-16 Mon 14:34]--[2023-01-16 Mon 15:50] =>  1:16
+CLOCK: [2023-01-16 Mon 11:25]--[2023-01-16 Mon 14:15] =>  2:50
+:END:
