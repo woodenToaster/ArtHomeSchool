@@ -141,6 +141,7 @@
     - pollution
 *** Swap timelines
     - Combine multiple time periods
+    - how would a modern concept be done in a different historical period?
 *** Show interesting real-world designs
     - Science
     - Culture
@@ -159,9 +160,12 @@
     - Get and use good reference
     - Write down notes
     - Use sketches to sort out ideas
+    - sketches don't need to be nice, they're for yourself
     - Use photo bashing to visualize the scene
     - Don't commit too early. Try multiple solutions
-    - Keep it simple
+    - Avoid heavy detailing in 3D. Use basic forms
+    - Keep it simple. One visual hook
+    - Resist designing when doing period pieces
     - 1) Collect reference, 2) take notes, 3) sketch
 * FZD Design Cinema Ep. 96 - Form Follows Function Environment Design
   1. Culture + time period + function = design
