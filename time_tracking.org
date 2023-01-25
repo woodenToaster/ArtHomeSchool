@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t :block untilnow
-#+CAPTION: Clock summary at [2022-12-02 Fri 07:47], for now.
+#+CAPTION: Clock summary at [2023-01-24 Tue 20:33], for now.
 | File                                      | Tags     | Headline                                         |      Time |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-|                                           | ALL      | *Total time*                                     | *3861:06* |       |       |       |
+|                                           | ALL      | *Total time*                                     | *3966:27* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | AnatomyIII_Legs.org                       |          | *File time*                                      |  *136:15* |       |       |       |
 |                                           |          | Log                                              |    136:15 |       |       |       |
@@ -716,7 +716,7 @@
 |                                           | painting | \_    DC1 week 4 homework                        |           |       |  2:02 |       |
 |                                           | study    | \_    blog                                       |           |       |  0:18 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| BrainstormSchoolFall22_2.org              |          | *File time*                                      |  *369:07* |       |       |       |
+| BrainstormSchoolFall22_2.org              |          | *File time*                                      |  *373:41* |       |       |       |
 |                                           |          | Week 1                                           |     56:51 |       |       |       |
 |                                           |          | \_  <2022-10-17 Mon>                             |           |  9:56 |       |       |
 |                                           | drawing  | \_    AD1 week 4 homework                        |           |       |  4:02 |       |
@@ -881,7 +881,7 @@
 |                                           | painting | \_    AD1 week 9 homework                        |           |       |  6:02 |       |
 |                                           |          | \_  <2022-11-27 Sun>                             |           |  0:19 |       |       |
 |                                           | study    | \_    blog                                       |           |       |  0:19 |       |
-|                                           |          | Week 7                                           |     38:18 |       |       |       |
+|                                           |          | Week 7                                           |     42:52 |       |       |       |
 |                                           |          | \_  <2022-11-28 Mon>                             |           | 11:05 |       |       |
 |                                           | drawing  | \_    AD1 week 9 homework                        |           |       |  4:06 |       |
 |                                           | study    | \_    AD1 week 9 homework                        |           |       |  0:30 |       |
@@ -899,6 +899,49 @@
 |                                           |          | \_  <2022-12-01 Thu>                             |           |  7:51 |       |       |
 |                                           | study    | \_    AD1 week 9 homework                        |           |       |  6:38 |       |
 |                                           | study    | \_    WB1 week 9 homework                        |           |       |  1:13 |       |
+|                                           |          | \_  <2022-12-02 Fri>                             |           |  4:34 |       |       |
+|                                           | study    | \_    AD1 week 9 homework                        |           |       |  1:13 |       |
+|                                           | drawing  | \_    AD1 week 9 homework                        |           |       |  1:24 |       |
+|                                           | study    | \_    WB1 week 9 homework                        |           |       |  1:57 |       |
+|-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
+| BrainstormSchoolSpring23.org              |          | *File time*                                      |   *66:16* |       |       |       |
+|                                           |          | Week 1                                           |     49:56 |       |       |       |
+|                                           |          | \_  <2023-01-16 Mon>                             |           | 10:04 |       |       |
+|                                           | study    | \_    reference gathering                        |           |       |  0:23 |       |
+|                                           | drawing  | \_    architecture studies                       |           |       |  3:19 |       |
+|                                           | painting | \_    architecture studies                       |           |       |  2:16 |       |
+|                                           | 3D       | \_    architecture studies                       |           |       |  4:06 |       |
+|                                           |          | \_  <2023-01-17 Tue>                             |           |  7:20 |       |       |
+|                                           | painting | \_    architecture studies                       |           |       |  2:11 |       |
+|                                           | 3D       | \_    architecture studies                       |           |       |  3:38 |       |
+|                                           | drawing  | \_    TMNT                                       |           |       |  1:31 |       |
+|                                           |          | \_  <2023-01-18 Wed>                             |           |  8:33 |       |       |
+|                                           | study    | \_    ENT1 week 1 homework                       |           |       |  3:39 |       |
+|                                           | study    | \_    ENT1 week 1                                |           |       |  2:10 |       |
+|                                           | drawing  | \_    ENT1 week 1 homework                       |           |       |  1:25 |       |
+|                                           | study    | \_    SDVGD week 1                               |           |       |  1:19 |       |
+|                                           |          | \_  <2023-01-19 Thu>                             |           |  7:07 |       |       |
+|                                           | study    | \_    SDVGD week 1 homework                      |           |       |  4:55 |       |
+|                                           | drawing  | \_    ENT1 week 1 homework                       |           |       |  1:13 |       |
+|                                           | study    | \_    ENT1 week 1 homework                       |           |       |  0:59 |       |
+|                                           |          | \_  <2023-01-20 Fri>                             |           |  4:47 |       |       |
+|                                           | drawing  | \_    ENT1 week 1 homework                       |           |       |  4:24 |       |
+|                                           | study    | \_    ENT1 week 1 homework                       |           |       |  0:23 |       |
+|                                           |          | \_  <2023-01-21 Sat>                             |           |  7:00 |       |       |
+|                                           | drawing  | \_    ENT1 week 1 homework                       |           |       |  3:19 |       |
+|                                           | drawing  | \_    SDVGD week 1 homework                      |           |       |  0:40 |       |
+|                                           | study    | \_    WB2 week 1                                 |           |       |  3:01 |       |
+|                                           |          | \_  <2023-01-22 Sun>                             |           |  5:05 |       |       |
+|                                           | drawing  | \_    ENT1 week 1 homework                       |           |       |  2:28 |       |
+|                                           | study    | \_    SDVGD week 1 homework                      |           |       |  2:12 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:25 |       |
+|                                           |          | Week 2                                           |     16:20 |       |       |       |
+|                                           |          | \_  <2023-01-23 Mon>                             |           |  9:02 |       |       |
+|                                           | study    | \_    SDVGD week 1 homework                      |           |       |  1:20 |       |
+|                                           | drawing  | \_    SDVGD week 1 homework                      |           |       |  7:42 |       |
+|                                           |          | \_  <2023-01-24 Tue>                             |           |  7:18 |       |       |
+|                                           | drawing  | \_    SDVGD week 1 homework                      |           |       |  7:09 |       |
+|                                           | study    | \_    SDVGD week 1 homework                      |           |       |  0:09 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | BrainstormSchoolSummer22_1.org            |          | *File time*                                      |  *193:22* |       |       |       |
 |                                           |          | Week 1                                           |     49:05 |       |       |       |
@@ -2779,6 +2822,44 @@
 |                                           |          | \_    <2022-01-30 Sun>                           |           |       |  2:52 |       |
 |                                           | drawing  | \_      Warmup                                   |           |       |       |  2:21 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:31 |
+|-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
+| PortfolioI.org                            |          | *File time*                                      |   *34:31* |       |       |       |
+|                                           |          | Week 1                                           |     13:56 |       |       |       |
+|                                           |          | \_  <2022-12-12 Mon>                             |           |  1:57 |       |       |
+|                                           | drawing  | \_    Art wod                                    |           |       |  1:57 |       |
+|                                           |          | \_  <2022-12-13 Tue>                             |           |  3:06 |       |       |
+|                                           | study    | \_    Art wod                                    |           |       |  1:01 |       |
+|                                           | drawing  | \_    Art wod                                    |           |       |  2:05 |       |
+|                                           |          | \_  <2022-12-14 Wed>                             |           |  2:23 |       |       |
+|                                           | drawing  | \_    Art wod                                    |           |       |  2:23 |       |
+|                                           |          | \_  <2022-12-15 Thu>                             |           |  2:33 |       |       |
+|                                           | drawing  | \_    Art wod                                    |           |       |  2:33 |       |
+|                                           |          | \_  <2022-12-16 Fri>                             |           |  1:00 |       |       |
+|                                           | drawing  | \_    Art wod                                    |           |       |  1:00 |       |
+|                                           |          | \_  <2022-12-17 Sat>                             |           |  1:57 |       |       |
+|                                           | drawing  | \_    Art wod                                    |           |       |  1:43 |       |
+|                                           | study    | \_    Art wod                                    |           |       |  0:14 |       |
+|                                           |          | \_  <2022-12-18 Sun>                             |           |  1:00 |       |       |
+|                                           | drawing  | \_    Art wod                                    |           |       |  0:41 |       |
+|                                           | study    | \_    Art wod                                    |           |       |  0:19 |       |
+|                                           |          | Week 2                                           |      2:24 |       |       |       |
+|                                           |          | \_  <2022-12-19 Mon>                             |           |  2:24 |       |       |
+|                                           | drawing  | \_    Tarnhelm                                   |           |       |  2:24 |       |
+|                                           |          | Week 3                                           |     13:30 |       |       |       |
+|                                           |          | \_  <2023-01-02 Mon>                             |           |  3:24 |       |       |
+|                                           | drawing  | \_    Tarnhelm design                            |           |       |  3:24 |       |
+|                                           |          | \_  <2023-01-03 Tue>                             |           |  2:04 |       |       |
+|                                           | drawing  | \_    Tarnhelm design                            |           |       |  1:19 |       |
+|                                           | study    | \_    portfolio                                  |           |       |  0:45 |       |
+|                                           |          | \_  <2023-01-06 Fri>                             |           |  6:00 |       |       |
+|                                           | 3D       | \_    Blender tutorials                          |           |       |  6:00 |       |
+|                                           |          | \_  <2023-01-07 Sat>                             |           |  2:02 |       |       |
+|                                           | 3D       | \_    Blender tutorials                          |           |       |  2:02 |       |
+|                                           |          | Week 4                                           |      4:41 |       |       |       |
+|                                           |          | \_  <2023-01-10 Tue>                             |           |  2:13 |       |       |
+|                                           | study    | \_    Portfolio                                  |           |       |  2:13 |       |
+|                                           |          | \_  <2023-01-11 Wed>                             |           |  2:28 |       |       |
+|                                           | 3D       | \_    Tarnhelm                                   |           |       |  2:28 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | Term5Unit2.org                            |          | *File time*                                      |  *118:20* |       |       |       |
 |                                           |          | Log                                              |    118:20 |       |       |       |
