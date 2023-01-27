@@ -1179,47 +1179,43 @@
     - WB3
     - WB Blender
     - PD Env
-* Fall 2022 semester break
-** Blender
-   - for concept art
-   - geometry nodes
-   - python scripting
-** 3D Cloat
-** Videos
-*** Blender environments
-**** Anthony Eftekhari
-     - 3D concept art
-     - composition and staging
-**** Pedro Blanco
-     - Scifi Environment Design
-**** Kevin Jick
-     - Japanese Stilt city
-**** Florent Lebrun
-     - Blender
-**** Jama
-     - Blender
-*** Digital Painting
-**** Greg Rutkowski
-     - Paint like the masters
-*** 3D Coat
-**** Norris intro to 3D coat
-**** Norris 3D coat 1
-**** Norris 3D coat 2
-**** Norris 3D coat and blender
-** Schedule
-*** Morning
-    - 4 hr :: portfolio
-*** Afternoon
-    - 1 hr :: plein air
-    - 3 hr :: portfolio
-*** Evening
-    - 1 hr :: course video
-    - 1 hr :: blender python scripting
-    - 2 hr :: implement video
-* 2022 gifts
-** TODO Wes and Michelle
-** TODO Inlaws
+    - Mentorship?
 * Design Questions
 ** Have I seen something like this before?
 ** What would make this cooler?
+* Potential Project Ideas
+** Favorite games
+    - mega man
+    - zelda
+    - sierra robin hood
+    - Doom
+    - Heroes of might and magic
+    - Baldur's Gate
+    - Dark Souls
+    - Elden Ring
+    - Ghost of Tsushima
+    - Mortal Kombat
+    - Dune
+    - Altered Beast
+    - warhammer
+** Favorite novels
+    - Kingkiller chronicles
+    - Stormlight Archive
+    - Mistborn
+    - Shanara
+    - Drizzt
+    - Three Muskateers
+    - Count of Monte Cristo
+    - Dostoevsky
+    - Wheel of Time
+** Childhood cartoons
+   - He-man
+   - Dinoriders
+   - TMNT
+** Shows
+   - Game of Thrones
+   - Vikings
+** Movies
+   - Lord of the Rings
+
 
