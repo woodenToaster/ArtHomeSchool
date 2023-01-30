@@ -1217,5 +1217,9 @@
    - Vikings
 ** Movies
    - Lord of the Rings
-
+* Semester break - April 2 to May 8
+** 2 classes
+*** TODO Pedro Blanco scifi envioronment design
+*** TODO Kevin Jick Japanese stilt city
+*** TODO James Paick environment design (painting)
 

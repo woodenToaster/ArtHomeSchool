@@ -5,7 +5,7 @@
 
 * Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W03 :tags t
-#+CAPTION: Clock summary at [2023-01-28 Sat 21:31], for week 2023-W03.
+#+CAPTION: Clock summary at [2023-01-29 Sun 20:53], for week 2023-W03.
 | Tags     | Headline                    | Time    |       |      |
 |----------+-----------------------------+---------+-------+------|
 |          | *Total time*                | *49:56* |       |      |
@@ -178,12 +178,12 @@ CLOCK: [2023-01-22 Sun 20:33]--[2023-01-22 Sun 20:58] =>  0:25
 
 * Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W04 :tags t
-#+CAPTION: Clock summary at [2023-01-28 Sat 21:31], for week 2023-W04.
+#+CAPTION: Clock summary at [2023-01-29 Sun 20:53], for week 2023-W04.
 | Tags    | Headline                    | Time    |       |      |
 |---------+-----------------------------+---------+-------+------|
-|         | *Total time*                | *53:46* |       |      |
+|         | *Total time*                | *61:20* |       |      |
 |---------+-----------------------------+---------+-------+------|
-|         | Week 2                      | 53:46   |       |      |
+|         | Week 2                      | 61:20   |       |      |
 |         | \_  <2023-01-23 Mon>        |         |  9:02 |      |
 | study   | \_    SDVGD week 1 homework |         |       | 1:20 |
 | drawing | \_    SDVGD week 1 homework |         |       | 7:42 |
@@ -207,14 +207,17 @@ CLOCK: [2023-01-22 Sun 20:33]--[2023-01-22 Sun 20:58] =>  0:25
 |         | \_  <2023-01-28 Sat>        |         |  7:37 |      |
 | study   | \_    SDVGD week 2          |         |       | 0:47 |
 | drawing | \_    ENT1 week 2 homework  |         |       | 6:50 |
+|         | \_  <2023-01-29 Sun>        |         |  7:34 |      |
+| drawing | \_    ENT1 week 2 homework  |         |       | 7:11 |
+| study   | \_    blog                  |         |       | 0:23 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
 | Tag      | Headline   | Time (h)  |
 |----------+------------+-----------|
-| drawing  | *Tag time* | *42h 37m* |
+| drawing  | *Tag time* | *49h 48m* |
 |----------+------------+-----------|
-| study    | *Tag time* | *11h 9m*  |
+| study    | *Tag time* | *11h 32m* |
 |----------+------------+-----------|
 | painting | *Tag time* | *0h 0m*   |
 |----------+------------+-----------|
@@ -330,4 +333,18 @@ CLOCK: [2023-01-28 Sat 12:32]--[2023-01-28 Sat 13:48] =>  1:16
 CLOCK: [2023-01-28 Sat 10:03]--[2023-01-28 Sat 10:35] =>  0:32
 CLOCK: [2023-01-28 Sat 09:35]--[2023-01-28 Sat 09:50] =>  0:15
 CLOCK: [2023-01-28 Sat 08:05]--[2023-01-28 Sat 08:45] =>  0:40
+:END:
+** <2023-01-29 Sun>
+*** DONE ENT1 week 2 homework                                       :drawing:
+:LOGBOOK:
+CLOCK: [2023-01-29 Sun 18:16]--[2023-01-29 Sun 20:12] =>  1:56
+CLOCK: [2023-01-29 Sun 18:00]--[2023-01-29 Sun 18:05] =>  0:05
+CLOCK: [2023-01-29 Sun 13:47]--[2023-01-29 Sun 14:55] =>  1:08
+CLOCK: [2023-01-29 Sun 12:47]--[2023-01-29 Sun 13:30] =>  0:43
+CLOCK: [2023-01-29 Sun 10:12]--[2023-01-29 Sun 12:11] =>  1:59
+CLOCK: [2023-01-29 Sun 07:21]--[2023-01-29 Sun 08:41] =>  1:20
+:END:
+*** DONE blog                                                         :study:
+:LOGBOOK:
+CLOCK: [2023-01-29 Sun 20:30]--[2023-01-29 Sun 20:53] =>  0:23
 :END:
