@@ -1224,5 +1224,6 @@
 *** TODO James Paick environment design (painting)
 *** TODO Maceij Environment painting learn squared (painting)
 *** TODO Nathan Fowkes schoolism (painting)
+*** TODO Romain Jouandeau (3d)
 *** TODO gouache plein air
 
