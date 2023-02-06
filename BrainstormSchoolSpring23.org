@@ -5,7 +5,7 @@
 
 * Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W03 :tags t
-#+CAPTION: Clock summary at [2023-02-04 Sat 21:15], for week 2023-W03.
+#+CAPTION: Clock summary at [2023-02-05 Sun 20:56], for week 2023-W03.
 | Tags     | Headline                    | Time    |       |      |
 |----------+-----------------------------+---------+-------+------|
 |          | *Total time*                | *49:56* |       |      |
@@ -177,7 +177,7 @@ CLOCK: [2023-01-22 Sun 20:33]--[2023-01-22 Sun 20:58] =>  0:25
 :END:
 * Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W04 :tags t
-#+CAPTION: Clock summary at [2023-02-04 Sat 21:15], for week 2023-W04.
+#+CAPTION: Clock summary at [2023-02-05 Sun 20:56], for week 2023-W04.
 | Tags    | Headline                    | Time    |       |      |
 |---------+-----------------------------+---------+-------+------|
 |         | *Total time*                | *61:20* |       |      |
@@ -349,12 +349,12 @@ CLOCK: [2023-01-29 Sun 20:30]--[2023-01-29 Sun 20:53] =>  0:23
 :END:
 * Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W05 :tags t
-#+CAPTION: Clock summary at [2023-02-04 Sat 21:15], for week 2023-W05.
+#+CAPTION: Clock summary at [2023-02-05 Sun 20:56], for week 2023-W05.
 | Tags     | Headline                    | Time    |       |      |
 |----------+-----------------------------+---------+-------+------|
-|          | *Total time*                | *60:25* |       |      |
+|          | *Total time*                | *67:36* |       |      |
 |----------+-----------------------------+---------+-------+------|
-|          | Week 3                      | 60:25   |       |      |
+|          | Week 3                      | 67:36   |       |      |
 |          | \_  <2023-01-30 Mon>        |         | 10:36 |      |
 | study    | \_    SDVGD week 2 homework |         |       | 2:05 |
 | 3D       | \_    SDVGD week 2 homework |         |       | 8:07 |
@@ -381,18 +381,25 @@ CLOCK: [2023-01-29 Sun 20:30]--[2023-01-29 Sun 20:53] =>  0:23
 |          | \_  <2023-02-04 Sat>        |         |  7:46 |      |
 | painting | \_    ENT1 week 3 homework  |         |       | 4:47 |
 | study    | \_    WB2 week 2            |         |       | 2:59 |
+|          | \_  <2023-02-05 Sun>        |         |  7:11 |      |
+| painting | \_    ENT1 week 3 homework  |         |       | 4:04 |
+| 3D       | \_    ENT1 week 3 homework  |         |       | 1:10 |
+| study    | \_    SDVGD week 3 homework |         |       | 0:26 |
+| drawing  | \_    SDVGD week 3 homework |         |       | 0:22 |
+| 3D       | \_    SDVGD week 3 homework |         |       | 0:43 |
+| study    | \_    blog                  |         |       | 0:26 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
 | Tag      | Headline   | Time (h)  |
 |----------+------------+-----------|
-| drawing  | *Tag time* | *1h 51m*  |
+| drawing  | *Tag time* | *2h 13m*  |
 |----------+------------+-----------|
-| study    | *Tag time* | *13h 8m*  |
+| study    | *Tag time* | *14h 0m*  |
 |----------+------------+-----------|
-| painting | *Tag time* | *15h 43m* |
+| painting | *Tag time* | *19h 47m* |
 |----------+------------+-----------|
-| 3D       | *Tag time* | *29h 43m* |
+| 3D       | *Tag time* | *31h 36m* |
 
 #+END:
 ** <2023-01-30 Mon>
@@ -511,5 +518,34 @@ CLOCK: [2023-02-04 Sat 07:36]--[2023-02-04 Sat 09:06] =>  1:30
 *** DONE WB2 week 2                                                   :study:
 :LOGBOOK:
 CLOCK: [2023-02-04 Sat 11:56]--[2023-02-04 Sat 14:55] =>  2:59
+:END:
+** <2023-02-05 Sun>
+*** DONE ENT1 week 3 homework                                      :painting:
+:LOGBOOK:
+CLOCK: [2023-02-05 Sun 18:29]--[2023-02-05 Sun 18:34] =>  0:05
+CLOCK: [2023-02-05 Sun 13:52]--[2023-02-05 Sun 14:59] =>  1:07
+CLOCK: [2023-02-05 Sun 12:20]--[2023-02-05 Sun 13:33] =>  1:13
+CLOCK: [2023-02-05 Sun 10:16]--[2023-02-05 Sun 11:37] =>  1:21
+CLOCK: [2023-02-05 Sun 07:17]--[2023-02-05 Sun 07:35] =>  0:18
+:END:
+*** DONE ENT1 week 3 homework                                            :3D:
+:LOGBOOK:
+CLOCK: [2023-02-05 Sun 07:35]--[2023-02-05 Sun 08:45] =>  1:10
+:END:
+*** DONE SDVGD week 3 homework                                        :study:
+:LOGBOOK:
+CLOCK: [2023-02-05 Sun 18:36]--[2023-02-05 Sun 19:02] =>  0:26
+:END:
+*** DONE SDVGD week 3 homework                                      :drawing:
+:LOGBOOK:
+CLOCK: [2023-02-05 Sun 19:02]--[2023-02-05 Sun 19:24] =>  0:22
+:END:
+*** DONE SDVGD week 3 homework                                           :3D:
+:LOGBOOK:
+CLOCK: [2023-02-05 Sun 19:45]--[2023-02-05 Sun 20:28] =>  0:43
+:END:
+*** DONE blog                                                         :study:
+:LOGBOOK:
+CLOCK: [2023-02-05 Sun 20:29]--[2023-02-05 Sun 20:55] =>  0:26
 :END:
 
