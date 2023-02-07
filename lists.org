@@ -1218,12 +1218,15 @@
 ** Movies
    - Lord of the Rings
 * Semester break - April 2 to May 8
-** 2 classes (3d, painting)
-*** TODO Pedro Blanco scifi envioronment design (3d)
-*** TODO Kevin Jick Japanese stilt city (3d)
-*** TODO James Paick environment design (painting)
-*** TODO Maceij Environment painting learn squared (painting)
-*** TODO Nathan Fowkes schoolism (painting)
-*** TODO Romain Jouandeau (3d)
-*** TODO gouache plein air
+** 2 or 3 classes (1 3d, 1 painting)
+*** 3D
+**** TODO Pedro Blanco scifi envioronment design
+**** TODO Kevin Jick Japanese stilt city
+**** TODO Romain Jouandeau
+*** Painting
+**** TODO James Paick environment design
+**** TODO Maceij Environment painting learn squared
+**** TODO Nathan Fowkes schoolism
+**** TODO Fundamentals of Environment Design CGMA
+**** TODO gouache plein air
 
