@@ -5,7 +5,7 @@
 
 * Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W03 :tags t
-#+CAPTION: Clock summary at [2023-02-08 Wed 22:39], for week 2023-W03.
+#+CAPTION: Clock summary at [2023-02-09 Thu 21:35], for week 2023-W03.
 | Tags     | Headline                    | Time    |       |      |
 |----------+-----------------------------+---------+-------+------|
 |          | *Total time*                | *49:56* |       |      |
@@ -177,7 +177,7 @@ CLOCK: [2023-01-22 Sun 20:33]--[2023-01-22 Sun 20:58] =>  0:25
 :END:
 * Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W04 :tags t
-#+CAPTION: Clock summary at [2023-02-08 Wed 22:39], for week 2023-W04.
+#+CAPTION: Clock summary at [2023-02-09 Thu 21:35], for week 2023-W04.
 | Tags    | Headline                    | Time    |       |      |
 |---------+-----------------------------+---------+-------+------|
 |         | *Total time*                | *61:20* |       |      |
@@ -349,7 +349,7 @@ CLOCK: [2023-01-29 Sun 20:30]--[2023-01-29 Sun 20:53] =>  0:23
 :END:
 * Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W05 :tags t
-#+CAPTION: Clock summary at [2023-02-08 Wed 22:39], for week 2023-W05.
+#+CAPTION: Clock summary at [2023-02-09 Thu 21:35], for week 2023-W05.
 | Tags     | Headline                    | Time    |       |      |
 |----------+-----------------------------+---------+-------+------|
 |          | *Total time*                | *67:36* |       |      |
@@ -550,12 +550,12 @@ CLOCK: [2023-02-05 Sun 20:29]--[2023-02-05 Sun 20:55] =>  0:26
 :END:
 * Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W06 :tags t
-#+CAPTION: Clock summary at [2023-02-08 Wed 22:39], for week 2023-W06.
+#+CAPTION: Clock summary at [2023-02-09 Thu 21:35], for week 2023-W06.
 | Tags     | Headline                    | Time    |       |       |
 |----------+-----------------------------+---------+-------+-------|
-|          | *Total time*                | *31:08* |       |       |
+|          | *Total time*                | *42:05* |       |       |
 |----------+-----------------------------+---------+-------+-------|
-|          | Week 4                      | 31:08   |       |       |
+|          | Week 4                      | 42:05   |       |       |
 |          | \_  <2023-02-06 Mon>        |         | 10:23 |       |
 | 3D       | \_    SDVGD week 3 homework |         |       | 10:23 |
 |          | \_  <2023-02-07 Tue>        |         | 10:25 |       |
@@ -566,6 +566,10 @@ CLOCK: [2023-02-05 Sun 20:29]--[2023-02-05 Sun 20:55] =>  0:26
 | study    | \_    WB2 week 2 homework   |         |       |  0:45 |
 | painting | \_    WB2 week 2 homework   |         |       |  7:49 |
 | study    | \_    SDVGD week 4          |         |       |  1:46 |
+|          | \_  <2023-02-09 Thu>        |         | 10:57 |       |
+| painting | \_    WB2 week 2 homework   |         |       |  7:21 |
+| study    | \_    ENT1 week 4           |         |       |  1:01 |
+| study    | \_    SDVGD week 4          |         |       |  2:35 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -573,9 +577,9 @@ CLOCK: [2023-02-05 Sun 20:29]--[2023-02-05 Sun 20:55] =>  0:26
 |----------+------------+-----------|
 | drawing  | *Tag time* | *0h 0m*   |
 |----------+------------+-----------|
-| study    | *Tag time* | *3h 59m*  |
+| study    | *Tag time* | *7h 35m*  |
 |----------+------------+-----------|
-| painting | *Tag time* | *9h 24m*  |
+| painting | *Tag time* | *16h 45m* |
 |----------+------------+-----------|
 | 3D       | *Tag time* | *17h 45m* |
 
@@ -627,5 +631,26 @@ CLOCK: [2023-02-08 Wed 08:01]--[2023-02-08 Wed 08:37] =>  0:36
 *** DONE SDVGD week 4                                                 :study:
 :LOGBOOK:
 CLOCK: [2023-02-08 Wed 20:53]--[2023-02-08 Wed 22:39] =>  1:46
+:END:
+** <2023-02-09 Thu>
+*** DONE WB2 week 2 homework                                       :painting:
+:LOGBOOK:
+CLOCK: [2023-02-09 Thu 19:02]--[2023-02-09 Thu 19:38] =>  0:36
+CLOCK: [2023-02-09 Thu 14:43]--[2023-02-09 Thu 15:59] =>  1:16
+CLOCK: [2023-02-09 Thu 12:35]--[2023-02-09 Thu 14:27] =>  1:52
+CLOCK: [2023-02-09 Thu 09:57]--[2023-02-09 Thu 12:04] =>  2:07
+CLOCK: [2023-02-09 Thu 07:16]--[2023-02-09 Thu 08:46] =>  1:30
+:END:
+*** DONE ENT1 week 4                                                  :study:
+:LOGBOOK:
+CLOCK: [2023-02-09 Thu 12:08]--[2023-02-09 Thu 12:30] =>  0:22
+CLOCK: [2023-02-09 Thu 09:27]--[2023-02-09 Thu 09:45] =>  0:18
+CLOCK: [2023-02-09 Thu 08:46]--[2023-02-09 Thu 09:07] =>  0:21
+:END:
+*** DONE SDVGD week 4                                                 :study:
+:LOGBOOK:
+CLOCK: [2023-02-09 Thu 20:38]--[2023-02-09 Thu 21:35] =>  0:57
+CLOCK: [2023-02-09 Thu 19:39]--[2023-02-09 Thu 20:24] =>  0:45
+CLOCK: [2023-02-09 Thu 18:09]--[2023-02-09 Thu 19:02] =>  0:53
 :END:
 
