@@ -19,6 +19,8 @@
 ** Zebra Rubber 80 R-8000 pen
 ** Stillman and Birn Zeta Series sketchbook
 ** white ink
+** gouache landscape palette
+** watercolor sketchbook
 * Art Books
 ** General
 *** Fundamentals of drawing - Mogilevtsev
@@ -191,17 +193,19 @@
    - Bulgariad
    - Mallorean
 ** Perdido street station
+** Proust
 * Movies/Shows
-** Interstellar
+** elysium
 ** 7 Samurai
 ** Ivan's Childhood
 ** Mandelorian
 ** Wolf of Wallstreet
 ** Kung Fu Hustle
-** Avatar
 ** Prisoners
 ** Sicario
 ** 1917
+** her
+** Ex machina
 * Videos
 ** Maciej Kuciara - Intro to Env Painting - learn squared oc.club
 ** Anthony Eftekhar
@@ -1222,11 +1226,15 @@
 *** 3D
 **** TODO Pedro Blanco scifi envioronment design
 **** TODO Kevin Jick Japanese stilt city
-**** TODO Romain Jouandeau
+**** TODO Romain Jouandeau (learn squared and medieval concept)
+**** TODO Jama
 *** Painting
 **** TODO James Paick environment design
 **** TODO Maceij Environment painting learn squared
 **** TODO Nathan Fowkes schoolism
 **** TODO Fundamentals of Environment Design CGMA
-**** TODO gouache plein air
+*** Study artists David Finch style
+**** do a master study
+**** do my own version in that style
+*** Gouache plein air
 
