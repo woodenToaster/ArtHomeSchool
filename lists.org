@@ -110,6 +110,7 @@
 *** Dynamic Light and Shading - Burne Hogarth 
 *** DONE How to Render - Robertson
 *** Light for Visual Artists - Yot
+*** Artist's Master Series: Color and Light (3D total)
 *** Lessons on Shading - Sparkes
 ** Painting
 *** The Painterly Approach - Bob Rohm
