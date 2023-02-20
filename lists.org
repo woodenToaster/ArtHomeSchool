@@ -1229,6 +1229,7 @@
 **** TODO Kevin Jick Japanese stilt city
 **** TODO Romain Jouandeau (learn squared and medieval concept)
 **** TODO Jama
+**** TODO Ian Hubert
 *** Painting
 **** TODO James Paick environment design
 **** TODO Maceij Environment painting learn squared
