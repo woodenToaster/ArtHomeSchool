@@ -87,7 +87,6 @@
      :LOGBOOK:
      CLOCK: [2022-03-27 Sun 18:54]--[2022-03-27 Sun 19:31] =>  0:37
      :END:
-
 ** Week 2
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
   #+CAPTION: Clock summary at [2022-04-17 Sun 20:46], for week 2022-W15.
@@ -169,7 +168,6 @@
      :LOGBOOK:
      CLOCK: [2022-04-03 Sun 19:31]--[2022-04-03 Sun 20:20] =>  0:49
      :END:
-
 ** Week 3
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :tags t
   #+CAPTION: Clock summary at [2022-04-17 Sun 20:46]
@@ -237,7 +235,6 @@
      CLOCK: [2022-04-04 Mon 13:14]--[2022-04-04 Mon 16:13] =>  2:59
      CLOCK: [2022-04-04 Mon 11:10]--[2022-04-04 Mon 11:48] =>  0:38
      :END:
-
 *** <2022-04-05 Tue>
 **** DONE Blender tutorial                                               :3D:
      :LOGBOOK:
@@ -248,7 +245,6 @@
      :LOGBOOK:
      CLOCK: [2022-04-05 Tue 18:07]--[2022-04-05 Tue 21:02] =>  2:55
      :END:
-
 *** <2022-04-06 Wed>
 **** DONE Polishing Urithiru design                                 :drawing:
      :LOGBOOK:

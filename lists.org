@@ -1181,10 +1181,8 @@
     - WB2
     - WB: Story driven visual game design
 *** TODO Summer 23
-    - WB3
-    - WB Blender
-    - PD Env
-    - Mentorship?
+    - AD2
+    - PD ENV
 * Design Questions
 ** Have I seen something like this before?
 ** What would make this cooler?
@@ -1225,20 +1223,22 @@
 * Semester break - April 2 to May 8
 ** 2 or 3 classes (1 3d, 1 painting)
 *** 3D
-**** TODO Pedro Blanco scifi envioronment design
-**** TODO Kevin Jick Japanese stilt city
 **** TODO Romain Jouandeau (learn squared and medieval concept)
-**** TODO Jama
 **** TODO Intro to advanced interiors (Danar Worya)
+**** TODO Pedro Blanco scifi envioronment design
+**** TODO Jama
+**** TODO Kevin Jick Japanese stilt city
 **** TODO Ian Hubert
 *** Painting
 **** TODO James Paick environment design
 **** TODO Maceij Environment painting learn squared
 **** TODO Fundamentals of Environment Design CGMA
+**** TODO Greg Rutkowski Learn Squared
 *** Study artists David Finch style
 **** do a master study
 **** do my own version in that style
 ***** TODO James Paick
+***** TODO Romain Jouandeau
 ***** TODO Andreas Rocha
 *** Gouache plein air
 
