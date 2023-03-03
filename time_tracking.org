@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t :block untilnow
-#+CAPTION: Clock summary at [2023-02-10 Fri 10:08], for now.
+#+CAPTION: Clock summary at [2023-03-02 Thu 09:52], for now.
 | File                                      | Tags     | Headline                                         |      Time |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-|                                           | ALL      | *Total time*                                     | *4122:38* |       |       |       |
+|                                           | ALL      | *Total time*                                     | *4305:35* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | AnatomyIII_Legs.org                       |          | *File time*                                      |  *136:15* |       |       |       |
 |                                           |          | Log                                              |    136:15 |       |       |       |
@@ -904,7 +904,7 @@
 |                                           | drawing  | \_    AD1 week 9 homework                        |           |       |  1:24 |       |
 |                                           | study    | \_    WB1 week 9 homework                        |           |       |  1:57 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| BrainstormSchoolSpring23.org              |          | *File time*                                      |  *222:27* |       |       |       |
+| BrainstormSchoolSpring23.org              |          | *File time*                                      |  *405:24* |       |       |       |
 |                                           |          | Week 1                                           |     49:56 |       |       |       |
 |                                           |          | \_  <2023-01-16 Mon>                             |           | 10:04 |       |       |
 |                                           | study    | \_    reference gathering                        |           |       |  0:23 |       |
@@ -996,7 +996,7 @@
 |                                           | drawing  | \_    SDVGD week 3 homework                      |           |       |  0:22 |       |
 |                                           | 3D       | \_    SDVGD week 3 homework                      |           |       |  0:43 |       |
 |                                           | study    | \_    blog                                       |           |       |  0:26 |       |
-|                                           |          | Week 4                                           |     43:35 |       |       |       |
+|                                           |          | Week 4                                           |     63:46 |       |       |       |
 |                                           |          | \_  <2023-02-06 Mon>                             |           | 10:23 |       |       |
 |                                           | 3D       | \_    SDVGD week 3 homework                      |           |       | 10:23 |       |
 |                                           |          | \_  <2023-02-07 Tue>                             |           | 10:25 |       |       |
@@ -1011,8 +1011,84 @@
 |                                           | painting | \_    WB2 week 2 homework                        |           |       |  7:21 |       |
 |                                           | study    | \_    ENT1 week 4 class                          |           |       |  1:01 |       |
 |                                           | study    | \_    SDVGD week 4 class                         |           |       |  2:35 |       |
-|                                           |          | \_  <2023-02-10 Fri>                             |           |  1:30 |       |       |
-|                                           | painting | \_    ENT1 week 4 homework                       |           |       |  1:30 |       |
+|                                           |          | \_  <2023-02-10 Fri>                             |           |  8:00 |       |       |
+|                                           | painting | \_    ENT1 week 4 homework                       |           |       |  6:44 |       |
+|                                           | study    | \_    SDVGD week 4 class                         |           |       |  1:16 |       |
+|                                           |          | \_  <2023-02-11 Sat>                             |           |  7:59 |       |       |
+|                                           | painting | \_    ENT1 week 4 homework                       |           |       |  4:50 |       |
+|                                           | study    | \_    WB 2 week 3                                |           |       |  3:09 |       |
+|                                           |          | \_  <2023-02-12 Sun>                             |           |  5:42 |       |       |
+|                                           | painting | \_    ENT1 week 4 homework                       |           |       |  1:34 |       |
+|                                           | painting | \_    master study                               |           |       |  3:48 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:20 |       |
+|                                           |          | Week 5                                           |     65:15 |       |       |       |
+|                                           |          | \_  <2023-02-13 Mon>                             |           |  9:53 |       |       |
+|                                           | 3D       | \_    SDVGD week 4 homework                      |           |       |  9:53 |       |
+|                                           |          | \_  <2023-02-14 Tue>                             |           | 10:24 |       |       |
+|                                           | 3D       | \_    SDVGD week 4 homework                      |           |       |  8:55 |       |
+|                                           | study    | \_    ENT1 week 5                                |           |       |  1:29 |       |
+|                                           |          | \_  <2023-02-15 Wed>                             |           | 10:23 |       |       |
+|                                           | 3D       | \_    SDVGD week 4 homework                      |           |       |  2:51 |       |
+|                                           | painting | \_    SDVGD week 4 homework                      |           |       |  2:08 |       |
+|                                           | painting | \_    WB2 week 3 homework                        |           |       |  4:20 |       |
+|                                           | study    | \_    SDVGD week 5                               |           |       |  1:04 |       |
+|                                           |          | \_  <2023-02-16 Thu>                             |           | 10:57 |       |       |
+|                                           | painting | \_    WB2 week 3 homework                        |           |       |  8:09 |       |
+|                                           | study    | \_    ENT1 week 5                                |           |       |  1:18 |       |
+|                                           | study    | \_    SDVGD week 5                               |           |       |  1:30 |       |
+|                                           |          | \_  <2023-02-17 Fri>                             |           | 10:10 |       |       |
+|                                           | drawing  | \_    ENT1 week 5 homework                       |           |       |  9:26 |       |
+|                                           | study    | \_    SDVGD week 5                               |           |       |  0:44 |       |
+|                                           |          | \_  <2023-02-18 Sat>                             |           |  7:53 |       |       |
+|                                           | drawing  | \_    ENT1 week 5 homework                       |           |       |  4:52 |       |
+|                                           | study    | \_    WB2 week 4                                 |           |       |  3:01 |       |
+|                                           |          | \_  <2023-02-19 Sun>                             |           |  5:35 |       |       |
+|                                           | drawing  | \_    ENT1 week 5 homework                       |           |       |  4:07 |       |
+|                                           | study    | \_    SDVGD week 5 homework                      |           |       |  1:06 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:22 |       |
+|                                           |          | Week 6                                           |     67:23 |       |       |       |
+|                                           |          | \_  <2023-02-20 Mon>                             |           | 10:00 |       |       |
+|                                           | 3D       | \_    SDVGD week 5 homework                      |           |       |  8:57 |       |
+|                                           | study    | \_    SDVGD week 5 homework                      |           |       |  1:03 |       |
+|                                           |          | \_  <2023-02-21 Tue>                             |           |  9:40 |       |       |
+|                                           | 3D       | \_    SDVGD week 5 homework                      |           |       |  4:28 |       |
+|                                           | painting | \_    SDVGD week 5 homework                      |           |       |  3:35 |       |
+|                                           | study    | \_    ENT1 week 6                                |           |       |  1:37 |       |
+|                                           |          | \_  <2023-02-22 Wed>                             |           | 10:49 |       |       |
+|                                           | study    | \_    WB2 week 4 homework                        |           |       |  2:21 |       |
+|                                           | painting | \_    WB2 week 4 homework                        |           |       |  6:22 |       |
+|                                           | study    | \_    ENT1 week 6                                |           |       |  0:31 |       |
+|                                           | study    | \_    SDVGD week 6                               |           |       |  1:35 |       |
+|                                           |          | \_  <2023-02-23 Thu>                             |           | 10:49 |       |       |
+|                                           | painting | \_    WB2 week 4 homework                        |           |       |  7:30 |       |
+|                                           | study    | \_    ENT1 week 6                                |           |       |  1:33 |       |
+|                                           | study    | \_    SDVGD week 6                               |           |       |  1:46 |       |
+|                                           |          | \_  <2023-02-24 Fri>                             |           | 10:04 |       |       |
+|                                           | drawing  | \_    ENT1 week 6 homework                       |           |       |  2:06 |       |
+|                                           | study    | \_    ENT1 week 6 homework                       |           |       |  0:58 |       |
+|                                           | 3D       | \_    ENT1 week 6 homework                       |           |       |  4:46 |       |
+|                                           | study    | \_    SDVGD week 6                               |           |       |  2:14 |       |
+|                                           |          | \_  <2023-02-25 Sat>                             |           |  8:23 |       |       |
+|                                           | drawing  | \_    ENT1 week 6 homework                       |           |       |  4:39 |       |
+|                                           | study    | \_    ENT1 week 6 homework                       |           |       |  0:39 |       |
+|                                           | study    | \_    WB2 week 5                                 |           |       |  3:05 |       |
+|                                           |          | \_  <2023-02-26 Sun>                             |           |  7:38 |       |       |
+|                                           | drawing  | \_    ENT1 week 6 homework                       |           |       |  3:09 |       |
+|                                           | 3D       | \_    ENT1 week 6 homework                       |           |       |  4:22 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:07 |       |
+|                                           |          | Week 7                                           |     30:08 |       |       |       |
+|                                           |          | \_  <2023-02-27 Mon>                             |           |  9:25 |       |       |
+|                                           | study    | \_    SDVGD week 6 homework                      |           |       |  1:04 |       |
+|                                           | 3D       | \_    SDVGD week 6 homework                      |           |       |  8:21 |       |
+|                                           |          | \_  <2023-02-28 Tue>                             |           |  9:29 |       |       |
+|                                           | 3D       | \_    SDVGD week 6  homework                     |           |       |  0:33 |       |
+|                                           | painting | \_    SDVGD week 6  homework                     |           |       |  7:22 |       |
+|                                           | study    | \_    ENT1 week 7                                |           |       |  1:34 |       |
+|                                           |          | \_  <2023-03-01 Wed>                             |           |  9:42 |       |       |
+|                                           | painting | \_    WB2 week 5 homework                        |           |       |  8:38 |       |
+|                                           | study    | \_    SDVGD week 7                               |           |       |  1:04 |       |
+|                                           |          | \_  <2023-03-02 Thu>                             |           |  1:32 |       |       |
+|                                           | painting | \_    WB2 week 5 homework                        |           |       |  1:32 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | BrainstormSchoolSummer22_1.org            |          | *File time*                                      |  *193:22* |       |       |       |
 |                                           |          | Week 1                                           |     49:05 |       |       |       |
