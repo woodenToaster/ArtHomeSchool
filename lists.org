@@ -1237,8 +1237,23 @@
 *** Study artists David Finch style
 **** do a master study
 **** do my own version in that style
-***** TODO James Paick
-***** TODO Romain Jouandeau
-***** TODO Andreas Rocha
+***** James Paick
+***** Romain Jouandeau
+***** Dylan Cole
+***** Andreas Rocha
+***** Steve Messing
+***** Craig Mullins
+***** Jaime Jones
+***** Landscape oil painters
 *** Gouache plein air
-
+    - nicest day of the week
+*** Studies
+    - master studies
+    - photo studies
+** Schedule
+*** Morning
+    - design and painting
+*** Afternoon
+    - 3D
+*** Evening
+    - study

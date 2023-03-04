@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t :block untilnow
-#+CAPTION: Clock summary at [2023-03-02 Thu 09:52], for now.
+#+CAPTION: Clock summary at [2023-03-03 Fri 12:49], for now.
 | File                                      | Tags     | Headline                                         |      Time |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-|                                           | ALL      | *Total time*                                     | *4305:35* |       |       |       |
+|                                           | ALL      | *Total time*                                     | *4318:44* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | AnatomyIII_Legs.org                       |          | *File time*                                      |  *136:15* |       |       |       |
 |                                           |          | Log                                              |    136:15 |       |       |       |
@@ -904,7 +904,7 @@
 |                                           | drawing  | \_    AD1 week 9 homework                        |           |       |  1:24 |       |
 |                                           | study    | \_    WB1 week 9 homework                        |           |       |  1:57 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| BrainstormSchoolSpring23.org              |          | *File time*                                      |  *405:24* |       |       |       |
+| BrainstormSchoolSpring23.org              |          | *File time*                                      |  *418:33* |       |       |       |
 |                                           |          | Week 1                                           |     49:56 |       |       |       |
 |                                           |          | \_  <2023-01-16 Mon>                             |           | 10:04 |       |       |
 |                                           | study    | \_    reference gathering                        |           |       |  0:23 |       |
@@ -1076,7 +1076,7 @@
 |                                           | drawing  | \_    ENT1 week 6 homework                       |           |       |  3:09 |       |
 |                                           | 3D       | \_    ENT1 week 6 homework                       |           |       |  4:22 |       |
 |                                           | study    | \_    blog                                       |           |       |  0:07 |       |
-|                                           |          | Week 7                                           |     30:08 |       |       |       |
+|                                           |          | Week 7                                           |     43:17 |       |       |       |
 |                                           |          | \_  <2023-02-27 Mon>                             |           |  9:25 |       |       |
 |                                           | study    | \_    SDVGD week 6 homework                      |           |       |  1:04 |       |
 |                                           | 3D       | \_    SDVGD week 6 homework                      |           |       |  8:21 |       |
@@ -1087,8 +1087,14 @@
 |                                           |          | \_  <2023-03-01 Wed>                             |           |  9:42 |       |       |
 |                                           | painting | \_    WB2 week 5 homework                        |           |       |  8:38 |       |
 |                                           | study    | \_    SDVGD week 7                               |           |       |  1:04 |       |
-|                                           |          | \_  <2023-03-02 Thu>                             |           |  1:32 |       |       |
-|                                           | painting | \_    WB2 week 5 homework                        |           |       |  1:32 |       |
+|                                           |          | \_  <2023-03-02 Thu>                             |           | 10:16 |       |       |
+|                                           | painting | \_    WB2 week 5 homework                        |           |       |  7:52 |       |
+|                                           | study    | \_    ENT1 week 7                                |           |       |  2:02 |       |
+|                                           | study    | \_    SDVGD week 7                               |           |       |  0:22 |       |
+|                                           |          | \_  <2023-03-03 Fri>                             |           |  4:25 |       |       |
+|                                           | study    | \_    ENT1 week 7 homework                       |           |       |  1:06 |       |
+|                                           | drawing  | \_    ENT1 week 7 homework                       |           |       |  1:14 |       |
+|                                           | study    | \_    SDVGD week 7                               |           |       |  2:05 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | BrainstormSchoolSummer22_1.org            |          | *File time*                                      |  *193:22* |       |       |       |
 |                                           |          | Week 1                                           |     49:05 |       |       |       |
