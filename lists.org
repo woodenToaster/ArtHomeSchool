@@ -1238,22 +1238,31 @@
 **** do a master study
 **** do my own version in that style
 ***** James Paick
+***** Nick Gindraux (castles)
+***** Eytan Zana
+***** John Sweeny
 ***** Romain Jouandeau
 ***** Dylan Cole
 ***** Andreas Rocha
 ***** Steve Messing
 ***** Craig Mullins
 ***** Jaime Jones
+***** John Park
 ***** Landscape oil painters
 *** Gouache plein air
     - nicest day of the week
 *** Studies
     - master studies
     - photo studies
+    - each study should have a purpose (tyler edlin video)
+    - decide purpose of study before starting each one
 ** Schedule
 *** Morning
-    - design and painting
+    - Environment design and painting
 *** Afternoon
     - 3D
+      - video, copy, apply
 *** Evening
     - study
+** Challenge
+    - one environment study per day (42)
