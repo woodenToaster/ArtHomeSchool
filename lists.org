@@ -1231,6 +1231,7 @@
 **** TODO Ian Hubert
 *** Painting
 **** TODO James Paick environment design
+**** TODO Brainstorm advanced mentorship
 **** TODO Maceij Environment painting learn squared
 **** TODO Fundamentals of Environment Design CGMA
 **** TODO Greg Rutkowski Learn Squared
