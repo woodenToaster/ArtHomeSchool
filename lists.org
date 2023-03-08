@@ -1182,7 +1182,9 @@
     - WB: Story driven visual game design
 *** TODO Summer 23
     - AD2
-    - PD ENV
+    - ?
+      - Focal point advanced environment
+      - cgma
 * Design Questions
 ** Have I seen something like this before?
 ** What would make this cooler?
