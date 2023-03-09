@@ -1203,6 +1203,7 @@
     - Dune
     - Altered Beast
     - warhammer
+    - Magic: The Gathering
 ** Favorite novels
     - Kingkiller chronicles
     - Stormlight Archive
@@ -1265,7 +1266,11 @@
 *** Afternoon
     - 3D
       - video, copy, apply
+      - 1 render per day?
 *** Evening
     - study
+      - master study
+      - photo study
+      - plein air
 ** Challenge
-    - one environment study per day (42)
+    - 50 environment studies
