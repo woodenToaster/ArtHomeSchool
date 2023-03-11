@@ -6,7 +6,7 @@
 
 * Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W03 :tags t
-#+CAPTION: Clock summary at [2023-03-09 Thu 20:31], for week 2023-W03.
+#+CAPTION: Clock summary at [2023-03-10 Fri 21:38], for week 2023-W03.
 | Tags     | Headline                    | Time    |       |      |
 |----------+-----------------------------+---------+-------+------|
 |          | *Total time*                | *49:56* |       |      |
@@ -178,7 +178,7 @@ CLOCK: [2023-01-22 Sun 20:33]--[2023-01-22 Sun 20:58] =>  0:25
 :END:
 * Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W04 :tags t
-#+CAPTION: Clock summary at [2023-03-09 Thu 20:31], for week 2023-W04.
+#+CAPTION: Clock summary at [2023-03-10 Fri 21:38], for week 2023-W04.
 | Tags    | Headline                    | Time    |       |      |
 |---------+-----------------------------+---------+-------+------|
 |         | *Total time*                | *61:20* |       |      |
@@ -350,7 +350,7 @@ CLOCK: [2023-01-29 Sun 20:30]--[2023-01-29 Sun 20:53] =>  0:23
 :END:
 * Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W05 :tags t
-#+CAPTION: Clock summary at [2023-03-09 Thu 20:31], for week 2023-W05.
+#+CAPTION: Clock summary at [2023-03-10 Fri 21:38], for week 2023-W05.
 | Tags     | Headline                    | Time    |       |      |
 |----------+-----------------------------+---------+-------+------|
 |          | *Total time*                | *67:36* |       |      |
@@ -551,7 +551,7 @@ CLOCK: [2023-02-05 Sun 20:29]--[2023-02-05 Sun 20:55] =>  0:26
 :END:
 * Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W06 :tags t
-#+CAPTION: Clock summary at [2023-03-09 Thu 20:31], for week 2023-W06.
+#+CAPTION: Clock summary at [2023-03-10 Fri 21:38], for week 2023-W06.
 | Tags     | Headline                    | Time    |       |       |
 |----------+-----------------------------+---------+-------+-------|
 |          | *Total time*                | *63:46* |       |       |
@@ -711,7 +711,7 @@ CLOCK: [2023-02-12 Sun 20:33]--[2023-02-12 Sun 20:53] =>  0:20
 :END:
 * Week 5
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W07 :tags t
-#+CAPTION: Clock summary at [2023-03-09 Thu 20:31], for week 2023-W07.
+#+CAPTION: Clock summary at [2023-03-10 Fri 21:38], for week 2023-W07.
 | Tags     | Headline                    | Time    |       |      |
 |----------+-----------------------------+---------+-------+------|
 |          | *Total time*                | *65:15* |       |      |
@@ -872,7 +872,7 @@ CLOCK: [2023-02-19 Sun 20:18]--[2023-02-19 Sun 20:40] =>  0:22
 :END:
 * Week 6
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W08 :tags t
-#+CAPTION: Clock summary at [2023-03-09 Thu 20:31], for week 2023-W08.
+#+CAPTION: Clock summary at [2023-03-10 Fri 21:38], for week 2023-W08.
 | Tags     | Headline                    | Time    |       |      |
 |----------+-----------------------------+---------+-------+------|
 |          | *Total time*                | *67:23* |       |      |
@@ -1060,7 +1060,7 @@ CLOCK: [2023-02-26 Sun 20:54]--[2023-02-26 Sun 21:01] =>  0:07
 :END:
 * Week 7
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W09 :tags t
-#+CAPTION: Clock summary at [2023-03-09 Thu 20:31], for week 2023-W09.
+#+CAPTION: Clock summary at [2023-03-10 Fri 21:38], for week 2023-W09.
 | Tags     | Headline                     | Time    |       |      |
 |----------+------------------------------+---------+-------+------|
 |          | *Total time*                 | *63:28* |       |      |
@@ -1220,42 +1220,47 @@ CLOCK: [2023-03-05 Sun 20:32]--[2023-03-05 Sun 20:56] =>  0:24
 :END:
 * Week 8
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W10 :tags t
-#+CAPTION: Clock summary at [2023-03-09 Thu 20:31], for week 2023-W10.
-| Tags     | Headline                             | Time    |       |      |
-|----------+--------------------------------------+---------+-------+------|
-|          | *Total time*                         | *39:21* |       |      |
-|----------+--------------------------------------+---------+-------+------|
-|          | Week 8                               | 39:21   |       |      |
-|          | \_  <2023-03-06 Mon>                 |         |  9:01 |      |
-| 3D       | \_    SDVGD week 7 homework          |         |       | 8:10 |
-| study    | \_    SDVGD week 7 homework          |         |       | 0:51 |
-|          | \_  <2023-03-07 Tue>                 |         | 10:42 |      |
-| study    | \_    planning next semester         |         |       | 0:25 |
-| 3D       | \_    SDVGD week 7 homework          |         |       | 0:32 |
-| painting | \_    SDVGD week 7 homework          |         |       | 7:17 |
-| study    | \_    Landscape painting             |         |       | 0:52 |
-| study    | \_    ENT1 week 8                    |         |       | 1:36 |
-|          | \_  <2023-03-08 Wed>                 |         | 10:41 |      |
-| study    | \_    WB2 week 6 reference gathering |         |       | 1:45 |
-| painting | \_    WB2 week 6 homework            |         |       | 6:35 |
-| study    | \_    ENT1 week 8                    |         |       | 1:00 |
-| study    | \_    SDVGD week 8                   |         |       | 1:21 |
-|          | \_  <2023-03-09 Thu>                 |         |  8:57 |      |
-| painting | \_    WB2 week 6 homework            |         |       | 6:50 |
-| study    | \_    WB2 final project ref          |         |       | 0:58 |
-| study    | \_    ENT1 week 8                    |         |       | 1:09 |
+#+CAPTION: Clock summary at [2023-03-10 Fri 21:38], for week 2023-W10.
+| Tags     | Headline                                | Time    |       |      |
+|----------+-----------------------------------------+---------+-------+------|
+|          | *Total time*                            | *50:15* |       |      |
+|----------+-----------------------------------------+---------+-------+------|
+|          | Week 8                                  | 50:15   |       |      |
+|          | \_  <2023-03-06 Mon>                    |         |  9:01 |      |
+| 3D       | \_    SDVGD week 7 homework             |         |       | 8:10 |
+| study    | \_    SDVGD week 7 homework             |         |       | 0:51 |
+|          | \_  <2023-03-07 Tue>                    |         | 10:42 |      |
+| study    | \_    planning next semester            |         |       | 0:25 |
+| 3D       | \_    SDVGD week 7 homework             |         |       | 0:32 |
+| painting | \_    SDVGD week 7 homework             |         |       | 7:17 |
+| study    | \_    Landscape painting                |         |       | 0:52 |
+| study    | \_    ENT1 week 8                       |         |       | 1:36 |
+|          | \_  <2023-03-08 Wed>                    |         | 10:41 |      |
+| study    | \_    WB2 week 6 reference gathering    |         |       | 1:45 |
+| painting | \_    WB2 week 6 homework               |         |       | 6:35 |
+| study    | \_    ENT1 week 8                       |         |       | 1:00 |
+| study    | \_    SDVGD week 8                      |         |       | 1:21 |
+|          | \_  <2023-03-09 Thu>                    |         | 10:05 |      |
+| painting | \_    WB2 week 6 homework               |         |       | 6:50 |
+| study    | \_    WB2 final project ref             |         |       | 2:06 |
+| study    | \_    ENT1 week 8                       |         |       | 1:09 |
+|          | \_  <2023-03-10 Fri>                    |         |  9:46 |      |
+| study    | \_    WB2 final project reference board |         |       | 1:22 |
+| drawing  | \_    ENT1 week 8 homework              |         |       | 3:05 |
+| 3D       | \_    ENT1 week 8 homework              |         |       | 4:21 |
+| study    | \_    SDVGD week 8                      |         |       | 0:58 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
 | Tag      | Headline   | Time (h)  |
 |----------+------------+-----------|
-| drawing  | *Tag time* | *0h 0m*   |
+| drawing  | *Tag time* | *3h 5m*   |
 |----------+------------+-----------|
-| study    | *Tag time* | *9h 57m*  |
+| study    | *Tag time* | *13h 25m* |
 |----------+------------+-----------|
 | painting | *Tag time* | *20h 42m* |
 |----------+------------+-----------|
-| 3D       | *Tag time* | *8h 42m*  |
+| 3D       | *Tag time* | *13h 3m*  |
 
 #+END:
 ** <2023-03-06 Mon>
@@ -1343,6 +1348,26 @@ CLOCK: [2023-03-09 Thu 09:39]--[2023-03-09 Thu 10:27] =>  0:53
 CLOCK: [2023-03-09 Thu 07:02]--[2023-03-09 Thu 07:23] =>  0:21
 :END:
 ** <2023-03-10 Fri>
-*** TODO ENT1 week 8 homework :drawing:
-*** TODO WB2 final project reference board :study:
-
+*** DONE WB2 final project reference board                            :study:
+:LOGBOOK:
+CLOCK: [2023-03-10 Fri 07:05]--[2023-03-10 Fri 08:27] =>  1:22
+:END:
+*** DONE ENT1 week 8 homework                                       :drawing:
+:LOGBOOK:
+CLOCK: [2023-03-10 Fri 20:43]--[2023-03-10 Fri 21:25] =>  0:42
+CLOCK: [2023-03-10 Fri 10:29]--[2023-03-10 Fri 12:33] =>  2:04
+CLOCK: [2023-03-10 Fri 08:29]--[2023-03-10 Fri 08:48] =>  0:19
+:END:
+*** DONE ENT1 week 8 homework                                            :3D:
+:LOGBOOK:
+CLOCK: [2023-03-10 Fri 20:05]--[2023-03-10 Fri 20:43] =>  0:38
+CLOCK: [2023-03-10 Fri 18:59]--[2023-03-10 Fri 19:50] =>  0:51
+CLOCK: [2023-03-10 Fri 13:44]--[2023-03-10 Fri 15:40] =>  1:56
+CLOCK: [2023-03-10 Fri 12:33]--[2023-03-10 Fri 13:29] =>  0:56
+:END:
+*** DONE SDVGD week 8                                                 :study:
+:LOGBOOK:
+CLOCK: [2023-03-10 Fri 21:26]--[2023-03-10 Fri 21:38] =>  0:12
+CLOCK: [2023-03-10 Fri 18:17]--[2023-03-10 Fri 18:59] =>  0:42
+CLOCK: [2023-03-10 Fri 16:01]--[2023-03-10 Fri 16:05] =>  2:15
+:END:
