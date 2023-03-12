@@ -1241,6 +1241,9 @@
 *** Study artists David Finch style
 **** do a master study
 **** do my own version in that style
+***** Push lighting and mood
+**** Artists
+***** Sung Choi
 ***** James Paick
 ***** Nick Gindraux (castles)
 ***** Eytan Zana
@@ -1262,6 +1265,11 @@
     - photo studies
     - each study should have a purpose (tyler edlin video)
     - decide purpose of study before starting each one
+      - shape
+      - color
+      - mood
+      - atmosphere
+      - composition
 ** Schedule
 *** Morning
     - Environment design and painting
