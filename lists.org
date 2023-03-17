@@ -1,5 +1,6 @@
 #+TITLE: LISTS
 #+AUTHOR: Chris Hogan
+#+STARTUP: nologdone
 
 * Games
 ** God of War ragnorok
@@ -1227,17 +1228,20 @@
 ** 2 or 3 classes (1 3d, 1 painting)
 *** 3D
 **** TODO Romain Jouandeau (learn squared and medieval concept)
-**** TODO Intro to advanced interiors (Danar Worya)
-**** TODO Pedro Blanco scifi envioronment design
-**** TODO Jama
-**** TODO Kevin Jick Japanese stilt city
 **** TODO Ian Hubert
+**** DONE Intro to advanced interiors (Danar Worya)
+**** DONE Pedro Blanco scifi envioronment design
+**** DONE Jama
+**** DONE Kevin Jick Japanese stilt city
 *** Painting
 **** TODO James Paick environment design
 **** TODO Brainstorm advanced mentorship
 **** TODO Maceij Environment painting learn squared
 **** TODO Fundamentals of Environment Design CGMA
 **** TODO Greg Rutkowski Learn Squared
+*** Sketching/studying
+**** TODO Aaron Limonick Sketching Anything learn squared
+**** TODO Jay Lee studies to concept
 *** Study artists David Finch style
 **** do a master study
 **** do my own version in that style
@@ -1271,16 +1275,27 @@
       - atmosphere
       - composition
 ** Schedule
-*** Morning
+*** MWF
+**** Morning
     - Environment design and painting
-*** Afternoon
+**** Afternoon
     - 3D
       - video, copy, apply
       - 1 render per day?
-*** Evening
+**** Evening
     - study
       - master study
       - photo study
       - plein air
+*** TThSa
+**** Morning
+     - sketching
+**** Afternoon
+     - portfolio
+**** Evening
+     - study
+*** Su
+    - portfolio
+    - gouache plein air
 ** Challenge
     - 50 environment studies
