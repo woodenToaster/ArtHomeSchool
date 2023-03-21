@@ -1225,20 +1225,15 @@
 ** Movies
    - Lord of the Rings
 * Semester break - April 2 to May 8
-** 2 or 3 classes (1 3d, 1 painting)
+** 2 or 3 classes (1 drawing, 1 painting)
 *** 3D
 **** TODO Romain Jouandeau (learn squared and medieval concept)
 **** TODO Ian Hubert
-**** DONE Intro to advanced interiors (Danar Worya)
-**** DONE Pedro Blanco scifi envioronment design
-**** DONE Jama
-**** DONE Kevin Jick Japanese stilt city
 *** Painting
 **** TODO James Paick environment design
-**** TODO Brainstorm advanced mentorship
 **** TODO Maceij Environment painting learn squared
-**** TODO Fundamentals of Environment Design CGMA
 **** TODO Greg Rutkowski Learn Squared
+**** TODO Kenny Vo Foundation Patreon envrionment design
 *** Sketching/studying
 **** TODO Aaron Limonick Sketching Anything learn squared
 **** TODO Jay Lee studies to concept
@@ -1281,26 +1276,25 @@
 ** Schedule
 *** MWF
 **** Morning
-    - Environment design and painting
+    - portfolio
 **** Afternoon
-    - 3D
-      - video, copy, apply
-      - 1 render per day?
+    - Maceij or Rutkowski learn squared
 **** Evening
     - study
-      - master study
-      - photo study
-      - plein air
 *** TThSa
 **** Morning
-     - sketching
-**** Afternoon
      - portfolio
+**** Afternoon
+     - Sketching Anything
 **** Evening
      - study
 *** Su
+**** Morning
     - portfolio
+**** Afternoon
     - gouache plein air
+**** Evening
+    - learn something about blender and apply it
 ** Challenge
     - 50 environment studies
 ** Prop artists
