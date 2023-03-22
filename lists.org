@@ -1173,6 +1173,7 @@
 *** DONE Summer 22
     - FND1
     - PBC
+    - VisComm Flash
 *** DONE Fall 22
     - WB1
     - DC1
@@ -1183,9 +1184,7 @@
     - WB: Story driven visual game design
 *** TODO Summer 23
     - AD2
-    - ?
-      - Focal point advanced environment
-      - cgma
+    - DC2
 * Design Questions
 ** Have I seen something like this before?
 ** What would make this cooler?
