@@ -410,6 +410,7 @@
 *** Dean Cornwell
 *** Paul Bonner
 *** Adrian Smith
+*** Pavel Korin
 ** Concept
 *** Spectrum books (library)
 *** Greg Rutkowski
