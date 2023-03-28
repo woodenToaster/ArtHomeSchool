@@ -1689,4 +1689,18 @@ CLOCK: [2023-03-24 Fri 12:23]--[2023-03-24 Fri 13:37] =>  1:14
 CLOCK: [2023-03-24 Fri 10:00]--[2023-03-24 Fri 11:54] =>  1:54
 CLOCK: [2023-03-24 Fri 07:05]--[2023-03-24 Fri 08:45] =>  1:40
 :END:
+* Week 11
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W13 :tags t
+#+CAPTION:
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+#+END:
+
+** <2023-03-27 Mon>
+*** TODO ENT1 week 9 homework                                      :painting:
+:LOGBOOK:
+CLOCK: [2023-03-27 Mon 07:17]--[2023-03-27 Mon 08:31] =>  1:14
+:END:
+*** TODO blog :study:
 
