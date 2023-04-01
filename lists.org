@@ -1299,3 +1299,56 @@
     - 50 environment studies
 ** Prop artists
     - oscar cafaro
+
+* House
+** TODO caulk top of chimney
+** TODO remove hornet nests from front door
+** TODO paint
+*** TODO living room ceiling
+*** TODO dining room wall
+*** TODO exterior
+** TODO deck
+*** TODO pressure wash
+*** TODO replace caps
+*** TODO repaint
+** TODO kitchen
+*** TODO clear countertops
+*** TODO clean sink
+*** TODO clear kitchen table
+*** TODO clean microwave and stove
+*** TODO clear off washer and dryer
+** TODO bath
+*** TODO clear countertops
+** TODO shampoo bedroom carpet
+** TODO replace front doormat
+** TODO mulch front flower bed
+** TODO remove foam
+** TODO clean moss on roof
+** TODO crawl space
+*** TODO check for turds
+*** TODO remove trap
+** TODO Francois
+*** TODO remove all pet items
+** TODO Art room
+*** TODO clear out as much as possible
+*** TODO remove light
+*** TODO 18x24 container?
+** TODO Exercise room
+*** TODO clean dust
+*** TODO organize
+*** TODO remove mirrors
+** TODO contact Jill when we're ready for photos
+** TODO change air filter
+** TODO keep trash empty
+** TODO Need attorney to sell house
+*** TODO ask Gail
+** DONE buy boxes
+* TODO Self
+** TODO detail car
+** TODO new clothes
+
+* Shopping
+** TODO caulk
+** TODO bleach
+** TODO gloves
+** TODO soap scum remover
