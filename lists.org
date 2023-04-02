@@ -1276,21 +1276,21 @@
 ** Schedule
 *** MWF
 **** Morning
-    - portfolio
+    - finish spring classes for portfolio
 **** Afternoon
-    - Maceij or Rutkowski learn squared
+    - house
 **** Evening
-    - study
+    - study painting
 *** TThSa
 **** Morning
-     - portfolio
+     - new portfolio pieces
 **** Afternoon
-     - Sketching Anything
+    - house
 **** Evening
-     - study
+     - study line
 *** Su
 **** Morning
-    - portfolio
+    - sketchbook
 **** Afternoon
     - gouache plein air
 **** Evening
@@ -1299,6 +1299,18 @@
     - 50 environment studies
 ** Prop artists
     - oscar cafaro
+
+* Shaddy on shapes
+** rough 3d for perspective
+** black and white, focusing on shapes
+*** EVERY stroke is a samurai tshing!!!
+*** big, strong strokes
+* Shaddy digital painting
+** 1 - block in
+*** Always start with Daniels
+*** capture simplistic essence of each shape (rhythm)
+*** big, strong strokes
+*** paint in, cut out
 
 * House
 ** TODO caulk top of chimney
@@ -1319,6 +1331,7 @@
 *** TODO clear off washer and dryer
 ** TODO bath
 *** TODO clear countertops
+*** TODO fix master toilet
 ** TODO shampoo bedroom carpet
 ** TODO replace front doormat
 ** TODO mulch front flower bed
@@ -1343,12 +1356,26 @@
 ** TODO Need attorney to sell house
 *** TODO ask Gail
 ** DONE buy boxes
-* TODO Self
+
+* Self
 ** TODO detail car
 ** TODO new clothes
+*** TODO socks
+*** TODO underwear
+*** TODO lounge wear
+*** TODO workout shorts
+*** TODO workout shirts
+*** TODO pants
+*** TODO nice shirts
+*** TODO nice shoes
+** TODO budget
+** TODO plein air class
+** TODO oil painting
+** TODO jiu jitsu
 
 * Shopping
 ** TODO caulk
 ** TODO bleach
 ** TODO gloves
 ** TODO soap scum remover
+** TODO mulch
