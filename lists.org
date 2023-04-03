@@ -1306,11 +1306,27 @@
 *** EVERY stroke is a samurai tshing!!!
 *** big, strong strokes
 * Shaddy digital painting
-** 1 - block in
+** 1 - Block in
 *** Always start with Daniels
+**** don't leave a dull flat end on a stroke. cut back in
+*** identify horizon line
+*** start in grayscale
 *** capture simplistic essence of each shape (rhythm)
 *** big, strong strokes
 *** paint in, cut out
+*** "design shapes" means "make them cool"
+*** decide what focal point is, and everything else is subject to it
+**** nothing should compete with focal point
+** 2 - Styling shapes
+
+* Learning good shape design
+
+** fill a pinterest board with images you find visually interesting
+*** the more abstract, the better
+** draw them!
+*** start with silhouette, or outline of big shape
+**** identify active vs passive sides
+*** look at biggest interior shapes
 
 * House
 ** TODO caulk top of chimney
@@ -1343,9 +1359,10 @@
 ** TODO Francois
 *** TODO remove all pet items
 ** TODO Art room
+*** DONE 18x24 container?
 *** TODO clear out as much as possible
 *** TODO remove light
-*** TODO 18x24 container?
+*** TODO pack everything
 ** TODO Exercise room
 *** TODO clean dust
 *** TODO organize
@@ -1374,8 +1391,10 @@
 ** TODO jiu jitsu
 
 * Shopping
+** TODO packing tape
 ** TODO caulk
 ** TODO bleach
-** TODO gloves
-** TODO soap scum remover
+** DONE gloves
+** DONE soap scum remover
 ** TODO mulch
+** TODO mattress bag
