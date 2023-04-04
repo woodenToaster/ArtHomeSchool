@@ -1745,5 +1745,13 @@ CLOCK: [2023-04-01 Sat 11:59]--[2023-04-01 Sat 15:02] =>  3:03
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
 #+END:
-** 
+** <2023-04-03 Mon>
+*** TODO WB2 week 9 homework :painting:
+:LOGBOOK:
+CLOCK: [2023-04-03 Mon 09:14]--[2023-04-03 Mon 11:40] =>  2:26
+:END:
+*** TODO Shaddy Safadi digital painting :study:
+:LOGBOOK:
+CLOCK: [2023-04-03 Mon 11:40]--[2023-04-03 Mon 12:15] =>  0:35
+:END:
 

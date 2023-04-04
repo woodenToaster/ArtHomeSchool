@@ -20,8 +20,6 @@
 ** Zebra Rubber 80 R-8000 pen
 ** Stillman and Birn Zeta Series sketchbook
 ** white ink
-** gouache landscape palette
-** watercolor sketchbook
 * Art Books
 ** General
 *** Fundamentals of drawing - Mogilevtsev
@@ -1300,27 +1298,7 @@
 ** Prop artists
     - oscar cafaro
 
-* Shaddy on shapes
-** rough 3d for perspective
-** black and white, focusing on shapes
-*** EVERY stroke is a samurai tshing!!!
-*** big, strong strokes
-* Shaddy digital painting
-** 1 - Block in
-*** Always start with Daniels
-**** don't leave a dull flat end on a stroke. cut back in
-*** identify horizon line
-*** start in grayscale
-*** capture simplistic essence of each shape (rhythm)
-*** big, strong strokes
-*** paint in, cut out
-*** "design shapes" means "make them cool"
-*** decide what focal point is, and everything else is subject to it
-**** nothing should compete with focal point
-** 2 - Styling shapes
-
-* Learning good shape design
-
+* Janos - Learning good shape design
 ** fill a pinterest board with images you find visually interesting
 *** the more abstract, the better
 ** draw them!
@@ -1329,12 +1307,16 @@
 *** look at biggest interior shapes
 
 * House
+** TODO email Ronda about HOA dues
+** TODO Need attorney to sell house
+*** DONE ask Gail
+*** TODO call Kate Murray (217) 531-1188
 ** TODO caulk top of chimney
-** TODO remove hornet nests from front door
 ** TODO paint
 *** TODO living room ceiling
 *** TODO dining room wall
-*** TODO exterior
+*** TODO exterior damaged areas
+*** TODO interior damaged areas
 ** TODO deck
 *** TODO pressure wash
 *** TODO replace caps
@@ -1349,15 +1331,15 @@
 *** TODO clear countertops
 *** TODO fix master toilet
 ** TODO shampoo bedroom carpet
+*** TODO Thurs 4/6 10:00
 ** TODO replace front doormat
-** TODO mulch front flower bed
-** TODO remove foam
 ** TODO clean moss on roof
 ** TODO crawl space
 *** TODO check for turds
 *** TODO remove trap
 ** TODO Francois
 *** TODO remove all pet items
+*** TODO board the boy
 ** TODO Art room
 *** DONE 18x24 container?
 *** TODO clear out as much as possible
@@ -1370,9 +1352,9 @@
 ** TODO contact Jill when we're ready for photos
 ** TODO change air filter
 ** TODO keep trash empty
-** TODO Need attorney to sell house
-*** TODO ask Gail
-** DONE buy boxes
+** DONE remove hornet nests from front door
+** DONE mulch front flower bed
+** DONE remove foam
 
 * Self
 ** TODO detail car
@@ -1389,12 +1371,17 @@
 ** TODO plein air class
 ** TODO oil painting
 ** TODO jiu jitsu
+** TODO self authoring
+** TODO better help
 
 * Shopping
 ** TODO packing tape
-** TODO caulk
 ** TODO bleach
+** TODO mattress bag
+** TODO doormat
+** TODO small boxes?
+** DONE caulk
 ** DONE gloves
 ** DONE soap scum remover
-** TODO mulch
-** TODO mattress bag
+** DONE mulch
+** DONE boxes
