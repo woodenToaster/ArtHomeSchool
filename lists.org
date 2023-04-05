@@ -1328,11 +1328,12 @@
 *** TODO clean microwave and stove
 *** TODO clear off washer and dryer
 ** TODO bath
+*** TODO clean shower
+*** TODO clean tub
 *** TODO clear countertops
 *** TODO fix master toilet
 ** TODO shampoo bedroom carpet
 *** TODO Thurs 4/6 10:00
-** TODO replace front doormat
 ** TODO clean moss on roof
 ** TODO crawl space
 *** TODO check for turds
@@ -1342,17 +1343,19 @@
 *** TODO board the boy
 ** TODO Art room
 *** DONE 18x24 container?
+*** TODO photograph early art
 *** TODO clear out as much as possible
 *** TODO remove light
 *** TODO pack everything
 ** TODO Exercise room
 *** TODO clean dust
 *** TODO organize
-*** TODO remove mirrors
+*** DONE remove mirrors
 ** TODO contact Jill when we're ready for photos
 ** TODO change air filter
 ** TODO keep trash empty
 ** DONE remove hornet nests from front door
+** DONE replace front doormat
 ** DONE mulch front flower bed
 ** DONE remove foam
 
@@ -1375,11 +1378,12 @@
 ** TODO better help
 
 * Shopping
-** TODO packing tape
+** TODO intelligentsia coffee
 ** TODO bleach
-** TODO mattress bag
-** TODO doormat
 ** TODO small boxes?
+** DONE mattress bag
+** DONE doormat
+** DONE packing tape
 ** DONE caulk
 ** DONE gloves
 ** DONE soap scum remover
