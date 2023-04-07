@@ -1177,13 +1177,14 @@
     - WB1
     - DC1
     - AD1
-*** TODO Spring 23
+*** DONE Spring 23
     - ENT1
     - WB2
     - WB: Story driven visual game design
-*** TODO Summer 23
-    - AD2
-    - DC2
+* Fourth year (<2023-05-31 Wed> to <2024-05-31 Fri>)
+** Portfolio
+** Brainstorm
+** Apply for jobs
 * Design Questions
 ** Have I seen something like this before?
 ** What would make this cooler?
@@ -1309,9 +1310,7 @@
 * House
 ** TODO email Ronda about HOA dues
 ** TODO Need attorney to sell house
-*** DONE ask Gail
 *** TODO call Kate Murray (217) 531-1188
-** TODO caulk top of chimney
 ** TODO paint
 *** TODO living room ceiling
 *** TODO dining room wall
@@ -1331,10 +1330,7 @@
 *** TODO clean shower
 *** TODO clean tub
 *** TODO clear countertops
-*** TODO fix master toilet
-** TODO shampoo bedroom carpet
-*** TODO Thurs 4/6 10:00
-** TODO clean moss on roof
+*** DONE fix master toilet
 ** TODO crawl space
 *** TODO check for turds
 *** TODO remove trap
@@ -1343,9 +1339,9 @@
 *** TODO board the boy
 ** TODO Art room
 *** DONE 18x24 container?
-*** TODO photograph early art
+*** DONE photograph early art
+*** DONE remove light
 *** TODO clear out as much as possible
-*** TODO remove light
 *** TODO pack everything
 ** TODO Exercise room
 *** TODO clean dust
@@ -1357,6 +1353,12 @@
 ** TODO good will
 *** TODO books
 *** TODO clothes
+** TODO general cleaning
+*** TODO vacuum and mop all floors
+*** TODO dust everything
+** DONE clean moss on roof
+** DONE caulk top of chimney
+** DONE shampoo bedroom carpet
 ** DONE remove hornet nests from front door
 ** DONE replace front doormat
 ** DONE mulch front flower bed
