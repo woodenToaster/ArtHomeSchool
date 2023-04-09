@@ -1317,7 +1317,7 @@
 *** TODO exterior damaged areas
 *** TODO interior damaged areas
 ** TODO deck
-*** TODO pressure wash
+*** DONE pressure wash
 *** TODO repaint
 *** TODO replace caps
 ** TODO kitchen
@@ -1350,6 +1350,7 @@
 ** TODO contact Jill when we're ready for photos
 ** TODO change air filter
 ** TODO keep trash empty
+** TODO books to library
 ** TODO good will
 *** TODO books
 *** TODO clothes
@@ -1384,8 +1385,8 @@
 ** TODO water filter that gets flouride
 
 * Shopping
-** TODO intelligentsia coffee
 ** TODO thumb screws for Francois's crate
+** DONE intelligentsia coffee
 ** DONE 1 gallon toasted cashew
 ** DONE 2 gallons porpoise
 ** DONE 1 gallon white
