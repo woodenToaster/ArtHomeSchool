@@ -1330,13 +1330,11 @@
 *** TODO clean shower
 *** TODO clean tub
 *** TODO clear countertops
+*** TODO clean toilet
+*** TODO sweep
+*** TODO mop
+*** TODO mirrors
 *** DONE fix master toilet
-** TODO crawl space
-*** TODO check for turds
-*** TODO remove trap
-** TODO Francois
-*** TODO remove all pet items
-*** TODO board the boy
 ** TODO Art room
 *** DONE 18x24 container?
 *** DONE photograph early art
@@ -1347,13 +1345,19 @@
 *** TODO clean dust
 *** TODO organize
 *** DONE remove mirrors
+** TODO crawl space
+*** TODO check for turds
+*** TODO remove trap
+** TODO Francois
+*** TODO remove all pet items
+*** TODO board the boy
 ** TODO contact Jill when we're ready for photos
 ** TODO change air filter
 ** TODO keep trash empty
-** TODO books to library
 ** TODO good will
 *** TODO books
 *** TODO clothes
+*** TODO electronics
 ** TODO general cleaning
 *** TODO vacuum and mop all floors
 *** TODO dust everything
@@ -1400,3 +1404,20 @@
 ** DONE soap scum remover
 ** DONE mulch
 ** DONE boxes
+
+* The Power of 3
+When thinking of ways to improve a drawing, consider the magic number 3.
+
+  - 3 distinguishing physical features
+  - 3 main masses (large, medium, small)
+  - 3 material breakups (skin, leather, fur, etc.)
+  - 3 depth layers : foreground, middleground, background
+  - 3 dimensions of space : x, y, z
+  - 3 tiers of elevation
+  - 3 dominant values (dark, mid, light)
+  - 3 dominant colors (warm, cool, neutral)
+  - Rule of Thirds : This is followed by splitting a canvas into thirds
+    horizontally and vertically and assigning your focal to a point where two of
+    the interior lines interesect.
+  - 3 "reads" -- primary read (overall impression), secondary read (additional
+    info), tertiary read (more fun details to notice -- "garnish")
