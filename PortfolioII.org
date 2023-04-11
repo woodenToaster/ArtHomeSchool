@@ -1,0 +1,35 @@
+#+TITLE: Portfolio II
+#+AUTHOR: Chris Hogan
+#+DATE: <2023-04-10 Mon> to <2023-05-14 Sun>
+#+STARTUP: nologdone
+
+* Week 1
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W15 :tags t
+#+CAPTION: Clock summary at [2023-04-10 Mon 21:58], for week 2023-W15.
+| Tags     | Headline                                    | Time   |      |      |
+|----------+---------------------------------------------+--------+------+------|
+|          | *Total time*                                | *1:56* |      |      |
+|----------+---------------------------------------------+--------+------+------|
+|          | Week 1                                      | 1:56   |      |      |
+|          | \_  <2023-04-10 Mon>                        |        | 1:56 |      |
+| painting | \_    John Park Painterly Landscape Studies |        |      | 1:56 |
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+| Tag      | Headline   | Time (h) |
+|----------+------------+----------|
+| drawing  | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| study    | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| painting | *Tag time* | *1h 56m* |
+|----------+------------+----------|
+| 3D       | *Tag time* | *0h 0m*  |
+
+#+END:
+
+** <2023-04-10 Mon>
+*** DONE John Park Painterly Landscape Studies                     :painting:
+:LOGBOOK:
+CLOCK: [2023-04-10 Mon 20:02]--[2023-04-10 Mon 21:58] =>  1:56
+:END:

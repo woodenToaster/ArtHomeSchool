@@ -204,7 +204,6 @@
 ** Prisoners
 ** Sicario
 ** 1917
-** her
 ** Ex machina
 * Videos
 ** Maciej Kuciara - Intro to Env Painting - learn squared oc.club
@@ -1321,11 +1320,17 @@
 *** TODO repaint
 *** TODO replace caps
 ** TODO kitchen
-*** TODO clear countertops
-*** TODO clean sink
+*** TODO clean cabinets
+*** DONE clear countertops
+*** DONE clean sink
 *** TODO clear kitchen table
-*** TODO clean microwave and stove
+*** TODO clean walls
+*** DONE clean microwave and stove
 *** TODO clear off washer and dryer
+*** DONE clean fridge
+*** DONE sweep
+*** TODO clean inside of fridge
+*** TODO mop
 ** TODO bath
 *** TODO clean shower
 *** TODO clean tub
@@ -1351,7 +1356,7 @@
 ** TODO Francois
 *** TODO remove all pet items
 *** TODO board the boy
-** TODO contact Jill when we're ready for photos
+** DONE contact Jill when we're ready for photos
 ** TODO change air filter
 ** TODO keep trash empty
 ** TODO good will
@@ -1361,6 +1366,13 @@
 ** TODO general cleaning
 *** TODO vacuum and mop all floors
 *** TODO dust everything
+** TODO Office
+*** DONE clean base boards
+*** DONE clean off desk
+*** DONE dust monitors and computers
+*** DONE clean cobwebs in ceiling corners
+*** TODO take down white board
+*** TODO remove Wrightson art
 ** DONE clean moss on roof
 ** DONE caulk top of chimney
 ** DONE shampoo bedroom carpet
