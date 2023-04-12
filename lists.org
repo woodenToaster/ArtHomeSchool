@@ -1305,50 +1305,57 @@
 *** start with silhouette, or outline of big shape
 **** identify active vs passive sides
 *** look at biggest interior shapes
+*** use only C,S,I lines
+*** make each plane an interesting shape
+*** make sure each shape as active and passive side
 
 * House
 ** TODO email Ronda about HOA dues
 ** TODO Need attorney to sell house
-*** TODO call Kate Murray (217) 531-1188
-** TODO paint
-*** TODO living room ceiling
-*** TODO dining room wall
-*** TODO exterior damaged areas
-*** TODO interior damaged areas
-** TODO deck
+*** DONE call Kate Murray (217) 531-1188
+*** TODO forward Kate contract once we have it
+** DONE paint
+*** DONE living room ceiling
+*** DONE dining room wall
+*** DONE exterior damaged areas
+*** DONE interior damaged areas
+** DONE deck
 *** DONE pressure wash
-*** TODO repaint
-*** TODO replace caps
+*** DONE repaint
+*** DONE replace caps
 ** TODO kitchen
-*** TODO clean cabinets
 *** DONE clear countertops
 *** DONE clean sink
-*** TODO clear kitchen table
-*** TODO clean walls
 *** DONE clean microwave and stove
-*** TODO clear off washer and dryer
 *** DONE clean fridge
 *** DONE sweep
+*** TODO clean cabinets
+*** TODO clean trash cabinet
+*** TODO clear kitchen table
+*** TODO clean walls
+*** DONE clear off washer and dryer
 *** TODO clean inside of fridge
-*** TODO mop
-** TODO bath
-*** TODO clean shower
-*** TODO clean tub
-*** TODO clear countertops
-*** TODO clean toilet
+*** TODO clear broom closet
 *** TODO sweep
 *** TODO mop
-*** TODO mirrors
+** TODO bath
+*** DONE clean shower
+*** DONE clean tub
+*** DONE clear countertops
+*** DONE clean toilet
+*** DONE mirrors
 *** DONE fix master toilet
-** TODO Art room
+*** TODO sweep
+*** TODO mop
+** DONE Art room
 *** DONE 18x24 container?
 *** DONE photograph early art
 *** DONE remove light
-*** TODO clear out as much as possible
-*** TODO pack everything
-** TODO Exercise room
-*** TODO clean dust
-*** TODO organize
+*** DONE clear out as much as possible
+*** DONE pack everything
+** DONE Exercise room
+*** DONE clean dust
+*** DONE organize
 *** DONE remove mirrors
 ** TODO crawl space
 *** TODO check for turds
@@ -1356,7 +1363,6 @@
 ** TODO Francois
 *** TODO remove all pet items
 *** TODO board the boy
-** DONE contact Jill when we're ready for photos
 ** TODO change air filter
 ** TODO keep trash empty
 ** TODO good will
@@ -1402,6 +1408,7 @@
 
 * Shopping
 ** TODO thumb screws for Francois's crate
+** TODO magic erasers?
 ** DONE intelligentsia coffee
 ** DONE 1 gallon toasted cashew
 ** DONE 2 gallons porpoise
