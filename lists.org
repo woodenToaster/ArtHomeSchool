@@ -205,6 +205,7 @@
 ** Sicario
 ** 1917
 ** Ex machina
+** Ghost in the shell
 * Videos
 ** Maciej Kuciara - Intro to Env Painting - learn squared oc.club
 ** Anthony Eftekhar
@@ -1310,10 +1311,29 @@
 *** make sure each shape as active and passive side
 
 * House
-** TODO email Ronda about HOA dues
 ** TODO Need attorney to sell house
 *** DONE call Kate Murray (217) 531-1188
 *** TODO forward Kate contract once we have it
+** TODO crawl space
+*** TODO check for turds
+*** TODO remove trap
+** TODO Francois
+*** TODO remove all pet items
+*** TODO board the boy
+*** TODO wipe paws off back door glass
+** TODO change air filter
+** TODO keep trash empty
+** TODO Office
+*** TODO take down white board
+*** DONE clean base boards
+*** DONE clean off desk
+*** DONE dust monitors and computers
+*** DONE clean cobwebs in ceiling corners
+*** DONE remove Wrightson art
+** DONE good will
+*** DONE books
+*** DONE clothes
+*** DONE electronics
 ** DONE paint
 *** DONE living room ceiling
 *** DONE dining room wall
@@ -1323,30 +1343,30 @@
 *** DONE pressure wash
 *** DONE repaint
 *** DONE replace caps
-** TODO kitchen
+** DONE kitchen
 *** DONE clear countertops
 *** DONE clean sink
 *** DONE clean microwave and stove
 *** DONE clean fridge
 *** DONE sweep
-*** TODO clean cabinets
-*** TODO clean trash cabinet
-*** TODO clear kitchen table
-*** TODO clean walls
+*** DONE clean cabinets
+*** DONE clean trash cabinet
+*** DONE clear kitchen table
+*** DONE clean walls
 *** DONE clear off washer and dryer
 *** TODO clean inside of fridge
 *** TODO clear broom closet
 *** TODO sweep
 *** TODO mop
-** TODO bath
+** DONE bath
 *** DONE clean shower
 *** DONE clean tub
 *** DONE clear countertops
 *** DONE clean toilet
 *** DONE mirrors
 *** DONE fix master toilet
-*** TODO sweep
-*** TODO mop
+*** DONE sweep
+*** DONE mop
 ** DONE Art room
 *** DONE 18x24 container?
 *** DONE photograph early art
@@ -1357,28 +1377,6 @@
 *** DONE clean dust
 *** DONE organize
 *** DONE remove mirrors
-** TODO crawl space
-*** TODO check for turds
-*** TODO remove trap
-** TODO Francois
-*** TODO remove all pet items
-*** TODO board the boy
-** TODO change air filter
-** TODO keep trash empty
-** TODO good will
-*** TODO books
-*** TODO clothes
-*** TODO electronics
-** TODO general cleaning
-*** TODO vacuum and mop all floors
-*** TODO dust everything
-** TODO Office
-*** DONE clean base boards
-*** DONE clean off desk
-*** DONE dust monitors and computers
-*** DONE clean cobwebs in ceiling corners
-*** TODO take down white board
-*** TODO remove Wrightson art
 ** DONE clean moss on roof
 ** DONE caulk top of chimney
 ** DONE shampoo bedroom carpet
@@ -1403,7 +1401,6 @@
 ** TODO oil painting
 ** TODO jiu jitsu
 ** TODO self authoring
-** TODO better help
 ** TODO water filter that gets flouride
 
 * Shopping
