@@ -1311,17 +1311,10 @@
 *** make sure each shape as active and passive side
 
 * House
-** TODO Need attorney to sell house
-*** DONE call Kate Murray (217) 531-1188
-*** TODO forward Kate contract once we have it
-** TODO crawl space
-*** TODO check for turds
-*** TODO remove trap
 ** TODO Francois
 *** TODO remove all pet items
 *** TODO board the boy
 *** TODO wipe paws off back door glass
-** TODO change air filter
 ** TODO keep trash empty
 ** TODO Office
 *** TODO take down white board
@@ -1330,6 +1323,9 @@
 *** DONE dust monitors and computers
 *** DONE clean cobwebs in ceiling corners
 *** DONE remove Wrightson art
+** TODO clear all surfaces
+** TODO hide everything
+** DONE mow
 ** DONE good will
 *** DONE books
 *** DONE clothes
@@ -1384,6 +1380,13 @@
 ** DONE replace front doormat
 ** DONE mulch front flower bed
 ** DONE remove foam
+** TODO change air filter
+** TODO crawl space
+*** TODO check for turds
+*** TODO remove trap
+** TODO Need attorney to sell house
+*** DONE call Kate Murray (217) 531-1188
+*** TODO forward Kate contract once we have it
 
 * Self
 ** TODO detail car
@@ -1404,22 +1407,6 @@
 ** TODO water filter that gets flouride
 
 * Shopping
-** TODO thumb screws for Francois's crate
-** TODO magic erasers?
-** DONE intelligentsia coffee
-** DONE 1 gallon toasted cashew
-** DONE 2 gallons porpoise
-** DONE 1 gallon white
-** DONE bleach
-** DONE small boxes
-** DONE mattress bag
-** DONE doormat
-** DONE packing tape
-** DONE caulk
-** DONE gloves
-** DONE soap scum remover
-** DONE mulch
-** DONE boxes
 
 * The Power of 3
 When thinking of ways to improve a drawing, consider the magic number 3.
