@@ -1311,20 +1311,20 @@
 *** make sure each shape as active and passive side
 
 * House
-** TODO Francois
-*** TODO remove all pet items
-*** TODO board the boy
-*** TODO wipe paws off back door glass
-** TODO keep trash empty
-** TODO Office
-*** TODO take down white board
+** DONE Francois
+*** DONE remove all pet items
+*** DONE board the boy
+*** DONE wipe paws off back door glass
+** DONE keep trash empty
+** DONE Office
+*** DONE take down white board
 *** DONE clean base boards
 *** DONE clean off desk
 *** DONE dust monitors and computers
 *** DONE clean cobwebs in ceiling corners
 *** DONE remove Wrightson art
-** TODO clear all surfaces
-** TODO hide everything
+** DONE clear all surfaces
+** DONE hide everything
 ** DONE mow
 ** DONE good will
 *** DONE books
@@ -1380,16 +1380,26 @@
 ** DONE replace front doormat
 ** DONE mulch front flower bed
 ** DONE remove foam
+** DONE Need attorney to sell house
+*** DONE call Kate Murray (217) 531-1188
+*** DONE forward Kate contract once we have it
 ** TODO change air filter
 ** TODO crawl space
 *** TODO check for turds
 *** TODO remove trap
-** TODO Need attorney to sell house
-*** DONE call Kate Murray (217) 531-1188
-*** TODO forward Kate contract once we have it
 
 * Self
 ** TODO detail car
+*** TODO Tues. 4/25 8:30
+** TODO budget
+** TODO plein air class
+** TODO oil painting
+** TODO jiu jitsu
+** TODO self authoring
+
+* Shopping
+** TODO Sedative for Francois
+** TODO water filter that gets flouride
 ** TODO new clothes
 *** TODO socks
 *** TODO underwear
@@ -1399,14 +1409,6 @@
 *** TODO pants
 *** TODO nice shirts
 *** TODO nice shoes
-** TODO budget
-** TODO plein air class
-** TODO oil painting
-** TODO jiu jitsu
-** TODO self authoring
-** TODO water filter that gets flouride
-
-* Shopping
 
 * The Power of 3
 When thinking of ways to improve a drawing, consider the magic number 3.
@@ -1424,3 +1426,61 @@ When thinking of ways to improve a drawing, consider the magic number 3.
     the interior lines interesect.
   - 3 "reads" -- primary read (overall impression), secondary read (additional
     info), tertiary read (more fun details to notice -- "garnish")
+
+* Lawrence Townhouses
+** Park West Townhomes
+*** The Ranch
+**** 1275
+**** Waitlist
+**** 2 car garage
+** Stone Hawk Townhomes
+*** 985 for 1 bedroom
+**** looks like weights will fit in bedroom
+**** patio with field
+**** new construction
+**** garage
+**** washer dryer
+**** emailed
+**** pfpmlawrence.com
+** Hutton Farms
+*** One Bed Cottage
+**** June 12
+**** 1255
+**** 874 Sq ft
+**** garage
+*** One Bed Duplex
+**** Aug. 5
+**** 818 sq ft
+**** garage
+*** One Bed Townhome
+**** 1225
+**** 1073 sq ft
+**** garage
+** Saddlebrook Townhomes
+** Four Wheel Drive Townhomes
+** Antioch Townhomes
+** ~~Congressional Townhomes~~
+*** No garage
+** ~~Sagebrook~~
+*** Only 3 and 4 bedrooms
+** ~~Stonecrest Townhomes~~
+*** No garages
+*** Earliest available is Sept.
+** ~~Bauer Farms~~
+*** too close to 6th
+*** too expensive
+** ~~Union Flats~~
+*** Mostly apartments
+*** no garage
+** ~~Courtside Townhomes~~
+*** No cats
+** ~~Lorimar Town Homes~~
+*** No cats
+* Lawrence Apartments
+** West End
+*** 1 bed
+*** 892 sq ft
+*** lower level
+*** 1,100
+*** 6/5
+*** garage
