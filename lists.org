@@ -1261,6 +1261,7 @@
 *** Gouache plein air
     - nicest day of the week
     - proko video Painting landscape thumbnails (step by step)
+    - Intro to Gouache foudnation patreon
 *** Studies
     - master studies
     - photo studies
@@ -1400,6 +1401,8 @@
 * Shopping
 ** TODO Sedative for Francois
 ** TODO water filter that gets flouride
+** TODO electronic L shaped sit stand desk
+    - https://www.wayfair.com/furniture/pdp/inbox-zero-kokontis-63-l-shaped-electric-standing-desk-height-adjustable-sit-stand-up-corner-desk-with-dual-motor-w011150782.html?piid=209399858
 ** TODO new clothes
 *** TODO socks
 *** TODO underwear
