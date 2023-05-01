@@ -5,7 +5,7 @@
 
 * Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W15 :tags t
-#+CAPTION: Clock summary at [2023-04-23 Sun 20:24], for week 2023-W15.
+#+CAPTION: Clock summary at [2023-04-26 Wed 10:27], for week 2023-W15.
 | Tags     | Headline                                    | Time   |      |      |
 |----------+---------------------------------------------+--------+------+------|
 |          | *Total time*                                | *2:23* |      |      |
@@ -42,7 +42,7 @@ CLOCK: [2023-04-12 Wed 19:14]--[2023-04-12 Wed 19:41] =>  0:27
 :END:
 * Week 2
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W16 :tags t
-#+CAPTION: Clock summary at [2023-04-23 Sun 20:24], for week 2023-W16.
+#+CAPTION: Clock summary at [2023-04-26 Wed 10:27], for week 2023-W16.
 | Tags     | Headline              | Time   |      |      |
 |----------+-----------------------+--------+------+------|
 |          | *Total time*          | *8:37* |      |      |
@@ -95,4 +95,60 @@ CLOCK: [2023-04-22 Sat 19:18]--[2023-04-22 Sat 20:27] =>  1:09
 CLOCK: [2023-04-22 Sat 14:39]--[2023-04-22 Sat 16:21] =>  1:42
 :END:
 * Week 3
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W17 :tags t
+#+CAPTION: Clock summary at [2023-04-26 Wed 10:27], for week 2023-W17.
+| Tags     | Headline                                    | Time   |      |      |
+|----------+---------------------------------------------+--------+------+------|
+|          | *Total time*                                | *8:05* |      |      |
+|----------+---------------------------------------------+--------+------+------|
+|          | Week 3                                      | 8:05   |      |      |
+|          | \_  <2023-04-24 Mon>                        |        | 7:25 |      |
+| painting | \_    SDVGD interior                        |        |      | 2:11 |
+| study    | \_    Intro to Advanced Interior Design     |        |      | 5:14 |
+|          | \_  <2023-04-25 Tue>                        |        | 0:40 |      |
+| study    | \_    Sci-fi gardens planning and reference |        |      | 0:40 |
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+| Tag      | Headline   | Time (h) |
+|----------+------------+----------|
+| drawing  | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| study    | *Tag time* | *5h 54m* |
+|----------+------------+----------|
+| painting | *Tag time* | *2h 11m* |
+|----------+------------+----------|
+| 3D       | *Tag time* | *0h 0m*  |
+
+#+END:
+
+** <2023-04-24 Mon>
+*** DONE SDVGD interior                                            :painting:
+:LOGBOOK:
+CLOCK: [2023-04-24 Mon 20:37]--[2023-04-24 Mon 21:07] =>  0:30
+CLOCK: [2023-04-24 Mon 19:58]--[2023-04-24 Mon 20:32] =>  0:34
+CLOCK: [2023-04-24 Mon 15:09]--[2023-04-24 Mon 15:40] =>  0:31
+CLOCK: [2023-04-24 Mon 14:25]--[2023-04-24 Mon 15:01] =>  0:36
+:END:
+*** DONE Intro to Advanced Interior Design                            :study:
+:LOGBOOK:
+CLOCK: [2023-04-24 Mon 20:32]--[2023-04-24 Mon 20:37] =>  0:05
+CLOCK: [2023-04-24 Mon 19:39]--[2023-04-24 Mon 19:58] =>  0:19
+CLOCK: [2023-04-24 Mon 18:14]--[2023-04-24 Mon 19:09] =>  0:55
+CLOCK: [2023-04-24 Mon 12:35]--[2023-04-24 Mon 14:12] =>  1:37
+CLOCK: [2023-04-24 Mon 09:35]--[2023-04-24 Mon 11:53] =>  2:18
+:END:
+** <2023-04-25 Tue>
+*** DONE Sci-fi gardens planning and reference                        :study:
+:LOGBOOK:
+CLOCK: [2023-04-25 Tue 11:15]--[2023-04-25 Tue 11:55] =>  0:40
+:END:
+* Week 4
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W18 :tags t
+#+CAPTION:
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+#+END:
+** 
 

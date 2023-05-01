@@ -1232,32 +1232,24 @@
 **** TODO James Paick environment design
 **** TODO Maceij Environment painting learn squared
 **** TODO Greg Rutkowski Learn Squared
-**** TODO Kenny Vo Foundation Patreon envrionment design
-*** Sketching/studying
-**** TODO Aaron Limonick Sketching Anything learn squared
-**** TODO Jay Lee studies to concept
-*** Study artists David Finch style
-**** do a master study
-**** do my own version in that style
-***** Push lighting and mood
-**** Artists
-***** Sung Choi
-***** James Paick
-***** Nick Gindraux (castles)
-***** Eytan Zana
-***** John Sweeny
-***** Romain Jouandeau
-***** Dylan Cole
-***** Andreas Rocha
-***** Steve Messing
-***** Craig Mullins
-***** Jaime Jones
-***** John Park
-***** Robh Ruppel
-***** Scott Christensen
-***** Landscape oil painters
-***** Sheng lam (instagram)
-***** Finnian Macmanus
+*** Master studies
+**** Sung Choi
+**** James Paick
+**** Nick Gindraux (castles)
+**** Eytan Zana
+**** John Sweeny
+**** Romain Jouandeau
+**** Dylan Cole
+**** Andreas Rocha
+**** Steve Messing
+**** Craig Mullins
+**** Jaime Jones
+**** John Park
+**** Robh Ruppel
+**** Scott Christensen
+**** Landscape oil painters
+**** Sheng lam (instagram)
+**** Finnian Macmanus
 *** Gouache plein air
     - nicest day of the week
     - proko video Painting landscape thumbnails (step by step)
@@ -1297,19 +1289,6 @@
     - learn something about blender and apply it
 ** Challenge
     - 50 environment studies
-** Prop artists
-    - oscar cafaro
-
-* Janos - Learning good shape design
-** fill a pinterest board with images you find visually interesting
-*** the more abstract, the better
-** draw them!
-*** start with silhouette, or outline of big shape
-**** identify active vs passive sides
-*** look at biggest interior shapes
-*** use only C,S,I lines
-*** make each plane an interesting shape
-*** make sure each shape as active and passive side
 
 * House
 ** DONE Francois
@@ -1384,16 +1363,18 @@
 ** DONE Need attorney to sell house
 *** DONE call Kate Murray (217) 531-1188
 *** DONE forward Kate contract once we have it
+** DONE change air filter
+** DONE crawl space
+*** DONE check for turds
+*** DONE remove trap
 ** TODO Clean fridge
-** TODO change air filter
-** TODO crawl space
-*** TODO check for turds
-*** TODO remove trap
-** TODO Fix windshield crack
+** TODO clean garage
+** TODO schedule bulldog pickup
+** TODO Talk to Kate
+** TODO Keys and garage door openers
 
 * Self
-** TODO detail car
-*** TODO Tues. 4/25 8:30
+** TODO Fix windshield crack
 ** TODO budget
 ** TODO plein air class
 ** TODO oil painting
@@ -1417,23 +1398,6 @@
 *** TODO pants
 *** TODO nice shirts
 *** TODO nice shoes
-
-* The Power of 3
-When thinking of ways to improve a drawing, consider the magic number 3.
-
-  - 3 distinguishing physical features
-  - 3 main masses (large, medium, small)
-  - 3 material breakups (skin, leather, fur, etc.)
-  - 3 depth layers : foreground, middleground, background
-  - 3 dimensions of space : x, y, z
-  - 3 tiers of elevation
-  - 3 dominant values (dark, mid, light)
-  - 3 dominant colors (warm, cool, neutral)
-  - Rule of Thirds : This is followed by splitting a canvas into thirds
-    horizontally and vertically and assigning your focal to a point where two of
-    the interior lines interesect.
-  - 3 "reads" -- primary read (overall impression), secondary read (additional
-    info), tertiary read (more fun details to notice -- "garnish")
 
 * Lawrence Townhouses
 ** Park West Townhomes
