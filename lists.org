@@ -16,6 +16,7 @@
 ** Baldur's Gate 3
 ** Spider Man: Miles Morales
 * Art Supplies
+** TODO 
 ** Pilot Futayaku double sided brush pen
 ** Zebra Rubber 80 R-8000 pen
 ** Stillman and Birn Zeta Series sketchbook
@@ -175,10 +176,49 @@
 *** DONE The Art Spirit - Robert Henri (Hoopla)
 *** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
 * Ref
-** Pixelquid.com - 3d photos
-** unsplash
-** met museum
+** Stock images websites
+   - Pixelsquid.com
+   - unsplash
+   - pexels
+   - pixabay
+   - alamy
+   - dreamstime
+** Museums
+   - royalarmouries.org
+   - metmuseum.org
+   - airandspace.si.edu
+   - https://www.tretyakovgallery.ru/?lang=en
 ** LearnFromMasters youtube
+** Tripadvisor
+** Pinterest
+   - google search image->find source->all sizes
+   - click blog link to see related high res images
+** Google maps
+   - reviews have photos
+** Real estate websites
+   - rightmove.co.uk
+** Twitter
+   - architecture accounts -> media section
+   - @brutalismbot
+** Reddit
+   - r/ArtDeco
+** Online stores (furniture, props, clothing)
+   - 1stdibs.com
+   - antiques-atlas.com
+   - newel.com
+   - armstreet.com
+     - medieval clothing
+   - historicalemporium.com
+** Photographer websites
+   - rjenkins.co.uk
+   - vitalykuzmin.net
+     - military
+   - railpicture.net
+** Google Earth
+** Film stills
+   - film-grab.com
+   - movie-screencaps.com
+   - flim.ai
 * Fiction
 ** The Once and Future King - T.H. White
    - Inspired the sword and the stone
@@ -1367,6 +1407,9 @@
 ** DONE crawl space
 *** DONE check for turds
 *** DONE remove trap
+** TODO Sweep
+** TODO Clean counters
+** TODO Clean bathroom
 ** TODO Clean fridge
 ** TODO clean garage
 ** TODO schedule bulldog pickup
@@ -1374,7 +1417,6 @@
 ** TODO Keys and garage door openers
 
 * Self
-** TODO Fix windshield crack
 ** TODO budget
 ** TODO plein air class
 ** TODO oil painting
@@ -1382,11 +1424,12 @@
 ** TODO self authoring
 
 * Shopping
+** TODO Hair dryer
 ** TODO Sedative for Francois
-** TODO Watch compatible with polar h10
 ** TODO pull up bar
 ** TODO water filter that gets flouride
 ** TODO egg white separator
+** TODO sofa?
 ** TODO electronic L shaped sit stand desk
     - https://www.wayfair.com/furniture/pdp/inbox-zero-kokontis-63-l-shaped-electric-standing-desk-height-adjustable-sit-stand-up-corner-desk-with-dual-motor-w011150782.html?piid=209399858
 ** TODO new clothes
