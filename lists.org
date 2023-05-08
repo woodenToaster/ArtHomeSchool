@@ -16,7 +16,6 @@
 ** Baldur's Gate 3
 ** Spider Man: Miles Morales
 * Art Supplies
-** TODO 
 ** Pilot Futayaku double sided brush pen
 ** Zebra Rubber 80 R-8000 pen
 ** Stillman and Birn Zeta Series sketchbook
@@ -287,50 +286,64 @@
 ** Moderndayjames
 ** Sinix Design
 ** Watts Atelier Illustrator and Concept Artist Learning Path
-*** DONE Drawing Fundamentals Phase 1
-*** DONE Drawing Fundamentals Phase 2
-*** DONE Head Drawing Fundamentals
-*** DONE Figure Drawing Fundamentals
-*** DONE Head Drawing Phase 1
-*** DONE Figure Drawing Phase 1
-*** DONE Head Drawing Phase 2
-*** TODO Figure Drawing Phase 2
-*** DONE Head Drawing Phase 3
-*** TODO Quicksketch Fundamentals
-*** TODO Figure Drawing Phase 3
-*** TODO Gouache Phase 1
-*** TODO Gouache Phase 2
-*** TODO Head Drawing Phase 4
-*** TODO Figure Drawing Phase 4
-*** TODO Anatomy Intensives: Arms & Legs
-*** TODO Anatomy Intensives: Torso
-*** TODO Bridgman Anatomy
-*** TODO Inking Phase 1
-*** TODO Head Drawing Phase 5
-*** TODO Inking Phase 2
-*** TODO Figure Drawing Phase 5
-*** TODO Gouache Phase 3
-*** TODO Inking Phase 3
-*** TODO Portrait Painting Phase 1
-*** TODO Figure Painting Phase 1
-*** TODO Portrait Painting Phase 2
-*** TODO Figure Painting Phase 2
-*** TODO Portrait Painting Phase 3
-*** TODO Figure Painting Phase 3
-*** DONE Perspective Essentials
-*** TODO Still Life Phase 1
-*** TODO Landscape Phase 1
-*** TODO Still Life Phase 2
-*** TODO Landscape Phase 2
-*** TODO Essentials of Tech
-*** DONE Composition and Staging 
-*** DONE Drapery
-*** TODO Fundamentals of Character Design
-*** TODO Still Life Phase 3
-*** TODO Landscape Phase 3
-*** TODO Painting Mood and Atmosphere in Gouache
-*** TODO Dragon Design
-*** TODO Illustration – Painted Comic Cover
+*** TODO Year 1
+**** DONE Drawing Fundamentals Phase 1
+**** DONE Drawing Fundamentals Phase 2
+**** DONE Head Drawing Fundamentals
+**** DONE Figure Drawing Fundamentals
+**** TODO Quicksketch Fundamentals
+**** TODO Structural Figure Drawing
+**** DONE Head Drawing Phase 1
+**** DONE Figure Drawing Phase 1
+**** DONE Head Drawing Phase 2
+**** TODO Figure Drawing Phase 2
+**** DONE Head Drawing Phase 3
+**** TODO Figure Drawing Phase 3
+*** TODO Year 2
+**** TODO Gouache Phase 1
+**** TODO Gouache Phase 2
+**** TODO Head Drawing Phase 4
+**** TODO Figure Drawing Phase 4
+**** TODO Oil Painting Fundamentals
+**** TODO Portrait Painting Phase 1
+**** TODO Gouache Phase 3
+**** TODO Figure Painting Phase 1
+**** TODO Portrait Painting Phase 2
+**** TODO Figure Painting Phase 2
+**** TODO Landscape Phase 1
+**** TODO Still Life Phase 1
+*** TODO Year 3
+**** TODO Landscape Phase 2
+**** TODO Portrait Painting Phase 3
+**** TODO Still Life Phase 2
+**** TODO Head Drawing Phase 5
+**** TODO Figure Painting Phase 3
+**** TODO Figure Drawing Phase 5
+**** TODO Landscape Phase 3
+**** TODO Still Life Phase 3
+**** TODO Portrait Painting Phase 4
+**** DONE Drapery
+**** DONE Perspective Essentials
+**** TODO Anatomy Intensives: Arms & Legs
+**** TODO Anatomy Intensives: Torso
+**** TODO Figure Painting Phase 4
+*** TODO Year 4
+**** TODO Observational Color
+**** TODO Features and Facial Expressions
+**** TODO Bridgman Anatomy Phase 1: Torso
+**** TODO Fundamentals of Character Design
+**** TODO Sketchbooking
+**** DONE Composition and Staging
+**** TODO Creating Environments
+**** TODO Painting Mood and Atmosphere in Gouache
+**** TODO Dragon Design
+**** TODO Essentials of Tech
+**** TODO Studio Landscapes: Structures
+**** TODO Illustration: Painted Comic Cover
+**** TODO Illustration: Illustrating a Fantasy Scene
+**** TODO Inking Phase 1
+**** TODO Inking Phase 2
+**** TODO Inking Phase 3
 ** David Finch
 *** TODO Skillshare
 **** DONE Superhero Heads
