@@ -268,7 +268,6 @@
 ** Sadie Valeri Atelier online
 ** Grand Central Atelier online classes
 ** Sean Gordon Murphy demos (youtube)
-** Charles Lin tutorials (FZD student)
 ** DONE drawabox
 *** DONE Lesson 1
 *** DONE Lesson 2
@@ -1237,6 +1236,9 @@
 * Fourth year (<2023-05-31 Wed> to <2024-05-31 Fri>)
 ** Portfolio
 ** Brainstorm
+*** TODO Summer 23
+    - AD2
+    - BUD
 ** Apply for jobs
 * Design Questions
 ** Have I seen something like this before?
@@ -1276,72 +1278,6 @@
    - Vikings
 ** Movies
    - Lord of the Rings
-* Semester break - April 2 to May 8
-** 2 or 3 classes (1 drawing, 1 painting)
-*** 3D
-**** TODO Romain Jouandeau (learn squared and medieval concept)
-**** TODO Ian Hubert
-*** Painting
-**** TODO James Paick environment design
-**** TODO Maceij Environment painting learn squared
-**** TODO Greg Rutkowski Learn Squared
-*** Master studies
-**** Sung Choi
-**** James Paick
-**** Nick Gindraux (castles)
-**** Eytan Zana
-**** John Sweeny
-**** Romain Jouandeau
-**** Dylan Cole
-**** Andreas Rocha
-**** Steve Messing
-**** Craig Mullins
-**** Jaime Jones
-**** John Park
-**** Robh Ruppel
-**** Scott Christensen
-**** Landscape oil painters
-**** Sheng lam (instagram)
-**** Finnian Macmanus
-*** Gouache plein air
-    - nicest day of the week
-    - proko video Painting landscape thumbnails (step by step)
-    - Intro to Gouache foudnation patreon
-*** Studies
-    - master studies
-    - photo studies
-    - each study should have a purpose (tyler edlin video)
-    - study first, then make one of your own
-    - decide purpose of study before starting each one
-      - shape
-      - color
-      - mood
-      - atmosphere
-      - composition
-** Schedule
-*** MWF
-**** Morning
-    - finish spring classes for portfolio
-**** Afternoon
-    - house
-**** Evening
-    - study painting
-*** TThSa
-**** Morning
-     - new portfolio pieces
-**** Afternoon
-    - house
-**** Evening
-     - study line
-*** Su
-**** Morning
-    - sketchbook
-**** Afternoon
-    - gouache plein air
-**** Evening
-    - learn something about blender and apply it
-** Challenge
-    - 50 environment studies
 
 * House
 ** DONE Francois
@@ -1420,13 +1356,13 @@
 ** DONE crawl space
 *** DONE check for turds
 *** DONE remove trap
+** DONE schedule bulldog pickup
+** DONE Talk to Kate
 ** TODO Sweep
 ** TODO Clean counters
 ** TODO Clean bathroom
 ** TODO Clean fridge
 ** TODO clean garage
-** TODO schedule bulldog pickup
-** TODO Talk to Kate
 ** TODO Keys and garage door openers
 
 * Self
@@ -1443,6 +1379,7 @@
 ** TODO water filter that gets flouride
 ** TODO egg white separator
 ** TODO sofa?
+** TODO modem
 ** TODO electronic L shaped sit stand desk
     - https://www.wayfair.com/furniture/pdp/inbox-zero-kokontis-63-l-shaped-electric-standing-desk-height-adjustable-sit-stand-up-corner-desk-with-dual-motor-w011150782.html?piid=209399858
 ** TODO new clothes
