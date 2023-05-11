@@ -1278,6 +1278,13 @@
    - Vikings
 ** Movies
    - Lord of the Rings
+* Summer-Fall Semester break
+** CGMA
+   - Environment Design
+   - Fundamentals of Architecture
+** The Workshop Academy
+   - Intro to Architecture Design (Mark Castanon)
+** Syn Studio
 
 * House
 ** DONE Francois
