@@ -16,10 +16,25 @@
 ** Baldur's Gate 3
 ** Spider Man: Miles Morales
 * Art Supplies
-** Pilot Futayaku double sided brush pen
-** Zebra Rubber 80 R-8000 pen
+** Masterson sealed palette with grey glass
+** Sennelier green thinner
+** Gamblin solvent-free fluid
+** sun dried linseed oil
+** walnut oil/alkyd
+** 1" flat gouache brush
+** 8" round gouache brush
+** Crescent board 110 or 114
+** Gouache paint
+*** permanent yellow
+*** yellow ochre
+*** scarlet lake
+*** alizarin crimson
+*** sky blue
+*** sap green
+*** burnt sienna
+*** burnt umber
+** faber castell collapsable water cup
 ** Stillman and Birn Zeta Series sketchbook
-** white ink
 * Art Books
 ** General
 *** Fundamentals of drawing - Mogilevtsev
@@ -246,28 +261,9 @@
 ** Ex machina
 ** Ghost in the shell
 * Videos
-** Maciej Kuciara - Intro to Env Painting - learn squared oc.club
 ** Anthony Eftekhar
    - https://online-courses.club/3d-concept-art-with-anthony-eftekhari/
    - Composition and staging (downloaded)
-** Erindale - Blender geometry nodes expert
-   - youtube
-   - gumroad
-** Jan Urschel - blender
-   - procedural landscapes
-   - procedural cityscapes
-** Kevin Jick - Blender japanese stilt city
-** Foundation Patreon
-** Evolve Artist
-** Mike Azevedo color in photoshop (artstation)
-** Jama Jurabayev
-** James Paick - youtube cgma
-** Andreas Rocha - youtube environment paintings MTG
-** Steven Baumann
-** Syn Studio
-** Sadie Valeri Atelier online
-** Grand Central Atelier online classes
-** Sean Gordon Murphy demos (youtube)
 ** DONE drawabox
 *** DONE Lesson 1
 *** DONE Lesson 2
@@ -280,10 +276,6 @@
 *** DONE 250 cylinders
 *** DONE 25 wheels
 *** DONE 100 treasure chests
-** Ctrl+paint
-** Lucidpixul
-** Moderndayjames
-** Sinix Design
 ** Watts Atelier Illustrator and Concept Artist Learning Path
 *** TODO Year 1
 **** DONE Drawing Fundamentals Phase 1
@@ -353,7 +345,6 @@
 **** DONE Hands
 **** TODO Faces
 **** TODO Fight Scenes
-** Alphonso Dunn - Great Ink Videos
 ** Proko
 *** TODO Portrait Drawing
 *** DONE Anatomy
@@ -361,12 +352,8 @@
 **** DONE Arms
 **** DONE Legs
 *** DONE Figure Drawing
-** The Drawing Database (youtube)
-** Jimmy Reyes - inking
-** The Process (youtube) - inking
 ** Dorian Iton - Light on Form
 ** Ron Lemen - Color wheel exercises
-** FZD Design Cinema
 ** New Master's Academy
 *** Linear Perspective (121 hours)
 **** TODO Part I
@@ -379,10 +366,7 @@
 ***** TODO Section 7
 **** TODO Part II
 **** TODO Part III
-*** Color Theory
 *** Reilly Drawing Method
-*** Russian Academic Drawing
-** DONE Neil Gaimon: Make Good Art
 ** DONE Marshall Vandruff Perspective
 ** DONE drawmixpaint.com
 * Art to Study
@@ -1284,7 +1268,11 @@
    - Fundamentals of Architecture
 ** The Workshop Academy
    - Intro to Architecture Design (Mark Castanon)
-** Syn Studio
+** Watts
+   - Quicksketch Fundamentals
+   - Structural figure drawing
+   - Figure Drawing phase II
+   - Figure Drawing phase III
 
 * House
 ** DONE Francois
