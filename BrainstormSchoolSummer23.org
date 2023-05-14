@@ -1,6 +1,6 @@
 #+TITLE: Brainstorm School Summer '23
 #+AUTHOR: Chris Hogan
-#+DATE: <2023-05-15 Mon> to <2023-07-16 Sun>
+#+DATE: <2023-05-08 Mon> to <2023-07-16 Sun>
 #+STARTUP: nologdone
 #+STARTUP: overview
 
