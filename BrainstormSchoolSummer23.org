@@ -5,3 +5,39 @@
 #+STARTUP: overview
 
 * Week 1
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W20 :tags t
+#+CAPTION: Clock summary at [2023-05-15 Mon 21:47], for week 2023-W20.
+| Tags    | Headline                      | Time   |      |      |
+|---------+-------------------------------+--------+------+------|
+|         | *Total time*                  | *1:54* |      |      |
+|---------+-------------------------------+--------+------+------|
+|         | Week 1                        | 1:54   |      |      |
+|         | \_  <2023-05-15 Mon>          |        | 1:54 |      |
+| study   | \_    AD2 reference gathering |        |      | 0:49 |
+| drawing | \_    AD2 week 1 homework     |        |      | 1:05 |
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+| Tag      | Headline   | Time (h) |
+|----------+------------+----------|
+| drawing  | *Tag time* | *1h 5m*  |
+|----------+------------+----------|
+| study    | *Tag time* | *0h 49m* |
+|----------+------------+----------|
+| painting | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| 3D       | *Tag time* | *0h 0m*  |
+
+#+END:
+
+** <2023-05-15 Mon>
+*** DONE AD2 reference gathering                                      :study:
+:LOGBOOK:
+CLOCK: [2023-05-15 Mon 10:25]--[2023-05-15 Mon 10:51] =>  0:26
+CLOCK: [2023-05-15 Mon 09:53]--[2023-05-15 Mon 10:16] =>  0:23
+:END:
+*** DONE AD2 week 1 homework                                        :drawing:
+:LOGBOOK:
+CLOCK: [2023-05-15 Mon 11:01]--[2023-05-15 Mon 12:06] =>  1:05
+:END:
+

@@ -1445,3 +1445,32 @@
 *** 1,100
 *** 6/5
 *** garage
+
+* Traditional Art School
+** Goals
+   - Oil painting
+   - landscape painting
+** Watts Atelier
+*** Pros
+    - best art (final result)
+*** Cons
+    - no feedback
+** New Masters Academy
+  - $432 a year or $49 per month
+*** Pros
+    - Variety of good teachers
+    - Variety of classes
+*** Cons
+    - no feedback
+** Evolve Artist
+  - $2500 (2350 with discount)
+*** Pros
+    - includes materials
+    - very rigorous step by step
+    - strong fundamentals and structure
+    - great teacher (Kevin)
+    - feedback is included
+    - completely non-toxic
+*** Cons
+    - expensive
+    - boring still lifes
