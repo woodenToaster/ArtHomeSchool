@@ -16,6 +16,9 @@
 ** Baldur's Gate 3
 ** Spider Man: Miles Morales
 * Art Supplies
+** walnut alkyd
+** Centurian DLX oil primed linen panels
+** French easel
 ** Masterson sealed palette with grey glass
 ** Sennelier green thinner
 ** Gamblin solvent-free fluid
@@ -1270,107 +1273,34 @@
 ** The Workshop Academy
    - Intro to Architecture Design (Mark Castanon)
 ** Watts
-   - Quicksketch Fundamentals
-   - Structural figure drawing
-   - Figure Drawing phase II
-   - Figure Drawing phase III
-
-* House
-** DONE Francois
-*** DONE remove all pet items
-*** DONE board the boy
-*** DONE wipe paws off back door glass
-** DONE keep trash empty
-** DONE Office
-*** DONE take down white board
-*** DONE clean base boards
-*** DONE clean off desk
-*** DONE dust monitors and computers
-*** DONE clean cobwebs in ceiling corners
-*** DONE remove Wrightson art
-** DONE clear all surfaces
-** DONE hide everything
-** DONE mow
-** DONE good will
-*** DONE books
-*** DONE clothes
-*** DONE electronics
-** DONE paint
-*** DONE living room ceiling
-*** DONE dining room wall
-*** DONE exterior damaged areas
-*** DONE interior damaged areas
-** DONE deck
-*** DONE pressure wash
-*** DONE repaint
-*** DONE replace caps
-** DONE kitchen
-*** DONE clear countertops
-*** DONE clean sink
-*** DONE clean microwave and stove
-*** DONE clean fridge
-*** DONE sweep
-*** DONE clean cabinets
-*** DONE clean trash cabinet
-*** DONE clear kitchen table
-*** DONE clean walls
-*** DONE clear off washer and dryer
-*** TODO clean inside of fridge
-*** TODO clear broom closet
-*** TODO sweep
-*** TODO mop
-** DONE bath
-*** DONE clean shower
-*** DONE clean tub
-*** DONE clear countertops
-*** DONE clean toilet
-*** DONE mirrors
-*** DONE fix master toilet
-*** DONE sweep
-*** DONE mop
-** DONE Art room
-*** DONE 18x24 container?
-*** DONE photograph early art
-*** DONE remove light
-*** DONE clear out as much as possible
-*** DONE pack everything
-** DONE Exercise room
-*** DONE clean dust
-*** DONE organize
-*** DONE remove mirrors
-** DONE clean moss on roof
-** DONE caulk top of chimney
-** DONE shampoo bedroom carpet
-** DONE remove hornet nests from front door
-** DONE replace front doormat
-** DONE mulch front flower bed
-** DONE remove foam
-** DONE Need attorney to sell house
-*** DONE call Kate Murray (217) 531-1188
-*** DONE forward Kate contract once we have it
-** DONE change air filter
-** DONE crawl space
-*** DONE check for turds
-*** DONE remove trap
-** DONE schedule bulldog pickup
-** DONE Talk to Kate
-** TODO Sweep
-** TODO Clean counters
-** TODO Clean bathroom
-** TODO Clean fridge
-** TODO clean garage
-** TODO Keys and garage door openers
+   - In person classes
+     - Head drawing
+     - Figure drawing
+     - quicksketch
+     - landscape painting
+     - oil fundamentals
+     - still life or portrait
+   - online
+     - Quicksketch Fundamentals
+     - Structural figure drawing
+     - Figure Drawing phase II
+     - Figure Drawing phase III
+     - Landscape painting phase I
+** NMA
+   - Introduction to Landscape painting
+   - Painting interiors in oil
+   - designing your landscape painting
+   - Studio landscape painting from a plein air sketch
 
 * Self
 ** TODO budget
+** TODO Travel
 ** TODO plein air class
 ** TODO oil painting
 ** TODO jiu jitsu
 ** TODO self authoring
 
 * Shopping
-** TODO Hair dryer
-** TODO Sedative for Francois
 ** TODO pull up bar
 ** TODO water filter that gets flouride
 ** TODO egg white separator
@@ -1437,23 +1367,20 @@
 *** No cats
 ** ~~Lorimar Town Homes~~
 *** No cats
-* Lawrence Apartments
-** West End
-*** 1 bed
-*** 892 sq ft
-*** lower level
-*** 1,100
-*** 6/5
-*** garage
 
 * Traditional Art School
 ** Goals
    - Oil painting
    - landscape painting
 ** Watts Atelier
-*** Pros
+*** In person July 10 to Aug 13
+**** cons
+    - expensive (5000 dollars for 5 weeks)
+*** Online
+**** Pros
     - best art (final result)
-*** Cons
+    - wide variety
+**** Cons
     - no feedback
 ** New Masters Academy
   - $432 a year or $49 per month
