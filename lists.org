@@ -16,28 +16,29 @@
 ** Baldur's Gate 3
 ** Spider Man: Miles Morales
 * Art Supplies
-** walnut alkyd
-** Centurian DLX oil primed linen panels
-** French easel
-** Masterson sealed palette with grey glass
-** Sennelier green thinner
-** Gamblin solvent-free fluid
-** sun dried linseed oil
-** walnut oil/alkyd
-** 1" flat gouache brush
-** 8" round gouache brush
-** Evolve Artist
-** Crescent board 110 or 114
-** Gouache paint
-*** permanent yellow
-*** yellow ochre
-*** scarlet lake
-*** alizarin crimson
-*** sky blue
-*** sap green
-*** burnt sienna
-*** burnt umber
-** faber castell collapsable water cup
+** Oil materials
+*** walnut oil/alkyd
+*** Centurian DLX oil primed linen panels (jerry's)
+*** Centurian DLX oil primed canvas pad (jerry's)
+*** French easel
+*** Gamblin solvent-free fluid
+*** sun dried linseed oil
+*** cadmium pigments?
+*** bigger flat bristle brush (8 or 10)?
+** Gouache materials (Mike Hernandez flash course)
+*** 1" flat gouache brush
+*** 8" round gouache brush
+*** Crescent board 110 or 114
+*** Gouache paint
+**** permanent yellow
+**** yellow ochre
+**** scarlet lake
+**** alizarin crimson
+**** sky blue
+**** sap green
+**** burnt sienna
+**** burnt umber
+*** faber castell collapsable water cup
 ** Stillman and Birn Zeta Series sketchbook
 * Art Books
 ** General
@@ -1301,6 +1302,7 @@
 ** TODO self authoring
 
 * Shopping
+** TODO Ivory soap
 ** TODO pull up bar
 ** TODO water filter that gets flouride
 ** TODO egg white separator
