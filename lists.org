@@ -1303,6 +1303,7 @@
 
 * Shopping
 ** TODO Ivory soap
+** TODO gloves for painting
 ** TODO pull up bar
 ** TODO water filter that gets flouride
 ** TODO egg white separator
