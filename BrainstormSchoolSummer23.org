@@ -6,7 +6,7 @@
 
 * Week 1
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W20 :tags t
-#+CAPTION: Clock summary at [2023-05-21 Sun 15:10], for week 2023-W20.
+#+CAPTION: Clock summary at [2023-05-28 Sun 14:57], for week 2023-W20.
 | Tags    | Headline                                | Time   |      |      |
 |---------+-----------------------------------------+--------+------+------|
 |         | *Total time*                            | *9:52* |      |      |
@@ -60,5 +60,35 @@ CLOCK: [2023-05-21 Sun 07:13]--[2023-05-21 Sun 08:37] =>  1:24
 *** DONE BUD week 2                                                   :study:
 :LOGBOOK:
 CLOCK: [2023-05-21 Sun 11:58]--[2023-05-21 Sun 15:10] =>  3:12
+:END:
+
+* Week 2
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W22 :tags t
+#+CAPTION: Clock summary at [2023-05-28 Sun 14:57], for week 2023-W22.
+| Tags | Headline     | Time   |
+|------+--------------+--------|
+|      | *Total time* | *0:00* |
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+| Tag      | Headline   | Time (h) |
+|----------+------------+----------|
+| drawing  | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| study    | *Tag time* | *2h 57m* |
+|----------+------------+----------|
+| painting | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| 3D       | *Tag time* | *1h 22m* |
+
+#+END:
+** <2023-05-28 Sun>
+*** DONE BUD week 2 homework                                             :3D:
+:LOGBOOK:
+CLOCK: [2023-05-28 Sun 07:15]--[2023-05-28 Sun 08:37] =>  1:22
+:END:
+*** DONE BUD week 3                                                   :study:
+:LOGBOOK:
+CLOCK: [2023-05-28 Sun 12:00]--[2023-05-28 Sun 14:57] =>  2:57
 :END:
 
