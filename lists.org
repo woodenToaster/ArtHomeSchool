@@ -1296,22 +1296,34 @@
 * Self
 ** TODO budget
 ** TODO Travel
-** TODO plein air class
-** TODO oil painting
 ** TODO jiu jitsu
 ** TODO self authoring
 
 * Shopping
-** TODO Ivory soap
-** TODO gloves for painting
-** TODO pull up bar
-** TODO water filter that gets flouride
-** TODO egg white separator
-** TODO sofa?
-** TODO modem
-** TODO electronic L shaped sit stand desk
+** Amazon
+*** TODO bidet
+*** TODO gloves for painting
+*** TODO pull up bar
+*** TODO water filter that gets flouride
+*** TODO egg white separator
+*** TODO modem
+*** TODO shower head
+*** TODO sink sprayer
+** Walmart
+*** TODO Ivory soap
+*** TODO cabinet plastic laydown
+*** TODO curtains
+*** TODO curtain rod
+** Furniture
+*** TODO sofa?
+*** TODO electronic L shaped sit stand desk
     - https://www.wayfair.com/furniture/pdp/inbox-zero-kokontis-63-l-shaped-electric-standing-desk-height-adjustable-sit-stand-up-corner-desk-with-dual-motor-w011150782.html?piid=209399858
-** TODO new clothes
+*** TODO Kitchen table and chairs
+*** TODO cat perch
+*** TODO light hanger
+*** TODO adjustable palette table
+*** TODO TV
+** Clothes
 *** TODO socks
 *** TODO underwear
 *** TODO lounge wear
@@ -1320,6 +1332,7 @@
 *** TODO pants
 *** TODO nice shirts
 *** TODO nice shoes
+*** TODO hat
 
 * Lawrence Townhouses
 ** Park West Townhomes
@@ -1370,37 +1383,3 @@
 *** No cats
 ** ~~Lorimar Town Homes~~
 *** No cats
-
-* Traditional Art School
-** Goals
-   - Oil painting
-   - landscape painting
-** Watts Atelier
-*** In person July 10 to Aug 13
-**** cons
-    - expensive (5000 dollars for 5 weeks)
-*** Online
-**** Pros
-    - best art (final result)
-    - wide variety
-**** Cons
-    - no feedback
-** New Masters Academy
-  - $432 a year or $49 per month
-*** Pros
-    - Variety of good teachers
-    - Variety of classes
-*** Cons
-    - no feedback
-** Evolve Artist
-  - $2500 (2350 with discount)
-*** Pros
-    - includes materials
-    - very rigorous step by step
-    - strong fundamentals and structure
-    - great teacher (Kevin)
-    - feedback is included
-    - completely non-toxic
-*** Cons
-    - expensive
-    - boring still lifes
