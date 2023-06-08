@@ -1306,14 +1306,6 @@
 *** TODO pull up bar
 *** TODO water filter that gets flouride
 *** TODO egg white separator
-*** TODO modem
-*** TODO shower head
-*** TODO sink sprayer
-** Walmart
-*** TODO Ivory soap
-*** TODO cabinet plastic laydown
-*** TODO curtains
-*** TODO curtain rod
 ** Furniture
 *** TODO sofa?
 *** TODO electronic L shaped sit stand desk
@@ -1323,6 +1315,7 @@
 *** TODO light hanger
 *** TODO adjustable palette table
 *** TODO TV
+*** TODO TV stand
 ** Clothes
 *** TODO socks
 *** TODO underwear
