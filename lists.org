@@ -1306,14 +1306,13 @@
 *** TODO pull up bar
 *** TODO water filter that gets flouride
 *** TODO egg white separator
+*** TODO adjustable palette table
 ** Furniture
 *** TODO sofa?
 *** TODO electronic L shaped sit stand desk
     - https://www.wayfair.com/furniture/pdp/inbox-zero-kokontis-63-l-shaped-electric-standing-desk-height-adjustable-sit-stand-up-corner-desk-with-dual-motor-w011150782.html?piid=209399858
 *** TODO Kitchen table and chairs
 *** TODO cat perch
-*** TODO light hanger
-*** TODO adjustable palette table
 *** TODO TV
 *** TODO TV stand
 ** Clothes
@@ -1325,7 +1324,6 @@
 *** TODO pants
 *** TODO nice shirts
 *** TODO nice shoes
-*** TODO hat
 
 * Lawrence Townhouses
 ** Park West Townhomes
