@@ -1301,8 +1301,6 @@
 
 * Shopping
 ** Amazon
-*** TODO bidet
-*** TODO metal trash can with tight lid
 *** TODO gloves for painting
 *** TODO pull up bar
 *** TODO water filter that gets flouride
