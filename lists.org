@@ -1301,6 +1301,7 @@
 
 * Shopping
 ** Amazon
+*** TODO cat food lid
 *** TODO gloves for painting
 *** TODO pull up bar
 *** TODO water filter that gets flouride
@@ -1312,7 +1313,6 @@
     - https://www.wayfair.com/furniture/pdp/inbox-zero-kokontis-63-l-shaped-electric-standing-desk-height-adjustable-sit-stand-up-corner-desk-with-dual-motor-w011150782.html?piid=209399858
 *** TODO Kitchen table and chairs
 *** TODO cat perch
-*** TODO TV
 *** TODO TV stand
 ** Clothes
 *** TODO socks
