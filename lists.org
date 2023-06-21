@@ -1294,10 +1294,13 @@
    - Studio landscape painting from a plein air sketch
 
 * Self
+** TODO haircut
+** TODO business
 ** TODO budget
 ** TODO Travel
 ** TODO jiu jitsu
 ** TODO self authoring
+** TODO DMV
 
 * Shopping
 ** Amazon
