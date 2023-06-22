@@ -6,17 +6,20 @@
 
 * Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W25 :tags t
-#+CAPTION: Clock summary at [2023-06-20 Tue 21:39], for week 2023-W25.
-| Tags     | Headline                     | Time   |      |      |
-|----------+------------------------------+--------+------+------|
-|          | *Total time*                 | *9:36* |      |      |
-|----------+------------------------------+--------+------+------|
-|          | Week 3                       | 9:36   |      |      |
-|          | \_  <2023-06-19 Mon>         |        | 4:19 |      |
-| painting | \_    evolve block 1 part 9  |        |      | 4:19 |
-|          | \_  <2023-06-20 Tue>         |        | 5:17 |      |
-| painting | \_    evolve block 1 part 10 |        |      | 5:00 |
-| drawing  | \_    evolve block 1 part 11 |        |      | 0:17 |
+#+CAPTION: Clock summary at [2023-06-21 Wed 20:30], for week 2023-W25.
+| Tags     | Headline                     | Time    |      |      |
+|----------+------------------------------+---------+------+------|
+|          | *Total time*                 | *15:11* |      |      |
+|----------+------------------------------+---------+------+------|
+|          | Week 3                       | 15:11   |      |      |
+|          | \_  <2023-06-19 Mon>         |         | 4:19 |      |
+| painting | \_    evolve block 1 part 9  |         |      | 4:19 |
+|          | \_  <2023-06-20 Tue>         |         | 5:17 |      |
+| painting | \_    evolve block 1 part 10 |         |      | 5:00 |
+| drawing  | \_    evolve block 1 part 11 |         |      | 0:17 |
+|          | \_  <2023-06-21 Wed>         |         | 5:35 |      |
+| study    | \_    evolve block 1 part 11 |         |      | 0:45 |
+| painting | \_    evolve block 1 part 11 |         |      | 4:50 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -24,9 +27,9 @@
 |----------+------------+----------|
 | drawing  | *Tag time* | *0h 17m* |
 |----------+------------+----------|
-| study    | *Tag time* | *0h 0m*  |
+| study    | *Tag time* | *0h 45m* |
 |----------+------------+----------|
-| painting | *Tag time* | *9h 19m* |
+| painting | *Tag time* | *14h 9m* |
 |----------+------------+----------|
 | 3D       | *Tag time* | *0h 0m*  |
 
@@ -52,4 +55,20 @@ CLOCK: [2023-06-20 Tue 10:02]--[2023-06-20 Tue 12:05] =>  2:03
 :LOGBOOK:
 CLOCK: [2023-06-20 Tue 17:41]--[2023-06-20 Tue 17:58] =>  0:17
 :END:
+** <2023-06-21 Wed>
+*** DONE evolve block 1 part 11                                       :study:
+:LOGBOOK:
+CLOCK: [2023-06-21 Wed 11:03]--[2023-06-21 Wed 11:48] =>  0:45
+:END:
+*** DONE evolve block 1 part 11                                    :painting:
+:LOGBOOK:
+CLOCK: [2023-06-21 Wed 19:11]--[2023-06-21 Wed 20:30] =>  1:19
+CLOCK: [2023-06-21 Wed 18:17]--[2023-06-21 Wed 18:59] =>  0:42
+CLOCK: [2023-06-21 Wed 14:48]--[2023-06-21 Wed 15:37] =>  0:49
+CLOCK: [2023-06-21 Wed 12:35]--[2023-06-21 Wed 14:35] =>  2:00
+:END:
+** <2023-06-22 Thu>
+*** TODO evolve block 1 part 12 :study:
+*** TODO evolve block 1 part 12 :drawing:
+*** TODO evolve block 1 part 12 :painting:
 
