@@ -1294,6 +1294,7 @@
    - Studio landscape painting from a plein air sketch
 
 * Self
+** TODO passport
 ** TODO haircut
 ** TODO business
 ** TODO budget
@@ -1301,8 +1302,9 @@
 *** TODO Italy
 *** TODO San Diego
 ** TODO jiu jitsu
+** TODO Italian
+** TODO Cooking
 ** TODO self authoring
-** TODO DMV
 
 * Shopping
 ** Amazon
