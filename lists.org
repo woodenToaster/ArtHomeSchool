@@ -1294,25 +1294,26 @@
    - Studio landscape painting from a plein air sketch
 
 * Self
-** TODO passport
 ** TODO haircut
+** TODO wisdom teeth
+** TODO passport
 ** TODO business
 ** TODO budget
 ** TODO Travel
 *** TODO Italy
 *** TODO San Diego
 ** TODO jiu jitsu
-** TODO Italian
+** TODO Italian language
 ** TODO Cooking
 ** TODO self authoring
 
 * Shopping
 ** Amazon
-*** TODO cat food lid
+*** TODO diamond crystal kosher salt
+*** TODO mortar and pestle
 *** TODO gloves for painting
 *** TODO pull up bar
 *** TODO water filter that gets flouride
-*** TODO egg white separator
 *** TODO adjustable palette table
 ** Furniture
 *** TODO sofa?
