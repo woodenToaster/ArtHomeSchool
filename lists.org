@@ -1296,14 +1296,12 @@
 * Self
 ** TODO haircut
 ** TODO wisdom teeth
-** TODO passport
 ** TODO business
 ** TODO budget
 ** TODO Travel
 *** TODO Italy
 *** TODO San Diego
 ** TODO jiu jitsu
-** TODO Italian language
 ** TODO Cooking
 ** TODO self authoring
 

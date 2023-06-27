@@ -6,7 +6,7 @@
 
 * Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W25 :tags t
-#+CAPTION: Clock summary at [2023-06-25 Sun 21:16], for week 2023-W25.
+#+CAPTION: Clock summary at [2023-06-26 Mon 20:48], for week 2023-W25.
 | Tags     | Headline                     | Time    |      |      |
 |----------+------------------------------+---------+------+------|
 |          | *Total time*                 | *28:58* |      |      |
@@ -126,5 +126,38 @@ CLOCK: [2023-06-24 Sat 20:28]--[2023-06-24 Sat 20:51] =>  0:23
 *** DONE blog                                                         :study:
 :LOGBOOK:
 CLOCK: [2023-06-25 Sun 21:00]--[2023-06-25 Sun 21:16] =>  0:16
+:END:
+* Week 4
+#+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W26 :tags t
+#+CAPTION: Clock summary at [2023-06-26 Mon 20:48], for week 2023-W26.
+| Tags | Headline                     | Time   |      |      |
+|------+------------------------------+--------+------+------|
+|      | *Total time*                 | *4:57* |      |      |
+|------+------------------------------+--------+------+------|
+|      | Week 4                       | 4:57   |      |      |
+|      | \_  <2023-06-26 Mon>         |        | 4:57 |      |
+|      | \_    evolve block 1 part 14 |        |      | 4:57 |
+#+END:
+
+#+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
+| Tag      | Headline   | Time (h) |
+|----------+------------+----------|
+| drawing  | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| study    | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| painting | *Tag time* | *0h 0m*  |
+|----------+------------+----------|
+| 3D       | *Tag time* | *0h 0m*  |
+
+#+END:
+** <2023-06-26 Mon>
+*** DONE evolve block 1 part 14
+:LOGBOOK:
+CLOCK: [2023-06-26 Mon 20:36]--[2023-06-26 Mon 20:48] =>  0:12
+CLOCK: [2023-06-26 Mon 19:46]--[2023-06-26 Mon 20:35] =>  0:49
+CLOCK: [2023-06-26 Mon 17:30]--[2023-06-26 Mon 19:34] =>  2:04
+CLOCK: [2023-06-26 Mon 16:20]--[2023-06-26 Mon 17:15] =>  0:55
+CLOCK: [2023-06-26 Mon 14:19]--[2023-06-26 Mon 15:16] =>  0:57
 :END:
 
