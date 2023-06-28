@@ -1294,7 +1294,6 @@
    - Studio landscape painting from a plein air sketch
 
 * Self
-** TODO haircut
 ** TODO wisdom teeth
 ** TODO business
 ** TODO budget
