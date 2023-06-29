@@ -1329,6 +1329,14 @@
 *** TODO nice shirts
 *** TODO nice shoes
 
+* JCCC counselor
+** TODO financial aid appeal
+** TODO HGMT 281
+*** TODO how many hours?
+*** TODO where?
+** TODO study abroad
+*** TODO pay JCCC tuition or program tuition?
+
 * Italy
 *** TODO italy plug adapter
 *** TODO verizon international plan
