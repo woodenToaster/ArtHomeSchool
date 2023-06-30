@@ -1307,6 +1307,8 @@
 * Shopping
 ** Amazon
 *** TODO diamond crystal kosher salt
+*** TODO maldon sea salt
+*** TODO soap tray
 *** TODO mortar and pestle
 *** TODO gloves for painting
 *** TODO pull up bar
@@ -1336,10 +1338,13 @@
 *** TODO where?
 ** TODO study abroad
 *** TODO pay JCCC tuition or program tuition?
+** TODO will I count as in-state in Spring 2024?
 
 * Italy
 *** TODO italy plug adapter
 *** TODO verizon international plan
+*** TODO art class?
+*** TODO cooking class?
 
 * Lawrence Townhouses
 ** Park West Townhomes
