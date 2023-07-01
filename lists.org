@@ -1295,19 +1295,19 @@
 
 * Self
 ** TODO wisdom teeth
-** TODO business
 ** TODO budget
-** TODO Travel
-*** TODO Italy
-*** TODO San Diego
-** TODO jiu jitsu
-** TODO Cooking
+** TODO Italy trip
 ** TODO self authoring
+
+* What to do with my life
+** Florence Academy of Art
+** Chef Apprenticeship program
+** Restaurant owner
+
 
 * Shopping
 ** Amazon
 *** TODO diamond crystal kosher salt
-*** TODO maldon sea salt
 *** TODO soap tray
 *** TODO mortar and pestle
 *** TODO gloves for painting
@@ -1339,6 +1339,7 @@
 ** TODO study abroad
 *** TODO pay JCCC tuition or program tuition?
 ** TODO will I count as in-state in Spring 2024?
+** TODO reduced hours this semester
 
 * Italy
 *** TODO italy plug adapter

@@ -201,6 +201,10 @@ CLOCK: [2023-06-29 Thu 17:59]--[2023-06-29 Thu 19:33] =>  1:34
 CLOCK: [2023-06-29 Thu 13:23]--[2023-06-29 Thu 15:16] =>  1:53
 :END:
 ** <2023-06-30 Fri>
-*** TODO evolve block 1 part 18 :drawing:
-*** TODO evolve block 1 part 18 :painting:
+*** DONE evolve block 1 part 18                                     :drawing:
+:LOGBOOK:
+CLOCK: [2023-06-30 Fri 18:24]--[2023-06-30 Fri 18:49] =>  0:25
+:END:
+** <2023-07-01 Sat>
+*** TODO evolve block 1 part 18                                    :painting:
 
