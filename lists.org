@@ -1296,13 +1296,13 @@
 * Self
 ** TODO wisdom teeth
 ** TODO budget
-** TODO Italy trip
 ** TODO self authoring
 
 * What to do with my life
 ** Florence Academy of Art
 ** Chef Apprenticeship program
 ** Restaurant owner
+** Watts Atelier
 
 
 * Shopping
@@ -1346,6 +1346,7 @@
 *** TODO verizon international plan
 *** TODO art class?
 *** TODO cooking class?
+
 
 * Lawrence Townhouses
 ** Park West Townhomes
