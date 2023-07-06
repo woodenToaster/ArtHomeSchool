@@ -1303,6 +1303,8 @@
 ** Chef Apprenticeship program
 ** Restaurant owner
 ** Watts Atelier
+** Concept art
+** programming
 
 
 * Shopping
@@ -1332,14 +1334,11 @@
 *** TODO nice shoes
 
 * JCCC counselor
-** TODO financial aid appeal
 ** TODO HGMT 281
 *** TODO how many hours?
 *** TODO where?
 ** TODO study abroad
 *** TODO pay JCCC tuition or program tuition?
-** TODO will I count as in-state in Spring 2024?
-** TODO reduced hours this semester
 
 * Italy
 *** TODO italy plug adapter
