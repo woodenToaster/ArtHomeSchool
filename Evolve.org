@@ -6,7 +6,7 @@
 
 * Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W25 :tags t
-#+CAPTION: Clock summary at [2023-07-08 Sat 21:00], for week 2023-W25.
+#+CAPTION: Clock summary at [2023-07-09 Sun 20:08], for week 2023-W25.
 | Tags     | Headline                     | Time    |      |      |
 |----------+------------------------------+---------+------+------|
 |          | *Total time*                 | *28:58* |      |      |
@@ -129,7 +129,7 @@ CLOCK: [2023-06-25 Sun 21:00]--[2023-06-25 Sun 21:16] =>  0:16
 :END:
 * Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W26 :tags t
-#+CAPTION: Clock summary at [2023-07-08 Sat 21:00], for week 2023-W26.
+#+CAPTION: Clock summary at [2023-07-09 Sun 20:08], for week 2023-W26.
 | Tags     | Headline                     | Time    |      |      |
 |----------+------------------------------+---------+------+------|
 |          | *Total time*                 | *21:26* |      |      |
@@ -209,12 +209,12 @@ CLOCK: [2023-06-30 Fri 18:24]--[2023-06-30 Fri 18:49] =>  0:25
 :END:
 * Week 5
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W27 :tags t
-#+CAPTION: Clock summary at [2023-07-08 Sat 21:00], for week 2023-W27.
+#+CAPTION: Clock summary at [2023-07-09 Sun 20:08], for week 2023-W27.
 | Tags     | Headline                     | Time    |      |      |
 |----------+------------------------------+---------+------+------|
-|          | *Total time*                 | *16:44* |      |      |
+|          | *Total time*                 | *19:29* |      |      |
 |----------+------------------------------+---------+------+------|
-|          | Week 5                       | 16:44   |      |      |
+|          | Week 5                       | 19:29   |      |      |
 |          | \_  <2023-07-03 Mon>         |         | 4:34 |      |
 | painting | \_    evolve block 1 part 18 |         |      | 4:10 |
 | drawing  | \_    evolve block 1 part 19 |         |      | 0:13 |
@@ -230,6 +230,9 @@ CLOCK: [2023-06-30 Fri 18:24]--[2023-06-30 Fri 18:49] =>  0:25
 |          | \_  <2023-07-08 Sat>         |         | 2:47 |      |
 | painting | \_    evolve block 1 part 20 |         |      | 2:43 |
 | study    | \_    evolve block 1 part 20 |         |      | 0:04 |
+|          | \_  <2023-07-09 Sun>         |         | 2:45 |      |
+| painting | \_    evolve block 1 part 20 |         |      | 2:31 |
+| study    | \_    blog                   |         |      | 0:14 |
 #+END:
 
 #+BEGIN: clocktable-by-tag :maxlevel 6 :match ("drawing" "study" "painting" "3D")
@@ -237,9 +240,9 @@ CLOCK: [2023-06-30 Fri 18:24]--[2023-06-30 Fri 18:49] =>  0:25
 |----------+------------+-----------|
 | drawing  | *Tag time* | *0h 24m*  |
 |----------+------------+-----------|
-| study    | *Tag time* | *0h 4m*   |
+| study    | *Tag time* | *0h 18m*  |
 |----------+------------+-----------|
-| painting | *Tag time* | *16h 16m* |
+| painting | *Tag time* | *18h 47m* |
 |----------+------------+-----------|
 | 3D       | *Tag time* | *0h 0m*   |
 
@@ -291,5 +294,17 @@ CLOCK: [2023-07-08 Sat 12:26]--[2023-07-08 Sat 12:59] =>  0:33
 *** DONE evolve block 1 part 20                                       :study:
 :LOGBOOK:
 CLOCK: [2023-07-08 Sat 12:59]--[2023-07-08 Sat 13:03] =>  0:04
+:END:
+** <2023-07-09 Sun>
+*** DONE evolve block 1 part 20                                    :painting:
+:LOGBOOK:
+CLOCK: [2023-07-09 Sun 19:43]--[2023-07-09 Sun 19:54] =>  0:11
+CLOCK: [2023-07-09 Sun 18:41]--[2023-07-09 Sun 19:41] =>  1:00
+CLOCK: [2023-07-09 Sun 17:06]--[2023-07-09 Sun 17:46] =>  0:40
+CLOCK: [2023-07-09 Sun 14:20]--[2023-07-09 Sun 15:00] =>  0:40
+:END:
+*** DONE blog                                                         :study:
+:LOGBOOK:
+CLOCK: [2023-07-09 Sun 19:54]--[2023-07-09 Sun 20:08] =>  0:14
 :END:
 

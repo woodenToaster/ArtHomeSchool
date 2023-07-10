@@ -1306,11 +1306,9 @@
 ** Concept art
 ** programming
 
-
 * Shopping
 ** Amazon
 *** TODO diamond crystal kosher salt
-*** TODO soap tray
 *** TODO mortar and pestle
 *** TODO gloves for painting
 *** TODO pull up bar
@@ -1333,18 +1331,13 @@
 *** TODO nice shirts
 *** TODO nice shoes
 
-* JCCC counselor
-** TODO HGMT 281
-*** TODO how many hours?
-*** TODO where?
-** TODO study abroad
-*** TODO pay JCCC tuition or program tuition?
-
 * Italy
 *** TODO Osterie d'italia
     - food guide
 *** TODO italy plug adapter
 *** TODO verizon international plan
+*** TODO clothes
+*** TODO museum tickets
 *** TODO art class?
 *** TODO cooking class?
 
