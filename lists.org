@@ -1299,19 +1299,131 @@
 ** TODO self authoring
 
 * What to do with my life
-** Florence Academy of Art
-** Chef Apprenticeship program
-** Restaurant owner
-** Watts Atelier
-** Concept art
-** programming
+
+** Art
+*** Prep
+**** Florence Academy of Art
+**** Watts Atelier
+**** Brainstorm
+*** Job
+**** Fine artist
+**** concept artist
+*** Cost
+**** Florence: 50K in tutition, + ~60K cost of living for 3 years
+*** Benefit
+**** Live in Italy!
+** Neuroscience
+*** Prep
+**** KU BS in Molecular, Cellular, and Developmental Biology
+**** PhD
+*** Job
+**** Lab researcher
+**** computational neuroscientis
+*** Cost
+**** BS: $30-$50K, depending on residency status, plus 20K per year cost of living
+**** PhD: < $5K for living expenses assuming a stipend of $20K, X 5 years = 25-30K
+*** Benefit
+**** Understand and make discoveries about the human brain and body
+** Programming
+*** Prep
+**** MS in computer graphics at U of Utah
+*** Job
+**** game programming
+**** scientific programming
+**** compiler engineer
+*** Cost
+**** MS: 5K cost of living per year, assuming an 18K stipend
+*** Benefit
+**** Not sure I can stand a normal programming job
+**** Definitely not into CS research
+** Chef
+*** Prep
+**** JCCC Chef Apprenticeship program
+*** Job
+**** Chef
+**** Restaurant owner
+*** Cost
+**** 8-9K
+*** Benefit
+**** I don't really want to work in a restaurant unless I own it
+
+* KU BS in Molecular, Cellular, and Developmental Biology
+
+| KU       | JCCC                   |
+|----------+------------------------|
+| BIOL 105 |                        |
+| BIOL 150 | BIOL 135               |
+| BIOL 152 | BIOL 150 (PR: BIOL 135 |
+| BIOL 154 | BIOL 135               |
+| CHEM 130 | CHEM 124, 125          |
+** 23-24
+*** Fall 23
+| class    | credits |
+|----------+---------|
+| BIOL 105 |       1 |
+| BIOL 150 |       3 |
+| BIOL 152 |       3 |
+| BIOL 154 |       2 |
+| CHEM 130 |       5 |
+| Total    |      14 |
+*** Spring 24
+| class    | credits |
+|----------+---------|
+| BIOL 350 |       4 |
+| BIOL 405 |       3 |
+| CHEM 135 |       5 |
+| BIOL 499 |       2 |
+| Total    |      14 |
+*** Summer 24
+| class    | credits |
+|----------+---------|
+| BIOL 416 |       3 |
+| Total    |       3 |
+** 24-25
+*** Fall 24
+| class    | credits |
+|----------+---------|
+| CHEM 330 |       3 |
+| CHEM 331 |       2 |
+| BIOL 370 |       4 |
+| Total    |       9 |
+*** Spring 25
+| class    | credits |
+|----------+---------|
+| CHEM 335 |       3 |
+| CHEM 336 |       2 |
+| BIOL 412 |       4 |
+| BIOL 417 |       3 |
+| BIOL 600 |       3 |
+| Total    |      14 |
+*** Summer 25
+| class    | credits |
+|----------+---------|
+| BIOL 426 |       3 |
+| Total    |       3 |
+
+** 25-26
+*** Fall 25
+| class    | credits |
+|----------+---------|
+| BIOL 435 |       3 |
+| BIOL 446 |       3 |
+| BIOL 699 |       1 |
+| Research |         |
+| Total    |       6 |
+*** Spring 26
+| class    | credits |
+|----------+---------|
+| BIOL 650 |       3 |
+| BIOL 424 |       3 |
+| BIOL 598 |       3 |
+| Research |         |
+| Total    |       9 |
 
 * Shopping
 ** Amazon
-*** TODO diamond crystal kosher salt
 *** TODO mortar and pestle
 *** TODO gloves for painting
-*** TODO pull up bar
 *** TODO water filter that gets flouride
 *** TODO adjustable palette table
 ** Furniture
@@ -1332,15 +1444,17 @@
 *** TODO nice shoes
 
 * Italy
+*** TODO il passaporto
 *** TODO Osterie d'italia
     - food guide
 *** TODO italy plug adapter
 *** TODO verizon international plan
 *** TODO clothes
+*** TODO journal
 *** TODO museum tickets
 *** TODO art class?
 *** TODO cooking class?
-
+*** TODO Itinerary
 
 * Lawrence Townhouses
 ** Park West Townhomes
