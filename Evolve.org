@@ -6,7 +6,7 @@
 
 * Week 3
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W25 :tags t
-#+CAPTION: Clock summary at [2023-07-31 Mon 20:49], for week 2023-W25.
+#+CAPTION: Clock summary at [2023-08-08 Tue 17:38], for week 2023-W25.
 | Tags     | Headline                     | Time    |      |      |
 |----------+------------------------------+---------+------+------|
 |          | *Total time*                 | *28:58* |      |      |
@@ -129,7 +129,7 @@ CLOCK: [2023-06-25 Sun 21:00]--[2023-06-25 Sun 21:16] =>  0:16
 :END:
 * Week 4
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W26 :tags t
-#+CAPTION: Clock summary at [2023-07-31 Mon 20:49], for week 2023-W26.
+#+CAPTION: Clock summary at [2023-08-08 Tue 17:38], for week 2023-W26.
 | Tags     | Headline                     | Time    |      |      |
 |----------+------------------------------+---------+------+------|
 |          | *Total time*                 | *21:26* |      |      |
@@ -209,7 +209,7 @@ CLOCK: [2023-06-30 Fri 18:24]--[2023-06-30 Fri 18:49] =>  0:25
 :END:
 * Week 5
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W27 :tags t
-#+CAPTION: Clock summary at [2023-07-31 Mon 20:49], for week 2023-W27.
+#+CAPTION: Clock summary at [2023-08-08 Tue 17:38], for week 2023-W27.
 | Tags     | Headline                     | Time    |      |      |
 |----------+------------------------------+---------+------+------|
 |          | *Total time*                 | *19:29* |      |      |
@@ -309,7 +309,7 @@ CLOCK: [2023-07-09 Sun 19:54]--[2023-07-09 Sun 20:08] =>  0:14
 :END:
 * Week 6
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W28 :tags t
-#+CAPTION: Clock summary at [2023-07-31 Mon 20:49], for week 2023-W28.
+#+CAPTION: Clock summary at [2023-08-08 Tue 17:38], for week 2023-W28.
 | Tags    | Headline                    | Time   |      |      |
 |---------+-----------------------------+--------+------+------|
 |         | *Total time*                | *7:45* |      |      |
@@ -391,7 +391,7 @@ CLOCK: [2023-07-16 Sun 21:04]--[2023-07-16 Sun 21:14] =>  0:10
 :END:
 * Week 7
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W29 :tags t
-#+CAPTION: Clock summary at [2023-07-31 Mon 20:49], for week 2023-W29.
+#+CAPTION: Clock summary at [2023-08-08 Tue 17:38], for week 2023-W29.
 | Tags    | Headline                     | Time   |      |      |
 |---------+------------------------------+--------+------+------|
 |         | *Total time*                 | *5:51* |      |      |
@@ -447,7 +447,7 @@ CLOCK: [2023-07-20 Thu 11:39]--[2023-07-20 Thu 12:41] =>  1:02
 :END:
 * Week 8
 #+BEGIN: clocktable :scope subtree :maxlevel 6 :block 2023-W31 :tags t
-#+CAPTION: Clock summary at [2023-07-31 Mon 20:49], for week 2023-W31.
+#+CAPTION: Clock summary at [2023-08-08 Tue 17:38], for week 2023-W31.
 | Tags     | Headline                     | Time   |      |      |
 |----------+------------------------------+--------+------+------|
 |          | *Total time*                 | *6:17* |      |      |

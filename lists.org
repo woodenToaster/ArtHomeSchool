@@ -1267,31 +1267,6 @@
    - Vikings
 ** Movies
    - Lord of the Rings
-* Summer-Fall Semester break
-** CGMA
-   - Environment Design
-   - Fundamentals of Architecture
-** The Workshop Academy
-   - Intro to Architecture Design (Mark Castanon)
-** Watts
-   - In person classes
-     - Head drawing
-     - Figure drawing
-     - quicksketch
-     - landscape painting
-     - oil fundamentals
-     - still life or portrait
-   - online
-     - Quicksketch Fundamentals
-     - Structural figure drawing
-     - Figure Drawing phase II
-     - Figure Drawing phase III
-     - Landscape painting phase I
-** NMA
-   - Introduction to Landscape painting
-   - Painting interiors in oil
-   - designing your landscape painting
-   - Studio landscape painting from a plein air sketch
 
 * Self
 ** TODO wisdom teeth
@@ -1299,7 +1274,6 @@
 ** TODO self authoring
 
 * What to do with my life
-
 ** Art
 *** Prep
 **** Florence Academy of Art
@@ -1347,78 +1321,6 @@
 *** Benefit
 **** I don't really want to work in a restaurant unless I own it
 
-* KU BS in Molecular, Cellular, and Developmental Biology
-
-| KU       | JCCC                   |
-|----------+------------------------|
-| BIOL 105 |                        |
-| BIOL 150 | BIOL 135               |
-| BIOL 152 | BIOL 150 (PR: BIOL 135 |
-| BIOL 154 | BIOL 135               |
-| CHEM 130 | CHEM 124, 125          |
-** 23-24
-*** Fall 23
-| class    | credits |
-|----------+---------|
-| BIOL 105 |       1 |
-| BIOL 150 |       3 |
-| BIOL 152 |       3 |
-| BIOL 154 |       2 |
-| CHEM 130 |       5 |
-| Total    |      14 |
-*** Spring 24
-| class    | credits |
-|----------+---------|
-| BIOL 350 |       4 |
-| BIOL 405 |       3 |
-| CHEM 135 |       5 |
-| BIOL 499 |       2 |
-| Total    |      14 |
-*** Summer 24
-| class    | credits |
-|----------+---------|
-| BIOL 416 |       3 |
-| Total    |       3 |
-** 24-25
-*** Fall 24
-| class    | credits |
-|----------+---------|
-| CHEM 330 |       3 |
-| CHEM 331 |       2 |
-| BIOL 370 |       4 |
-| Total    |       9 |
-*** Spring 25
-| class    | credits |
-|----------+---------|
-| CHEM 335 |       3 |
-| CHEM 336 |       2 |
-| BIOL 412 |       4 |
-| BIOL 417 |       3 |
-| BIOL 600 |       3 |
-| Total    |      14 |
-*** Summer 25
-| class    | credits |
-|----------+---------|
-| BIOL 426 |       3 |
-| Total    |       3 |
-
-** 25-26
-*** Fall 25
-| class    | credits |
-|----------+---------|
-| BIOL 435 |       3 |
-| BIOL 446 |       3 |
-| BIOL 699 |       1 |
-| Research |         |
-| Total    |       6 |
-*** Spring 26
-| class    | credits |
-|----------+---------|
-| BIOL 650 |       3 |
-| BIOL 424 |       3 |
-| BIOL 598 |       3 |
-| Research |         |
-| Total    |       9 |
 
 * Shopping
 ** Amazon
@@ -1439,6 +1341,7 @@
 *** TODO lounge wear
 *** TODO workout shorts
 *** TODO workout shirts
+*** TODO workout shoes
 *** TODO pants
 *** TODO nice shirts
 *** TODO nice shoes
