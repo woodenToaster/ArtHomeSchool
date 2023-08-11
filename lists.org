@@ -161,8 +161,6 @@
 ** Design
 *** TODO Design of Everyday Things - Donald Norman
 * Inspirational Books
-*** 12 Rules for Life - Jordan Peterson
-*** Mastery: Greene
 *** The Practice: Shipping Creative Work - Seth Goden
 *** Psychology of Performance - Eddie O'Connor (Hoopla)
 *** Digital Minimalism - Cal Newport
@@ -178,11 +176,13 @@
 *** Fishing for Elephants
 *** The Surrender Experiment - Alan Singer
 *** As a Man Thinketh - James Allen
-*** The War of Art
 *** Feeling Good (depression) (hoopla)
 *** Drawing from the Right Side of the Brain - Betty Edwards
 *** Mindworks - Gary van Warmerdam
 *** Chasing Love - Ray Bradberry
+*** DONE 12 Rules for Life - Jordan Peterson
+*** DONE Mastery: Greene
+*** DONE The War of Art
 *** DONE The Artist's Way
 *** DONE Practicing: A Musician's Return to Music - Glenn Kurtz (library)
 *** DONE Deep Work - Cal Newport
@@ -1267,144 +1267,3 @@
    - Vikings
 ** Movies
    - Lord of the Rings
-
-* Self
-** TODO wisdom teeth
-** TODO budget
-** TODO self authoring
-
-* What to do with my life
-** Art
-*** Prep
-**** Florence Academy of Art
-**** Watts Atelier
-**** Brainstorm
-*** Job
-**** Fine artist
-**** concept artist
-*** Cost
-**** Florence: 50K in tutition, + ~60K cost of living for 3 years
-*** Benefit
-**** Live in Italy!
-** Neuroscience
-*** Prep
-**** KU BS in Molecular, Cellular, and Developmental Biology
-**** PhD
-*** Job
-**** Lab researcher
-**** computational neuroscientis
-*** Cost
-**** BS: $30-$50K, depending on residency status, plus 20K per year cost of living
-**** PhD: < $5K for living expenses assuming a stipend of $20K, X 5 years = 25-30K
-*** Benefit
-**** Understand and make discoveries about the human brain and body
-** Programming
-*** Prep
-**** MS in computer graphics at U of Utah
-*** Job
-**** game programming
-**** scientific programming
-**** compiler engineer
-*** Cost
-**** MS: 5K cost of living per year, assuming an 18K stipend
-*** Benefit
-**** Not sure I can stand a normal programming job
-**** Definitely not into CS research
-** Chef
-*** Prep
-**** JCCC Chef Apprenticeship program
-*** Job
-**** Chef
-**** Restaurant owner
-*** Cost
-**** 8-9K
-*** Benefit
-**** I don't really want to work in a restaurant unless I own it
-
-
-* Shopping
-** Amazon
-*** TODO mortar and pestle
-*** TODO gloves for painting
-*** TODO water filter that gets flouride
-*** TODO adjustable palette table
-** Furniture
-*** TODO sofa?
-*** TODO electronic L shaped sit stand desk
-    - https://www.wayfair.com/furniture/pdp/inbox-zero-kokontis-63-l-shaped-electric-standing-desk-height-adjustable-sit-stand-up-corner-desk-with-dual-motor-w011150782.html?piid=209399858
-*** TODO Kitchen table and chairs
-*** TODO cat perch
-*** TODO TV stand
-** Clothes
-*** TODO socks
-*** TODO underwear
-*** TODO lounge wear
-*** TODO workout shorts
-*** TODO workout shirts
-*** TODO workout shoes
-*** TODO pants
-*** TODO nice shirts
-*** TODO nice shoes
-
-* Italy
-*** TODO il passaporto
-*** TODO Osterie d'italia
-    - food guide
-*** TODO italy plug adapter
-*** TODO verizon international plan
-*** TODO clothes
-*** TODO journal
-*** TODO museum tickets
-*** TODO art class?
-*** TODO cooking class?
-*** TODO Itinerary
-
-* Lawrence Townhouses
-** Park West Townhomes
-*** The Ranch
-**** 1275
-**** Waitlist
-**** 2 car garage
-** Stone Hawk Townhomes
-*** 985 for 1 bedroom
-**** looks like weights will fit in bedroom
-**** patio with field
-**** new construction
-**** garage
-**** washer dryer
-**** emailed
-**** pfpmlawrence.com
-** Hutton Farms
-*** One Bed Cottage
-**** June 12
-**** 1255
-**** 874 Sq ft
-**** garage
-*** One Bed Duplex
-**** Aug. 5
-**** 818 sq ft
-**** garage
-*** One Bed Townhome
-**** 1225
-**** 1073 sq ft
-**** garage
-** Saddlebrook Townhomes
-** Four Wheel Drive Townhomes
-** Antioch Townhomes
-** ~~Congressional Townhomes~~
-*** No garage
-** ~~Sagebrook~~
-*** Only 3 and 4 bedrooms
-** ~~Stonecrest Townhomes~~
-*** No garages
-*** Earliest available is Sept.
-** ~~Bauer Farms~~
-*** too close to 6th
-*** too expensive
-** ~~Union Flats~~
-*** Mostly apartments
-*** no garage
-** ~~Courtside Townhomes~~
-*** No cats
-** ~~Lorimar Town Homes~~
-*** No cats
