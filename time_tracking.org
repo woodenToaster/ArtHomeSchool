@@ -1,10 +1,10 @@
 #+TITLE: Time Tracking
 
 #+BEGIN: clocktable :scope cjh/get-all-org-files-in-current-dir :maxlevel 8 :tags t :block untilnow
-#+CAPTION: Clock summary at [2023-06-07 Wed 09:32], for now.
+#+CAPTION: Clock summary at [2024-01-16 Tue 07:16], for now.
 | File                                      | Tags     | Headline                                         |      Time |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-|                                           | ALL      | *Total time*                                     | *4585:59* |       |       |       |
+|                                           | ALL      | *Total time*                                     | *4737:59* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | AnatomyIII_Legs.org                       |          | *File time*                                      |  *136:15* |       |       |       |
 |                                           |          | Log                                              |    136:15 |       |       |       |
@@ -1417,7 +1417,7 @@
 |                                           | study    | \_    FND I week 9                               |           |       |  3:09 |       |
 |                                           | study    | \_    Blog                                       |           |       |  0:39 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| BrainstormSchoolSummer23.org              |          | *File time*                                      |   *15:09* |       |       |       |
+| BrainstormSchoolSummer23.org              |          | *File time*                                      |   *77:23* |       |       |       |
 |                                           |          | Week 1                                           |      9:52 |       |       |       |
 |                                           |          | \_  <2023-05-15 Mon>                             |           |  1:54 |       |       |
 |                                           | study    | \_    AD2 reference gathering                    |           |       |  0:49 |       |
@@ -1434,6 +1434,54 @@
 |                                           |          | Week 3                                           |      0:58 |       |       |       |
 |                                           |          | \_  <2023-05-30 Tue>                             |           |  0:58 |       |       |
 |                                           | study    | \_    AD2 week 3                                 |           |       |  0:58 |       |
+|                                           |          | Week 4                                           |     21:16 |       |       |       |
+|                                           |          | \_  <2023-06-05 Mon>                             |           |  1:40 |       |       |
+|                                           | study    | \_    evolve block 1 part 1                      |           |       |  1:40 |       |
+|                                           |          | \_  <2023-06-07 Wed>                             |           |  1:17 |       |       |
+|                                           | study    | \_    AD2 week 4                                 |           |       |  1:13 |       |
+|                                           | study    | \_    AD2 week 4 project planning                |           |       |  0:04 |       |
+|                                           |          | \_  <2023-06-08 Thu>                             |           |  3:29 |       |       |
+|                                           | study    | \_    AD2 week 4 project planning                |           |       |  3:29 |       |
+|                                           |          | \_  <2023-06-09 Fri>                             |           |  3:43 |       |       |
+|                                           | study    | \_    AD2 week 4 project planning                |           |       |  2:10 |       |
+|                                           | drawing  | \_    AD2 week 4 homework                        |           |       |  0:53 |       |
+|                                           | drawing  | \_    evolve block 1 part 1                      |           |       |  0:40 |       |
+|                                           |          | \_  <2023-06-10 Sat>                             |           |  6:51 |       |       |
+|                                           | drawing  | \_    AD2 week 4 homework                        |           |       |  2:14 |       |
+|                                           | study    | \_    AD2 week 5                                 |           |       |  4:37 |       |
+|                                           |          | \_  <2023-06-11 Sun>                             |           |  4:16 |       |       |
+|                                           | painting | \_    evolve block 1 part 1                      |           |       |  3:48 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:28 |       |
+|                                           |          | Week 5                                           |     40:58 |       |       |       |
+|                                           |          | \_  <2023-06-12 Mon>                             |           |  6:51 |       |       |
+|                                           | drawing  | \_    evolve block 1 part 2                      |           |       |  0:31 |       |
+|                                           | study    | \_    evolve block 1 part 2                      |           |       |  1:31 |       |
+|                                           | painting | \_    evolve block 1 part 2                      |           |       |  4:49 |       |
+|                                           |          | \_  <2023-06-13 Tue>                             |           |  5:02 |       |       |
+|                                           | drawing  | \_    evolve block 1 part 3                      |           |       |  0:17 |       |
+|                                           | study    | \_    evolve block 1 part 3                      |           |       |  0:22 |       |
+|                                           | painting | \_    evolve block 1 part 3                      |           |       |  4:23 |       |
+|                                           |          | \_  <2023-06-14 Wed>                             |           |  5:53 |       |       |
+|                                           | drawing  | \_    evolve block 1 part 4                      |           |       |  0:19 |       |
+|                                           | study    | \_    evolve block 1 part 4                      |           |       |  2:04 |       |
+|                                           | painting | \_    evolve block 1 part 4                      |           |       |  3:15 |       |
+|                                           | drawing  | \_    evolve block 1 part 5                      |           |       |  0:15 |       |
+|                                           |          | \_  <2023-06-15 Thu>                             |           |  6:23 |       |       |
+|                                           | study    | \_    evolve block 1 part 5                      |           |       |  1:40 |       |
+|                                           | painting | \_    evolve block 1 part 5                      |           |       |  3:44 |       |
+|                                           | painting | \_    evolve gradient practice                   |           |       |  0:22 |       |
+|                                           | drawing  | \_    evolve block 1 part 6 and 7                |           |       |  0:37 |       |
+|                                           |          | \_  <2023-06-16 Fri>                             |           |  4:53 |       |       |
+|                                           | painting | \_    evolve block 1 part 6                      |           |       |  4:53 |       |
+|                                           |          | \_  <2023-06-17 Sat>                             |           |  6:39 |       |       |
+|                                           | painting | \_    evolve block 1 part 6                      |           |       |  0:47 |       |
+|                                           | painting | \_    evolve block 1 part 7                      |           |       |  4:56 |       |
+|                                           | drawing  | \_    evolve block 1 part 8                      |           |       |  0:25 |       |
+|                                           | drawing  | \_    evolve block 1 part 9                      |           |       |  0:13 |       |
+|                                           | drawing  | \_    evolve block 1 part 10                     |           |       |  0:18 |       |
+|                                           |          | \_  <2023-06-18 Sun>                             |           |  5:17 |       |       |
+|                                           | painting | \_    evolve block 1 part 8                      |           |       |  4:59 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:18 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | CGMA_FundamentalsOfArchitectureDesign.org |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
@@ -1686,6 +1734,93 @@
 |                                           | 3D       | \_      Blender tutorial                         |           |       |       |  1:16 |
 |                                           | painting | \_      Environment painting                     |           |       |       |  3:00 |
 |                                           | study    | \_      Blog                                     |           |       |       |  0:38 |
+|-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
+| Evolve.org                                |          | *File time*                                      |   *89:46* |       |       |       |
+|                                           |          | Week 3                                           |     28:58 |       |       |       |
+|                                           |          | \_  <2023-06-19 Mon>                             |           |  4:19 |       |       |
+|                                           | painting | \_    evolve block 1 part 9                      |           |       |  4:19 |       |
+|                                           |          | \_  <2023-06-20 Tue>                             |           |  5:17 |       |       |
+|                                           | painting | \_    evolve block 1 part 10                     |           |       |  5:00 |       |
+|                                           | drawing  | \_    evolve block 1 part 11                     |           |       |  0:17 |       |
+|                                           |          | \_  <2023-06-21 Wed>                             |           |  5:35 |       |       |
+|                                           | study    | \_    evolve block 1 part 11                     |           |       |  0:45 |       |
+|                                           | painting | \_    evolve block 1 part 11                     |           |       |  4:50 |       |
+|                                           |          | \_  <2023-06-22 Thu>                             |           |  3:10 |       |       |
+|                                           | study    | \_    evolve block 1 part 12                     |           |       |  0:16 |       |
+|                                           | drawing  | \_    evolve block 1 part 12                     |           |       |  0:25 |       |
+|                                           | painting | \_    evolve block 1 part 12                     |           |       |  2:29 |       |
+|                                           |          | \_  <2023-06-23 Fri>                             |           |  3:41 |       |       |
+|                                           | painting | \_    evolve block 1 part 12                     |           |       |  3:14 |       |
+|                                           | drawing  | \_    evolve block 1 part 13                     |           |       |  0:27 |       |
+|                                           |          | \_  <2023-06-24 Sat>                             |           |  6:40 |       |       |
+|                                           | study    | \_    evolve block 1 part 13                     |           |       |  0:56 |       |
+|                                           | painting | \_    evolve block 1 part 13                     |           |       |  5:21 |       |
+|                                           | drawing  | \_    evolve block 1 part 14                     |           |       |  0:23 |       |
+|                                           |          | \_  <2023-06-25 Sun>                             |           |  0:16 |       |       |
+|                                           | study    | \_    blog                                       |           |       |  0:16 |       |
+|                                           |          | Week 4                                           |     21:26 |       |       |       |
+|                                           |          | \_  <2023-06-26 Mon>                             |           |  4:57 |       |       |
+|                                           | painting | \_    evolve block 1 part 14                     |           |       |  4:57 |       |
+|                                           |          | \_  <2023-06-27 Tue>                             |           |  5:30 |       |       |
+|                                           | drawing  | \_    evolve block 1 part 15                     |           |       |  0:22 |       |
+|                                           | painting | \_    evolve block 1 part 15                     |           |       |  5:08 |       |
+|                                           |          | \_  <2023-06-28 Wed>                             |           |  5:51 |       |       |
+|                                           | drawing  | \_    evolve block 1 part 16                     |           |       |  0:27 |       |
+|                                           | painting | \_    evolve block 1 part 16                     |           |       |  5:24 |       |
+|                                           |          | \_  <2023-06-29 Thu>                             |           |  4:43 |       |       |
+|                                           | drawing  | \_    evolve block 1 part 17                     |           |       |  0:17 |       |
+|                                           | painting | \_    evolve block 1 part 17                     |           |       |  4:26 |       |
+|                                           |          | \_  <2023-06-30 Fri>                             |           |  0:25 |       |       |
+|                                           | drawing  | \_    evolve block 1 part 18                     |           |       |  0:25 |       |
+|                                           |          | Week 5                                           |     19:29 |       |       |       |
+|                                           |          | \_  <2023-07-03 Mon>                             |           |  4:34 |       |       |
+|                                           | painting | \_    evolve block 1 part 18                     |           |       |  4:10 |       |
+|                                           | drawing  | \_    evolve block 1 part 19                     |           |       |  0:13 |       |
+|                                           | drawing  | \_    evolve block 1 part 20                     |           |       |  0:11 |       |
+|                                           |          | \_  <2023-07-04 Tue>                             |           |  2:17 |       |       |
+|                                           | painting | \_    evolve block 1 part 18                     |           |       |  2:17 |       |
+|                                           |          | \_  <2023-07-05 Wed>                             |           |  3:17 |       |       |
+|                                           | painting | \_    evolve block 1 part 19                     |           |       |  3:17 |       |
+|                                           |          | \_  <2023-07-06 Thu>                             |           |  1:02 |       |       |
+|                                           | painting | \_    evolve block 1 part 19                     |           |       |  1:02 |       |
+|                                           |          | \_  <2023-07-07 Fri>                             |           |  2:47 |       |       |
+|                                           | painting | \_    evolve block 1 part 19                     |           |       |  2:47 |       |
+|                                           |          | \_  <2023-07-08 Sat>                             |           |  2:47 |       |       |
+|                                           | painting | \_    evolve block 1 part 20                     |           |       |  2:43 |       |
+|                                           | study    | \_    evolve block 1 part 20                     |           |       |  0:04 |       |
+|                                           |          | \_  <2023-07-09 Sun>                             |           |  2:45 |       |       |
+|                                           | painting | \_    evolve block 1 part 20                     |           |       |  2:31 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:14 |       |
+|                                           |          | Week 6                                           |      7:45 |       |       |       |
+|                                           |          | \_  <2023-07-10 Mon>                             |           |  1:11 |       |       |
+|                                           | study    | \_    evolve block 2 part 1                      |           |       |  1:11 |       |
+|                                           |          | \_  <2023-07-11 Tue>                             |           |  2:31 |       |       |
+|                                           | drawing  | \_    evolve block 2 part 2                      |           |       |  1:17 |       |
+|                                           | study    | \_    evolve block 2 part 3                      |           |       |  1:14 |       |
+|                                           |          | \_  <2023-07-12 Wed>                             |           |  0:29 |       |       |
+|                                           | drawing  | \_    evolve block 2 part 3                      |           |       |  0:29 |       |
+|                                           |          | \_  <2023-07-13 Thu>                             |           |  1:19 |       |       |
+|                                           | study    | \_    evolve block 2 part 4                      |           |       |  0:45 |       |
+|                                           | drawing  | \_    evolve block 2 part 4                      |           |       |  0:34 |       |
+|                                           |          | \_  <2023-07-14 Fri>                             |           |  1:18 |       |       |
+|                                           | drawing  | \_    evolve block 2 part 5                      |           |       |  1:18 |       |
+|                                           |          | \_  <2023-07-16 Sun>                             |           |  0:57 |       |       |
+|                                           | drawing  | \_    evolve block 2 part 6                      |           |       |  0:47 |       |
+|                                           | study    | \_    blog                                       |           |       |  0:10 |       |
+|                                           |          | Week 7                                           |      5:51 |       |       |       |
+|                                           |          | \_  <2023-07-17 Mon>                             |           |  1:05 |       |       |
+|                                           | drawing  | \_    evolve block 2 part 7                      |           |       |  1:05 |       |
+|                                           |          | \_  <2023-07-18 Tue>                             |           |  2:05 |       |       |
+|                                           | drawing  | \_    evolve block 2 part 8                      |           |       |  1:05 |       |
+|                                           | drawing  | \_    evolve block 2 part 9                      |           |       |  1:00 |       |
+|                                           |          | \_  <2023-07-19 Wed>                             |           |  1:03 |       |       |
+|                                           | drawing  | \_    evolve block 2 part 10                     |           |       |  1:03 |       |
+|                                           |          | \_  <2023-07-20 Thu>                             |           |  1:38 |       |       |
+|                                           | study    | \_    evolve block 2 part 11                     |           |       |  1:38 |       |
+|                                           |          | Week 8                                           |      6:17 |       |       |       |
+|                                           |          | \_  <2023-07-31 Mon>                             |           |  6:17 |       |       |
+|                                           | drawing  | \_    evolve block 2 part 11                     |           |       |  1:06 |       |
+|                                           | painting | \_    evolve block 2 part 11                     |           |       |  5:11 |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | FZDDesignCinema.org                       |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
@@ -3286,7 +3421,5 @@
 | lists.org                                 |          | *File time*                                      |    *0:00* |       |       |       |
 |-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
 | time_tracking.org                         |          | *File time*                                      |    *0:00* |       |       |       |
-|-------------------------------------------+----------+--------------------------------------------------+-----------+-------+-------+-------|
-| writing.org                               |          | *File time*                                      |    *0:00* |       |       |       |
 #+END:
 
