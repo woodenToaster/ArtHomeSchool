@@ -1,0 +1,65 @@
+#+TITLE: Watts Atelier
+#+AUTHOR: Chris Hogan
+#+STARTUP: nologdone
+
+
+* Illustrator and Concept Artist Learning Path
+** TODO Year 1
+*** DONE Drawing Fundamentals Phase 1
+*** DONE Drawing Fundamentals Phase 2
+*** DONE Head Drawing Fundamentals
+*** DONE Figure Drawing Fundamentals
+*** TODO Quicksketch Fundamentals
+*** TODO Structural Figure Drawing
+*** DONE Head Drawing Phase 1
+*** DONE Figure Drawing Phase 1
+*** DONE Head Drawing Phase 2
+*** TODO Figure Drawing Phase 2
+*** DONE Head Drawing Phase 3
+*** TODO Figure Drawing Phase 3
+** TODO Year 2
+*** TODO Gouache Phase 1
+*** TODO Gouache Phase 2
+*** TODO Head Drawing Phase 4
+*** TODO Figure Drawing Phase 4
+*** TODO Oil Painting Fundamentals
+*** TODO Portrait Painting Phase 1
+*** TODO Gouache Phase 3
+*** TODO Figure Painting Phase 1
+*** TODO Portrait Painting Phase 2
+*** TODO Figure Painting Phase 2
+*** TODO Landscape Phase 1
+*** TODO Still Life Phase 1
+** TODO Year 3
+*** TODO Landscape Phase 2
+*** TODO Portrait Painting Phase 3
+*** TODO Still Life Phase 2
+*** TODO Head Drawing Phase 5
+*** TODO Figure Painting Phase 3
+*** TODO Figure Drawing Phase 5
+*** TODO Landscape Phase 3
+*** TODO Still Life Phase 3
+*** TODO Portrait Painting Phase 4
+*** DONE Drapery
+*** DONE Perspective Essentials
+*** TODO Anatomy Intensives: Arms & Legs
+*** TODO Anatomy Intensives: Torso
+*** TODO Figure Painting Phase 4
+** TODO Year 4
+*** TODO Inking Phase 1
+*** TODO Observational Color
+*** TODO Features and Facial Expressions
+*** TODO Bridgman Anatomy Phase 1: Torso
+*** TODO Bridgman Anatomy Phase 1: Arms and Legs
+*** TODO Fundamentals of Character Design
+*** TODO Inking Phase 2
+*** TODO Sketchbooking
+*** DONE Composition and Staging
+*** TODO Creating Environments
+*** TODO Painting Mood and Atmosphere in Gouache
+*** TODO Dragon Design
+*** TODO Essentials of Tech
+*** TODO Studio Landscapes: Structures
+*** TODO Illustration: Painted Comic Cover
+*** TODO Illustration: Illustrating a Fantasy Scene
+*** TODO Inking Phase 3

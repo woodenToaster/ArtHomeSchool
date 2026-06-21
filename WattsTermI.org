@@ -1,0 +1,13 @@
+#+TITLE: Watts Term I
+#+AUTHOR: Chris Hogan
+#+DATE: <2026-06-22 Mon>
+#+STARTUP: nologdone
+
+* Log
+** Week 1
+*** <2026-06-22 Mon>
+**** TODO Figure Phase II
+**** TODO Quicksketch Fundamentals
+** Week 2
+** Week 3
+** Week 4
