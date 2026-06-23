@@ -3,11 +3,25 @@
 #+DATE: <2026-06-22 Mon>
 #+STARTUP: nologdone
 
+* Classes
+** Figure Phase II
+   - 20 min figure layins
+   - master studies figure
+** Quicksketch Fundamentals
+   - figure quicksketch
+** Head 20 Minute Layins - Erik
+   - 20 min head layins
+** Anatomy Intensives: Torso
+   - anatomy figure
+
 * Log
 ** Week 1
 *** <2026-06-22 Mon>
 **** TODO Figure Phase II
-**** TODO Quicksketch Fundamentals
+     :LOGBOOK:
+     CLOCK: [2026-06-22 Mon 21:05]--[2026-06-22 Mon 22:32] =>  1:27
+     CLOCK: [2026-06-22 Mon 08:36]--[2026-06-22 Mon 09:11] =>  0:35
+     :END:
 ** Week 2
 ** Week 3
 ** Week 4

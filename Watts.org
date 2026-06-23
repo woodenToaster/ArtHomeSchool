@@ -2,6 +2,25 @@
 #+AUTHOR: Chris Hogan
 #+STARTUP: nologdone
 
+* Areas
+  Try to cycle through these and include a variety during each term
+** Head
+*** quicksketch
+*** 20 minute layins
+*** full finish
+*** anatomy
+*** invented
+** Figure
+*** quicksketch
+*** 20 minute layins
+*** full finish
+*** anatomy
+*** invented
+*** costumed
+** Landscape
+*** plein air
+*** environment design
+** Master Studies
 
 * Illustrator and Concept Artist Learning Path
 ** TODO Year 1
@@ -9,7 +28,7 @@
 *** DONE Drawing Fundamentals Phase 2
 *** DONE Head Drawing Fundamentals
 *** DONE Figure Drawing Fundamentals
-*** TODO Quicksketch Fundamentals
+*** DONE Quicksketch Fundamentals
 *** TODO Structural Figure Drawing
 *** DONE Head Drawing Phase 1
 *** DONE Figure Drawing Phase 1
