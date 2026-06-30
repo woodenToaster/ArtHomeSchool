@@ -33,8 +33,9 @@
 *** DONE Head Drawing Phase 1
 *** DONE Figure Drawing Phase 1
 *** DONE Head Drawing Phase 2
-*** TODO Figure Drawing Phase 2
+*** DONE Figure Drawing Phase 2
 *** DONE Head Drawing Phase 3
+*** TODO 20 Minute Head Layins - Erik
 *** TODO Figure Drawing Phase 3
 ** TODO Year 2
 *** TODO Gouache Phase 1

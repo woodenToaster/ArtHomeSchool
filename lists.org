@@ -11,21 +11,15 @@
 *** Gamblin solvent-free fluid
 *** sun dried linseed oil
 *** bigger flat bristle brush (8 or 10)?
-** Gouache materials (Mike Hernandez flash course)
-*** 1" flat gouache brush
-*** 8" round gouache brush
-*** Crescent board 110 or 114
-*** Gouache paint
-**** permanent yellow
-**** yellow ochre
-**** scarlet lake
-**** alizarin crimson
-**** sky blue
-**** sap green
-**** burnt sienna
-**** burnt umber
-*** faber castell collapsable water cup
-** Stillman and Birn Zeta Series sketchbook
+*** Workable fixative
+** Gouache materials
+*** Robert Simmons rounds
+    - 0
+    - 3
+    - 8
+*** Robert Simmons flats
+    - 2
+** Stillman and Birn Epsilon Wirebound 9x12
 * Art Books
 ** General
 *** Fundamentals of drawing - Mogilevtsev
@@ -304,6 +298,23 @@
 *** Spectrum books (library)
 *** Greg Rutkowski
 *** Betsinski
+** David Finch Essential Videos
+*** TODO How to get started
+**** TODO Copy other gestures
+***** Ref
+      - Bart Sears books
+      - John Buscema sketchbooks
+      - Finch
+      - Frazetta Sketchbook
+**** TODO Eyeball proportions (8.5 - 9.5 heads tall)
+     - head, neck (1/4 head), chest, waist, crotch, mid leg knee bottom, mid lower leg, ankle, foot (1/4)
+     - elbow at waist, hand below crotch
+**** TODO Add anatomy to gestures based on reference
+     - just use football shapes and connect them
+**** TODO Gestures of figures you like
+**** TODO Add anatomy to gestures from previous step
+*** TODO Bridgeman
+*** TODO How to study other artists
 * Second Year (<2021-05-31 Mon> to <2022-05-31 Tue>)
 ** Study strategy
 *** Learn
@@ -366,8 +377,9 @@
     - AD2
     - BUD
 ** Apply for jobs
-* Fourth Year <2026-05-28 Thu> to <2027-05-28 Fri>
+* Fourth Year (Redux) <2026-05-28 Thu> to <2027-05-28 Fri>
 ** Watts Atelier
+** David Finch
 * Potential Project Ideas
 ** Favorite games
     - mega man

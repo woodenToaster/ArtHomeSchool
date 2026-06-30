@@ -6,9 +6,9 @@
 * Log
 ** Week 1
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisweek :tags t
-  #+CAPTION: Clock summary at [2021-09-12 Sun 20:05], for week 2021-W36.
-  | Tags | Headline     | Time   |
-  |------+--------------+--------|
+  #+CAPTION: Clock summary at [2026-06-23 Tue 17:54], for week 2026-W26.
+  | Tags | Headline   | Time |
+  |------+------------+------|
   |      | *Total time* | *0:00* |
   #+END:
  
