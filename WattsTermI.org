@@ -2,21 +2,25 @@
 #+AUTHOR: Chris Hogan
 #+DATE: <2026-06-22 Mon>
 #+STARTUP: nologdone
-
+#+STARTUP: show2levels
 * Classes
-** 20 Head Minute Layins - Erik
+** 20 Minute Head Layins - Erik
    - 20 min head layins
 ** Structural Figure Drawing
    - figure
+** Finch Gestures
+   - gesture
+   - figure
+   - invention
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thismonth
-  #+CAPTION: Clock summary at [2026-06-29 Mon 22:29], for June 2026.
+  #+CAPTION: Clock summary at [2026-06-30 Tue 21:59], for June 2026.
   | Headline                          | Time  |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | *Total time*                        | *13:40* |       |      |      |
+  | *Total time*                        | *15:41* |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | Log                               | 13:40 |       |      |      |
+  | Log                               | 15:41 |       |      |      |
   | \_  Week 1                        |       | 11:39 |      |      |
   | \_    <2026-06-22 Mon>            |       |       | 2:02 |      |
   | \_      Figure Phase II           |       |       |      | 2:02 |
@@ -37,10 +41,14 @@
   | \_      Structural Figure Drawing |       |       |      | 0:57 |
   | \_    <2026-06-28 Sun>            |       |       | 1:10 |      |
   | \_      Structural Figure Drawing |       |       |      | 1:10 |
-  | \_  Week 2                        |       |  2:01 |      |      |
+  | \_  Week 2                        |       |  4:02 |      |      |
   | \_    <2026-06-29 Mon>            |       |       | 2:01 |      |
   | \_      20 Minute Head Layins     |       |       |      | 0:38 |
   | \_      Structural Figure Drawing |       |       |      | 1:23 |
+  | \_    <2026-06-30 Tue>            |       |       | 2:01 |      |
+  | \_      20 Minute Head Layins     |       |       |      | 0:28 |
+  | \_      Finch Gestures            |       |       |      | 0:30 |
+  | \_      Structural Figure Drawing |       |       |      | 1:03 |
   #+END:
 ** Week 1
 *** <2026-06-22 Mon>
@@ -113,6 +121,19 @@
 **** DONE Structural Figure Drawing
      :LOGBOOK:
      CLOCK: [2026-06-29 Mon 21:06]--[2026-06-29 Mon 22:29] =>  1:23
+     :END:
+*** <2026-06-30 Tue>
+**** DONE 20 Minute Head Layins
+     :LOGBOOK:
+     CLOCK: [2026-06-30 Tue 08:01]--[2026-06-30 Tue 08:29] =>  0:28
+     :END:
+**** DONE Finch Gestures
+     :LOGBOOK:
+     CLOCK: [2026-06-30 Tue 20:00]--[2026-06-30 Tue 20:30] =>  0:30
+     :END:
+**** DONE Structural Figure Drawing
+     :LOGBOOK:
+     CLOCK: [2026-06-30 Tue 20:53]--[2026-06-30 Tue 21:56] =>  1:03
      :END:
 ** Week 3
 ** Week 4
