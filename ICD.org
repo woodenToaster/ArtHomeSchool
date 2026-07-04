@@ -45,7 +45,7 @@
    - Workshop
 ** Mood
    - modest
-     
+
 * TODO List
 ** 3D
    - [X] dipper handle
@@ -313,7 +313,6 @@
       - big, medium, small candles
       - copy paste, but do slight mods on each paste
       - flag and shop name on exterior
-        
 ** Homework
    - start 3d
    - can I combine the composition of #3 with elements from #1?
