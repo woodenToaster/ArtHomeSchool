@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2026-07-04 Sat 11:55 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Watts Term I</title>
+<meta name="author" content="Chris Hogan" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Watts Term I</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgc94c246">1. Classes</a>
+<ul>
+<li><a href="#orgf9b30dd">1.1. 20 Minute Head Layins - Erik</a></li>
+<li><a href="#orgca32c07">1.2. Structural Figure Drawing</a></li>
+<li><a href="#orga389ba3">1.3. Finch Gestures</a></li>
+</ul>
+</li>
+<li><a href="#org1d057ce">2. Log</a>
+<ul>
+<li><a href="#org32ce9f2">2.1. Week 1</a>
+<ul>
+<li><a href="#orgc2af444">2.1.1. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-22 Mon&gt;</span></span></a></li>
+<li><a href="#orge53d809">2.1.2. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-23 Tue&gt;</span></span></a></li>
+<li><a href="#org534d887">2.1.3. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-24 Wed&gt;</span></span></a></li>
+<li><a href="#orgef4cb5c">2.1.4. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-25 Thu&gt;</span></span></a></li>
+<li><a href="#orgae60a55">2.1.5. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-26 Fri&gt;</span></span></a></li>
+<li><a href="#org95eaf45">2.1.6. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-27 Sat&gt;</span></span></a></li>
+<li><a href="#org53604db">2.1.7. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-28 Sun&gt;</span></span></a></li>
+</ul>
+</li>
+<li><a href="#org891320a">2.2. Week 2</a>
+<ul>
+<li><a href="#orgc4870f1">2.2.1. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-29 Mon&gt;</span></span></a></li>
+<li><a href="#org9f30786">2.2.2. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-30 Tue&gt;</span></span></a></li>
+<li><a href="#org65d26d0">2.2.3. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-01 Wed&gt;</span></span></a></li>
+<li><a href="#orgb51fcb5">2.2.4. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-02 Thu&gt;</span></span></a></li>
+<li><a href="#org2a7e404">2.2.5. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-03 Fri&gt;</span></span></a></li>
+<li><a href="#org6f8ec52">2.2.6. <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-04 Sat&gt;</span></span></a></li>
+</ul>
+</li>
+<li><a href="#orgfe1a31b">2.3. Week 3</a></li>
+<li><a href="#orgd962237">2.4. Week 4</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc94c246" class="outline-2">
+<h2 id="orgc94c246"><span class="section-number-2">1.</span> Classes</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgf9b30dd" class="outline-3">
+<h3 id="orgf9b30dd"><span class="section-number-3">1.1.</span> 20 Minute Head Layins - Erik</h3>
+<div class="outline-text-3" id="text-1-1">
+<ul class="org-ul">
+<li>20 min head layins</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgca32c07" class="outline-3">
+<h3 id="orgca32c07"><span class="section-number-3">1.2.</span> Structural Figure Drawing</h3>
+<div class="outline-text-3" id="text-1-2">
+<ul class="org-ul">
+<li>figure</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orga389ba3" class="outline-3">
+<h3 id="orga389ba3"><span class="section-number-3">1.3.</span> Finch Gestures</h3>
+<div class="outline-text-3" id="text-1-3">
+<ul class="org-ul">
+<li>gesture</li>
+<li>figure</li>
+<li>invention</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org1d057ce" class="outline-2">
+<h2 id="org1d057ce"><span class="section-number-2">2.</span> Log</h2>
+<div class="outline-text-2" id="text-2">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 1:</span> Clock summary at <span class="timestamp-wrapper"><span class="timestamp">[2026-07-04 Sat 11:12]</span></span>, for the year 2026.</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Headline</th>
+<th scope="col" class="org-right">Time</th>
+<th scope="col" class="org-right">&#xa0;</th>
+<th scope="col" class="org-right">&#xa0;</th>
+<th scope="col" class="org-right">&#xa0;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left"><b>Total time</b></td>
+<td class="org-right"><b>21:28</b></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td class="org-left">Log</td>
+<td class="org-right">21:28</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;Week 1</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">11:39</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-22 Mon&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">2:02</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Figure Phase II</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">2:02</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-23 Tue&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:41</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Figure Phase II</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:31</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;20 Minute Head Layins</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:10</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-24 Wed&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:22</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Structural Figure Drawing</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:52</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Bridgman Studies</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:30</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-25 Thu&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:45</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Structural Figure Drawing</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:14</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Bridgman Studies</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:31</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-26 Fri&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:56</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;20 Minute Head Layins</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:05</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Structural Figure Drawing</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:51</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-27 Sat&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:43</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;20 Minute Head Layins</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:46</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Structural Figure Drawing</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:57</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-28 Sun&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:10</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Structural Figure Drawing</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:10</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;Week 2</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">9:49</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-29 Mon&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">2:01</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;20 Minute Head Layins</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:38</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Structural Figure Drawing</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:23</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-30 Tue&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">2:01</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;20 Minute Head Layins</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:28</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Finch Gestures</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:30</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Structural Figure Drawing</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:03</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-01 Wed&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:59</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;20 Minute Head Layins</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:57</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Structural Figure Drawing</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:02</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-02 Thu&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">1:00</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;20 Minute Head Layins</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:40</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Finch Gesture</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:20</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-03 Fri&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">2:13</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;20 Minute Head Layins</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:31</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Structural Figure Drawing</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:55</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Finch Gesture</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:47</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;<span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-04 Sat&gt;</span></span></td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:35</td>
+<td class="org-right">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;20 Minute Head Layins</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">0:35</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="outline-container-org32ce9f2" class="outline-3">
+<h3 id="org32ce9f2"><span class="section-number-3">2.1.</span> Week 1</h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+<div id="outline-container-orgc2af444" class="outline-4">
+<h4 id="orgc2af444"><span class="section-number-4">2.1.1.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-22 Mon&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-1-1">
+</div>
+<ol class="org-ol">
+<li><a id="orgf018ce5"></a><span class="done DONE">DONE</span> Figure Phase II<br />
+<div class="outline-text-5" id="text-2-1-1-1">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orge53d809" class="outline-4">
+<h4 id="orge53d809"><span class="section-number-4">2.1.2.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-23 Tue&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-1-2">
+</div>
+<ol class="org-ol">
+<li><a id="org14d264f"></a><span class="done DONE">DONE</span> Figure Phase II<br />
+<div class="outline-text-5" id="text-2-1-2-1">
+</div>
+</li>
+<li><a id="org2405e0f"></a><span class="done DONE">DONE</span> 20 Minute Head Layins<br />
+<div class="outline-text-5" id="text-2-1-2-2">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org534d887" class="outline-4">
+<h4 id="org534d887"><span class="section-number-4">2.1.3.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-24 Wed&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-1-3">
+</div>
+<ol class="org-ol">
+<li><a id="org756281b"></a><span class="done DONE">DONE</span> Structural Figure Drawing<br />
+<div class="outline-text-5" id="text-2-1-3-1">
+</div>
+</li>
+<li><a id="org4199614"></a><span class="done DONE">DONE</span> Bridgman Studies<br />
+<div class="outline-text-5" id="text-2-1-3-2">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgef4cb5c" class="outline-4">
+<h4 id="orgef4cb5c"><span class="section-number-4">2.1.4.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-25 Thu&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-1-4">
+</div>
+<ol class="org-ol">
+<li><a id="org605ff49"></a><span class="done DONE">DONE</span> Structural Figure Drawing<br />
+<div class="outline-text-5" id="text-2-1-4-1">
+</div>
+</li>
+<li><a id="org9cf5aa1"></a><span class="done DONE">DONE</span> Bridgman Studies<br />
+<div class="outline-text-5" id="text-2-1-4-2">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgae60a55" class="outline-4">
+<h4 id="orgae60a55"><span class="section-number-4">2.1.5.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-26 Fri&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-1-5">
+</div>
+<ol class="org-ol">
+<li><a id="org2aec111"></a><span class="done DONE">DONE</span> 20 Minute Head Layins<br />
+<div class="outline-text-5" id="text-2-1-5-1">
+</div>
+</li>
+<li><a id="orgc77fd7d"></a><span class="done DONE">DONE</span> Structural Figure Drawing<br />
+<div class="outline-text-5" id="text-2-1-5-2">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org95eaf45" class="outline-4">
+<h4 id="org95eaf45"><span class="section-number-4">2.1.6.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-27 Sat&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-1-6">
+</div>
+<ol class="org-ol">
+<li><a id="org166b9ff"></a><span class="done DONE">DONE</span> 20 Minute Head Layins<br />
+<div class="outline-text-5" id="text-2-1-6-1">
+</div>
+</li>
+<li><a id="org7b61a91"></a><span class="done DONE">DONE</span> Structural Figure Drawing<br />
+<div class="outline-text-5" id="text-2-1-6-2">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org53604db" class="outline-4">
+<h4 id="org53604db"><span class="section-number-4">2.1.7.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-28 Sun&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-1-7">
+</div>
+<ol class="org-ol">
+<li><a id="org3be80f9"></a><span class="done DONE">DONE</span> Structural Figure Drawing<br />
+<div class="outline-text-5" id="text-2-1-7-1">
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div id="outline-container-org891320a" class="outline-3">
+<h3 id="org891320a"><span class="section-number-3">2.2.</span> Week 2</h3>
+<div class="outline-text-3" id="text-2-2">
+</div>
+<div id="outline-container-orgc4870f1" class="outline-4">
+<h4 id="orgc4870f1"><span class="section-number-4">2.2.1.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-29 Mon&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-2-1">
+</div>
+<ol class="org-ol">
+<li><a id="org9557681"></a><span class="done DONE">DONE</span> 20 Minute Head Layins<br />
+<div class="outline-text-5" id="text-2-2-1-1">
+</div>
+</li>
+<li><a id="org593331d"></a><span class="done DONE">DONE</span> Structural Figure Drawing<br />
+<div class="outline-text-5" id="text-2-2-1-2">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org9f30786" class="outline-4">
+<h4 id="org9f30786"><span class="section-number-4">2.2.2.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-06-30 Tue&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-2-2">
+</div>
+<ol class="org-ol">
+<li><a id="org9d2e011"></a><span class="done DONE">DONE</span> 20 Minute Head Layins<br />
+<div class="outline-text-5" id="text-2-2-2-1">
+</div>
+</li>
+<li><a id="org81e2659"></a><span class="done DONE">DONE</span> Finch Gestures<br />
+<div class="outline-text-5" id="text-2-2-2-2">
+</div>
+</li>
+<li><a id="org9c1ddf8"></a><span class="done DONE">DONE</span> Structural Figure Drawing<br />
+<div class="outline-text-5" id="text-2-2-2-3">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org65d26d0" class="outline-4">
+<h4 id="org65d26d0"><span class="section-number-4">2.2.3.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-01 Wed&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-2-3">
+</div>
+<ol class="org-ol">
+<li><a id="org0c7ef47"></a><span class="done DONE">DONE</span> 20 Minute Head Layins<br />
+<div class="outline-text-5" id="text-2-2-3-1">
+</div>
+</li>
+<li><a id="orgf88dd2a"></a><span class="done DONE">DONE</span> Structural Figure Drawing<br />
+<div class="outline-text-5" id="text-2-2-3-2">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-orgb51fcb5" class="outline-4">
+<h4 id="orgb51fcb5"><span class="section-number-4">2.2.4.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-02 Thu&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-2-4">
+</div>
+<ol class="org-ol">
+<li><a id="orgb3236f8"></a><span class="done DONE">DONE</span> 20 Minute Head Layins<br />
+<div class="outline-text-5" id="text-2-2-4-1">
+</div>
+</li>
+<li><a id="orgccc823b"></a><span class="done DONE">DONE</span> Finch Gesture<br />
+<div class="outline-text-5" id="text-2-2-4-2">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org2a7e404" class="outline-4">
+<h4 id="org2a7e404"><span class="section-number-4">2.2.5.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-03 Fri&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-2-5">
+</div>
+<ol class="org-ol">
+<li><a id="orgd764fdf"></a><span class="done DONE">DONE</span> 20 Minute Head Layins<br />
+<div class="outline-text-5" id="text-2-2-5-1">
+</div>
+</li>
+<li><a id="org4c3b1ae"></a><span class="done DONE">DONE</span> Structural Figure Drawing<br />
+<div class="outline-text-5" id="text-2-2-5-2">
+</div>
+</li>
+<li><a id="org7474511"></a><span class="done DONE">DONE</span> Finch Gesture<br />
+<div class="outline-text-5" id="text-2-2-5-3">
+</div>
+</li>
+</ol>
+</div>
+<div id="outline-container-org6f8ec52" class="outline-4">
+<h4 id="org6f8ec52"><span class="section-number-4">2.2.6.</span> <span class="timestamp-wrapper"><span class="timestamp">&lt;2026-07-04 Sat&gt;</span></span></h4>
+<div class="outline-text-4" id="text-2-2-6">
+</div>
+<ol class="org-ol">
+<li><a id="org67146b1"></a><span class="done DONE">DONE</span> 20 Minute Head Layins<br />
+<div class="outline-text-5" id="text-2-2-6-1">
+</div>
+</li>
+<li><a id="orged0e0af"></a><span class="todo TODO">TODO</span> Structural Figure Drawing<br /></li>
+<li><a id="orgc4cf66f"></a><span class="todo TODO">TODO</span> Finch Gesture<br /></li>
+</ol>
+</div>
+</div>
+<div id="outline-container-orgfe1a31b" class="outline-3">
+<h3 id="orgfe1a31b"><span class="section-number-3">2.3.</span> Week 3</h3>
+</div>
+<div id="outline-container-orgd962237" class="outline-3">
+<h3 id="orgd962237"><span class="section-number-3">2.4.</span> Week 4</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2026-06-22 Mon 00:00</p>
+<p class="author">Author: Chris Hogan</p>
+<p class="date">Created: 2026-07-04 Sat 11:55</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
