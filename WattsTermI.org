@@ -16,12 +16,12 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-07-08 Wed 21:56], for the year 2026.
+  #+CAPTION: Clock summary at [2026-07-09 Thu 22:22], for the year 2026.
   | Headline                          | Time  |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | *Total time*                        | *32:14* |       |      |      |
+  | *Total time*                        | *34:13* |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | Log                               | 32:14 |       |      |      |
+  | Log                               | 34:13 |       |      |      |
   | \_  Week 1                        |       | 11:39 |      |      |
   | \_    <2026-06-22 Mon>            |       |       | 2:02 |      |
   | \_      Figure Phase II           |       |       |      | 2:02 |
@@ -66,7 +66,7 @@
   | \_    <2026-07-05 Sun>            |       |       | 2:13 |      |
   | \_      20 Minute Head Layins     |       |       |      | 0:30 |
   | \_      Stuctural Figure Drawing  |       |       |      | 1:43 |
-  | \_  Week 3                        |       |  7:44 |      |      |
+  | \_  Week 3                        |       |  9:43 |      |      |
   | \_    <2026-07-06 Mon>            |       |       | 3:03 |      |
   | \_      20 Minute Head Layins     |       |       |      | 1:05 |
   | \_      Structural Figure Drawing |       |       |      | 1:39 |
@@ -77,6 +77,10 @@
   | \_    <2026-07-08 Wed>            |       |       | 2:18 |      |
   | \_      20 Minute Head Layins     |       |       |      | 0:36 |
   | \_      Structural Figure Drawing |       |       |      | 1:42 |
+  | \_    <2026-07-09 Thu>            |       |       | 1:59 |      |
+  | \_      20 Minute Head Layins     |       |       |      | 0:35 |
+  | \_      Finch Gestures            |       |       |      | 0:24 |
+  | \_      Structural Figure Drawing |       |       |      | 1:00 |
   #+END:
 ** Week 1
 *** <2026-06-22 Mon>
@@ -246,5 +250,18 @@
      :LOGBOOK:
      CLOCK: [2026-07-08 Wed 20:53]--[2026-07-08 Wed 21:56] =>  1:03
      CLOCK: [2026-07-08 Wed 20:02]--[2026-07-08 Wed 20:41] =>  0:39
+     :END:
+*** <2026-07-09 Thu>
+**** DONE 20 Minute Head Layins
+     :LOGBOOK:
+     CLOCK: [2026-07-09 Thu 09:29]--[2026-07-09 Thu 10:04] =>  0:35
+     :END:
+**** DONE Finch Gestures
+     :LOGBOOK:
+     CLOCK: [2026-07-09 Thu 18:00]--[2026-07-09 Thu 18:24] =>  0:24
+     :END:
+**** DONE Structural Figure Drawing
+     :LOGBOOK:
+     CLOCK: [2026-07-09 Thu 21:22]--[2026-07-09 Thu 22:22] =>  1:00
      :END:
 ** Week 4
