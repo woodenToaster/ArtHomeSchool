@@ -1,0 +1,29 @@
+#+TITLE: Watts Term II
+#+AUTHOR: Chris Hogan
+#+DATE: <2026-07-13 Mon>
+#+STARTUP: nologdone
+#+STARTUP: show3levels
+
+* Classes
+** Figure Drawing Phase 3
+   - figure
+   - quicksketch
+** Gouache Phase 1
+   - head
+   - full finish
+** Gouache Phase 2
+   - head
+   - full finish
+** Oil Painting Fundamentals
+
+* Log
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
+  #+CAPTION: Clock summary at [2026-07-11 Sat 15:07], for the year 2026.
+  | Headline   | Time |
+  |------------+------|
+  | *Total time* | *0:00* |
+  #+END
+
+** Week 1
+** Week 2
+** Week 3

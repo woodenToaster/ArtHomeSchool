@@ -6,22 +6,25 @@
 
 * Classes
 ** 20 Minute Head Layins - Erik
-   - 20 min head layins
+   - head
+   - 20 min layins
 ** Structural Figure Drawing
    - figure
+   - 20 min layins
+   - full finish
 ** Finch Gestures
-   - gesture
    - figure
+   - quicksketch
    - invention
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-07-09 Thu 22:22], for the year 2026.
+  #+CAPTION: Clock summary at [2026-07-11 Sat 21:36], for the year 2026.
   | Headline                          | Time  |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | *Total time*                        | *34:13* |       |      |      |
+  | *Total time*                        | *37:01* |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | Log                               | 34:13 |       |      |      |
+  | Log                               | 37:01 |       |      |      |
   | \_  Week 1                        |       | 11:39 |      |      |
   | \_    <2026-06-22 Mon>            |       |       | 2:02 |      |
   | \_      Figure Phase II           |       |       |      | 2:02 |
@@ -66,7 +69,7 @@
   | \_    <2026-07-05 Sun>            |       |       | 2:13 |      |
   | \_      20 Minute Head Layins     |       |       |      | 0:30 |
   | \_      Stuctural Figure Drawing  |       |       |      | 1:43 |
-  | \_  Week 3                        |       |  9:43 |      |      |
+  | \_  Week 3                        |       | 12:31 |      |      |
   | \_    <2026-07-06 Mon>            |       |       | 3:03 |      |
   | \_      20 Minute Head Layins     |       |       |      | 1:05 |
   | \_      Structural Figure Drawing |       |       |      | 1:39 |
@@ -81,6 +84,11 @@
   | \_      20 Minute Head Layins     |       |       |      | 0:35 |
   | \_      Finch Gestures            |       |       |      | 0:24 |
   | \_      Structural Figure Drawing |       |       |      | 1:00 |
+  | \_    <2026-07-10 Fri>            |       |       | 0:42 |      |
+  | \_      20 Minute Head Layins     |       |       |      | 0:42 |
+  | \_    <2026-07-11 Sat>            |       |       | 2:06 |      |
+  | \_      20 Minute Head Layins     |       |       |      | 0:48 |
+  | \_      Structural Figure Drawing |       |       |      | 1:18 |
   #+END:
 ** Week 1
 *** <2026-06-22 Mon>
@@ -264,4 +272,17 @@
      :LOGBOOK:
      CLOCK: [2026-07-09 Thu 21:22]--[2026-07-09 Thu 22:22] =>  1:00
      :END:
-** Week 4
+*** <2026-07-10 Fri>
+**** DONE 20 Minute Head Layins
+     :LOGBOOK:
+     CLOCK: [2026-07-10 Fri 21:40]--[2026-07-10 Fri 22:22] =>  0:42
+     :END:
+*** <2026-07-11 Sat>
+**** DONE 20 Minute Head Layins
+     :LOGBOOK:
+     CLOCK: [2026-07-11 Sat 14:13]--[2026-07-11 Sat 15:01] =>  0:48
+     :END:
+**** DONE Structural Figure Drawing
+     :LOGBOOK:
+     CLOCK: [2026-07-11 Sat 20:18]--[2026-07-11 Sat 21:36] =>  1:18
+     :END:
