@@ -19,12 +19,12 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-07-11 Sat 21:36], for the year 2026.
+  #+CAPTION: Clock summary at [2026-07-13 Mon 20:25], for the year 2026.
   | Headline                          | Time  |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | *Total time*                        | *37:01* |       |      |      |
+  | *Total time*                        | *41:11* |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | Log                               | 37:01 |       |      |      |
+  | Log                               | 41:11 |       |      |      |
   | \_  Week 1                        |       | 11:39 |      |      |
   | \_    <2026-06-22 Mon>            |       |       | 2:02 |      |
   | \_      Figure Phase II           |       |       |      | 2:02 |
@@ -69,7 +69,7 @@
   | \_    <2026-07-05 Sun>            |       |       | 2:13 |      |
   | \_      20 Minute Head Layins     |       |       |      | 0:30 |
   | \_      Stuctural Figure Drawing  |       |       |      | 1:43 |
-  | \_  Week 3                        |       | 12:31 |      |      |
+  | \_  Week 3                        |       | 16:41 |      |      |
   | \_    <2026-07-06 Mon>            |       |       | 3:03 |      |
   | \_      20 Minute Head Layins     |       |       |      | 1:05 |
   | \_      Structural Figure Drawing |       |       |      | 1:39 |
@@ -89,6 +89,8 @@
   | \_    <2026-07-11 Sat>            |       |       | 2:06 |      |
   | \_      20 Minute Head Layins     |       |       |      | 0:48 |
   | \_      Structural Figure Drawing |       |       |      | 1:18 |
+  | \_    <2026-07-12 Sun>            |       |       | 4:10 |      |
+  | \_      Structural Figure Drawing |       |       |      | 4:10 |
   #+END:
 ** Week 1
 *** <2026-06-22 Mon>
@@ -285,4 +287,11 @@
 **** DONE Structural Figure Drawing
      :LOGBOOK:
      CLOCK: [2026-07-11 Sat 20:18]--[2026-07-11 Sat 21:36] =>  1:18
+     :END:
+*** <2026-07-12 Sun>
+**** DONE Structural Figure Drawing
+     :LOGBOOK:
+     CLOCK: [2026-07-12 Sun 19:59]--[2026-07-12 Sun 21:26] =>  1:27
+     CLOCK: [2026-07-12 Sun 13:15]--[2026-07-12 Sun 15:02] =>  1:47
+     CLOCK: [2026-07-12 Sun 10:13]--[2026-07-12 Sun 11:09] =>  0:56
      :END:

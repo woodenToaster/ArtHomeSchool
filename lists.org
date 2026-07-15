@@ -3,29 +3,18 @@
 #+STARTUP: nologdone
 
 * Art Supplies
-** Oil materials
-*** walnut oil/alkyd
-*** Centurian DLX oil primed linen panels (jerry's)
-*** Centurian DLX oil primed canvas pad (jerry's)
-*** French easel
-*** Gamblin solvent-free fluid
-*** sun dried linseed oil
-*** bigger flat bristle brush (8 or 10)?
-*** Workable fixative
-*** Gesso (Liquitex acrylic)
-** Gouache materials
-*** Robert Simmons rounds
-    - 0
-    - 3
-    - 8
-*** Robert Simmons flats
-    - 2
-** Stillman and Birn Epsilon Wirebound 9x12
-** Wolff's Carbon 6B
-** Pens
-*** Pilot parallel pen
-*** Otho graphic liner
-*** Niko comic pen nib G with Tachikawa nib holder
+** walnut oil/alkyd
+** Gamblin solvent-free fluid
+** sun dried linseed oil
+** bigger flat bristle brush (8 or 10)?
+** Robert Simmons rounds
+   - 0
+   - 3
+   - 8
+** Robert Simmons flats
+   - 2
+** Pilot parallel pen
+** Niko comic pen nib G with Tachikawa nib holder
 * Art Books
 ** General
 *** Fundamentals of drawing - Mogilevtsev

@@ -1,0 +1,516 @@
+* Art Goals Mind Map & 4-Week Term Schedule
+
+Two primary tracks for achieving my goals:
+
+1. **Learn** — Build foundational skills through studies, copies, and exercises.
+2. **Create** — Apply skills in original artwork and finished pieces.
+
+A balanced practice plan should avoid getting trapped in endless studies while
+still building skill. A useful balance is:
+
+- **50% Study / Learning**
+- **25% Skill Exercises**
+- **25% Original Art**
+
+This keeps growth balanced while still producing meaningful artwork.
+
+** Mind Map
+
+```text
+ART GOALS
+│
+├── LEARN
+│   │
+│   ├── Fundamentals
+│   │   ├── Perspective
+│   │   ├── Anatomy
+│   │   ├── Light & Value
+│   │   └── Color
+│   │
+│   ├── Subjects
+│   │   ├── Figure
+│   │   ├── Head
+│   │   ├── Anatomy
+│   │   ├── Hard Surface
+│   │   ├── Environment
+│   │   ├── Landscape
+│   │   ├── Exterior Architecture
+│   │   └── Interior
+│   │
+│   ├── Study Types
+│   │   ├── Photo Studies
+│   │   ├── Artist Copies
+│   │   ├── Master Studies
+│   │   ├── Life Studies
+│   │   └── Short Exercises
+│   │
+│   ├── Process Skills
+│   │   ├── Gesture
+│   │   ├── Lay-in
+│   │   ├── Shadow Mapping
+│   │   └── Full Rendering
+│   │
+│   └── Media
+│       ├── Charcoal
+│       ├── Graphite
+│       ├── Ink
+│       ├── Gouache
+│       └── Oil
+│
+└── CREATE
+    │
+    ├── Figure Works
+    │   ├── Gesture Pieces
+    │   ├── Pencil Drawings
+    │   ├── Ink Drawings
+    │   └── Paintings
+    │
+    └── Environment Works
+        ├── Figure Focus
+        └── Architecture Focus
+```
+
+---
+
+** Long-Term Learning Order
+
+Fundamentals depend on each other. A useful progression is:
+
+```text
+Gesture
+   ↓
+Perspective
+   ↓
+Structure
+   ↓
+Anatomy
+   ↓
+Light & Value
+   ↓
+Color
+   ↓
+Composition
+   ↓
+Finished Illustration
+```
+
+The highest-priority foundations are:
+
+1. Gesture
+2. Perspective
+3. Anatomy
+4. Light / Value
+
+These four areas support almost everything else in your goals.
+
+---
+
+** 4-Week Term Structure
+
+Each term should include a mix of warmups, study, focused exercises, and original art.
+
+*** Daily Session Structure
+
+**** Warmup — 15%
+
+- Quick sketches
+- Gestures
+- Line exercises
+
+**** Study — 35%
+
+- Master studies
+- Photo copies
+- Watts assignments
+- Anatomy studies
+
+**** Exercise — 25%
+
+- Perspective drills
+- Invented gestures
+- Shadow mapping
+- Structural drawing
+
+**** Create — 25%
+
+- Original artwork
+- Illustration process work
+- Personal pieces
+
+---
+
+* Term 1 — Drawing Foundations
+
+**Focus:**
+
+- Gesture
+- Structure
+- Perspective
+- Heads
+
+** Week 1
+
+*** Study
+
+- Gesture copying
+- Quick sketches
+- David Finch heads
+- Artist studies
+
+*** Exercises
+
+- 1-point perspective
+- Boxes
+- Gestural invention
+
+*** Create
+
+- 2 single figure sketches
+
+---
+
+** Week 2
+
+*** Study
+
+- Master head studies
+- Photo figures
+- Structural lay-ins
+
+*** Exercises
+
+- 2-point perspective
+- Head construction
+
+*** Create
+
+- Ink figure illustration
+
+---
+
+** Week 3
+
+*** Study
+
+- Figure master studies
+- Watts assignments
+
+*** Exercises
+
+- Shadow mapping
+- Figure construction
+
+*** Create
+
+- Figure-focused composition
+
+---
+
+** Week 4
+
+*** Study
+
+- Review weak areas
+
+*** Create
+
+- Finished figure drawing
+
+*** Term Goal
+
+- Complete 1 polished figure piece
+
+---
+
+* Term 2 — Anatomy & Figure
+
+**Focus:**
+
+- Anatomy
+- Figure rendering
+- Value
+
+** Week 1
+
+*** Study
+
+- Torso anatomy
+- Figure copies
+
+*** Exercises
+
+- Invented poses
+
+*** Create
+
+- Figure sketch series
+
+---
+
+** Week 2
+
+*** Study
+
+- Arms and legs
+- Master studies
+
+*** Exercises
+
+- Muscle landmarks
+
+*** Create
+
+- Pencil figure piece
+
+---
+
+** Week 3
+
+*** Study
+
+- Full figure render studies
+
+*** Exercises
+
+- Anatomical simplification
+
+*** Create
+
+- Character concept
+
+---
+
+** Week 4
+
+*** Project
+
+- Finished black-and-white figure artwork
+
+*** Term Goal
+
+- Complete 1 rendered figure painting
+
+---
+
+* Term 3 — Environment & Landscape
+
+**Focus:**
+
+- Environments
+- Architecture
+- Landscape
+- Perspective
+
+** Week 1
+
+*** Study
+
+- Landscape photo studies
+- Master landscape studies
+
+*** Exercises
+
+- Perspective grids
+
+*** Create
+
+- Landscape thumbnails
+
+---
+
+** Week 2
+
+*** Study
+
+- Exterior architecture
+
+*** Exercises
+
+- Buildings from imagination
+
+*** Create
+
+- Environment sketch
+
+---
+
+** Week 3
+
+*** Study
+
+- Interior studies
+
+*** Exercises
+
+- Room perspective
+
+*** Create
+
+- Interior composition
+
+---
+
+** Week 4
+
+*** Project
+
+- Architecture-focused environment piece
+
+*** Term Goal
+
+- Complete 1 polished environment artwork
+
+---
+
+* Term 4 — Light, Color & Painting
+
+**Focus:**
+
+- Value
+- Light
+- Color
+- Painting process
+
+** Week 1
+
+*** Study
+
+- Value master studies
+- Black-and-white painting
+
+*** Exercises
+
+- Shadow mapping
+
+*** Create
+
+- Value composition
+
+---
+
+** Week 2
+
+*** Study
+
+- Color copies
+
+*** Exercises
+
+- Limited palettes
+
+*** Create
+
+- Color environment
+
+---
+
+** Week 3
+
+*** Study
+
+- Illustration process
+  - Thumbnails
+  - Sketch
+  - Color comps
+
+*** Create
+
+- Start finished painting
+
+---
+
+** Week 4
+
+*** Project
+
+Complete the full illustration pipeline:
+
+```text
+Reference
+↓
+Thumbnail
+↓
+Sketch
+↓
+Perspective pass
+↓
+Value pass
+↓
+Color comp
+↓
+Final painting
+```
+
+*** Term Goal
+
+- Complete 1 finished color painting
+
+---
+
+* Weekly Schedule Example
+
+** Monday
+
+- Gesture
+- Figure study
+- Original figure sketch
+
+** Tuesday
+
+- Perspective
+- Architecture study
+- Environment sketch
+
+** Wednesday
+
+- Anatomy
+- Master study
+- Original figure
+
+** Thursday
+
+- Landscape study
+- Perspective exercises
+- Environment sketch
+
+** Friday
+
+- Light / value study
+- Rendering practice
+- Personal artwork
+
+** Saturday
+
+- Long study session
+- Master study
+- Painting practice
+
+** Sunday
+
+- Original artwork only
+- Weekly review
+- Plan next week
+
+---
+
+* Success Metrics
+
+Each 4-week term should produce:
+
+- 20–40 gestures
+- 8–12 studies
+- 4–8 perspective exercises
+- 2–4 anatomy studies
+- 1 master study
+- 1 finished artwork
+
+After 4 terms, or 16 weeks, you should have:
+
+- Stronger drawing fundamentals
+- Figure and anatomy experience
+- Environment and architecture practice
+- Experience with the full illustration workflow
+- 4 polished portfolio-quality pieces
+
+Most importantly, this plan keeps study and creation happening together, which
+is the fastest path toward becoming the kind of artist described in your goals.
