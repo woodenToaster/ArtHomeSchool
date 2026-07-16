@@ -1200,8 +1200,8 @@
 **** DONE Foundation Patreon - Matte Rendering
 **** DONE Foundation Patreon - Basic Rendering I
 *** Book
-**** TODO How to Render - Scott Robertson
-**** TODO James Gurney - Color and Light
+**** DONE How to Render - Scott Robertson
+**** DONE James Gurney - Color and Light
 *** Week 1
 *** Week 2
 *** Week 3
@@ -1236,6 +1236,6 @@
 ** DONE Brainstorm Spring '23 II
 ** DONE Brainstorm Spring '23 III
 * TODO Term 11
-** TODO Watts Term I
+** DONE Watts Term I
 ** TODO Watts Term II
 ** TODO Watts Term III
