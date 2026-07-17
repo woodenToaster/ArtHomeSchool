@@ -17,19 +17,22 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-07-15 Wed 21:53], for the year 2026.
+  #+CAPTION: Clock summary at [2026-07-16 Thu 22:21], for the year 2026.
   | Headline                       | Time |      |      |      |
   |--------------------------------+------+------+------+------|
-  | *Total time*                     | *5:40* |      |      |      |
+  | *Total time*                     | *7:17* |      |      |      |
   |--------------------------------+------+------+------+------|
-  | Log                            | 5:40 |      |      |      |
-  | \_  Week 1                     |      | 5:40 |      |      |
+  | Log                            | 7:17 |      |      |      |
+  | \_  Week 1                     |      | 7:17 |      |      |
   | \_    <2026-07-13 Mon>         |      |      | 1:08 |      |
   | \_      Figure Drawing Phase 3 |      |      |      | 1:08 |
   | \_    <2026-07-14 Tue>         |      |      | 2:21 |      |
   | \_      Figure Drawing Phase 3 |      |      |      | 2:21 |
   | \_    <2026-07-15 Wed>         |      |      | 2:11 |      |
   | \_      Figure Drawing Phase 3 |      |      |      | 2:11 |
+  | \_    <2026-07-16 Thu>         |      |      | 1:37 |      |
+  | \_      Figure Drawing Phase 3 |      |      |      | 0:26 |
+  | \_      Gouache Phase 1        |      |      |      | 1:11 |
   #+END
 ** Week 1
 *** <2026-07-13 Mon>
@@ -48,6 +51,15 @@
      :LOGBOOK:
      CLOCK: [2026-07-15 Wed 20:19]--[2026-07-15 Wed 21:53] =>  1:34
      CLOCK: [2026-07-15 Wed 08:01]--[2026-07-15 Wed 08:38] =>  0:37
+     :END:
+*** <2026-07-16 Thu>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-16 Thu 08:08]--[2026-07-16 Thu 08:34] =>  0:26
+     :END:
+**** DONE Gouache Phase 1
+     :LOGBOOK:
+     CLOCK: [2026-07-16 Thu 21:10]--[2026-07-16 Thu 22:21] =>  1:11
      :END:
 ** Week 2
 ** Week 3
