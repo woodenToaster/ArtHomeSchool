@@ -9,17 +9,14 @@
 *** 20 minute layins
 *** full finish
 *** anatomy
-*** invented
 ** Figure
 *** quicksketch
 *** 20 minute layins
 *** full finish
 *** anatomy
-*** invented
 *** costumed
 ** Landscape
 *** plein air
-*** environment design
 ** Master Studies
 
 * Illustrator and Concept Artist Learning Path
@@ -40,9 +37,9 @@
 ** TODO Year 2
 *** TODO Gouache Phase 1
 *** TODO Gouache Phase 2
-*** TODO 20 Minute Head Layins - Brian
 *** TODO Head Drawing Phase 4
 *** TODO Figure Drawing Phase 4
+*** TODO 20 Minute Head Layins - Brian
 *** TODO Oil Painting Fundamentals
 *** TODO Portrait Painting Phase 1
 *** TODO Gouache Phase 3

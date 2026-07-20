@@ -6,18 +6,15 @@
 * Art Goals
 ** Illustrations
 *** Original characters in ink
-**** Finch study process
 **** Master studies
-**** Process
-    - invent gesture
-    - add anatomy
-    - add lighting
+**** Finch study process
+**** Originals
 *** Oil paintings
 **** Oil fundamentals
 ***** landscape
 ***** Watts
 **** Master studies
-**** Process
+**** Illustration Process
      - thumbnails
      - sketch
      - color comp
@@ -26,19 +23,59 @@
 * Term Structure
   - study: 75% (11h)
   - create: 25% (4h)
-** Week 1
-   - original pencil
-   - watts
-   - finch
-** Week 2
-   - original ink
-   - ink master study
-   - watts
-** Week 3
-   - original oil
-   - watts
-   - finch
-** Week 4
-   - original oil
-   - oil master study
-   - watts
+** Watts
+*** Treat 5 weeks like semester
+    - N classes, 3 hr per week
+*** Rotate Topics (Draw/Paint 60/40 split?)
+**** Head and Figure
+     - quicksketch
+     - 20 minute layin
+     - full finish
+     - features
+     - anatomy
+**** Landscape
+** Finch
+*** Copy
+**** Level 1
+     - copy gestures
+**** Level 2
+     - lighten, then add anatomy
+**** Level 3
+     - add lighting
+*** Bridgman
+**** Level 1
+     - copy gesture
+**** Level 2
+     - add anatomy
+     - repeat
+**** Level 3
+     - do from memory
+     - check results
+*** Study Artists (Springboard for Invention)
+**** Level 1
+     - copy gesture
+**** Level 2
+     - change the pose around to invent new figure
+**** Level 3
+     - lighten and add anatomy
+**** Level 4
+     - add lighting
+** Illustration
+*** Level 1
+    - thumbnail
+*** Level 2
+    - sketch
+*** Level 3
+    - color comp
+*** Level 4
+    - final painting
+
+* Schedule
+  - Mon :: Head Drawing Phase 4
+  - Tues :: Gouache Phase 1, 2
+  - Wed :: Figure Drawing Phase 4
+  - Thurs :: Figure Drawing Phase 3
+  - Fr :: Torso Anatomy with Brian
+  - Sa :: Finch copy 1,2,3
+  - Su :: Finch study 1,2,3,4
+

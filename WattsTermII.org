@@ -17,22 +17,29 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-07-16 Thu 22:21], for the year 2026.
-  | Headline                       | Time |      |      |      |
-  |--------------------------------+------+------+------+------|
-  | *Total time*                     | *7:17* |      |      |      |
-  |--------------------------------+------+------+------+------|
-  | Log                            | 7:17 |      |      |      |
-  | \_  Week 1                     |      | 7:17 |      |      |
-  | \_    <2026-07-13 Mon>         |      |      | 1:08 |      |
-  | \_      Figure Drawing Phase 3 |      |      |      | 1:08 |
-  | \_    <2026-07-14 Tue>         |      |      | 2:21 |      |
-  | \_      Figure Drawing Phase 3 |      |      |      | 2:21 |
-  | \_    <2026-07-15 Wed>         |      |      | 2:11 |      |
-  | \_      Figure Drawing Phase 3 |      |      |      | 2:11 |
-  | \_    <2026-07-16 Thu>         |      |      | 1:37 |      |
-  | \_      Figure Drawing Phase 3 |      |      |      | 0:26 |
-  | \_      Gouache Phase 1        |      |      |      | 1:11 |
+  #+CAPTION: Clock summary at [2026-07-19 Sun 22:02], for the year 2026.
+  | Headline                       | Time  |       |      |      |
+  |--------------------------------+-------+-------+------+------|
+  | *Total time*                     | *12:18* |       |      |      |
+  |--------------------------------+-------+-------+------+------|
+  | Log                            | 12:18 |       |      |      |
+  | \_  Week 1                     |       | 12:18 |      |      |
+  | \_    <2026-07-13 Mon>         |       |       | 1:08 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 1:08 |
+  | \_    <2026-07-14 Tue>         |       |       | 2:21 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 2:21 |
+  | \_    <2026-07-15 Wed>         |       |       | 2:11 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 2:11 |
+  | \_    <2026-07-16 Thu>         |       |       | 1:37 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 0:26 |
+  | \_      Gouache Phase 1        |       |       |      | 1:11 |
+  | \_    <2026-07-17 Fri>         |       |       | 1:56 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 0:34 |
+  | \_      Gouache Phase 1        |       |       |      | 1:22 |
+  | \_    <2026-07-18 Sat>         |       |       | 0:47 |      |
+  | \_      Gouache Phase 1        |       |       |      | 0:47 |
+  | \_    <2026-07-19 Sun>         |       |       | 2:18 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 2:18 |
   #+END
 ** Week 1
 *** <2026-07-13 Mon>
@@ -60,6 +67,26 @@
 **** DONE Gouache Phase 1
      :LOGBOOK:
      CLOCK: [2026-07-16 Thu 21:10]--[2026-07-16 Thu 22:21] =>  1:11
+     :END:
+*** <2026-07-17 Fri>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-17 Fri 08:02]--[2026-07-17 Fri 08:36] =>  0:34
+     :END:
+**** DONE Gouache Phase 1
+     :LOGBOOK:
+     CLOCK: [2026-07-17 Fri 21:23]--[2026-07-17 Fri 22:45] =>  1:22
+     :END:
+*** <2026-07-18 Sat>
+**** DONE Gouache Phase 1
+     :LOGBOOK:
+     CLOCK: [2026-07-18 Sat 21:44]--[2026-07-18 Sat 22:31] =>  0:47
+     :END:
+*** <2026-07-19 Sun>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-19 Sun 20:21]--[2026-07-19 Sun 22:01] =>  1:40
+     CLOCK: [2026-07-19 Sun 09:39]--[2026-07-19 Sun 10:17] =>  0:38
      :END:
 ** Week 2
 ** Week 3
