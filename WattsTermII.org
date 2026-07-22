@@ -14,15 +14,21 @@
 ** Gouache Phase 2
    - head
    - full finish
+** Finch Study
+   - invention
+   - figure
+   - quicksketch
+   - full finish
+   - anatomy
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-07-19 Sun 22:02], for the year 2026.
+  #+CAPTION: Clock summary at [2026-07-21 Tue 22:17], for the year 2026.
   | Headline                       | Time  |       |      |      |
   |--------------------------------+-------+-------+------+------|
-  | *Total time*                     | *12:18* |       |      |      |
+  | *Total time*                     | *17:30* |       |      |      |
   |--------------------------------+-------+-------+------+------|
-  | Log                            | 12:18 |       |      |      |
+  | Log                            | 17:30 |       |      |      |
   | \_  Week 1                     |       | 12:18 |      |      |
   | \_    <2026-07-13 Mon>         |       |       | 1:08 |      |
   | \_      Figure Drawing Phase 3 |       |       |      | 1:08 |
@@ -40,6 +46,13 @@
   | \_      Gouache Phase 1        |       |       |      | 0:47 |
   | \_    <2026-07-19 Sun>         |       |       | 2:18 |      |
   | \_      Figure Drawing Phase 3 |       |       |      | 2:18 |
+  | \_  Week 2                     |       |  5:12 |      |      |
+  | \_    <2026-07-20 Mon>         |       |       | 2:12 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 1:49 |
+  | \_      Gouache Phase 2        |       |       |      | 0:23 |
+  | \_    <2026-07-21 Tue>         |       |       | 3:00 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 1:13 |
+  | \_      Finch                  |       |       |      | 1:47 |
   #+END
 ** Week 1
 *** <2026-07-13 Mon>
@@ -89,5 +102,25 @@
      CLOCK: [2026-07-19 Sun 09:39]--[2026-07-19 Sun 10:17] =>  0:38
      :END:
 ** Week 2
+*** <2026-07-20 Mon>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-20 Mon 20:19]--[2026-07-20 Mon 21:48] =>  1:29
+     CLOCK: [2026-07-20 Mon 08:02]--[2026-07-20 Mon 08:22] =>  0:20
+     :END:
+**** DONE Gouache Phase 2
+     :LOGBOOK:
+     CLOCK: [2026-07-20 Mon 21:56]--[2026-07-20 Mon 22:19] =>  0:23
+     :END:
+*** <2026-07-21 Tue>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-21 Tue 21:44]--[2026-07-21 Tue 22:17] =>  0:33
+     CLOCK: [2026-07-21 Tue 08:06]--[2026-07-21 Tue 08:46] =>  0:40
+     :END:
+**** DONE Finch
+     :LOGBOOK:
+     CLOCK: [2026-07-21 Tue 12:14]--[2026-07-21 Tue 14:01] =>  1:47
+     :END:
 ** Week 3
 ** Week 4
