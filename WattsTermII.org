@@ -23,12 +23,12 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-07-21 Tue 22:17], for the year 2026.
+  #+CAPTION: Clock summary at [2026-07-24 Fri 23:48], for the year 2026.
   | Headline                       | Time  |       |      |      |
   |--------------------------------+-------+-------+------+------|
-  | *Total time*                     | *17:30* |       |      |      |
+  | *Total time*                     | *26:15* |       |      |      |
   |--------------------------------+-------+-------+------+------|
-  | Log                            | 17:30 |       |      |      |
+  | Log                            | 26:15 |       |      |      |
   | \_  Week 1                     |       | 12:18 |      |      |
   | \_    <2026-07-13 Mon>         |       |       | 1:08 |      |
   | \_      Figure Drawing Phase 3 |       |       |      | 1:08 |
@@ -46,13 +46,21 @@
   | \_      Gouache Phase 1        |       |       |      | 0:47 |
   | \_    <2026-07-19 Sun>         |       |       | 2:18 |      |
   | \_      Figure Drawing Phase 3 |       |       |      | 2:18 |
-  | \_  Week 2                     |       |  5:12 |      |      |
+  | \_  Week 2                     |       | 13:57 |      |      |
   | \_    <2026-07-20 Mon>         |       |       | 2:12 |      |
   | \_      Figure Drawing Phase 3 |       |       |      | 1:49 |
   | \_      Gouache Phase 2        |       |       |      | 0:23 |
   | \_    <2026-07-21 Tue>         |       |       | 3:00 |      |
   | \_      Figure Drawing Phase 3 |       |       |      | 1:13 |
   | \_      Finch                  |       |       |      | 1:47 |
+  | \_    <2026-07-22 Wed>         |       |       | 3:33 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 1:28 |
+  | \_      Finch                  |       |       |      | 2:05 |
+  | \_    <2026-07-23 Thu>         |       |       | 3:16 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 1:20 |
+  | \_      Finch                  |       |       |      | 1:56 |
+  | \_    <2026-07-24 Fri>         |       |       | 1:56 |      |
+  | \_      Figure Drawing Phase 3 |       |       |      | 1:56 |
   #+END
 ** Week 1
 *** <2026-07-13 Mon>
@@ -121,6 +129,34 @@
 **** DONE Finch
      :LOGBOOK:
      CLOCK: [2026-07-21 Tue 12:14]--[2026-07-21 Tue 14:01] =>  1:47
+     :END:
+*** <2026-07-22 Wed>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-22 Wed 21:34]--[2026-07-22 Wed 22:32] =>  0:58
+     CLOCK: [2026-07-22 Wed 08:02]--[2026-07-22 Wed 08:32] =>  0:30
+     :END:
+**** DONE Finch
+     :LOGBOOK:
+     CLOCK: [2026-07-22 Wed 16:09]--[2026-07-22 Wed 16:46] =>  0:37
+     CLOCK: [2026-07-22 Wed 13:02]--[2026-07-22 Wed 13:53] =>  0:53
+     CLOCK: [2026-07-22 Wed 12:14]--[2026-07-22 Wed 12:51] =>  0:37
+     :END:
+*** <2026-07-23 Thu>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-23 Thu 21:30]--[2026-07-23 Thu 22:20] =>  0:50
+     CLOCK: [2026-07-23 Thu 08:00]--[2026-07-23 Thu 08:30] =>  0:30
+     :END:
+**** DONE Finch
+     :LOGBOOK:
+     CLOCK: [2026-07-23 Thu 12:45]--[2026-07-23 Thu 14:41] =>  1:56
+     :END:
+*** <2026-07-24 Fri>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-24 Fri 21:25]--[2026-07-24 Fri 22:25] =>  1:00
+     CLOCK: [2026-07-24 Fri 08:05]--[2026-07-24 Fri 09:01] =>  0:56
      :END:
 ** Week 3
 ** Week 4

@@ -68,7 +68,7 @@
 *** TODO Observational Color
 *** TODO Features and Facial Expressions
 *** TODO Bridgman Anatomy Phase 1: Torso
-*** TODO Bridgman Anatomy Phase 1: Arms and Legs
+*** TODO Bridgman Anatomy Phase 2: Arms and Legs
 *** TODO Fundamentals of Character Design
 *** TODO Inking Phase 2
 *** TODO Sketchbooking
