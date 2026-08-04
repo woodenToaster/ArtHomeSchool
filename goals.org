@@ -3,6 +3,26 @@
 #+DATE: <2026-07-15 Wed>
 #+STARTUP: nologdone
 
+* Areas
+  Try to cycle through these and include a variety during each term, drawing and painting
+** Head
+*** quicksketch
+*** 20 minute layins
+*** full finish
+*** anatomy
+** Figure
+*** quicksketch
+*** 20 minute layins
+*** full finish
+*** anatomy
+*** costumed
+** Landscape
+*** plein air
+** Perspective
+*** Architecture
+*** Hard surface
+** Master Studies
+
 * Art Goals
 ** Illustrations
 *** Original characters in ink

@@ -15,27 +15,39 @@
    - 2
 ** Pilot parallel pen
 ** Niko comic pen nib G with Tachikawa nib holder
+** Water brush pen (Kuretake Fude or Pentel)
+** Grey marker (20-30%)
+** Copic wide
+** Platinum desktop fountain pen
+** Fine liners
+   - 0.3
+   - 0.5
+   - 0.7
+   - staedtler
+   - ortho
 * Art Books
 ** General
+*** TODO Dynamic Bible 1 - Peter Han
 *** Fundamentals of drawing - Mogilevtsev
 *** Drawing Lessons from the Great Masters - Robert Hale
 *** Vilppu Drawing Manual - Glenn Vilppu
-*** DONE Imaginative Realism - James Gurney
 *** The Natural Way to Draw - Kimon Nicolaides (for developing the sensitivity of an artist)
+*** Drawing Course - Charles Bargue
 *** Andrew Loomis
 **** Fun With a Pencil
 **** Successful Drawing
 **** Creative Illustration
-*** How To Draw: Wizard Basic Training
-*** Salgood Sam website
-*** Drawing Course - Charles Bargue
-*** Zentangle
+*** DONE How To Draw: Wizard Basic Training
+*** DONE Salgood Sam website
+*** DONE Imaginative Realism - James Gurney
 *** DONE Krash Course - Greg Capullo
 *** DONE The Practice and Science of Drawing - Speed
 ** Figure Drawing
+*** TODO Human Anatomy for Artists - Goldfinger
+*** TODO Morpho anatomy books
+*** TODO Stonehouse's Anatomy
 *** Figure Drawing for Concept Artists
 *** Drawing the Head and Hands - Loomis
-*** Human Anatomy for Artists - Goldfinger
 *** Artistic Anatomy - Paul Richer
 *** Master Class in Figure Drawing - Robert Hale
 *** Atlas of Human Anatomy for Artists - Stephen Peck
@@ -44,32 +56,23 @@
     - Study in tandem with Bridgman
 *** Drawing People - Barbara Bradley
 *** The Figure - Walt Reed
-*** FORCE: Dynamic Life Drawing
 *** Learn to Draw Action Heros - Rob Marzullo
 *** Dynamic Figure Drawing - Burne Hogarth
-*** Watts on Bridgman
 *** George Bridgman
-**** TODO Complete Guide to Drawing from Life
-***** How to study
-      1. TODO Draw every picture in the book
-      2. TODO Look at a picture, close, the book, draw from memory (every picture in the book)
-      3. TODO Shade drawings as form
+**** DONE Complete Guide to Drawing from Life
 **** Constructive Anatomy
 **** The Human Machine
 *** Strength Training Anatomy, 3rd edition - Frederic Delavier
     - Lots of interesting poses and very clear drawings
-*** Anatomy For Sculptors
 *** Struttura Uomo
     - Architectural style drawings
 *** Struttura Uomo in Movemento
-*** Stan Lee's How to Draw Comics
 *** Classic Human Anatomy
 *** Dynamic Anatomy - Burne Hogarth
 *** Hogarth Hands
 *** Hogarth Faces
 *** The Complete Guide to Figure Drawing for Comics and Graphic Novels - Cooney
 *** The Complete Guide to Anatomy for Artists and Illustrators - Gottfried Bammes (drawing book)
-*** Figure Drawing for Artists: Making every Mark Count - Steve Huston
 *** Drawing Cutting Edge Anatomy - Hart
 *** The Nude Figure: A Visual Reference for the Artist - Mark Smith
 *** The Nude Female Figure: A Visual Reference for the Artist - Mark Smith
@@ -77,19 +80,24 @@
 *** Mastering Drawing the Human Figure - Jack Faragasso
     - Reilly method
 *** The Human Figure - John Vanderpoel
-*** Stonehouse's Anatomy
+*** DONE FORCE: Dynamic Life Drawing
+*** DONE Watts on Bridgman
+*** DONE Anatomy For Sculptors
+*** DONE Figure Drawing for Artists: Making every Mark Count - Steve Huston
+*** DONE Stan Lee's How to Draw Comics
 *** DONE Figure Drawing: Design and Invention - Michael Hampton
 *** DONE How to Draw Comics the Marvel Way
 *** DONE The DC Guide to Penciling Comics
 *** DONE Force: Drawing Human Anatomy
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
-*** Space drawing: perspective - Dongho Kim
+*** TODO Space drawing 1: perspective - Dongho Kim
+*** TODO Space drawing 2: perspective - Dongho Kim
+*** TODO Creative Perspective for Artists and Illustrators - Ernest Watson
 *** DONE Drawing perspective: how to see it and how to apply it - Brehm
 *** DONE Sketching: The Basics
-*** Creative Perspective for Artists and Illustrators - Ernest Watson
 *** DONE Framed Perspective Vol I - Marcos mateu-Mestre
-*** Framed Perspective Vol II - Marcos mateu-Mestre
+*** DONE Framed Perspective Vol II - Marcos mateu-Mestre
 *** DONE How to Draw - Scott Robertson
 *** DONE Perpective Drawing Handbook - Joseph D'Amelio
 *** DONE Perspective Made Easy - Earnest Norling
@@ -108,10 +116,8 @@
 *** Lessons on Shading - Sparkes
 ** Painting
 *** The Painterly Approach - Bob Rohm
-*** DONE The Simple Secret to Better Painting - Gregg Albert
 *** Fundamentals of painting - Mogilevtsev
 *** Hawthorne on Painting
-*** DONE Alla Prima - Richard Schmid
 *** Oil Painting techniques and materials - Harold Speed
 *** How I make a Picture - Rockwell
 *** Oil Painting Techniques - Patrick Jones
@@ -119,19 +125,21 @@
 *** Mastering the Craft of Painting - Grado
 *** Faragasso (Reilly method)
 *** How to See Color and Paint it - Arthur Stern
+*** DONE Alla Prima - Richard Schmid
+*** DONE The Simple Secret to Better Painting - Gregg Albert
 ** Composition
 *** graphic L.A.
 *** Mastering Composition - Ian Roberts
 *** Color and Composition for Film - Hans Bacher and Sanatan Suryavanashi
 *** Universal Principles of Design - Lidwell, Holden, Butler
-*** Drawing and Designing with Confidence - Lin
-*** TODO Composition of Outdoor Painting - Edgar Payne
-*** TODO Framed Ink
-*** Framed Ink 2
-*** DONE How Pictures Work - Bang
 *** Vision and Art - Margaret Livingstone
 *** Pictorial Composition - Poore
 *** Composition - Cyril Pearce
+*** Drawing and Designing with Confidence - Lin
+*** TODO Composition of Outdoor Painting - Edgar Payne
+*** DONE Framed Ink
+*** DONE Framed Ink 2
+*** DONE How Pictures Work - Bang
 *** DONE Wally Wood - 22 panels that always work
 ** Design
 *** TODO Design of Everyday Things - Donald Norman
@@ -354,6 +362,11 @@
 *** TODO Summer 23
     - AD2
     - BUD
+** Evolve
+*** DONE Block 1
+*** TODO Block 2
+*** TODO Block 3
+*** TODO Block 4
 ** Apply for jobs
 * Fourth Year (Redux) <2026-05-28 Thu> to <2027-05-28 Fri>
 ** Watts Atelier

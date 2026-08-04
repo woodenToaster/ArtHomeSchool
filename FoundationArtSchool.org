@@ -1,0 +1,11 @@
+#+TITLE: FoundationArtSchool
+#+AUTHOR: Chris Hogan
+#+DATE: <2026-07-30 Thu>
+#+STARTUP: nologdone
+#+STARTUP: show3levels
+
+* Structural Anatomy: Torso - 2026
+** Week 1
+*** TODO Draw skeleton torso from front, back, side
+*** TODO Put tracing paper over and draw muscles
+** Week 2

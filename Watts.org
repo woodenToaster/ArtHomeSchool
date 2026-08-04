@@ -2,22 +2,6 @@
 #+AUTHOR: Chris Hogan
 #+STARTUP: nologdone
 
-* Areas
-  Try to cycle through these and include a variety during each term
-** Head
-*** quicksketch
-*** 20 minute layins
-*** full finish
-*** anatomy
-** Figure
-*** quicksketch
-*** 20 minute layins
-*** full finish
-*** anatomy
-*** costumed
-** Landscape
-*** plein air
-** Master Studies
 
 * Illustrator and Concept Artist Learning Path
 ** TODO Year 1
@@ -49,6 +33,7 @@
 *** TODO Landscape Phase 1
 *** TODO Still Life Phase 1
 ** TODO Year 3
+*** TODO Foreshortened Figure Drawing
 *** TODO Landscape Phase 2
 *** TODO Portrait Painting Phase 3
 *** TODO Still Life Phase 2
@@ -64,8 +49,10 @@
 *** TODO Anatomy Intensives: Torso
 *** TODO Figure Painting Phase 4
 ** TODO Year 4
+*** TODO Studio Landscape
 *** TODO Inking Phase 1
 *** TODO Observational Color
+*** TODO Costumed Figure Painting
 *** TODO Features and Facial Expressions
 *** TODO Bridgman Anatomy Phase 1: Torso
 *** TODO Bridgman Anatomy Phase 2: Arms and Legs

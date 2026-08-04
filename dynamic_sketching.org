@@ -1,0 +1,82 @@
+#+TITLE: Dynamic Sketching - Peter Han
+#+AUTHOR: Chris Hogan
+#+STARTUP: nologdone
+
+* General Formula
+   1. simple forms
+   2. construction frame (contours)
+   3. apply texture
+   4. apply shadows
+   5. details
+   6. highlights and color
+
+* General Advice
+  - if you mess up, note what was wrong and redraw it immediately
+
+* Week 1
+  - 6 pages minimum
+** TODO lines
+   - go over each 8x
+   - 2 inches
+   - half page
+   - full page
+** TODO c curves
+** TODO s curves
+** TODO circles
+** TODO ellipses
+* Week 2
+** TODO organic forms
+   - 4 pages with contours
+   - 1 page texture applied
+** TODO textures
+   - 1 page
+** TODO dissection
+   - organic form
+   - cut out a piece
+   - put a texture inside
+* Week 3
+** TODO boxes in perspective
+   - 2 pages
+** TODO boxes in perspective with traced vanishing points
+   - 2 pages
+** TODO form and cast shadows on primitives and organic forms
+   - 2 pages
+* Week 4
+** TODO mass of intersecting shapes
+   - draw through
+   - line weight on intersections
+   - cast and form shadows
+   - 3 pages
+** TODO line quality
+   - thick
+   - thin
+   - tapered
+** TODO apply crosshatching
+   - can use organic, geometric forms, or combined forms
+   - distinguish between cast and form shadows
+   - reference other artists' crosshatching
+   - 3 pages
+* Week 5
+** TODO plant studies
+   - photo reference
+   - 3 pages
+** TODO materials
+   - 3 pages of organic forms experimenting with materials
+* Week 6
+** TODO Sketching plants from life
+   - 6 pages
+   - simple to more complex
+* Week 7
+** TODO Redesign Project
+   - based on plants
+   - 1 page ideations, notes, design
+   - 1 page of final design
+     - callouts
+     - details
+     - explanations
+     - compose the page
+* Week 8
+  - sketching on location
+  - do layins on site, take a photo, and finish details at home
+  - vehicles, machines
+  - animals

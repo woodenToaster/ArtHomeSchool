@@ -11,9 +11,9 @@
 ** Gouache Phase 1
    - head
    - full finish
-** Gouache Phase 2
-   - head
-   - full finish
+** Structural Anatomy: Torso
+   - anatomy
+   - figure
 ** Finch Study
    - invention
    - figure
@@ -23,44 +23,73 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-07-24 Fri 23:48], for the year 2026.
-  | Headline                       | Time  |       |      |      |
-  |--------------------------------+-------+-------+------+------|
-  | *Total time*                     | *26:15* |       |      |      |
-  |--------------------------------+-------+-------+------+------|
-  | Log                            | 26:15 |       |      |      |
-  | \_  Week 1                     |       | 12:18 |      |      |
-  | \_    <2026-07-13 Mon>         |       |       | 1:08 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 1:08 |
-  | \_    <2026-07-14 Tue>         |       |       | 2:21 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 2:21 |
-  | \_    <2026-07-15 Wed>         |       |       | 2:11 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 2:11 |
-  | \_    <2026-07-16 Thu>         |       |       | 1:37 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 0:26 |
-  | \_      Gouache Phase 1        |       |       |      | 1:11 |
-  | \_    <2026-07-17 Fri>         |       |       | 1:56 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 0:34 |
-  | \_      Gouache Phase 1        |       |       |      | 1:22 |
-  | \_    <2026-07-18 Sat>         |       |       | 0:47 |      |
-  | \_      Gouache Phase 1        |       |       |      | 0:47 |
-  | \_    <2026-07-19 Sun>         |       |       | 2:18 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 2:18 |
-  | \_  Week 2                     |       | 13:57 |      |      |
-  | \_    <2026-07-20 Mon>         |       |       | 2:12 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 1:49 |
-  | \_      Gouache Phase 2        |       |       |      | 0:23 |
-  | \_    <2026-07-21 Tue>         |       |       | 3:00 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 1:13 |
-  | \_      Finch                  |       |       |      | 1:47 |
-  | \_    <2026-07-22 Wed>         |       |       | 3:33 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 1:28 |
-  | \_      Finch                  |       |       |      | 2:05 |
-  | \_    <2026-07-23 Thu>         |       |       | 3:16 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 1:20 |
-  | \_      Finch                  |       |       |      | 1:56 |
-  | \_    <2026-07-24 Fri>         |       |       | 1:56 |      |
-  | \_      Figure Drawing Phase 3 |       |       |      | 1:56 |
+  #+CAPTION: Clock summary at [2026-08-03 Mon 21:52], for the year 2026.
+  | Headline                          | Time  |       |      |      |
+  |-----------------------------------+-------+-------+------+------|
+  | *Total time*                        | *47:36* |       |      |      |
+  |-----------------------------------+-------+-------+------+------|
+  | Log                               | 47:36 |       |      |      |
+  | \_  Week 1                        |       | 12:18 |      |      |
+  | \_    <2026-07-13 Mon>            |       |       | 1:08 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 1:08 |
+  | \_    <2026-07-14 Tue>            |       |       | 2:21 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 2:21 |
+  | \_    <2026-07-15 Wed>            |       |       | 2:11 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 2:11 |
+  | \_    <2026-07-16 Thu>            |       |       | 1:37 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:26 |
+  | \_      Gouache Phase 1           |       |       |      | 1:11 |
+  | \_    <2026-07-17 Fri>            |       |       | 1:56 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:34 |
+  | \_      Gouache Phase 1           |       |       |      | 1:22 |
+  | \_    <2026-07-18 Sat>            |       |       | 0:47 |      |
+  | \_      Gouache Phase 1           |       |       |      | 0:47 |
+  | \_    <2026-07-19 Sun>            |       |       | 2:18 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 2:18 |
+  | \_  Week 2                        |       | 18:03 |      |      |
+  | \_    <2026-07-20 Mon>            |       |       | 2:12 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 1:49 |
+  | \_      Gouache Phase 2           |       |       |      | 0:23 |
+  | \_    <2026-07-21 Tue>            |       |       | 3:00 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 1:13 |
+  | \_      Finch                     |       |       |      | 1:47 |
+  | \_    <2026-07-22 Wed>            |       |       | 3:33 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 1:28 |
+  | \_      Finch                     |       |       |      | 2:05 |
+  | \_    <2026-07-23 Thu>            |       |       | 3:16 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 1:20 |
+  | \_      Finch                     |       |       |      | 1:56 |
+  | \_    <2026-07-24 Fri>            |       |       | 1:56 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 1:56 |
+  | \_    <2026-07-25 Sat>            |       |       | 1:19 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:47 |
+  | \_      Finch                     |       |       |      | 0:32 |
+  | \_    <2026-07-26 Sun>            |       |       | 2:47 |      |
+  | \_      Gouache Phase 1           |       |       |      | 2:04 |
+  | \_      Figure Drawing Phase 1    |       |       |      | 0:43 |
+  | \_  Week 3                        |       | 14:25 |      |      |
+  | \_    <2026-07-27 Mon>            |       |       | 2:21 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 1:41 |
+  | \_      Manipulating basic forms  |       |       |      | 0:40 |
+  | \_    <2026-07-28 Tue>            |       |       | 1:40 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 1:40 |
+  | \_    <2026-07-29 Wed>            |       |       | 1:16 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:53 |
+  | \_      Dynamic Sketching         |       |       |      | 0:23 |
+  | \_    <2026-07-30 Thu>            |       |       | 2:07 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 1:16 |
+  | \_      Structural Anatomy: Torso |       |       |      | 0:51 |
+  | \_    <2026-07-31 Fri>            |       |       | 2:40 |      |
+  | \_      Structural Anatomy: Torso |       |       |      | 2:15 |
+  | \_      Dynamic Sketching         |       |       |      | 0:25 |
+  | \_    <2026-08-01 Sat>            |       |       | 1:53 |      |
+  | \_      Structural Anatomy: Torso |       |       |      | 1:53 |
+  | \_    <2026-08-02 Sun>            |       |       | 2:28 |      |
+  | \_      Structural Anatomy: Torso |       |       |      | 1:49 |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:39 |
+  | \_  Week 4                        |       |  2:50 |      |      |
+  | \_    <2026-08-03 Mon>            |       |       | 2:50 |      |
+  | \_      Structural Anatomy: Torso |       |       |      | 2:50 |
   #+END
 ** Week 1
 *** <2026-07-13 Mon>
@@ -158,5 +187,90 @@
      CLOCK: [2026-07-24 Fri 21:25]--[2026-07-24 Fri 22:25] =>  1:00
      CLOCK: [2026-07-24 Fri 08:05]--[2026-07-24 Fri 09:01] =>  0:56
      :END:
+*** <2026-07-25 Sat>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-25 Sat 15:01]--[2026-07-25 Sat 15:48] =>  0:47
+     :END:
+**** DONE Finch
+     :LOGBOOK:
+     CLOCK: [2026-07-25 Sat 20:15]--[2026-07-25 Sat 20:47] =>  0:32
+     :END:
+*** <2026-07-26 Sun>
+**** DONE Gouache Phase 1
+     :LOGBOOK:
+     CLOCK: [2026-07-26 Sun 12:46]--[2026-07-26 Sun 14:50] =>  2:04
+     :END:
+**** DONE Figure Drawing Phase 1
+     :LOGBOOK:
+     CLOCK: [2026-07-26 Sun 21:40]--[2026-07-26 Sun 22:23] =>  0:43
+     :END:
 ** Week 3
+*** <2026-07-27 Mon>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-27 Mon 21:00]--[2026-07-27 Mon 21:50] =>  0:50
+     CLOCK: [2026-07-27 Mon 08:03]--[2026-07-27 Mon 08:54] =>  0:51
+     :END:
+**** DONE Manipulating basic forms
+     :LOGBOOK:
+     CLOCK: [2026-07-27 Mon 21:50]--[2026-07-27 Mon 22:30] =>  0:40
+     :END:
+*** <2026-07-28 Tue>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-28 Tue 21:22]--[2026-07-28 Tue 22:10] =>  0:48
+     CLOCK: [2026-07-28 Tue 08:06]--[2026-07-28 Tue 08:58] =>  0:52
+     :END:
+*** <2026-07-29 Wed>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-29 Wed 21:03]--[2026-07-29 Wed 21:56] =>  0:53
+     :END:
+**** DONE Dynamic Sketching
+     :LOGBOOK:
+     CLOCK: [2026-07-29 Wed 22:12]--[2026-07-29 Wed 22:35] =>  0:23
+     :END:
+*** <2026-07-30 Thu>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-07-30 Thu 21:19]--[2026-07-30 Thu 21:39] =>  0:20
+     CLOCK: [2026-07-30 Thu 08:09]--[2026-07-30 Thu 09:05] =>  0:56
+     :END:
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-07-30 Thu 21:40]--[2026-07-30 Thu 22:31] =>  0:51
+     :END:
+*** <2026-07-31 Fri>
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-07-31 Fri 20:21]--[2026-07-31 Fri 21:37] =>  1:16
+     CLOCK: [2026-07-31 Fri 08:08]--[2026-07-31 Fri 09:07] =>  0:59
+     :END:
+**** DONE Dynamic Sketching
+     :LOGBOOK:
+     CLOCK: [2026-07-31 Fri 18:00]--[2026-07-31 Fri 18:25] =>  0:25
+     :END:
+*** <2026-08-01 Sat>
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-08-01 Sat 19:05]--[2026-08-01 Sat 20:13] =>  1:08
+     CLOCK: [2026-08-01 Sat 10:07]--[2026-08-01 Sat 10:52] =>  0:45
+     :END:
+*** <2026-08-02 Sun>
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-08-02 Sun 21:02]--[2026-08-02 Sun 21:50] =>  0:48
+     CLOCK: [2026-08-02 Sun 12:02]--[2026-08-02 Sun 13:03] =>  1:01
+     :END:
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-08-02 Sun 21:50]--[2026-08-02 Sun 22:29] =>  0:39
+     :END:
 ** Week 4
+*** <2026-08-03 Mon>
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-08-03 Mon 20:01]--[2026-08-03 Mon 21:52] =>  1:51
+     CLOCK: [2026-08-03 Mon 08:04]--[2026-08-03 Mon 09:03] =>  0:59
+     :END:
