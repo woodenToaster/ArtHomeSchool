@@ -21,6 +21,7 @@
 ** Perspective
 *** Architecture
 *** Hard surface
+*** Dynamic Sketching
 ** Master Studies
 
 * Art Goals

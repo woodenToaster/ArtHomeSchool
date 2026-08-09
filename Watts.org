@@ -43,7 +43,7 @@
 *** TODO Landscape Phase 3
 *** TODO Still Life Phase 3
 *** TODO Portrait Painting Phase 4
-*** DONE Drapery
+*** DONE Drapery Phase 1
 *** DONE Perspective Essentials
 *** TODO Anatomy Intensives: Arms & Legs
 *** TODO Anatomy Intensives: Torso
@@ -51,6 +51,7 @@
 ** TODO Year 4
 *** TODO Studio Landscape
 *** TODO Inking Phase 1
+*** TODO Drapery Phase 2
 *** TODO Observational Color
 *** TODO Costumed Figure Painting
 *** TODO Features and Facial Expressions
@@ -58,6 +59,7 @@
 *** TODO Bridgman Anatomy Phase 2: Arms and Legs
 *** TODO Fundamentals of Character Design
 *** TODO Inking Phase 2
+*** TODO Drapery Phase 2
 *** TODO Sketchbooking
 *** DONE Composition and Staging
 *** TODO Creating Environments

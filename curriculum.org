@@ -1172,10 +1172,10 @@
 ***** DONE Ancient
 *** Books
 **** DONE How to Draw
-**** TODO How to Render
+**** DONE How to Render
 **** DONE Framed perspective I
-**** TODO Framed perspective II
-**** TODO Sketching: The Basics
+**** DONE Framed perspective II
+**** DONE Sketching: The Basics
 **** DONE Perspective Sketching
 **** DONE The Complete Guide to Perspective Drawing
 *** Challenge
@@ -1211,13 +1211,13 @@
 *** Videos
 **** DONE Foundation Patreon - Sketching for Environments 1
 **** TODO Foundation Patreon - Sketching for Environments 2
-**** TODO FZD Design Cinema - Environment Thumbnails
+**** DONE FZD Design Cinema - Environment Thumbnails
 **** TODO Schoolism - Environment Design with Nathan Fowkes
 **** TODO Art Camp 3 - Noah Bradley
 **** TODO Environment Concept Design - Noah Bradley
-**** TODO Environment Design Course - James Paick
+**** DONE Environment Design Course - James Paick
 **** TODO Environment Design Basics - James Paick
-**** TODO Environment Design CGMA - James Paick
+**** DONE Environment Design CGMA - James Paick
 ** DONE Digital Painting Fundamentals I
 *** DONE FZD Digital Painting assignments
 ** DONE Brainstorm School Summer '22 part 1
@@ -1236,6 +1236,30 @@
 ** DONE Brainstorm Spring '23 II
 ** DONE Brainstorm Spring '23 III
 * TODO Term 11
+** DONE Watts Term 0
+   - Fundamentals of Quicksketch
+   - Figure Drawing Phase 2
 ** DONE Watts Term I
+   - Structural Figure Drawing
+   - 20 minute head layins
 ** TODO Watts Term II
+   - Figure Drawing Phase 3
+   - Gouache Phase 1
+   - Structural Anatomy: Torso
 ** TODO Watts Term III
+   - Structural Anatomy: Torso
+   - Figure Drawing Phase 3
+   - Gouache Phase 2
+* TODO Term 12
+** TODO Watts and Perspective
+   - Figure Drawing Phase 4
+   - 20 Minute Head Layins - Brian
+   - Marshall's perspective
+   - Space drawing: perspective
+** TODO Watts and Perspective
+* TODO Term 13
+** TODO Watts and Anatomy
+   - Bridgman Finch
+   - Stonehouse Anatomy
+   - Watts Bridgman
+   - Oil painting fundamentals

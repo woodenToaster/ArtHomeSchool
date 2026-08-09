@@ -1,0 +1,127 @@
+#+TITLE: Artwod
+#+AUTHOR: Chris Hogan
+#+DATE: <2026-07-26 Sun>
+#+STARTUP: nologdone
+#+STARTUP: show3levels
+
+* 6 Steps to Draw Anything - https://www.youtube.com/watch?v=6T_-DiAzYBc
+
+** Structuralization
+   - draw basic primitives in perspective
+** Manipulation
+   - stretch
+   - squash
+   - bend
+   - curve
+   - manipulate contours
+** Observation
+   - find basic manipulated shapes from life
+** Education
+   - anatomy
+   - machinary
+   - architecture
+** Imitation
+   - find previous principles in artists you like
+   - master studies
+   - include pieces in your own designs
+** Imagination
+
+* Studying Subjects
+   - Study a single subject intensely for a week or two at a time
+   - This could be something of interest, or your current biggest weakness
+** Process
+   - Start from life
+   - break down into simplest forms
+   - turn those around in space
+   - light them
+   - do them from memory
+   - break down into more complex forms
+   - turn in space
+   - light them
+   - do them from memory
+   - break down into final forms
+   - turn in space
+   - light them
+   - details and rendering
+   - do them from memory
+   - learn about them (anatomy, education, function, etc.)
+   - repeat process with favorite artists instead of from life
+   - create original final redesigns using illustration process
+     - thumbnail sketches
+     - value studies
+     - final
+** Subjects
+*** TODO Plants
+**** TODO fruit and vegetables
+**** TODO flowers
+**** TODO trees
+**** TODO shrubs
+**** TODO vines
+**** TODO cacti
+**** TODO carnivorous
+*** TODO Animals
+**** TODO mammals
+**** TODO birds
+**** TODO reptiles
+**** TODO fish
+**** TODO amphibians
+*** TODO Insects and Arachnids
+**** TODO beetles
+**** TODO butterflies and moths
+**** TODO bees and wasps
+**** TODO flies
+**** TODO grasshoppers and crickets
+**** TODO dragonflies
+**** TODO cockroaches
+**** TODO mantises
+**** TODO stick and leaf insects
+**** TODO spiders
+**** TODO scorpions
+*** TODO Environments
+**** TODO rocks
+**** TODO trees
+**** TODO clouds
+**** TODO water
+**** TODO mountains
+**** TODO landscapes
+*** TODO Architecture
+**** TODO cultures
+**** TODO time periods
+**** TODO functions
+*** TODO Vehicles
+**** TODO different time periods
+**** TODO cars
+**** TODO boats
+**** TODO buses
+**** TODO trains
+**** TODO tanks
+**** TODO airplanes
+**** TODO carriages
+**** TODO chariots
+**** TODO wagons
+*** TODO Props
+**** TODO furniture
+**** TODO weapons
+**** TODO household items
+*** TODO Humans
+**** TODO anatomy
+**** TODO hands
+**** TODO feet
+**** TODO heads
+**** TODO arms
+**** TODO legs
+**** TODO torso
+**** TODO whole figure
+*** TODO Drapery
+**** TODO costumes
+***** TODO hats
+***** TODO jackets
+***** TODO pants
+***** TODO cloaks
+***** TODO gloves
+***** TODO armor
+***** TODO robes
+**** TODO materials
+***** TODO leather
+***** TODO velvet
+**** TODO folds

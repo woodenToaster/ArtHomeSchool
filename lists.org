@@ -26,6 +26,10 @@
    - staedtler
    - ortho
 * Art Books
+** Top Priorities
+*** TODO Dynamic Bible 1 - Peter Han
+*** TODO Space drawing 1: perspective - Dongho Kim
+*** TODO Stonehouse's Anatomy
 ** General
 *** TODO Dynamic Bible 1 - Peter Han
 *** Fundamentals of drawing - Mogilevtsev
@@ -371,6 +375,9 @@
 * Fourth Year (Redux) <2026-05-28 Thu> to <2027-05-28 Fri>
 ** Watts Atelier
 ** David Finch
+** Dynamic Sketching
+** Marshall's Perspective Class
+** Plein Air Painting
 * Potential Project Ideas
 ** Favorite games
     - mega man
