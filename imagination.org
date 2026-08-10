@@ -1,0 +1,284 @@
+#+TITLE: Drawing From Imagination
+#+AUTHOR: Chris Hogan
+#+DATE: <2026-07-26 Sun>
+#+STARTUP: nologdone
+#+STARTUP: show3levels
+
+* Ultimate Course for Drawing From Imagination - https://www.youtube.com/watch?v=pVePCjlBHOY
+  - You can go through all the steps with varying complexity of forms
+  - Start simple, then go more complex
+** Layer 1 (pyramid base)
+*** Step 1 - Become intuitive with perspective
+    - Be able to draw forms in perspective without guidelines
+    - Believability over strict, technical accuracy
+**** Exercises
+     - draw basic forms in believable perspective without a grid
+     - draw a scene of basics forms in believable perspective without a grid
+     - exercises from dynamic bible and dynamic sketching
+     - recede same-sized planes in space
+     - 4 and 5 point basic forms
+     - 4 and 5 point scenes of basic forms
+*** Step 2 - Form Manipulation
+    - modifications start simple and become progressively closer to what you are
+      studying or ultimately trying to draw
+    - draw through until you don't need to
+    - based on having intuitive perspective
+**** Exercises
+     - for each basic form primitive
+       - curve
+       - stretch
+       - squash
+       - modify orthographic view
+       - modify contour (top view)
+       - modify edges (rounding or bevel), single or double
+       - form addition or combination
+       - form extraction
+       - form subtraction (boolean other forms)
+       - taper
+*** Step 3 - Proportions
+    - combine forms focusing on getting proportions right
+    - start with simple, hard surface objects
+**** Exercises
+     - draw simple hard surface objects with corrct proportion
+       - first understand the underlying forms (basic or manipulated)
+       - combine the forms in the correct proportions
+       - rotate them in space
+     - try varying proportions (big, medium, small) to come up with interesting designs
+     - mannequinize figures, focusing on proportion
+       - rotate them in space
+*** Step 4 - Study what looks good
+    - keeps you motivated
+    - checks your learning
+    - copy artists' works
+    - not a line-for-line copy. Understand the manipulated forms and reconstruct them
+**** Exercises
+     - start by deconstructing the objects into simple, then more complex manipulated forms
+     - reconstruct the drawing by putting them together
+     - understand the forms
+     - add details
+*** Step 5 - Reverse Engineering
+    - taking random scribble shapes and turning them into recognizable forms with structure
+    - turning a 2D shape into a 3D form
+**** Exercises
+     - draw a random 2D shape
+     - sculpt it into a recognizable 3D form
+** Layer 2 (pyramid middle)
+*** Step 6 - Indicate form with shadow
+    - go back to basic and manipulated forms
+    - indicate the form by hatching along cross contour lines
+    - can use the same strategy with thicker strokes when painting
+**** Exercises
+     - shade basic and manipulated forms with cross contour hatching
+*** Step 7 - Cell shading
+    - simplify into light side and shadow side
+    - graphically indicate shadows
+**** Exercises
+     - cell shade basic forms
+     - just 2 values
+     - rotate form and light source
+*** Step 8 - Cell shading on complex forms
+**** Exercises
+     - shade complex, manipulated forms from step 2
+     - 2 values
+     - rotate form and light source
+*** Step 9 - Cell shading on believable forms
+    - loomis heads
+    - mannequinized figures
+    - manipulated forms that resemble source something to be believable
+**** Exercises
+     - different lighting situations for believable
+       - loomis heads
+       - mannequins
+       - hard surface
+       - really any subject
+*** Step 10 - Study what looks good
+    - construct from other artists like step 4, but now add value
+    - how do they use shape design?
+    - how do they use hatching?
+    - how do they turn form with shadow?
+**** Exercises
+     - master studies like step 4, but focusing on how value reveals 3D form
+*** Step 11 - Reverse Engineering
+    - same as step 5, but add shadow
+**** Exercises
+     - reverse engineering exercise
+     - add cell shading
+     - add hatching or contour
+     - design cool shadow shapes that also reveal the form
+** Layer 3 (pyramid top)
+*** Step 12 - Half tones
+    - start with simple forms
+    - add cell shading
+    - add half tone values to describe the form in the light
+    - still greyscale
+**** Exercises
+     - step 7 (simple forms) but add half tones
+       - hatching
+       - gouache
+       - markers
+       - oil
+     - step 8 (complex forms) with half tones
+     - step 9 (believable forms) with half tones
+*** Step 13 - Color
+    - start with limited palette and gradually increase
+    - monochromatic
+      - one color plus black and white
+    - monochromatic plus opposite on color wheel
+    - Zorn
+    - color wheel triangle gamut
+    - warm cool
+      - cool shadows
+      - warm light
+    - unlimited
+    - value is still king
+**** Exercises
+     - with each palette
+       - add color to basic, complex, and believable forms
+*** Step 14 - Study what looks good
+    - How are your favorite artists using half tones and color?
+**** Exercises
+     - master studies like step 10, but add half tones
+     - masters tudies like step 10, but add color
+*** Step 15 - Emulate
+    - Create something new in the style of art that exists
+    - Emulating a master without knowing their process is a sign of a good artist
+    - Using understanding and fundamentals instead of just copying
+**** Exercises
+     - draw an original subject in the style that some artist draws that subject
+     - draw an original subject in the style that some artist draws a different subject
+     - E.g., paint a goblin in the style of Leyendecker
+*** Step 16 - Experiment
+    - This is the end goal
+    - Create art from imagination
+    - Fail often, but do it a lot
+**** Exercises
+     - illustration process
+     - concept design process
+
+* Studying Subjects
+   - Study a single subject intensely for a week or two at a time
+   - This could be something of interest, or your current biggest weakness
+   - Use the 16 step, 3 tiered pyramid above
+** Process
+   - Start from life
+   - break down into simplest forms
+   - get the proportion right
+   - turn those around in space
+   - light them
+   - do them from memory
+   - break down into more complex forms
+   - get the proportion right
+   - turn in space
+   - light them
+   - do them from memory
+   - break down into final forms
+   - get the proportion right
+   - turn in space
+   - light them
+   - details and rendering
+   - do them from memory
+   - learn about them (anatomy, education, function, etc.)
+   - repeat process with favorite artists instead of from life
+   - create original final redesigns using illustration process
+     - reverse engineering
+     - thumbnails
+     - sketches
+     - value studies
+     - color comps
+     - final
+** Subjects
+*** TODO Plants
+**** TODO fruit and vegetables
+**** TODO flowers
+**** TODO trees
+**** TODO shrubs
+**** TODO vines
+**** TODO cacti
+**** TODO carnivorous
+*** TODO Animals
+**** TODO mammals
+**** TODO birds
+**** TODO reptiles
+**** TODO fish
+**** TODO amphibians
+*** TODO Insects and Arachnids
+**** TODO beetles
+**** TODO butterflies and moths
+**** TODO bees and wasps
+**** TODO flies
+**** TODO grasshoppers and crickets
+**** TODO dragonflies
+**** TODO cockroaches
+**** TODO mantises
+**** TODO stick and leaf insects
+**** TODO spiders
+**** TODO scorpions
+*** TODO Environments
+**** TODO rocks
+**** TODO trees
+**** TODO clouds
+**** TODO water
+**** TODO mountains
+**** TODO landscapes
+*** TODO Architecture
+**** TODO cultures
+**** TODO time periods
+**** TODO functions
+*** TODO Vehicles
+**** TODO different time periods
+**** TODO cars
+**** TODO boats
+**** TODO buses
+**** TODO trains
+**** TODO tanks
+**** TODO airplanes
+**** TODO carriages
+**** TODO chariots
+**** TODO wagons
+*** TODO Props
+**** TODO furniture
+**** TODO weapons
+**** TODO household items
+*** TODO Humans
+**** TODO anatomy
+**** TODO hands
+**** TODO feet
+**** TODO heads
+**** TODO arms
+**** TODO legs
+**** TODO torso
+**** TODO whole figure
+*** TODO Drapery
+**** TODO costumes
+***** TODO hats
+***** TODO jackets
+***** TODO pants
+***** TODO cloaks
+***** TODO gloves
+***** TODO armor
+***** TODO robes
+**** TODO materials
+***** TODO leather
+***** TODO velvet
+**** TODO folds
+
+* 6 Steps to Draw Anything (obsolete) - https://www.youtube.com/watch?v=6T_-DiAzYBc
+** Structuralization
+   - draw basic primitives in perspective
+** Manipulation
+   - stretch
+   - squash
+   - bend
+   - curve
+   - manipulate contours
+** Observation
+   - find basic manipulated shapes from life
+** Education
+   - anatomy
+   - machinary
+   - architecture
+** Imitation
+   - find previous principles in artists you like
+   - master studies
+   - include pieces in your own designs
+** Imagination

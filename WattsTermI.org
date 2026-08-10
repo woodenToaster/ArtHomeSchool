@@ -19,7 +19,7 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-07-13 Mon 20:25], for the year 2026.
+  #+CAPTION: Clock summary at [2026-08-09 Sun 13:34], for the year 2026.
   | Headline                          | Time  |       |      |      |
   |-----------------------------------+-------+-------+------+------|
   | *Total time*                        | *41:11* |       |      |      |
