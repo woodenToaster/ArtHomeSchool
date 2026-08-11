@@ -1242,7 +1242,7 @@
 ** DONE Watts Term I
    - Structural Figure Drawing
    - 20 minute head layins
-** TODO Watts Term II
+** DONE Watts Term II
    - Figure Drawing Phase 3
    - Gouache Phase 1
    - Structural Anatomy: Torso
@@ -1251,15 +1251,6 @@
    - Figure Drawing Phase 3
    - Gouache Phase 2
 * TODO Term 12
-** TODO Watts and Perspective
-   - Figure Drawing Phase 4
-   - 20 Minute Head Layins - Brian
-   - Marshall's perspective
-   - Space drawing: perspective
-** TODO Watts and Perspective
+** TODO Imagination I - Basics
+** TODO Imagination II - Plants
 * TODO Term 13
-** TODO Watts and Anatomy
-   - Bridgman Finch
-   - Stonehouse Anatomy
-   - Watts Bridgman
-   - Oil painting fundamentals

@@ -1,0 +1,38 @@
+#+TITLE: Imagination I - Basics
+#+AUTHOR: Chris Hogan
+#+DATE: <2026-08-10 Mon>
+#+STARTUP: nologdone
+#+STARTUP: show2levels
+
+* Classes
+** Figure Drawing Phase 3
+   - figure
+   - quicksketch
+** Structural Anatomy: Torso
+   - anatomy
+   - figure
+** Intuitive Sketching I - Basic Forms
+
+* Log
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
+  #+CAPTION: Clock summary at [2026-08-10 Mon 22:30], for the year 2026.
+  | Headline                       | Time |      |      |      |
+  |--------------------------------+------+------+------+------|
+  | *Total time*                     | *2:42* |      |      |      |
+  |--------------------------------+------+------+------+------|
+  | Log                            | 2:42 |      |      |      |
+  | \_  Week 1                     |      | 2:42 |      |      |
+  | \_    <2026-08-10 Mon>         |      |      | 2:42 |      |
+  | \_      Figure Drawing Phase 3 |      |      |      | 0:47 |
+  | \_      Intuitive Sketching I  |      |      |      | 1:55 |
+  #+END
+** Week 1
+*** <2026-08-10 Mon>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-08-10 Mon 08:15]--[2026-08-10 Mon 09:02] =>  0:47
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-10 Mon 20:34]--[2026-08-10 Mon 22:29] =>  1:55
+     :END:

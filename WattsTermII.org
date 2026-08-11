@@ -20,12 +20,12 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-08-08 Sat 21:59], for the year 2026.
+  #+CAPTION: Clock summary at [2026-08-09 Sun 21:30], for the year 2026.
   | Headline                          | Time  |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | *Total time*                        | *60:47* |       |      |      |
+  | *Total time*                        | *61:41* |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | Log                               | 60:47 |       |      |      |
+  | Log                               | 61:41 |       |      |      |
   | \_  Week 1                        |       | 12:18 |      |      |
   | \_    <2026-07-13 Mon>            |       |       | 1:08 |      |
   | \_      Figure Drawing Phase 3    |       |       |      | 1:08 |
@@ -84,7 +84,7 @@
   | \_    <2026-08-02 Sun>            |       |       | 2:28 |      |
   | \_      Structural Anatomy: Torso |       |       |      | 1:49 |
   | \_      Figure Drawing Phase 3    |       |       |      | 0:39 |
-  | \_  Week 4                        |       | 16:01 |      |      |
+  | \_  Week 4                        |       | 16:55 |      |      |
   | \_    <2026-08-03 Mon>            |       |       | 2:50 |      |
   | \_      Structural Anatomy: Torso |       |       |      | 2:50 |
   | \_    <2026-08-04 Tue>            |       |       | 3:41 |      |
@@ -101,6 +101,8 @@
   | \_      Dynamic Sketching         |       |       |      | 0:45 |
   | \_    <2026-08-08 Sat>            |       |       | 1:21 |      |
   | \_      Figure Drawing Phase 3    |       |       |      | 1:21 |
+  | \_    <2026-08-09 Sun>            |       |       | 0:54 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:54 |
   #+END
 ** Week 1
 *** <2026-07-13 Mon>
@@ -333,3 +335,7 @@
      CLOCK: [2026-08-08 Sat 20:37]--[2026-08-08 Sat 21:58] =>  1:21
      :END:
 *** <2026-08-09 Sun>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-08-09 Sun 20:36]--[2026-08-09 Sun 21:30] =>  0:54
+     :END:

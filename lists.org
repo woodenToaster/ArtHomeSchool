@@ -13,23 +13,10 @@
    - 8
 ** Robert Simmons flats
    - 2
-** Pilot parallel pen
-** Niko comic pen nib G with Tachikawa nib holder
-** Water brush pen (Kuretake Fude or Pentel)
-** Grey marker (20-30%)
 ** Copic wide
 ** Platinum desktop fountain pen
-** Fine liners
-   - 0.3
-   - 0.5
-   - 0.7
-   - staedtler
-   - ortho
+
 * Art Books
-** Top Priorities
-*** TODO Dynamic Bible 1 - Peter Han
-*** TODO Space drawing 1: perspective - Dongho Kim
-*** TODO Stonehouse's Anatomy
 ** General
 *** TODO Dynamic Bible 1 - Peter Han
 *** Fundamentals of drawing - Mogilevtsev
@@ -95,9 +82,9 @@
 *** DONE Force: Drawing Human Anatomy
 *** DONE Figure Drawing for all it's Worth - Loomis
 ** Perspective
-*** TODO Space drawing 1: perspective - Dongho Kim
 *** TODO Space drawing 2: perspective - Dongho Kim
 *** TODO Creative Perspective for Artists and Illustrators - Ernest Watson
+*** DONE Space drawing 1: perspective - Dongho Kim
 *** DONE Drawing perspective: how to see it and how to apply it - Brehm
 *** DONE Sketching: The Basics
 *** DONE Framed Perspective Vol I - Marcos mateu-Mestre
