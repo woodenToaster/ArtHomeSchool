@@ -1,4 +1,4 @@
-#+TITLE: Drawing From Imagination
+#+TITLE: Inutitive Sketching
 #+AUTHOR: Chris Hogan
 #+DATE: <2026-07-26 Sun>
 #+STARTUP: nologdone
@@ -7,7 +7,7 @@
 * Ultimate Course for Drawing From Imagination - https://www.youtube.com/watch?v=pVePCjlBHOY
   - You can go through all the steps with varying complexity of forms
   - Start simple, then go more complex
-** Layer 1 (pyramid base)
+** Phase 1 (pyramid base)
 *** Step 1 - Become intuitive with perspective
     - Be able to draw forms in perspective without guidelines
     - Believability over strict, technical accuracy
@@ -62,7 +62,7 @@
 **** Exercises
      - draw a random 2D shape
      - sculpt it into a recognizable 3D form
-** Layer 2 (pyramid middle)
+** Phase 2 (pyramid middle)
 *** Step 6 - Indicate form with shadow
     - go back to basic and manipulated forms
     - indicate the form by hatching along cross contour lines
@@ -105,7 +105,7 @@
      - add cell shading
      - add hatching or contour
      - design cool shadow shapes that also reveal the form
-** Layer 3 (pyramid top)
+** Phase 3 (pyramid top)
 *** Step 12 - Half tones
     - start with simple forms
     - add cell shading
@@ -249,18 +249,15 @@
 **** TODO torso
 **** TODO whole figure
 *** TODO Drapery
-**** TODO costumes
-***** TODO hats
-***** TODO jackets
-***** TODO pants
-***** TODO cloaks
-***** TODO gloves
-***** TODO armor
-***** TODO robes
-**** TODO materials
-***** TODO leather
-***** TODO velvet
 **** TODO folds
+**** TODO hats
+**** TODO jackets
+**** TODO pants
+**** TODO cloaks
+**** TODO gloves
+**** TODO armor
+**** TODO robes
+**** TODO various cultures and time periods
 
 * 6 Steps to Draw Anything (obsolete) - https://www.youtube.com/watch?v=6T_-DiAzYBc
 ** Structuralization
