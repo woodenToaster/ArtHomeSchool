@@ -5,16 +5,9 @@
 * Art Supplies
 ** walnut oil/alkyd
 ** Gamblin solvent-free fluid
-** sun dried linseed oil
-** bigger flat bristle brush (8 or 10)?
-** Robert Simmons rounds
-   - 0
-   - 3
-   - 8
-** Robert Simmons flats
-   - 2
 ** Copic wide
 ** Platinum desktop fountain pen
+** Tombow water based markersf
 
 * Art Books
 ** General
@@ -100,7 +93,7 @@
 *** DONE The Complete Art of Comic Book Inking - Gary Martin
 ** Light and Value
 *** DONE Color and Light (geared torward painting) - James Gurney
-*** Dynamic Light and Shading - Burne Hogarth 
+*** Dynamic Light and Shading - Burne Hogarth
 *** DONE How to Render - Robertson
 *** Light for Visual Artists - Yot
 *** Artist's Master Series: Color and Light (3D total)
@@ -292,6 +285,7 @@
 *** Spectrum books (library)
 *** Greg Rutkowski
 *** Betsinski
+*** Kim Jung Gi sketchbooks
 * Second Year (<2021-05-31 Mon> to <2022-05-31 Tue>)
 ** Study strategy
 *** Learn
@@ -365,6 +359,7 @@
 ** Dynamic Sketching
 ** Marshall's Perspective Class
 ** Plein Air Painting
+** Intuitive Sketching
 * Potential Project Ideas
 ** Favorite games
     - mega man

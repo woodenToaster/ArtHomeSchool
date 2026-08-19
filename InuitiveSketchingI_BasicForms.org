@@ -1,0 +1,149 @@
+#+TITLE: Intuitive Sketching I - Basic Forms
+#+AUTHOR: Chris Hogan
+#+DATE: <2026-08-10 Mon>
+#+STARTUP: nologdone
+#+STARTUP: show2levels
+
+* Classes
+** Figure Drawing Phase 3
+   - figure
+   - quicksketch
+** Structural Anatomy: Torso
+   - anatomy
+   - figure
+** Intuitive Sketching I - Basic Forms
+
+* Log
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
+  #+CAPTION: Clock summary at [2026-08-19 Wed 18:49], for the year 2026.
+  | Headline                          | Time  |       |      |      |
+  |-----------------------------------+-------+-------+------+------|
+  | *Total time*                        | *28:48* |       |      |      |
+  |-----------------------------------+-------+-------+------+------|
+  | Log                               | 28:48 |       |      |      |
+  | \_  Week 1                        |       | 20:52 |      |      |
+  | \_    <2026-08-10 Mon>            |       |       | 2:42 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:47 |
+  | \_      Intuitive Sketching I     |       |       |      | 1:55 |
+  | \_    <2026-08-11 Tue>            |       |       | 3:33 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:56 |
+  | \_      Intuitive Sketching I     |       |       |      | 2:37 |
+  | \_    <2026-08-12 Wed>            |       |       | 2:47 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:55 |
+  | \_      Intuitive Sketching I     |       |       |      | 1:52 |
+  | \_    <2026-08-13 Thu>            |       |       | 2:50 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:55 |
+  | \_      Intuitive Sketching I     |       |       |      | 1:55 |
+  | \_    <2026-08-14 Fri>            |       |       | 2:22 |      |
+  | \_      Figure Drawing Phase 3    |       |       |      | 0:50 |
+  | \_      Intuitive Sketching I     |       |       |      | 1:32 |
+  | \_    <2026-08-15 Sat>            |       |       | 3:11 |      |
+  | \_      Structural Anatomy: Torso |       |       |      | 1:12 |
+  | \_      Intuitive Sketching I     |       |       |      | 1:59 |
+  | \_    <2026-08-16 Sun>            |       |       | 3:27 |      |
+  | \_      Structural Anatomy: Torso |       |       |      | 0:40 |
+  | \_      Intuitive Sketching I     |       |       |      | 2:47 |
+  | \_  Week 2                        |       |  7:56 |      |      |
+  | \_    <2026-08-17 Mon>            |       |       | 3:42 |      |
+  | \_      Structural Anatomy: Torso |       |       |      | 0:47 |
+  | \_      Intuitive Sketching I     |       |       |      | 2:55 |
+  | \_    <2026-08-18 Tue>            |       |       | 3:28 |      |
+  | \_      Structural Anatomy: Torso |       |       |      | 0:45 |
+  | \_      Intuitive Sketching I     |       |       |      | 2:43 |
+  | \_    <2026-08-19 Wed>            |       |       | 0:46 |      |
+  | \_      Structural Anatomy: Torso |       |       |      | 0:46 |
+  #+END
+** Week 1
+*** <2026-08-10 Mon>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-08-10 Mon 08:15]--[2026-08-10 Mon 09:02] =>  0:47
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-10 Mon 20:34]--[2026-08-10 Mon 22:29] =>  1:55
+     :END:
+*** <2026-08-11 Tue>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-08-11 Tue 08:02]--[2026-08-11 Tue 08:58] =>  0:56
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-11 Tue 19:58]--[2026-08-11 Tue 21:45] =>  1:47
+     CLOCK: [2026-08-11 Tue 18:00]--[2026-08-11 Tue 18:50] =>  0:50
+     :END:
+*** <2026-08-12 Wed>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-08-12 Wed 08:06]--[2026-08-12 Wed 09:01] =>  0:55
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-12 Wed 21:22]--[2026-08-12 Wed 22:21] =>  0:59
+     CLOCK: [2026-08-12 Wed 18:00]--[2026-08-12 Wed 18:53] =>  0:53
+     :END:
+*** <2026-08-13 Thu>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-08-13 Thu 08:03]--[2026-08-13 Thu 08:58] =>  0:55
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-13 Thu 21:37]--[2026-08-13 Thu 22:32] =>  0:55
+     CLOCK: [2026-08-13 Thu 18:00]--[2026-08-13 Thu 19:00] =>  1:00
+     :END:
+*** <2026-08-14 Fri>
+**** DONE Figure Drawing Phase 3
+     :LOGBOOK:
+     CLOCK: [2026-08-14 Fri 08:07]--[2026-08-14 Fri 08:57] =>  0:50
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-14 Fri 21:26]--[2026-08-14 Fri 22:58] =>  1:32
+     :END:
+*** <2026-08-15 Sat>
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-08-15 Sat 10:42]--[2026-08-15 Sat 11:54] =>  1:12
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-15 Sat 20:37]--[2026-08-15 Sat 22:36] =>  1:59
+     :END:
+*** <2026-08-16 Sun>
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-08-16 Sun 13:11]--[2026-08-16 Sun 13:51] =>  0:40
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-16 Sun 20:25]--[2026-08-16 Sun 22:18] =>  1:53
+     CLOCK: [2026-08-16 Sun 19:18]--[2026-08-16 Sun 20:12] =>  0:54
+     :END:
+** Week 2
+*** <2026-08-17 Mon>
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-08-17 Mon 08:11]--[2026-08-17 Mon 08:58] =>  0:47
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-17 Mon 21:32]--[2026-08-17 Mon 22:25] =>  0:53
+     CLOCK: [2026-08-17 Mon 19:01]--[2026-08-17 Mon 21:03] =>  2:02
+     :END:
+*** <2026-08-18 Tue>
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-08-18 Tue 08:10]--[2026-08-18 Tue 08:55] =>  0:45
+     :END:
+**** DONE Intuitive Sketching I
+     :LOGBOOK:
+     CLOCK: [2026-08-18 Tue 20:21]--[2026-08-18 Tue 22:19] =>  1:58
+     CLOCK: [2026-08-18 Tue 18:00]--[2026-08-18 Tue 18:45] =>  0:45
+     :END:
+*** <2026-08-19 Wed>
+**** DONE Structural Anatomy: Torso
+     :LOGBOOK:
+     CLOCK: [2026-08-19 Wed 08:07]--[2026-08-19 Wed 08:53] =>  0:46
+     :END:
