@@ -15,12 +15,12 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-08-19 Wed 18:49], for the year 2026.
+  #+CAPTION: Clock summary at [2026-08-25 Tue 21:58], for the year 2026.
   | Headline                          | Time  |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | *Total time*                        | *28:48* |       |      |      |
+  | *Total time*                        | *31:48* |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | Log                               | 28:48 |       |      |      |
+  | Log                               | 31:48 |       |      |      |
   | \_  Week 1                        |       | 20:52 |      |      |
   | \_    <2026-08-10 Mon>            |       |       | 2:42 |      |
   | \_      Figure Drawing Phase 3    |       |       |      | 0:47 |
@@ -43,7 +43,7 @@
   | \_    <2026-08-16 Sun>            |       |       | 3:27 |      |
   | \_      Structural Anatomy: Torso |       |       |      | 0:40 |
   | \_      Intuitive Sketching I     |       |       |      | 2:47 |
-  | \_  Week 2                        |       |  7:56 |      |      |
+  | \_  Week 2                        |       | 10:56 |      |      |
   | \_    <2026-08-17 Mon>            |       |       | 3:42 |      |
   | \_      Structural Anatomy: Torso |       |       |      | 0:47 |
   | \_      Intuitive Sketching I     |       |       |      | 2:55 |
@@ -52,6 +52,12 @@
   | \_      Intuitive Sketching I     |       |       |      | 2:43 |
   | \_    <2026-08-19 Wed>            |       |       | 0:46 |      |
   | \_      Structural Anatomy: Torso |       |       |      | 0:46 |
+  | \_    <2026-08-20 Thu>            |       |       | 1:00 |      |
+  | \_      POV drawing               |       |       |      | 1:00 |
+  | \_    <2026-08-21 Fri>            |       |       | 1:00 |      |
+  | \_      POV drawing               |       |       |      | 1:00 |
+  | \_    <2026-08-22 Sat>            |       |       | 1:00 |      |
+  | \_      POV drawing               |       |       |      | 1:00 |
   #+END
 ** Week 1
 *** <2026-08-10 Mon>
@@ -147,3 +153,19 @@
      :LOGBOOK:
      CLOCK: [2026-08-19 Wed 08:07]--[2026-08-19 Wed 08:53] =>  0:46
      :END:
+*** <2026-08-20 Thu>
+**** DONE POV drawing
+     :LOGBOOK:
+     CLOCK: [2026-08-20 Thu 21:00]--[2026-08-20 Thu 22:00] =>  1:00
+     :END:
+*** <2026-08-21 Fri>
+**** DONE POV drawing
+    :LOGBOOK:
+    CLOCK: [2026-08-21 Fri 21:00]--[2026-08-21 Fri 22:00] =>  1:00
+    :END:
+*** <2026-08-22 Sat>
+**** DONE POV drawing
+    :LOGBOOK:
+    CLOCK: [2026-08-22 Sat 21:00]--[2026-08-22 Sat 22:00] =>  1:00
+    :END:
+** Week 3
