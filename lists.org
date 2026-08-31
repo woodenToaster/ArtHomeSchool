@@ -28,6 +28,8 @@
 *** DONE The Practice and Science of Drawing - Speed
 ** Figure Drawing
 *** TODO Human Anatomy for Artists - Goldfinger
+*** TODO An Artist's Guide to Drawing Clothed Characters - Tom Fox
+*** TODO Anatomy for Artists: Drawing Form and Pose - Tom Fox
 *** TODO Morpho anatomy books
 *** TODO Stonehouse's Anatomy
 *** Figure Drawing for Concept Artists

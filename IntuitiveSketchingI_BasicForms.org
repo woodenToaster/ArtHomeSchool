@@ -15,12 +15,12 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-08-25 Tue 21:58], for the year 2026.
+  #+CAPTION: Clock summary at [2026-08-26 Wed 08:56], for the year 2026.
   | Headline                          | Time  |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | *Total time*                        | *31:48* |       |      |      |
+  | *Total time*                        | *32:06* |       |      |      |
   |-----------------------------------+-------+-------+------+------|
-  | Log                               | 31:48 |       |      |      |
+  | Log                               | 32:06 |       |      |      |
   | \_  Week 1                        |       | 20:52 |      |      |
   | \_    <2026-08-10 Mon>            |       |       | 2:42 |      |
   | \_      Figure Drawing Phase 3    |       |       |      | 0:47 |
@@ -58,6 +58,9 @@
   | \_      POV drawing               |       |       |      | 1:00 |
   | \_    <2026-08-22 Sat>            |       |       | 1:00 |      |
   | \_      POV drawing               |       |       |      | 1:00 |
+  | \_  Week 3                        |       |  0:18 |      |      |
+  | \_    <2026-08-26 Wed>            |       |       | 0:18 |      |
+  | \_      Intuitive Sketching I     |       |       |      | 0:18 |
   #+END
 ** Week 1
 *** <2026-08-10 Mon>
@@ -169,3 +172,4 @@
     CLOCK: [2026-08-22 Sat 21:00]--[2026-08-22 Sat 22:00] =>  1:00
     :END:
 ** Week 3
+*** <2026-08-26 Wed>
