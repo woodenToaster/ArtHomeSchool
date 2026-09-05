@@ -18,6 +18,7 @@
 *** The Natural Way to Draw - Kimon Nicolaides (for developing the sensitivity of an artist)
 *** Drawing Course - Charles Bargue
 *** Andrew Loomis
+**** DONE Figure Drawing for All it's Worth
 **** Fun With a Pencil
 **** Successful Drawing
 **** Creative Illustration
@@ -27,11 +28,11 @@
 *** DONE Krash Course - Greg Capullo
 *** DONE The Practice and Science of Drawing - Speed
 ** Figure Drawing
-*** TODO Human Anatomy for Artists - Goldfinger
 *** TODO An Artist's Guide to Drawing Clothed Characters - Tom Fox
 *** TODO Anatomy for Artists: Drawing Form and Pose - Tom Fox
 *** TODO Morpho anatomy books
 *** TODO Stonehouse's Anatomy
+*** Human Anatomy for Artists - Goldfinger
 *** Figure Drawing for Concept Artists
 *** Drawing the Head and Hands - Loomis
 *** Artistic Anatomy - Paul Richer
@@ -94,13 +95,17 @@
 *** DONE The DC Guide to Inking comics
 *** DONE The Complete Art of Comic Book Inking - Gary Martin
 ** Light and Value
-*** DONE Color and Light (geared torward painting) - James Gurney
+*** TODO Color and Light - 3D Total
 *** Dynamic Light and Shading - Burne Hogarth
-*** DONE How to Render - Robertson
 *** Light for Visual Artists - Yot
-*** Artist's Master Series: Color and Light (3D total)
 *** Lessons on Shading - Sparkes
+*** DONE How to Render - Robertson
+*** DONE Color and Light - James Gurney
 ** Painting
+*** TODO Get Started With Gouache - Emma Block
+*** TODO Landscape Painting - Mitchel Albala
+*** TODO Carlson's Guide to Landscape Painting
+*** TODO A Guide to Digital Painting in Procreate: Landscapes and Plein Air
 *** The Painterly Approach - Bob Rohm
 *** Fundamentals of painting - Mogilevtsev
 *** Hawthorne on Painting
@@ -111,7 +116,7 @@
 *** Mastering the Craft of Painting - Grado
 *** Faragasso (Reilly method)
 *** How to See Color and Paint it - Arthur Stern
-*** DONE Alla Prima - Richard Schmid
+*** DONE Alla Prima II - Richard Schmid
 *** DONE The Simple Secret to Better Painting - Gregg Albert
 ** Composition
 *** graphic L.A.
@@ -129,41 +134,77 @@
 *** DONE Wally Wood - 22 panels that always work
 ** Design
 *** TODO Design of Everyday Things - Donald Norman
-* Inspirational Books
-*** The Practice: Shipping Creative Work - Seth Goden
-*** Psychology of Performance - Eddie O'Connor (Hoopla)
-*** Digital Minimalism - Cal Newport
-*** Real Artists Don't Starve - Jeff Goins
-*** Linchpin - Seth Goden
-    - Art and business mix
-*** Osprey Medieval reference books
-*** The Skilled Huntsman
-*** Concept Art Books
-*** Antifragile
-*** The Mind Map Book
-*** Eternal Truths for Every Artist
-*** Fishing for Elephants
-*** The Surrender Experiment - Alan Singer
-*** As a Man Thinketh - James Allen
-*** Feeling Good (depression) (hoopla)
-*** Drawing from the Right Side of the Brain - Betty Edwards
-*** Mindworks - Gary van Warmerdam
-*** Chasing Love - Ray Bradberry
-*** DONE 12 Rules for Life - Jordan Peterson
-*** DONE Mastery: Greene
-*** DONE The War of Art
-*** DONE The Artist's Way
-*** DONE Practicing: A Musician's Return to Music - Glenn Kurtz (library)
-*** DONE Deep Work - Cal Newport
-*** DONE The Creative Habit - Twyla Tharp
-*** DONE The Talent Code
-*** DONE Gardner's Art Through the Ages
-*** DONE History of Art - Janson
-*** DONE Art and Fear
-*** DONE The Happiness Trap (depression)
-*** DONE The Art Spirit - Robert Henri (Hoopla)
-*** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
+* Inspiration and Mindset Books
+** TODO Get Better at Anything - Scott Young
+** The Practice: Shipping Creative Work - Seth Goden
+** Psychology of Performance - Eddie O'Connor (Hoopla)
+** Digital Minimalism - Cal Newport
+** Real Artists Don't Starve - Jeff Goins
+** Linchpin - Seth Goden
+   - Art and business mix
+** Antifragile
+** The Mind Map Book
+** Eternal Truths for Every Artist
+** Fishing for Elephants
+** The Surrender Experiment - Alan Singer
+** As a Man Thinketh - James Allen
+** Feeling Good
+** Drawing from the Right Side of the Brain - Betty Edwards
+** Mindworks - Gary van Warmerdam
+** Chasing Love - Ray Bradberry
+** DONE 12 Rules for Life - Jordan Peterson
+** DONE Mastery: Greene
+** DONE The War of Art
+** DONE The Artist's Way
+** DONE Practicing: A Musician's Return to Music - Glenn Kurtz
+** DONE Deep Work - Cal Newport
+** DONE The Creative Habit - Twyla Tharp
+** DONE The Talent Code
+** DONE Gardner's Art Through the Ages
+** DONE History of Art - Janson
+** DONE Art and Fear
+** DONE The Happiness Trap
+** DONE The Art Spirit - Robert Henri
+** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
+* High Priority Activities
+** TODO Finch torso
+** TODO Animation Human Body Structure Special Training
+** TODO Color and Light book
+* Pending Activities
+** Finch
+*** TODO Back
+*** TODO Legs
+*** TODO Arms
+*** TODO Hands
+*** TODO Feet
+*** TODO Heads
+*** TODO Noses
+*** TODO Eyes
+*** TODO Line of Beauty
+*** TODO Clothed Figures
+*** TODO Study Bridgman
+*** TODO Study Other Artists
+** Learn Squared
+*** TODO Aaron Limonick Ink Sketching classes
+** Watts
+*** TODO Illustration track
+** Proko
+*** TODO Marshall Vandruff Perspective
+** Books
+*** Active
+**** TODO Anatomy - tom fox
+**** TODO Clothed figures - tom fox
+**** TODO Procreate Landscape painting
+** Intuitive Sketching
+*** TODO animals
+*** TODO Medieval topics
+*** TODO clothing
+*** TODO armor
+*** TODO architecture
+** Projects
+*** TODO Stormlight Archive
 * Ref
+** Osprey Medieval reference books
 ** Stock images websites
    - Pixelsquid.com
    - unsplash
@@ -288,6 +329,7 @@
 *** Greg Rutkowski
 *** Betsinski
 *** Kim Jung Gi sketchbooks
+*** Ian McQue - ink
 * Second Year (<2021-05-31 Mon> to <2022-05-31 Tue>)
 ** Study strategy
 *** Learn
@@ -358,10 +400,9 @@
 * Fourth Year (Redux) <2026-05-28 Thu> to <2027-05-28 Fri>
 ** Watts Atelier
 ** David Finch
-** Dynamic Sketching
+** Intuitive Sketching
 ** Marshall's Perspective Class
 ** Plein Air Painting
-** Intuitive Sketching
 * Potential Project Ideas
 ** Favorite games
     - mega man

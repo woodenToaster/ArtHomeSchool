@@ -1,0 +1,11 @@
+#+TITLE: YouTube
+#+AUTHOR: Chris Hogan
+#+DATE: <2026-09-04 Fri>
+#+STARTUP: nologdone
+#+STARTUP: show2levels
+
+* Drawing Journey Series
+** 1 - Prehistory
+** 2 - First Four Months
+** 3 - Self Study Plan
+** 4 - Term 1, Figure Drawing I
