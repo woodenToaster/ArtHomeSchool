@@ -7,7 +7,8 @@
 ** Gamblin solvent-free fluid
 ** Copic wide
 ** Platinum desktop fountain pen
-** Tombow water based markersf
+** Tombow water based markers
+** Daler and Rowney Aquifine watercolor artboard A3
 
 * Art Books
 ** General
@@ -166,43 +167,6 @@
 ** DONE The Happiness Trap
 ** DONE The Art Spirit - Robert Henri
 ** DONE Mastery: The Keys to Success and Long-Term Fullfillment - George Leonard
-* High Priority Activities
-** TODO Finch torso
-** TODO Animation Human Body Structure Special Training
-** TODO Color and Light book
-* Pending Activities
-** Finch
-*** TODO Back
-*** TODO Legs
-*** TODO Arms
-*** TODO Hands
-*** TODO Feet
-*** TODO Heads
-*** TODO Noses
-*** TODO Eyes
-*** TODO Line of Beauty
-*** TODO Clothed Figures
-*** TODO Study Bridgman
-*** TODO Study Other Artists
-** Learn Squared
-*** TODO Aaron Limonick Ink Sketching classes
-** Watts
-*** TODO Illustration track
-** Proko
-*** TODO Marshall Vandruff Perspective
-** Books
-*** Active
-**** TODO Anatomy - tom fox
-**** TODO Clothed figures - tom fox
-**** TODO Procreate Landscape painting
-** Intuitive Sketching
-*** TODO animals
-*** TODO Medieval topics
-*** TODO clothing
-*** TODO armor
-*** TODO architecture
-** Projects
-*** TODO Stormlight Archive
 * Ref
 ** Osprey Medieval reference books
 ** Stock images websites
@@ -325,6 +289,7 @@
 *** Adrian Smith
 *** Pavel Korin
 ** Concept
+*** Adrian Smith
 *** Spectrum books (library)
 *** Greg Rutkowski
 *** Betsinski
@@ -403,6 +368,55 @@
 ** Intuitive Sketching
 ** Marshall's Perspective Class
 ** Plein Air Painting
+
+* High Priority Activities
+** TODO Finch heads and features
+** TODO Animation Human Body Structure Special Training
+** TODO Color and Light book
+* Pending Activities
+** Finch
+*** TODO Heads
+*** TODO Eyes
+*** TODO Noses
+*** TODO Mouth
+*** TODO Ears
+*** TODO Torso front
+*** TODO Torso back
+*** TODO Arms
+*** TODO Hands
+*** TODO Legs
+*** TODO Feet
+*** TODO Line of Beauty
+*** TODO Clothed Figures
+*** TODO Study Bridgman
+*** TODO Study Other Artists
+** Learn Squared
+*** TODO Aaron Limonick Ink Sketching classes
+** Watts
+*** TODO Illustration track
+** Kazone
+*** TODO Karl Kopinski
+*** TODO Kim Jung Gi
+** Proko
+*** TODO Marshall Vandruff Perspective
+*** TODO Essentials of Painting - Tiffanie Mang
+*** TODO Environment Painting and Design
+** Books
+*** Active
+**** TODO Anatomy - tom fox
+**** TODO Clothed figures - tom fox
+**** TODO Procreate Landscape painting
+*** Passive
+** Intuitive Sketching
+*** TODO figure
+*** TODO animals
+*** TODO Medieval topics
+*** TODO clothing
+*** TODO armor
+*** TODO architecture
+** Projects
+*** TODO Stormlight Archive
+
 * Potential Project Ideas
 ** Favorite games
     - mega man
