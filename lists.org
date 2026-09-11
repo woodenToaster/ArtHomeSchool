@@ -376,6 +376,9 @@
 * Pending Activities
 ** Finch
 *** TODO Heads
+**** TODO youtube
+**** TODO skillshare
+**** TODO ghomon
 *** TODO Eyes
 *** TODO Noses
 *** TODO Mouth
@@ -401,6 +404,7 @@
 *** TODO Marshall Vandruff Perspective
 *** TODO Essentials of Painting - Tiffanie Mang
 *** TODO Environment Painting and Design
+*** TODO Rembert Montald - Perspective
 ** Books
 *** Active
 **** TODO Anatomy - tom fox
