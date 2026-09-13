@@ -11,12 +11,12 @@
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-09-10 Thu 21:58], for the year 2026.
+  #+CAPTION: Clock summary at [2026-09-12 Sat 18:06], for the year 2026.
   | Headline                         | Time  |       |      |      |
   |----------------------------------+-------+-------+------+------|
-  | *Total time*                       | *39:06* |       |      |      |
+  | *Total time*                       | *43:08* |       |      |      |
   |----------------------------------+-------+-------+------+------|
-  | Log                              | 39:06 |       |      |      |
+  | Log                              | 43:08 |       |      |      |
   | \_  Week 1                       |       |  9:55 |      |      |
   | \_    <2026-08-26 Wed>           |       |       | 2:34 |      |
   | \_      Intuitive Sketching II   |       |       |      | 1:39 |
@@ -53,7 +53,7 @@
   | \_      Intuitive Sketching II   |       |       |      | 0:52 |
   | \_    <2026-09-06 Sun>           |       |       | 0:21 |      |
   | \_      Intuitive Sketching II   |       |       |      | 0:21 |
-  | \_  Week 3                       |       | 15:43 |      |      |
+  | \_  Week 3                       |       | 19:45 |      |      |
   | \_    <2026-09-07 Mon>           |       |       | 2:26 |      |
   | \_      Intuitive Sketching II   |       |       |      | 2:26 |
   | \_    <2026-09-08 Tue>           |       |       | 6:26 |      |
@@ -64,6 +64,11 @@
   | \_    <2026-09-10 Thu>           |       |       | 2:42 |      |
   | \_      Figure Drawing Phase III |       |       |      | 0:55 |
   | \_      Intuitive Sketching II   |       |       |      | 1:47 |
+  | \_    <2026-09-11 Fri>           |       |       | 1:01 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 1:01 |
+  | \_    <2026-09-12 Sat>           |       |       | 3:01 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 0:53 |
+  | \_      Intuitive Sketching II   |       |       |      | 2:08 |
   #+END
 ** Week 1
 *** <2026-08-26 Wed>
@@ -207,9 +212,17 @@
      CLOCK: [2026-09-10 Thu 21:01]--[2026-09-10 Thu 21:58] =>  0:57
      CLOCK: [2026-09-10 Thu 18:00]--[2026-09-10 Thu 18:50] =>  0:50
      :END:
-
 *** <2026-09-11 Fri>
 **** DONE Figure Drawing Phase III
      :LOGBOOK:
      CLOCK: [2026-09-11 Fri 08:01]--[2026-09-11 Fri 09:02] =>  1:01
+     :END:
+*** <2026-09-12 Sat>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-12 Sat 10:07]--[2026-09-12 Sat 11:00] =>  0:53
+     :END:
+**** DONE Intuitive Sketching II
+     :LOGBOOK:
+     CLOCK: [2026-09-12 Sat 15:58]--[2026-09-12 Sat 18:06] =>  2:08
      :END:

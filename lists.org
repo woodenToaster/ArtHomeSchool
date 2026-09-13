@@ -5,9 +5,7 @@
 * Art Supplies
 ** walnut oil/alkyd
 ** Gamblin solvent-free fluid
-** Copic wide
 ** Platinum desktop fountain pen
-** Tombow water based markers
 ** Daler and Rowney Aquifine watercolor artboard A3
 
 * Art Books
@@ -366,6 +364,7 @@
 ** Watts Atelier
 ** David Finch
 ** Intuitive Sketching
+** Original Art
 ** Marshall's Perspective Class
 ** Plein Air Painting
 
@@ -374,7 +373,8 @@
 ** TODO Animation Human Body Structure Special Training
 ** TODO Color and Light book
 * Pending Activities
-** TODO Brokendraw's DFI plan
+** TODO Brokendraw's DFI 8 week plan
+** TODO Adrian Smith Process
 ** Finch
 *** TODO Heads
 **** TODO youtube
@@ -421,6 +421,7 @@
 *** TODO architecture
 ** Projects
 *** TODO Stormlight Archive
+*** TODO Warhammer
 
 * Potential Project Ideas
 ** Favorite games
