@@ -14,10 +14,12 @@ with the ideal tool being a fine liner pen.
 *** Task 1 - 1 page of simple form rotations from reference
     - Gather photo reference (no art yet) of your subject
     - Break down the subject of study into the simplest possible form
-    - Use only basic forms for now (box, cylinder, pyramid, cone, sphere) with simple modifications (stretch, bend, add, subtract)
+    - Use only basic forms for now (box, cylinder, pyramid, cone, sphere) with
+      simple modifications (stretch, bend, add, subtract)
     - Try not to use a grid, and work towards minimal construction lines
     - Use contour lines to better describe the form
-    - Once you have a form to describe your simplified subject, rotate it around in space, drawing it from multiple points of view
+    - Once you have a form to describe your simplified subject, rotate it around
+      in space, drawing it from multiple points of view
 *** Task 2 - 1 page of simple form rotations from memory
     - Using the simplified form from task 1, draw it again from multiple points of view, but this time do it from memory without looking at any reference.
     - For an added challenge, try to make all the forms part of a single scene by having a common horizon line.

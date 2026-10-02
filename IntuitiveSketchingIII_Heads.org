@@ -1,0 +1,138 @@
+#+TITLE: Intuitive Sketching II - Plants
+#+AUTHOR: Chris Hogan
+#+DATE: <2026-08-26 Wed>
+#+STARTUP: nologdone
+#+STARTUP: show2levels
+
+* Classes
+** Figure Drawing Phase 3
+** Intuitive Sketching III - Heads
+
+* Log
+  #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
+  #+CAPTION: Clock summary at [2026-10-01 Thu 22:21], for the year 2026.
+  | Headline                         | Time  |       |      |      |
+  |----------------------------------+-------+-------+------+------|
+  | *Total time*                       | *31:01* |       |      |      |
+  |----------------------------------+-------+-------+------+------|
+  | Log                              | 31:01 |       |      |      |
+  | \_  Week 1                       |       | 17:31 |      |      |
+  | \_    <2026-09-20 Sun>           |       |       | 2:25 |      |
+  | \_      Intuitive Sketching III  |       |       |      | 2:25 |
+  | \_    <2026-09-21 Mon>           |       |       | 3:04 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 1:05 |
+  | \_      Intuitive Sketching III  |       |       |      | 1:59 |
+  | \_    <2026-09-22 Tue>           |       |       | 2:56 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 1:02 |
+  | \_      Intuitive Sketching III  |       |       |      | 1:54 |
+  | \_    <2026-09-23 Wed>           |       |       | 5:55 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 0:35 |
+  | \_      Intuitive Sketching III  |       |       |      | 5:20 |
+  | \_    <2026-09-24 Thu>           |       |       | 0:34 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 0:34 |
+  | \_    <2026-09-26 Sat>           |       |       | 2:37 |      |
+  | \_      Intuitive Sketching III  |       |       |      | 2:37 |
+  | \_  Week 2                       |       | 13:30 |      |      |
+  | \_    <2026-09-27 Sun>           |       |       | 2:11 |      |
+  | \_      Intuitive Sketching III  |       |       |      | 2:11 |
+  | \_    <2026-09-28 Mon>           |       |       | 3:32 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 0:30 |
+  | \_      Intuitive Sketching III  |       |       |      | 3:02 |
+  | \_    <2026-09-29 Tue>           |       |       | 3:08 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 0:35 |
+  | \_      Intuitive Sketching III  |       |       |      | 2:33 |
+  | \_    <2026-09-30 Wed>           |       |       | 4:09 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 0:44 |
+  | \_      Intuitive Sketching III  |       |       |      | 3:25 |
+  | \_    <2026-10-01 Thu>           |       |       | 0:30 |      |
+  | \_      Intuitive Sketching III  |       |       |      | 0:30 |
+  #+END
+** Week 1
+*** <2026-09-20 Sun>
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-09-20 Sun 19:59]--[2026-09-20 Sun 22:24] =>  2:25
+     :END:
+*** <2026-09-21 Mon>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-21 Mon 19:21]--[2026-09-21 Mon 19:38] =>  0:17
+     CLOCK: [2026-09-21 Mon 08:10]--[2026-09-21 Mon 08:58] =>  0:48
+     :END:
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-09-21 Mon 19:39]--[2026-09-21 Mon 21:38] =>  1:59
+     :END:
+*** <2026-09-22 Tue>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-22 Tue 19:58]--[2026-09-22 Tue 20:09] =>  0:11
+     CLOCK: [2026-09-22 Tue 08:38]--[2026-09-22 Tue 09:29] =>  0:51
+     :END:
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-09-22 Tue 20:09]--[2026-09-22 Tue 22:03] =>  1:54
+     :END:
+*** <2026-09-23 Wed>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-23 Wed 19:31]--[2026-09-23 Wed 19:40] =>  0:09
+     CLOCK: [2026-09-23 Wed 08:33]--[2026-09-23 Wed 08:59] =>  0:26
+     :END:
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-09-23 Wed 18:00]--[2026-09-23 Wed 21:30] =>  3:30
+     CLOCK: [2026-09-23 Wed 19:40]--[2026-09-23 Wed 21:30] =>  1:50
+     :END:
+*** <2026-09-24 Thu>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-24 Thu 08:47]--[2026-09-24 Thu 09:21] =>  0:34
+     :END:
+*** <2026-09-26 Sat>
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-09-26 Sat 22:32]--[2026-09-26 Sat 23:04] =>  0:32
+     CLOCK: [2026-09-26 Sat 17:05]--[2026-09-26 Sat 18:16] =>  1:11
+     CLOCK: [2026-09-26 Sat 15:56]--[2026-09-26 Sat 16:50] =>  0:54
+     :END:
+** Week 2
+*** <2026-09-27 Sun>
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-09-27 Sun 19:17]--[2026-09-27 Sun 21:28] =>  2:11
+     :END:
+*** <2026-09-28 Mon>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-28 Mon 08:27]--[2026-09-28 Mon 08:57] =>  0:30
+     :END:
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-09-28 Mon 19:29]--[2026-09-28 Mon 21:31] =>  2:02
+     CLOCK: [2026-09-28 Mon 18:00]--[2026-09-28 Mon 19:00] =>  1:00
+     :END:
+*** <2026-09-29 Tue>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-29 Tue 08:40]--[2026-09-29 Tue 09:15] =>  0:35
+     :END:
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-09-29 Tue 19:14]--[2026-09-29 Tue 21:47] =>  2:33
+     :END:
+*** <2026-09-30 Wed>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-30 Wed 07:36]--[2026-09-30 Wed 08:20] =>  0:44
+     :END:
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-09-30 Wed 20:03]--[2026-09-30 Wed 21:28] =>  1:25
+     CLOCK: [2026-09-30 Wed 18:00]--[2026-09-30 Wed 20:00] =>  2:00
+     :END:
+*** <2026-10-01 Thu>
+**** DONE Intuitive Sketching III
+     :LOGBOOK:
+     CLOCK: [2026-10-01 Thu 18:00]--[2026-10-01 Thu 18:30] =>  0:30
+     :END:

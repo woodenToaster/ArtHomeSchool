@@ -6,17 +6,16 @@
 
 * Classes
 ** Figure Drawing Phase 3
-** Structural Anatomy: Torso
 ** Intuitive Sketching II - Plants
 
 * Log
   #+BEGIN: clocktable :scope subtree :maxlevel 6 :block thisyear
-  #+CAPTION: Clock summary at [2026-09-13 Sun 21:47], for the year 2026.
+  #+CAPTION: Clock summary at [2026-09-20 Sun 10:49], for the year 2026.
   | Headline                         | Time  |       |      |      |
   |----------------------------------+-------+-------+------+------|
-  | *Total time*                       | *45:30* |       |      |      |
+  | *Total time*                       | *62:32* |       |      |      |
   |----------------------------------+-------+-------+------+------|
-  | Log                              | 45:30 |       |      |      |
+  | Log                              | 62:32 |       |      |      |
   | \_  Week 1                       |       |  9:55 |      |      |
   | \_    <2026-08-26 Wed>           |       |       | 2:34 |      |
   | \_      Intuitive Sketching II   |       |       |      | 1:39 |
@@ -71,6 +70,21 @@
   | \_      Intuitive Sketching II   |       |       |      | 2:08 |
   | \_    <2026-09-13 Sun>           |       |       | 2:22 |      |
   | \_      Intuitive Sketching II   |       |       |      | 2:22 |
+  | \_  Week 4                       |       | 17:02 |      |      |
+  | \_    <2026-09-14 Mon>           |       |       | 3:25 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 0:53 |
+  | \_      Intuitive Sketching II   |       |       |      | 2:32 |
+  | \_    <2026-09-15 Tue>           |       |       | 3:12 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 1:04 |
+  | \_      Intuitive Sketching II   |       |       |      | 2:08 |
+  | \_    <2026-09-16 Wed>           |       |       | 3:03 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 1:07 |
+  | \_      Intuitive Sketching II   |       |       |      | 1:56 |
+  | \_    <2026-09-17 Thu>           |       |       | 3:34 |      |
+  | \_      Figure Drawing Phase III |       |       |      | 0:56 |
+  | \_      Intuitive Sketching II   |       |       |      | 2:38 |
+  | \_    <2026-09-19 Sat>           |       |       | 3:48 |      |
+  | \_      Intuitive Sketching II   |       |       |      | 3:48 |
   #+END
 ** Week 1
 *** <2026-08-26 Wed>
@@ -232,4 +246,52 @@
 **** DONE Intuitive Sketching II
      :LOGBOOK:
      CLOCK: [2026-09-13 Sun 19:13]--[2026-09-13 Sun 21:35] =>  2:22
+     :END:
+** Week 4
+*** <2026-09-14 Mon>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-14 Mon 08:03]--[2026-09-14 Mon 08:56] =>  0:53
+     :END:
+**** DONE Intuitive Sketching II
+     :LOGBOOK:
+     CLOCK: [2026-09-14 Mon 19:29]--[2026-09-14 Mon 22:01] =>  2:32
+     :END:
+*** <2026-09-15 Tue>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-15 Tue 19:24]--[2026-09-15 Tue 19:45] =>  0:21
+     CLOCK: [2026-09-15 Tue 08:13]--[2026-09-15 Tue 08:56] =>  0:43
+     :END:
+**** DONE Intuitive Sketching II
+     :LOGBOOK:
+     CLOCK: [2026-09-15 Tue 19:45]--[2026-09-15 Tue 21:53] =>  2:08
+     :END:
+*** <2026-09-16 Wed>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-16 Wed 19:19]--[2026-09-16 Wed 19:50] =>  0:31
+     CLOCK: [2026-09-16 Wed 08:24]--[2026-09-16 Wed 09:00] =>  0:36
+     :END:
+**** DONE Intuitive Sketching II
+     :LOGBOOK:
+     CLOCK: [2026-09-16 Wed 21:40]--[2026-09-16 Wed 22:03] =>  0:23
+     CLOCK: [2026-09-16 Wed 19:50]--[2026-09-16 Wed 21:23] =>  1:33
+     :END:
+*** <2026-09-17 Thu>
+**** DONE Figure Drawing Phase III
+     :LOGBOOK:
+     CLOCK: [2026-09-17 Thu 08:31]--[2026-09-17 Thu 09:27] =>  0:56
+     :END:
+**** DONE Intuitive Sketching II
+     :LOGBOOK:
+     CLOCK: [2026-09-17 Thu 20:31]--[2026-09-17 Thu 21:39] =>  1:08
+     CLOCK: [2026-09-17 Thu 18:00]--[2026-09-17 Thu 19:30] =>  1:30
+     :END:
+*** <2026-09-19 Sat>
+**** DONE Intuitive Sketching II
+     :LOGBOOK:
+     CLOCK: [2026-09-19 Sat 20:39]--[2026-09-19 Sat 22:07] =>  1:28
+     CLOCK: [2026-09-19 Sat 17:14]--[2026-09-19 Sat 18:15] =>  1:01
+     CLOCK: [2026-09-19 Sat 14:40]--[2026-09-19 Sat 15:59] =>  1:19
      :END:

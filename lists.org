@@ -3,10 +3,7 @@
 #+STARTUP: nologdone
 
 * Art Supplies
-** walnut oil/alkyd
-** Gamblin solvent-free fluid
-** Platinum desktop fountain pen
-** Daler and Rowney Aquifine watercolor artboard A3
+** Arches hot press WC paper
 
 * Art Books
 ** General
@@ -94,14 +91,14 @@
 *** DONE The DC Guide to Inking comics
 *** DONE The Complete Art of Comic Book Inking - Gary Martin
 ** Light and Value
-*** TODO Color and Light - 3D Total
 *** Dynamic Light and Shading - Burne Hogarth
 *** Light for Visual Artists - Yot
 *** Lessons on Shading - Sparkes
+*** DONE Color and Light - 3D Total
 *** DONE How to Render - Robertson
 *** DONE Color and Light - James Gurney
 ** Painting
-*** TODO Get Started With Gouache - Emma Block
+*** TODO Rockwell on Rockwell: How I Make a Picture
 *** TODO Landscape Painting - Mitchel Albala
 *** TODO Carlson's Guide to Landscape Painting
 *** TODO A Guide to Digital Painting in Procreate: Landscapes and Plein Air
@@ -115,6 +112,7 @@
 *** Mastering the Craft of Painting - Grado
 *** Faragasso (Reilly method)
 *** How to See Color and Paint it - Arthur Stern
+*** DONE Get Started With Gouache - Emma Block
 *** DONE Alla Prima II - Richard Schmid
 *** DONE The Simple Secret to Better Painting - Gregg Albert
 ** Composition
@@ -134,7 +132,6 @@
 ** Design
 *** TODO Design of Everyday Things - Donald Norman
 * Inspiration and Mindset Books
-** TODO Get Better at Anything - Scott Young
 ** The Practice: Shipping Creative Work - Seth Goden
 ** Psychology of Performance - Eddie O'Connor (Hoopla)
 ** Digital Minimalism - Cal Newport
@@ -151,6 +148,7 @@
 ** Drawing from the Right Side of the Brain - Betty Edwards
 ** Mindworks - Gary van Warmerdam
 ** Chasing Love - Ray Bradberry
+** DONE Get Better at Anything - Scott Young
 ** DONE 12 Rules for Life - Jordan Peterson
 ** DONE Mastery: Greene
 ** DONE The War of Art
@@ -273,6 +271,8 @@
     - King Conan
 *** Brian Hitch (perspective)
 *** Elric
+*** Sienkiewicz - Moby Dick
+*** Allen David - Chest construction
 ** Traditional
 *** Charles Dana Gibson
 *** Joseph Clemont Coll
@@ -352,7 +352,7 @@
 * Fourth year (<2023-05-31 Wed> to <2024-05-31 Fri>)
 ** Portfolio
 ** Brainstorm
-*** TODO Summer 23
+*** DONE Summer 23
     - AD2
     - BUD
 ** Evolve
@@ -366,21 +366,20 @@
 ** David Finch
 ** Intuitive Sketching
 ** Original Art
-** Marshall's Perspective Class
 ** Plein Air Painting
 
 * High Priority Activities
-** TODO Finch heads and features
-** TODO Animation Human Body Structure Special Training
-** TODO Color and Light book
+** TODO Intuitive Sketching - Heads
+*** TODO Finch heads and features
+*** TODO Animation Human Body Structure Special Training
 * Pending Activities
 ** TODO Brokendraw's DFI 8 week plan
 ** TODO Adrian Smith Process
 ** Finch
 *** TODO Heads
-**** TODO youtube
+**** DONE youtube
 **** TODO skillshare
-**** TODO ghomon
+**** TODO gnomon
 *** TODO Eyes
 *** TODO Noses
 *** TODO Mouth
@@ -411,14 +410,22 @@
 *** Active
 **** TODO Anatomy - tom fox
 **** TODO Clothed figures - tom fox
-**** TODO Procreate Landscape painting
 *** Passive
+**** TODO Stonehouse anatomy
 ** Intuitive Sketching
-*** TODO figure
+*** DONE primitive forms
+*** DONE plants
+*** TODO heads
+*** TODO torso
+*** TODO arms
+*** TODO legs
+*** TODO mannequin
+*** TODO clothed figure
 *** TODO animals
 *** TODO Medieval topics
-*** TODO clothing
-*** TODO armor
+**** TODO armor
+**** TODO castles
+**** TODO villages
 *** TODO architecture
 ** Projects
 *** TODO Stormlight Archive
