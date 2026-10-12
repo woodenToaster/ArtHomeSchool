@@ -31,7 +31,7 @@
 *** TODO Application
     - draw a gesture from another artist
     - add Bridgman's anatomy to the figure
-** TODO How to study other artists (borrow without copying)
+** TODO How to borrow without copying
 *** TODO Gesture of reference to get the pose (copy)
 *** TODO Draw several new gestures based on this one
     - change directions of arms and legs
@@ -41,3 +41,41 @@
     - find something at a similar angle
     - use different figures for each limb/torso
 *** TODO Use another reference/artist to add lighting
+** TODO How to study other artists
+*** TODO Copy a reference
+*** TODO Close the book and draw it again from memory
+*** TODO Check results
+*** TODO Repeat
+** TODO Anatomy Study
+*** TODO Draw from an anatomical diagram
+*** TODO Draw from photo, starting with diagram, then make it fit into lighting
+*** TODO Draw from imagination, utilizing what you learned
+
+* Elements
+** Intuitive sketching
+    - learning forms and moving them in space
+** Study and memorize
+    - bridgman
+    - other artists
+    - memorize
+** Original art
+    - borrow
+
+* Intuitive Sketching Framework
+** Phase I
+   - gesture
+   - basic anatomy
+   - bridgman
+** Phase II
+   - lighting
+** Phase III
+   - rendering
+** Phase IV
+   - original art
+
+* Intuitive Sketching Subjects
+** TODO Heads
+** TODO Torso
+** TODO Arms and hands
+** TODO Legs and feet
+** TODO Clothing and armor

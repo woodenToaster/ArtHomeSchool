@@ -4,15 +4,19 @@
 
 * Art Supplies
 ** Arches hot press WC paper
+** Acrylic matte medium
+** colored pencils
+** Ohuhu
+** Tombow bigger eraser
+** Pagather acrylic markers
+** airbrush
 
 * Art Books
 ** General
 *** TODO Dynamic Bible 1 - Peter Han
 *** Fundamentals of drawing - Mogilevtsev
 *** Drawing Lessons from the Great Masters - Robert Hale
-*** Vilppu Drawing Manual - Glenn Vilppu
 *** The Natural Way to Draw - Kimon Nicolaides (for developing the sensitivity of an artist)
-*** Drawing Course - Charles Bargue
 *** Andrew Loomis
 **** DONE Figure Drawing for All it's Worth
 **** Fun With a Pencil
@@ -23,6 +27,7 @@
 *** DONE Imaginative Realism - James Gurney
 *** DONE Krash Course - Greg Capullo
 *** DONE The Practice and Science of Drawing - Speed
+*** DONE Vilppu Drawing Manual - Glenn Vilppu
 ** Figure Drawing
 *** TODO An Artist's Guide to Drawing Clothed Characters - Tom Fox
 *** TODO Anatomy for Artists: Drawing Form and Pose - Tom Fox
@@ -46,14 +51,10 @@
 **** Constructive Anatomy
 **** The Human Machine
 *** Strength Training Anatomy, 3rd edition - Frederic Delavier
-    - Lots of interesting poses and very clear drawings
 *** Struttura Uomo
     - Architectural style drawings
 *** Struttura Uomo in Movemento
 *** Classic Human Anatomy
-*** Dynamic Anatomy - Burne Hogarth
-*** Hogarth Hands
-*** Hogarth Faces
 *** The Complete Guide to Figure Drawing for Comics and Graphic Novels - Cooney
 *** The Complete Guide to Anatomy for Artists and Illustrators - Gottfried Bammes (drawing book)
 *** Drawing Cutting Edge Anatomy - Hart
@@ -98,7 +99,6 @@
 *** DONE How to Render - Robertson
 *** DONE Color and Light - James Gurney
 ** Painting
-*** TODO Rockwell on Rockwell: How I Make a Picture
 *** TODO Landscape Painting - Mitchel Albala
 *** TODO Carlson's Guide to Landscape Painting
 *** TODO A Guide to Digital Painting in Procreate: Landscapes and Plein Air
@@ -112,10 +112,12 @@
 *** Mastering the Craft of Painting - Grado
 *** Faragasso (Reilly method)
 *** How to See Color and Paint it - Arthur Stern
+*** DONE Rockwell on Rockwell: How I Make a Picture
 *** DONE Get Started With Gouache - Emma Block
 *** DONE Alla Prima II - Richard Schmid
 *** DONE The Simple Secret to Better Painting - Gregg Albert
 ** Composition
+*** TODO Composition of Outdoor Painting - Edgar Payne
 *** graphic L.A.
 *** Mastering Composition - Ian Roberts
 *** Color and Composition for Film - Hans Bacher and Sanatan Suryavanashi
@@ -124,7 +126,6 @@
 *** Pictorial Composition - Poore
 *** Composition - Cyril Pearce
 *** Drawing and Designing with Confidence - Lin
-*** TODO Composition of Outdoor Painting - Edgar Payne
 *** DONE Framed Ink
 *** DONE Framed Ink 2
 *** DONE How Pictures Work - Bang
@@ -265,6 +266,8 @@
     - Bram Stoker's Dracula
     - Hellboy
     - Batman Issues
+    - Ironwolf : tech backgrounds
+    - Aliens Absolution : tech backgrounds
 *** Marc Silvestri
     - Wolverine
     - Uncanny X-Men
@@ -272,7 +275,8 @@
 *** Brian Hitch (perspective)
 *** Elric
 *** Sienkiewicz - Moby Dick
-*** Allen David - Chest construction
+*** Allen Davis - Chest construction
+*** Ascension - Finch
 ** Traditional
 *** Charles Dana Gibson
 *** Joseph Clemont Coll
@@ -366,12 +370,13 @@
 ** David Finch
 ** Intuitive Sketching
 ** Original Art
-** Plein Air Painting
 
 * High Priority Activities
 ** TODO Intuitive Sketching - Heads
-*** TODO Finch heads and features
-*** TODO Animation Human Body Structure Special Training
+** TODO Study artists
+** TODO Bridgman
+** TODO Borrow from artists
+** TODO Animation Human Body Structure Special Training
 * Pending Activities
 ** TODO Brokendraw's DFI 8 week plan
 ** TODO Adrian Smith Process
@@ -380,22 +385,25 @@
 **** DONE youtube
 **** TODO skillshare
 **** TODO gnomon
-*** TODO Eyes
-*** TODO Noses
-*** TODO Mouth
-*** TODO Ears
+*** DONE Eyes
+*** DONE Noses
+*** DONE Mouth
+*** DONE Ears
+*** TODO Necks
 *** TODO Torso front
 *** TODO Torso back
 *** TODO Arms
 *** TODO Hands
 *** TODO Legs
 *** TODO Feet
+*** TODO Rendering
 *** TODO Line of Beauty
 *** TODO Clothed Figures
-*** TODO Study Bridgman
 *** TODO Study Other Artists
 ** Learn Squared
 *** TODO Aaron Limonick Ink Sketching classes
+** Color With Kurt
+*** TODO Procreate
 ** Watts
 *** TODO Illustration track
 ** Kazone
@@ -411,7 +419,6 @@
 **** TODO Anatomy - tom fox
 **** TODO Clothed figures - tom fox
 *** Passive
-**** TODO Stonehouse anatomy
 ** Intuitive Sketching
 *** DONE primitive forms
 *** DONE plants
